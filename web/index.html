@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Fantasy Football Assistant</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo">🏈</span>
+      <div>
+        <h1>Fantasy Football Assistant</h1>
+        <p id="context-line" class="muted">Loading NFL data…</p>
+      </div>
+    </div>
+    <div class="topbar-actions">
+      <label class="league-switch-wrap" title="Switch the whole app to a league's scoring">🏆 <select id="league-switch"></select></label>
+      <div class="scoring" id="scoring" role="group" aria-label="Scoring format">
+        <button data-scoring="std">Standard</button>
+        <button data-scoring="half_ppr">Half-PPR</button>
+        <button data-scoring="ppr" class="active">PPR</button>
+      </div>
+      <button id="open-scoring" class="btn" title="Customize scoring for your league">⚙ Scoring <span id="scoring-label" class="mini-label"></span></button>
+      <button id="open-yahoo" class="btn" title="Link your Yahoo leagues">🔗 Yahoo</button>
+      <button id="refresh" class="btn" title="Pull the latest injuries, news, and projections">↻ Refresh data</button>
+    </div>
+  </header>
+
+  <nav class="tabs" id="tabs">
+    <button data-view="rankings" class="active">Rankings</button>
+    <button data-view="myteam">My Team / Start-Sit</button>
+    <button data-view="waivers">Waivers &amp; Streamers</button>
+    <button data-view="analyze">Trade &amp; Playoffs</button>
+    <button data-view="teams">Teams</button>
+    <button data-view="draft">Draft Prep</button>
+    <button data-view="draftroom">Draft Room</button>
+    <button data-view="betting">🎯 Betting Edges</button>
+    <button data-view="survivor">🏆 Survivor</button>
+  </nav>
+
+  <!-- ===================== RANKINGS ===================== -->
+  <section id="view-rankings" class="view active">
+    <div class="controls">
+      <input id="search" type="search" placeholder="Search player or team…" autocomplete="off" />
+      <div class="pos-filter" id="pos-filter">
+        <button data-pos="ALL" class="active">All</button>
+        <button data-pos="QB">QB</button>
+        <button data-pos="RB">RB</button>
+        <button data-pos="WR">WR</button>
+        <button data-pos="TE">TE</button>
+        <button data-pos="K">K</button>
+        <button data-pos="DEF">DEF</button>
+      </div>
+      <label class="risk-toggle"><input type="checkbox" id="risk-only" /> Injury watch</label>
+      <label class="risk-toggle"><input type="checkbox" id="trending-only" /> 🔥 Trending</label>
+      <label class="risk-toggle"><input type="checkbox" id="myteam-only" /> ★ My team</label>
+      <button id="export-csv" class="btn" title="Download the current rankings as CSV">⬇ Export</button>
+      <button id="print-sheet" class="btn" title="Print a clean cheat sheet">🖨 Print</button>
+      <span id="result-count" class="muted"></span>
+    </div>
+    <main>
+      <div class="table-wrap">
+        <table id="players">
+          <thead>
+            <tr>
+              <th class="rank">#</th>
+              <th data-sort="name" class="left">Player</th>
+              <th data-sort="position">Pos</th>
+              <th data-sort="team">Tm</th>
+              <th data-sort="age">Age</th>
+              <th data-sort="status">Status</th>
+              <th data-sort="baseline_ppg" title="Recency-weighted per-game average from up to 5 seasons">Base PPG</th>
+              <th data-sort="last_ppg" title="Most recent completed season per-game average">Last Yr</th>
+              <th data-sort="next_game" title="Projected points, next game (matchup-adjusted)">Next Gm</th>
+              <th data-sort="exp_games" title="Expected games played (durability: position + games-played history + age). Lower = more injury risk.">Exp G</th>
+              <th data-sort="ros_total" title="Projected total points, rest of season">ROS Total</th>
+              <th data-sort="value" class="active-sort" title="Rest-of-season points above the average of the top players at this position (top 25; top 75 for WR).">Value ▼</th>
+              <th data-sort="tier" title="Positional tier (drop-off based)">Tier</th>
+              <th data-sort="adp_diff" title="Our value rank vs market ADP. Positive = sleeper; negative = reach.">vs ADP</th>
+              <th data-sort="snap" title="Snap share (prior season)">Snap%</th>
+              <th data-sort="tgt_share" title="Target share (prior season)">Tgt%</th>
+              <th data-sort="confidence">Conf</th>
+            </tr>
+          </thead>
+          <tbody id="rows">
+            <tr><td colspan="17" class="loading">Loading players…</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </main>
+  </section>
+
+  <!-- ===================== MY TEAM / START-SIT ===================== -->
+  <section id="view-myteam" class="view">
+    <div class="panel" id="myteam-panel"><p class="muted">Loading…</p></div>
+  </section>
+
+  <!-- ===================== WAIVERS ===================== -->
+  <section id="view-waivers" class="view">
+    <div class="panel" id="waivers-panel"><p class="muted">Loading…</p></div>
+  </section>
+
+  <!-- ===================== ANALYZE (trade + playoffs) ===================== -->
+  <section id="view-analyze" class="view">
+    <div class="panel" id="analyze-panel"><p class="muted">Loading…</p></div>
+  </section>
+
+  <!-- ===================== TEAMS ===================== -->
+  <section id="view-teams" class="view">
+    <div class="panel">
+      <h2>NFL Teams</h2>
+      <div id="team-grid" class="team-grid"></div>
+      <div id="team-page"></div>
+    </div>
+  </section>
+
+  <!-- ===================== DRAFT PREP ===================== -->
+  <section id="view-draft" class="view">
+    <div class="panel" id="draft-panel"><p class="muted">Loading…</p></div>
+  </section>
+
+  <!-- ===================== DRAFT ROOM (live) ===================== -->
+  <section id="view-draftroom" class="view">
+    <div class="panel" id="draftroom-panel"><p class="muted">Loading…</p></div>
+  </section>
+
+  <!-- ===================== BETTING EDGES ===================== -->
+  <section id="view-betting" class="view">
+    <div class="panel" id="betting-panel"><p class="muted">Loading betting model…</p></div>
+  </section>
+
+  <!-- ===================== SURVIVOR ===================== -->
+  <section id="view-survivor" class="view">
+    <div class="panel" id="survivor-panel"><p class="muted">Loading survivor planner…</p></div>
+  </section>
+
+  <!-- player detail drawer -->
+  <div id="drawer" class="drawer" aria-hidden="true">
+    <div class="drawer-backdrop" data-close></div>
+    <aside class="drawer-panel" role="dialog" aria-modal="true">
+      <button class="drawer-close" data-close aria-label="Close">✕</button>
+      <div id="drawer-content"><p class="muted">Loading…</p></div>
+    </aside>
+  </div>
+
+  <!-- scoring settings modal -->
+  <div id="scoring-modal" class="modal" aria-hidden="true">
+    <div class="modal-backdrop" data-close-scoring></div>
+    <div class="modal-panel" role="dialog" aria-modal="true" aria-label="Scoring settings">
+      <div class="modal-head">
+        <h2>Scoring settings</h2>
+        <button class="drawer-close" data-close-scoring aria-label="Close">✕</button>
+      </div>
+      <p class="muted">Set the point values for your league. Every stat, projection, and ranking updates instantly. Saved in this browser. (Team-defense points-allowed uses standard tiers.)</p>
+      <div id="scoring-body" class="scoring-body"></div>
+      <div class="modal-foot">
+        <button id="reset-scoring" class="btn">Reset to PPR defaults</button>
+        <button class="btn primary" data-close-scoring>Done</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Yahoo connect wizard -->
+  <div id="yahoo-modal" class="modal" aria-hidden="true">
+    <div class="modal-backdrop" data-close-yahoo></div>
+    <div class="modal-panel" role="dialog" aria-modal="true" aria-label="Connect Yahoo">
+      <div class="modal-head">
+        <h2>🔗 Connect Yahoo</h2>
+        <button class="drawer-close" data-close-yahoo aria-label="Close">✕</button>
+      </div>
+      <div id="yahoo-body"><p class="muted">Loading…</p></div>
+    </div>
+  </div>
+
+  <footer class="foot muted">
+    <span>Data: Sleeper, ESPN &amp; nflverse (free public sources) · Projections are model estimates, not guarantees.</span>
+    <span id="freshness"></span>
+  </footer>
+
+  <script src="/app.js"></script>
+  <script src="/betting.js"></script>
+  <script src="/survivor.js"></script>
+</body>
+</html>

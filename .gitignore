@@ -1,0 +1,15 @@
+# Secrets — never commit these (comments MUST be on their own line in .gitignore)
+betting_config.json
+yahoo_config.json
+certs/
+cache/
+
+# Transient / generated — no need to track
+__pycache__/
+*.pyc
+*.log
+*.tmp
+*.tmp.json
+
+# data/ IS committed on purpose — the model's saved state (ratings, EPA,
+# locked bets, weekly results). None of it is sensitive.

@@ -1,0 +1,1712 @@
+{
+  "league": "cfb",
+  "params": {
+    "k": 30,
+    "hfa": 55,
+    "points_per_elo": 24,
+    "revert": 0.2,
+    "mean": 1500.0,
+    "score_sd": 15
+  },
+  "teams": {
+    "59": {
+      "rating": 1597.479871029491,
+      "name": "Georgia Tech",
+      "abbr": "GT",
+      "gp": 0,
+      "last_date": "2025-12-27T20:40Z"
+    },
+    "52": {
+      "rating": 1566.8959618871984,
+      "name": "Florida St",
+      "abbr": "FSU",
+      "gp": 0,
+      "last_date": "2025-11-29T21:30Z"
+    },
+    "167": {
+      "rating": 1591.8259784557315,
+      "name": "New Mexico",
+      "abbr": "UNM",
+      "gp": 0,
+      "last_date": "2025-12-26T21:30Z"
+    },
+    "147": {
+      "rating": 1514.6272244659926,
+      "name": "Montana St",
+      "abbr": "MTST",
+      "gp": 0,
+      "last_date": "2025-08-30T20:00Z"
+    },
+    "2440": {
+      "rating": 1360.6937825007915,
+      "name": "Nevada",
+      "abbr": "NEV",
+      "gp": 0,
+      "last_date": "2025-11-30T02:00Z"
+    },
+    "2567": {
+      "rating": 1774.5801128509856,
+      "name": "SMU",
+      "abbr": "SMU",
+      "gp": 0,
+      "last_date": "2026-01-03T01:00Z"
+    },
+    "62": {
+      "rating": 1561.702383372947,
+      "name": "Hawai'i",
+      "abbr": "HAW",
+      "gp": 0,
+      "last_date": "2025-12-25T01:00Z"
+    },
+    "2169": {
+      "rating": 1445.7528353575199,
+      "name": "Delaware St",
+      "abbr": "DSU",
+      "gp": 0,
+      "last_date": "2025-08-28T23:00Z"
+    },
+    "164": {
+      "rating": 1538.3237710338933,
+      "name": "Rutgers",
+      "abbr": "RUTG",
+      "gp": 0,
+      "last_date": "2025-11-29T20:30Z"
+    },
+    "47": {
+      "rating": 1414.5746614665345,
+      "name": "Howard",
+      "abbr": "HOW",
+      "gp": 0,
+      "last_date": "2025-09-06T18:00Z"
+    },
+    "48": {
+      "rating": 1394.8818935383563,
+      "name": "Delaware",
+      "abbr": "DEL",
+      "gp": 0,
+      "last_date": "2025-12-18T01:40Z"
+    },
+    "2803": {
+      "rating": 1423.3447312837382,
+      "name": "Bryant",
+      "abbr": "BRY",
+      "gp": 0,
+      "last_date": "2025-09-06T21:30Z"
+    },
+    "154": {
+      "rating": 1584.2004734154511,
+      "name": "Wake Forest",
+      "abbr": "WAKE",
+      "gp": 0,
+      "last_date": "2026-01-03T01:00Z"
+    },
+    "2448": {
+      "rating": 1392.3513045674824,
+      "name": "NC A&T",
+      "abbr": "NCAT",
+      "gp": 0,
+      "last_date": "2025-09-06T23:00Z"
+    },
+    "2116": {
+      "rating": 1501.0253945463849,
+      "name": "UCF",
+      "abbr": "UCF",
+      "gp": 0,
+      "last_date": "2025-11-29T18:00Z"
+    },
+    "160": {
+      "rating": 1423.8948409894901,
+      "name": "New Hampshire",
+      "abbr": "UNH",
+      "gp": 0,
+      "last_date": "2025-09-13T18:00Z"
+    },
+    "2084": {
+      "rating": 1359.51688809564,
+      "name": "Buffalo",
+      "abbr": "BUFF",
+      "gp": 0,
+      "last_date": "2025-11-28T17:00Z"
+    },
+    "322": {
+      "rating": 1360.2723402903785,
+      "name": "Lafayette",
+      "abbr": "LAF",
+      "gp": 0,
+      "last_date": "2025-10-19T02:00Z"
+    },
+    "189": {
+      "rating": 1304.4899558658246,
+      "name": "Bowling Green",
+      "abbr": "BGSU",
+      "gp": 0,
+      "last_date": "2025-11-19T00:00Z"
+    },
+    "2230": {
+      "rating": 1433.2739050764737,
+      "name": "Fordham",
+      "abbr": "FOR",
+      "gp": 0,
+      "last_date": "2025-08-30T18:00Z"
+    },
+    "2117": {
+      "rating": 1351.0753676153215,
+      "name": "C Michigan",
+      "abbr": "CMU",
+      "gp": 0,
+      "last_date": "2025-12-26T18:00Z"
+    },
+    "2115": {
+      "rating": 1419.7556338809113,
+      "name": "C Connecticut",
+      "abbr": "CCSU",
+      "gp": 0,
+      "last_date": "2025-08-30T18:00Z"
+    },
+    "8": {
+      "rating": 1520.5519898801126,
+      "name": "Arkansas",
+      "abbr": "ARK",
+      "gp": 0,
+      "last_date": "2025-11-29T20:30Z"
+    },
+    "2029": {
+      "rating": 1414.6438972516482,
+      "name": "AR-Pine Bluff",
+      "abbr": "UAPB",
+      "gp": 0,
+      "last_date": "2025-08-30T23:30Z"
+    },
+    "2649": {
+      "rating": 1542.5789665148372,
+      "name": "Toledo",
+      "abbr": "TOL",
+      "gp": 0,
+      "last_date": "2025-11-29T17:00Z"
+    },
+    "2184": {
+      "rating": 1338.2125117277355,
+      "name": "Duquesne",
+      "abbr": "DUQ",
+      "gp": 0,
+      "last_date": "2025-09-20T22:00Z"
+    },
+    "152": {
+      "rating": 1659.4637393236717,
+      "name": "NC State",
+      "abbr": "NCSU",
+      "gp": 0,
+      "last_date": "2025-12-19T19:30Z"
+    },
+    "2717": {
+      "rating": 1423.2087961197485,
+      "name": "W Carolina",
+      "abbr": "WCU",
+      "gp": 0,
+      "last_date": "2025-09-06T20:25Z"
+    },
+    "142": {
+      "rating": 1713.1957889091263,
+      "name": "Missouri",
+      "abbr": "MIZ",
+      "gp": 0,
+      "last_date": "2025-12-28T00:30Z"
+    },
+    "93": {
+      "rating": 1334.8043972201306,
+      "name": "Murray St",
+      "abbr": "MUR",
+      "gp": 0,
+      "last_date": "2025-09-20T23:00Z"
+    },
+    "2305": {
+      "rating": 1530.4260861879088,
+      "name": "Kansas",
+      "abbr": "KU",
+      "gp": 0,
+      "last_date": "2025-11-28T17:00Z"
+    },
+    "2815": {
+      "rating": 1389.1108647147696,
+      "name": "Lindenwood",
+      "abbr": "LIN",
+      "gp": 0,
+      "last_date": "2025-09-27T19:30Z"
+    },
+    "38": {
+      "rating": 1470.6012496333392,
+      "name": "Colorado",
+      "abbr": "COLO",
+      "gp": 0,
+      "last_date": "2025-11-29T17:00Z"
+    },
+    "2449": {
+      "rating": 1785.7124241663992,
+      "name": "N Dakota St",
+      "abbr": "NDSU",
+      "gp": 0,
+      "last_date": "2025-12-06T18:00Z"
+    },
+    "55": {
+      "rating": 1485.4190899229852,
+      "name": "Jax State",
+      "abbr": "JVST",
+      "gp": 0,
+      "last_date": "2025-12-17T02:00Z"
+    },
+    "324": {
+      "rating": 1355.4718985715394,
+      "name": "Coastal",
+      "abbr": "CCU",
+      "gp": 0,
+      "last_date": "2025-12-30T19:00Z"
+    },
+    "5": {
+      "rating": 1301.6469320703754,
+      "name": "UAB",
+      "abbr": "UAB",
+      "gp": 0,
+      "last_date": "2025-11-29T20:00Z"
+    },
+    "2016": {
+      "rating": 1399.2215343225369,
+      "name": "Alcorn St",
+      "abbr": "ALCN",
+      "gp": 0,
+      "last_date": "2025-09-13T22:00Z"
+    },
+    "2655": {
+      "rating": 1572.3920443297404,
+      "name": "Tulane",
+      "abbr": "TULN",
+      "gp": 0,
+      "last_date": "2025-12-20T20:30Z"
+    },
+    "2545": {
+      "rating": 1389.617877216057,
+      "name": "SE Louisiana",
+      "abbr": "SELA",
+      "gp": 0,
+      "last_date": "2025-09-20T23:45Z"
+    },
+    "202": {
+      "rating": 1370.847298641434,
+      "name": "Tulsa",
+      "abbr": "TLSA",
+      "gp": 0,
+      "last_date": "2025-11-29T20:00Z"
+    },
+    "2466": {
+      "rating": 1372.877999045374,
+      "name": "N'Western St",
+      "abbr": "NWST",
+      "gp": 0,
+      "last_date": "2025-09-13T19:30Z"
+    },
+    "254": {
+      "rating": 1812.4178878975436,
+      "name": "Utah",
+      "abbr": "UTAH",
+      "gp": 0,
+      "last_date": "2025-12-31T20:30Z"
+    },
+    "253": {
+      "rating": 1483.8436805064798,
+      "name": "Southern Utah",
+      "abbr": "SUU",
+      "gp": 0,
+      "last_date": "2024-09-08T01:00Z"
+    },
+    "135": {
+      "rating": 1649.771485137989,
+      "name": "Minnesota",
+      "abbr": "MINN",
+      "gp": 0,
+      "last_date": "2025-12-26T21:30Z"
+    },
+    "153": {
+      "rating": 1505.8586154413056,
+      "name": "North Carolina",
+      "abbr": "UNC",
+      "gp": 0,
+      "last_date": "2025-11-30T00:30Z"
+    },
+    "2433": {
+      "rating": 1134.2965602404754,
+      "name": "UL Monroe",
+      "abbr": "ULM",
+      "gp": 0,
+      "last_date": "2025-11-29T20:00Z"
+    },
+    "2296": {
+      "rating": 1394.885343097209,
+      "name": "Jackson St",
+      "abbr": "JKST",
+      "gp": 0,
+      "last_date": "2025-09-06T21:00Z"
+    },
+    "356": {
+      "rating": 1657.9365755096933,
+      "name": "Illinois",
+      "abbr": "ILL",
+      "gp": 0,
+      "last_date": "2025-12-30T22:30Z"
+    },
+    "2197": {
+      "rating": 1433.0615970771803,
+      "name": "E Illinois",
+      "abbr": "EIU",
+      "gp": 0,
+      "last_date": "2025-11-22T19:00Z"
+    },
+    "23": {
+      "rating": 1288.1544670631229,
+      "name": "San Jos\u00e9 St",
+      "abbr": "SJSU",
+      "gp": 0,
+      "last_date": "2025-11-30T03:30Z"
+    },
+    "16": {
+      "rating": 1540.5852631753444,
+      "name": "Sacramento St",
+      "abbr": "SAC",
+      "gp": 0,
+      "last_date": "2025-11-22T21:00Z"
+    },
+    "349": {
+      "rating": 1579.2709745154193,
+      "name": "Army",
+      "abbr": "ARMY",
+      "gp": 0,
+      "last_date": "2025-12-27T19:15Z"
+    },
+    "2329": {
+      "rating": 1466.6369998567238,
+      "name": "Lehigh",
+      "abbr": "LEH",
+      "gp": 0,
+      "last_date": "2024-08-30T22:00Z"
+    },
+    "201": {
+      "rating": 1813.348631521938,
+      "name": "Oklahoma",
+      "abbr": "OU",
+      "gp": 0,
+      "last_date": "2025-12-20T01:00Z"
+    },
+    "218": {
+      "rating": 1390.087115755288,
+      "name": "Temple",
+      "abbr": "TEM",
+      "gp": 0,
+      "last_date": "2025-11-28T20:30Z"
+    },
+    "127": {
+      "rating": 1482.9479523726204,
+      "name": "Michigan St",
+      "abbr": "MSU",
+      "gp": 0,
+      "last_date": "2025-11-30T00:00Z"
+    },
+    "2226": {
+      "rating": 1394.7618765261589,
+      "name": "FAU",
+      "abbr": "FAU",
+      "gp": 0,
+      "last_date": "2025-11-29T17:00Z"
+    },
+    "150": {
+      "rating": 1652.993948098094,
+      "name": "Duke",
+      "abbr": "DUKE",
+      "gp": 0,
+      "last_date": "2025-12-31T19:00Z"
+    },
+    "2210": {
+      "rating": 1444.0600088251144,
+      "name": "Elon",
+      "abbr": "ELON",
+      "gp": 0,
+      "last_date": "2025-08-28T23:30Z"
+    },
+    "275": {
+      "rating": 1537.134022755432,
+      "name": "Wisconsin",
+      "abbr": "WIS",
+      "gp": 0,
+      "last_date": "2025-11-29T20:30Z"
+    },
+    "2711": {
+      "rating": 1572.5628263050953,
+      "name": "W Michigan",
+      "abbr": "WMU",
+      "gp": 0,
+      "last_date": "2025-12-19T16:00Z"
+    },
+    "24": {
+      "rating": 1474.257962479668,
+      "name": "Stanford",
+      "abbr": "STAN",
+      "gp": 0,
+      "last_date": "2025-11-30T03:30Z"
+    },
+    "2628": {
+      "rating": 1687.9214280677352,
+      "name": "TCU",
+      "abbr": "TCU",
+      "gp": 0,
+      "last_date": "2025-12-31T02:00Z"
+    },
+    "61": {
+      "rating": 1981.7831698709624,
+      "name": "Georgia",
+      "abbr": "UGA",
+      "gp": 0,
+      "last_date": "2026-01-02T01:00Z"
+    },
+    "228": {
+      "rating": 1706.2514523425043,
+      "name": "Clemson",
+      "abbr": "CLEM",
+      "gp": 0,
+      "last_date": "2025-12-27T17:00Z"
+    },
+    "277": {
+      "rating": 1496.8007045377772,
+      "name": "West Virginia",
+      "abbr": "WVU",
+      "gp": 0,
+      "last_date": "2025-11-29T17:00Z"
+    },
+    "213": {
+      "rating": 1744.811474797465,
+      "name": "Penn State",
+      "abbr": "PSU",
+      "gp": 0,
+      "last_date": "2025-12-27T17:00Z"
+    },
+    "2294": {
+      "rating": 1783.919947481711,
+      "name": "Iowa",
+      "abbr": "IOWA",
+      "gp": 0,
+      "last_date": "2025-12-31T17:00Z"
+    },
+    "2287": {
+      "rating": 1407.8861963574996,
+      "name": "Illinois St",
+      "abbr": "ILST",
+      "gp": 0,
+      "last_date": "2025-12-06T18:00Z"
+    },
+    "238": {
+      "rating": 1736.5949050225151,
+      "name": "Vanderbilt",
+      "abbr": "VAN",
+      "gp": 0,
+      "last_date": "2025-12-31T17:00Z"
+    },
+    "259": {
+      "rating": 1531.8148825328635,
+      "name": "Virginia Tech",
+      "abbr": "VT",
+      "gp": 0,
+      "last_date": "2025-11-30T00:00Z"
+    },
+    "120": {
+      "rating": 1474.1837731817855,
+      "name": "Maryland",
+      "abbr": "MD",
+      "gp": 0,
+      "last_date": "2025-11-30T00:00Z"
+    },
+    "41": {
+      "rating": 1442.719286323162,
+      "name": "UConn",
+      "abbr": "CONN",
+      "gp": 0,
+      "last_date": "2025-12-27T19:15Z"
+    },
+    "97": {
+      "rating": 1694.6988245834298,
+      "name": "Louisville",
+      "abbr": "LOU",
+      "gp": 0,
+      "last_date": "2025-11-29T17:00Z"
+    },
+    "2046": {
+      "rating": 1487.0719723328114,
+      "name": "Austin Peay",
+      "abbr": "APSU",
+      "gp": 0,
+      "last_date": "2025-09-06T18:28Z"
+    },
+    "2509": {
+      "rating": 1393.6353552039914,
+      "name": "Purdue",
+      "abbr": "PUR",
+      "gp": 0,
+      "last_date": "2025-11-29T00:30Z"
+    },
+    "282": {
+      "rating": 1422.5760914493512,
+      "name": "Indiana St",
+      "abbr": "INST",
+      "gp": 0,
+      "last_date": "2025-10-18T17:00Z"
+    },
+    "221": {
+      "rating": 1623.8974197905911,
+      "name": "Pitt",
+      "abbr": "PITT",
+      "gp": 0,
+      "last_date": "2025-12-27T16:00Z"
+    },
+    "2309": {
+      "rating": 1216.4515472390485,
+      "name": "Kent State",
+      "abbr": "KENT",
+      "gp": 0,
+      "last_date": "2025-11-28T17:00Z"
+    },
+    "2426": {
+      "rating": 1620.8132082995521,
+      "name": "Navy",
+      "abbr": "NAVY",
+      "gp": 0,
+      "last_date": "2026-01-02T21:30Z"
+    },
+    "2083": {
+      "rating": 1427.6567707779452,
+      "name": "Bucknell",
+      "abbr": "BUCK",
+      "gp": 0,
+      "last_date": "2025-08-30T19:30Z"
+    },
+    "2633": {
+      "rating": 1732.1709835926642,
+      "name": "Tennessee",
+      "abbr": "TENN",
+      "gp": 0,
+      "last_date": "2025-12-30T22:30Z"
+    },
+    "236": {
+      "rating": 1434.0274810691046,
+      "name": "Chattanooga",
+      "abbr": "UTC",
+      "gp": 0,
+      "last_date": "2025-08-30T20:30Z"
+    },
+    "197": {
+      "rating": 1469.2570987984602,
+      "name": "Oklahoma St",
+      "abbr": "OKST",
+      "gp": 0,
+      "last_date": "2025-11-29T17:00Z"
+    },
+    "2571": {
+      "rating": 1529.9915219284205,
+      "name": "S Dakota St",
+      "abbr": "SDST",
+      "gp": 0,
+      "last_date": "2025-10-26T00:00Z"
+    },
+    "2132": {
+      "rating": 1544.2272213224378,
+      "name": "Cincinnati",
+      "abbr": "CIN",
+      "gp": 0,
+      "last_date": "2026-01-02T21:30Z"
+    },
+    "119": {
+      "rating": 1422.786200262284,
+      "name": "Towson",
+      "abbr": "TOW",
+      "gp": 0,
+      "last_date": "2025-09-13T16:00Z"
+    },
+    "265": {
+      "rating": 1539.9276713308602,
+      "name": "Washington St",
+      "abbr": "WSU",
+      "gp": 0,
+      "last_date": "2025-12-22T19:00Z"
+    },
+    "2502": {
+      "rating": 1380.1878451405457,
+      "name": "Portland St",
+      "abbr": "PRST",
+      "gp": 0,
+      "last_date": "2025-11-08T22:00Z"
+    },
+    "194": {
+      "rating": 2035.720516940803,
+      "name": "Ohio State",
+      "abbr": "OSU",
+      "gp": 0,
+      "last_date": "2026-01-01T00:30Z"
+    },
+    "2006": {
+      "rating": 1283.8990312785072,
+      "name": "Akron",
+      "abbr": "AKR",
+      "gp": 0,
+      "last_date": "2025-11-19T00:00Z"
+    },
+    "251": {
+      "rating": 1920.0692458826454,
+      "name": "Texas",
+      "abbr": "TEX",
+      "gp": 0,
+      "last_date": "2025-12-31T20:00Z"
+    },
+    "36": {
+      "rating": 1300.0898026806267,
+      "name": "Colorado St",
+      "abbr": "CSU",
+      "gp": 0,
+      "last_date": "2025-11-28T20:00Z"
+    },
+    "57": {
+      "rating": 1662.4052102984424,
+      "name": "Florida",
+      "abbr": "FLA",
+      "gp": 0,
+      "last_date": "2025-11-29T21:30Z"
+    },
+    "2390": {
+      "rating": 1931.2164311465435,
+      "name": "Miami",
+      "abbr": "MIA",
+      "gp": 0,
+      "last_date": "2026-01-20T00:30Z"
+    },
+    "84": {
+      "rating": 1979.0413070719087,
+      "name": "Indiana",
+      "abbr": "IU",
+      "gp": 0,
+      "last_date": "2026-01-20T00:30Z"
+    },
+    "2229": {
+      "rating": 1373.9845502178036,
+      "name": "FIU",
+      "abbr": "FIU",
+      "gp": 0,
+      "last_date": "2025-12-27T01:00Z"
+    },
+    "158": {
+      "rating": 1595.331151683021,
+      "name": "Nebraska",
+      "abbr": "NEB",
+      "gp": 0,
+      "last_date": "2025-12-31T20:30Z"
+    },
+    "2638": {
+      "rating": 1261.869579785892,
+      "name": "UTEP",
+      "abbr": "UTEP",
+      "gp": 0,
+      "last_date": "2025-11-29T18:00Z"
+    },
+    "113": {
+      "rating": 1103.351183540925,
+      "name": "UMass",
+      "abbr": "MASS",
+      "gp": 0,
+      "last_date": "2025-11-19T00:15Z"
+    },
+    "2199": {
+      "rating": 1329.7583420958383,
+      "name": "E Michigan",
+      "abbr": "EMU",
+      "gp": 0,
+      "last_date": "2025-11-15T17:00Z"
+    },
+    "2026": {
+      "rating": 1342.640045286369,
+      "name": "App State",
+      "abbr": "APP",
+      "gp": 0,
+      "last_date": "2025-12-29T19:00Z"
+    },
+    "2193": {
+      "rating": 1439.5615630337436,
+      "name": "ETSU",
+      "abbr": "ETSU",
+      "gp": 0,
+      "last_date": "2025-09-06T19:30Z"
+    },
+    "66": {
+      "rating": 1561.5438570329993,
+      "name": "Iowa State",
+      "abbr": "ISU",
+      "gp": 0,
+      "last_date": "2025-11-29T17:00Z"
+    },
+    "155": {
+      "rating": 1444.4973334040073,
+      "name": "North Dakota",
+      "abbr": "UND",
+      "gp": 0,
+      "last_date": "2025-11-08T19:00Z"
+    },
+    "183": {
+      "rating": 1395.6196625670445,
+      "name": "Syracuse",
+      "abbr": "SYR",
+      "gp": 0,
+      "last_date": "2025-11-29T20:00Z"
+    },
+    "195": {
+      "rating": 1513.2549710589503,
+      "name": "Ohio",
+      "abbr": "OHIO",
+      "gp": 0,
+      "last_date": "2025-11-28T17:00Z"
+    },
+    "2636": {
+      "rating": 1597.779181310587,
+      "name": "UTSA",
+      "abbr": "UTSA",
+      "gp": 0,
+      "last_date": "2025-12-27T01:00Z"
+    },
+    "338": {
+      "rating": 1421.5343047352274,
+      "name": "Kennesaw St",
+      "abbr": "KENN",
+      "gp": 0,
+      "last_date": "2025-12-19T16:00Z"
+    },
+    "2005": {
+      "rating": 1458.5103612485973,
+      "name": "Air Force",
+      "abbr": "AFA",
+      "gp": 0,
+      "last_date": "2025-11-28T20:00Z"
+    },
+    "2771": {
+      "rating": 1351.8657953716688,
+      "name": "Merrimack",
+      "abbr": "MRMK",
+      "gp": 0,
+      "last_date": "2025-09-13T22:00Z"
+    },
+    "77": {
+      "rating": 1598.3048413883412,
+      "name": "Northwestern",
+      "abbr": "NU",
+      "gp": 0,
+      "last_date": "2025-12-26T18:00Z"
+    },
+    "193": {
+      "rating": 1469.4202144434014,
+      "name": "Miami OH",
+      "abbr": "M-OH",
+      "gp": 0,
+      "last_date": "2025-12-27T21:30Z"
+    },
+    "2459": {
+      "rating": 1263.0193649649864,
+      "name": "N Illinois",
+      "abbr": "NIU",
+      "gp": 0,
+      "last_date": "2025-11-28T17:00Z"
+    },
+    "2710": {
+      "rating": 1375.6440152840391,
+      "name": "W Illinois",
+      "abbr": "WIU",
+      "gp": 0,
+      "last_date": "2025-09-05T23:30Z"
+    },
+    "290": {
+      "rating": 1435.892328084707,
+      "name": "GA Southern",
+      "abbr": "GASO",
+      "gp": 0,
+      "last_date": "2025-12-29T19:00Z"
+    },
+    "68": {
+      "rating": 1619.7120153021501,
+      "name": "Boise St",
+      "abbr": "BOIS",
+      "gp": 0,
+      "last_date": "2025-12-14T01:00Z"
+    },
+    "2579": {
+      "rating": 1644.9387095795926,
+      "name": "South Carolina",
+      "abbr": "SC",
+      "gp": 0,
+      "last_date": "2025-11-29T17:00Z"
+    },
+    "295": {
+      "rating": 1551.5292567563222,
+      "name": "Old Dominion",
+      "abbr": "ODU",
+      "gp": 0,
+      "last_date": "2025-12-17T22:00Z"
+    },
+    "276": {
+      "rating": 1430.8464590963044,
+      "name": "Marshall",
+      "abbr": "MRSH",
+      "gp": 0,
+      "last_date": "2025-11-29T18:30Z"
+    },
+    "2619": {
+      "rating": 1395.7177058177285,
+      "name": "Stony Brook",
+      "abbr": "STBK",
+      "gp": 0,
+      "last_date": "2025-08-29T02:00Z"
+    },
+    "25": {
+      "rating": 1525.6265631711549,
+      "name": "California",
+      "abbr": "CAL",
+      "gp": 0,
+      "last_date": "2025-12-25T01:00Z"
+    },
+    "302": {
+      "rating": 1486.0964090107386,
+      "name": "UC Davis",
+      "abbr": "UCD",
+      "gp": 0,
+      "last_date": "2025-11-22T21:00Z"
+    },
+    "6": {
+      "rating": 1349.1536815529996,
+      "name": "South Alabama",
+      "abbr": "USA",
+      "gp": 0,
+      "last_date": "2025-11-29T20:00Z"
+    },
+    "249": {
+      "rating": 1488.3446784641133,
+      "name": "North Texas",
+      "abbr": "UNT",
+      "gp": 0,
+      "last_date": "2025-12-27T22:45Z"
+    },
+    "344": {
+      "rating": 1521.076795059958,
+      "name": "Mississippi St",
+      "abbr": "MSST",
+      "gp": 0,
+      "last_date": "2026-01-03T01:00Z"
+    },
+    "2198": {
+      "rating": 1398.6429681194081,
+      "name": "E Kentucky",
+      "abbr": "EKU",
+      "gp": 0,
+      "last_date": "2025-09-13T22:00Z"
+    },
+    "2335": {
+      "rating": 1404.6912939333163,
+      "name": "Liberty",
+      "abbr": "LIB",
+      "gp": 0,
+      "last_date": "2025-11-29T20:30Z"
+    },
+    "2097": {
+      "rating": 1386.9643965881703,
+      "name": "Campbell",
+      "abbr": "CAM",
+      "gp": 0,
+      "last_date": "2025-10-04T18:00Z"
+    },
+    "258": {
+      "rating": 1653.6487270641023,
+      "name": "Virginia",
+      "abbr": "UVA",
+      "gp": 0,
+      "last_date": "2025-12-28T00:30Z"
+    },
+    "257": {
+      "rating": 1474.2207686496827,
+      "name": "Richmond",
+      "abbr": "RICH",
+      "gp": 0,
+      "last_date": "2025-09-13T19:30Z"
+    },
+    "151": {
+      "rating": 1567.5824920423092,
+      "name": "East Carolina",
+      "abbr": "ECU",
+      "gp": 0,
+      "last_date": "2025-12-27T16:00Z"
+    },
+    "2450": {
+      "rating": 1441.3856973175339,
+      "name": "Norfolk St",
+      "abbr": "NORF",
+      "gp": 0,
+      "last_date": "2025-09-13T19:30Z"
+    },
+    "204": {
+      "rating": 1334.1385704749448,
+      "name": "Oregon St",
+      "abbr": "ORST",
+      "gp": 0,
+      "last_date": "2025-11-29T23:30Z"
+    },
+    "304": {
+      "rating": 1435.7496846033412,
+      "name": "Idaho St",
+      "abbr": "IDST",
+      "gp": 0,
+      "last_date": "2025-09-06T19:00Z"
+    },
+    "333": {
+      "rating": 1806.121924112017,
+      "name": "Alabama",
+      "abbr": "ALA",
+      "gp": 0,
+      "last_date": "2026-01-01T21:00Z"
+    },
+    "98": {
+      "rating": 1498.125162191655,
+      "name": "Western KY",
+      "abbr": "WKU",
+      "gp": 0,
+      "last_date": "2025-11-29T19:00Z"
+    },
+    "145": {
+      "rating": 1870.8851860873951,
+      "name": "Ole Miss",
+      "abbr": "MISS",
+      "gp": 0,
+      "last_date": "2026-01-09T00:30Z"
+    },
+    "231": {
+      "rating": 1440.8686164544974,
+      "name": "Furman",
+      "abbr": "FUR",
+      "gp": 0,
+      "last_date": "2025-11-22T21:30Z"
+    },
+    "2306": {
+      "rating": 1677.999641807616,
+      "name": "Kansas St",
+      "abbr": "KSU",
+      "gp": 0,
+      "last_date": "2025-11-29T17:00Z"
+    },
+    "2630": {
+      "rating": 1341.4686405433627,
+      "name": "UT Martin",
+      "abbr": "UTM",
+      "gp": 0,
+      "last_date": "2025-09-20T23:00Z"
+    },
+    "2032": {
+      "rating": 1421.0181130679673,
+      "name": "Arkansas St",
+      "abbr": "ARST",
+      "gp": 0,
+      "last_date": "2025-12-19T02:00Z"
+    },
+    "2110": {
+      "rating": 1405.2203673722438,
+      "name": "C Arkansas",
+      "abbr": "CARK",
+      "gp": 0,
+      "last_date": "2025-09-21T01:00Z"
+    },
+    "58": {
+      "rating": 1566.40574209335,
+      "name": "South Florida",
+      "abbr": "USF",
+      "gp": 0,
+      "last_date": "2025-12-17T22:00Z"
+    },
+    "2065": {
+      "rating": 1377.8840394486244,
+      "name": "Bethune",
+      "abbr": "BCU",
+      "gp": 0,
+      "last_date": "2025-09-06T23:00Z"
+    },
+    "239": {
+      "rating": 1538.686805304362,
+      "name": "Baylor",
+      "abbr": "BAY",
+      "gp": 0,
+      "last_date": "2025-11-29T17:00Z"
+    },
+    "2627": {
+      "rating": 1508.4148453027885,
+      "name": "Tarleton St",
+      "abbr": "TAR",
+      "gp": 0,
+      "last_date": "2025-08-29T22:00Z"
+    },
+    "248": {
+      "rating": 1659.290972193192,
+      "name": "Houston",
+      "abbr": "HOU",
+      "gp": 0,
+      "last_date": "2025-12-28T02:20Z"
+    },
+    "2439": {
+      "rating": 1608.873778907661,
+      "name": "UNLV",
+      "abbr": "UNLV",
+      "gp": 0,
+      "last_date": "2025-12-06T01:00Z"
+    },
+    "2393": {
+      "rating": 1191.4039226703578,
+      "name": "MTSU",
+      "abbr": "MTSU",
+      "gp": 0,
+      "last_date": "2025-11-29T20:00Z"
+    },
+    "2635": {
+      "rating": 1431.936613384683,
+      "name": "Tennessee Tech",
+      "abbr": "TNTC",
+      "gp": 0,
+      "last_date": "2025-11-15T18:30Z"
+    },
+    "242": {
+      "rating": 1319.9787091200376,
+      "name": "Rice",
+      "abbr": "RICE",
+      "gp": 0,
+      "last_date": "2026-01-02T18:00Z"
+    },
+    "2534": {
+      "rating": 1130.2826534494625,
+      "name": "Sam Houston",
+      "abbr": "SHSU",
+      "gp": 0,
+      "last_date": "2025-11-29T18:00Z"
+    },
+    "2653": {
+      "rating": 1448.9333487827357,
+      "name": "Troy",
+      "abbr": "TROY",
+      "gp": 0,
+      "last_date": "2025-12-17T02:00Z"
+    },
+    "235": {
+      "rating": 1522.590964444497,
+      "name": "Memphis",
+      "abbr": "MEM",
+      "gp": 0,
+      "last_date": "2025-12-19T19:30Z"
+    },
+    "2453": {
+      "rating": 1433.1829717422536,
+      "name": "North Alabama",
+      "abbr": "UNA",
+      "gp": 0,
+      "last_date": "2025-08-30T23:00Z"
+    },
+    "2483": {
+      "rating": 2023.9848225453434,
+      "name": "Oregon",
+      "abbr": "ORE",
+      "gp": 0,
+      "last_date": "2026-01-10T00:30Z"
+    },
+    "70": {
+      "rating": 1450.6612482608987,
+      "name": "Idaho",
+      "abbr": "IDHO",
+      "gp": 0,
+      "last_date": "2025-11-16T02:00Z"
+    },
+    "245": {
+      "rating": 1857.7631570179856,
+      "name": "Texas A&M",
+      "abbr": "TA&M",
+      "gp": 0,
+      "last_date": "2025-12-20T17:00Z"
+    },
+    "87": {
+      "rating": 1987.227464504983,
+      "name": "Notre Dame",
+      "abbr": "ND",
+      "gp": 0,
+      "last_date": "2025-11-30T03:30Z"
+    },
+    "130": {
+      "rating": 1765.3740120855837,
+      "name": "Michigan",
+      "abbr": "MICH",
+      "gp": 0,
+      "last_date": "2025-12-31T20:00Z"
+    },
+    "278": {
+      "rating": 1556.5889853358078,
+      "name": "Fresno St",
+      "abbr": "FRES",
+      "gp": 0,
+      "last_date": "2025-12-27T21:30Z"
+    },
+    "2": {
+      "rating": 1624.8105802180808,
+      "name": "Auburn",
+      "abbr": "AUB",
+      "gp": 0,
+      "last_date": "2025-11-30T00:30Z"
+    },
+    "2010": {
+      "rating": 1430.685326897869,
+      "name": "Alabama A&M",
+      "abbr": "AAMU",
+      "gp": 0,
+      "last_date": "2025-08-30T20:15Z"
+    },
+    "26": {
+      "rating": 1511.6362843424308,
+      "name": "UCLA",
+      "abbr": "UCLA",
+      "gp": 0,
+      "last_date": "2025-11-30T00:30Z"
+    },
+    "2641": {
+      "rating": 1912.267519611898,
+      "name": "Texas Tech",
+      "abbr": "TTU",
+      "gp": 0,
+      "last_date": "2026-01-01T17:00Z"
+    },
+    "2000": {
+      "rating": 1391.1308607875294,
+      "name": "Abilene Chrstn",
+      "abbr": "ACU",
+      "gp": 0,
+      "last_date": "2025-09-14T00:00Z"
+    },
+    "96": {
+      "rating": 1566.6188100825243,
+      "name": "Kentucky",
+      "abbr": "UK",
+      "gp": 0,
+      "last_date": "2025-11-29T17:00Z"
+    },
+    "2572": {
+      "rating": 1285.1024092023843,
+      "name": "Southern Miss",
+      "abbr": "USM",
+      "gp": 0,
+      "last_date": "2025-11-29T20:30Z"
+    },
+    "252": {
+      "rating": 1824.2060758899497,
+      "name": "BYU",
+      "abbr": "BYU",
+      "gp": 0,
+      "last_date": "2025-12-27T20:40Z"
+    },
+    "79": {
+      "rating": 1393.2136290376816,
+      "name": "S Illinois",
+      "abbr": "SIU",
+      "gp": 0,
+      "last_date": "2025-10-11T19:30Z"
+    },
+    "2247": {
+      "rating": 1112.1935248810375,
+      "name": "Georgia St",
+      "abbr": "GAST",
+      "gp": 0,
+      "last_date": "2025-11-29T19:00Z"
+    },
+    "2277": {
+      "rating": 1413.1060381561813,
+      "name": "Hou Christian",
+      "abbr": "HCU",
+      "gp": 0,
+      "last_date": "2025-09-13T16:00Z"
+    },
+    "309": {
+      "rating": 1410.3129232922176,
+      "name": "Louisiana",
+      "abbr": "UL",
+      "gp": 0,
+      "last_date": "2025-12-18T01:40Z"
+    },
+    "2755": {
+      "rating": 1460.5429894352678,
+      "name": "Grambling",
+      "abbr": "GRAM",
+      "gp": 0,
+      "last_date": "2025-09-06T19:30Z"
+    },
+    "2348": {
+      "rating": 1478.7394515502997,
+      "name": "Louisiana Tech",
+      "abbr": "LT",
+      "gp": 0,
+      "last_date": "2025-12-30T19:00Z"
+    },
+    "2447": {
+      "rating": 1374.9826138604988,
+      "name": "Nicholls",
+      "abbr": "NICH",
+      "gp": 0,
+      "last_date": "2025-09-21T00:00Z"
+    },
+    "21": {
+      "rating": 1576.9450831349327,
+      "name": "San Diego St",
+      "abbr": "SDSU",
+      "gp": 0,
+      "last_date": "2025-12-27T22:45Z"
+    },
+    "2837": {
+      "rating": 1373.8899166348401,
+      "name": "E Texas A&M",
+      "abbr": "ETAM",
+      "gp": 0,
+      "last_date": "2025-09-06T16:00Z"
+    },
+    "328": {
+      "rating": 1443.0401531210568,
+      "name": "Utah State",
+      "abbr": "USU",
+      "gp": 0,
+      "last_date": "2025-12-22T19:00Z"
+    },
+    "2523": {
+      "rating": 1428.0653777315906,
+      "name": "Robert Morris",
+      "abbr": "RMU",
+      "gp": 0,
+      "last_date": "2025-08-30T18:00Z"
+    },
+    "2429": {
+      "rating": 1163.0720671097756,
+      "name": "Charlotte",
+      "abbr": "CLT",
+      "gp": 0,
+      "last_date": "2025-11-30T00:30Z"
+    },
+    "256": {
+      "rating": 1614.1661265884238,
+      "name": "James Madison",
+      "abbr": "JMU",
+      "gp": 0,
+      "last_date": "2025-12-21T00:30Z"
+    },
+    "326": {
+      "rating": 1582.6523829004889,
+      "name": "Texas St",
+      "abbr": "TXST",
+      "gp": 0,
+      "last_date": "2026-01-02T18:00Z"
+    },
+    "2320": {
+      "rating": 1425.5491602928682,
+      "name": "Lamar",
+      "abbr": "LAM",
+      "gp": 0,
+      "last_date": "2025-08-31T00:00Z"
+    },
+    "149": {
+      "rating": 1569.846956811946,
+      "name": "Montana",
+      "abbr": "MONT",
+      "gp": 0,
+      "last_date": "2025-10-25T02:35Z"
+    },
+    "2623": {
+      "rating": 1308.7611088493984,
+      "name": "Missouri St",
+      "abbr": "MOST",
+      "gp": 0,
+      "last_date": "2025-12-19T02:00Z"
+    },
+    "166": {
+      "rating": 1259.3175273075917,
+      "name": "New Mexico St",
+      "abbr": "NMSU",
+      "gp": 0,
+      "last_date": "2025-11-29T20:00Z"
+    },
+    "2546": {
+      "rating": 1439.881045177883,
+      "name": "SE Missouri",
+      "abbr": "SEMO",
+      "gp": 0,
+      "last_date": "2025-09-13T19:30Z"
+    },
+    "12": {
+      "rating": 1735.8422676461146,
+      "name": "Arizona",
+      "abbr": "ARIZ",
+      "gp": 0,
+      "last_date": "2026-01-03T01:00Z"
+    },
+    "9": {
+      "rating": 1603.48147330673,
+      "name": "Arizona St",
+      "abbr": "ASU",
+      "gp": 0,
+      "last_date": "2025-12-31T19:00Z"
+    },
+    "2751": {
+      "rating": 1356.2463594513283,
+      "name": "Wyoming",
+      "abbr": "WYO",
+      "gp": 0,
+      "last_date": "2025-11-30T04:00Z"
+    },
+    "264": {
+      "rating": 1780.748031213792,
+      "name": "Washington",
+      "abbr": "WASH",
+      "gp": 0,
+      "last_date": "2025-12-14T01:00Z"
+    },
+    "2692": {
+      "rating": 1331.3292024524478,
+      "name": "Weber St",
+      "abbr": "WEB",
+      "gp": 0,
+      "last_date": "2025-10-12T00:00Z"
+    },
+    "99": {
+      "rating": 1737.6928988015002,
+      "name": "LSU",
+      "abbr": "LSU",
+      "gp": 0,
+      "last_date": "2025-12-28T02:20Z"
+    },
+    "30": {
+      "rating": 1797.2605611369868,
+      "name": "USC",
+      "abbr": "USC",
+      "gp": 0,
+      "last_date": "2025-12-31T02:00Z"
+    },
+    "227": {
+      "rating": 1397.0982340573414,
+      "name": "Rhode Island",
+      "abbr": "URI",
+      "gp": 0,
+      "last_date": "2025-09-27T22:30Z"
+    },
+    "2377": {
+      "rating": 1394.8314462199046,
+      "name": "McNeese",
+      "abbr": "MCN",
+      "gp": 0,
+      "last_date": "2025-09-21T00:00Z"
+    },
+    "2050": {
+      "rating": 1213.5000275943858,
+      "name": "Ball State",
+      "abbr": "BALL",
+      "gp": 0,
+      "last_date": "2025-11-29T17:00Z"
+    },
+    "2598": {
+      "rating": 1401.0585689122845,
+      "name": "Saint Francis",
+      "abbr": "SFPA",
+      "gp": 0,
+      "last_date": "2025-09-06T19:30Z"
+    },
+    "3101": {
+      "rating": 1472.5344123087966,
+      "name": "Utah Tech",
+      "abbr": "UTU",
+      "gp": 0,
+      "last_date": "2024-09-07T19:00Z"
+    },
+    "233": {
+      "rating": 1460.1035358486624,
+      "name": "South Dakota",
+      "abbr": "SDAK",
+      "gp": 0,
+      "last_date": "2025-09-27T18:00Z"
+    },
+    "2634": {
+      "rating": 1435.3763628461988,
+      "name": "Tennessee St",
+      "abbr": "TNST",
+      "gp": 0,
+      "last_date": "2025-09-06T18:30Z"
+    },
+    "103": {
+      "rating": 1451.2019175256562,
+      "name": "Boston College",
+      "abbr": "BC",
+      "gp": 0,
+      "last_date": "2025-11-29T20:00Z"
+    },
+    "50": {
+      "rating": 1370.9467643870257,
+      "name": "Florida A&M",
+      "abbr": "FAMU",
+      "gp": 0,
+      "last_date": "2025-09-06T22:00Z"
+    },
+    "399": {
+      "rating": 1425.3207743671371,
+      "name": "UAlbany",
+      "abbr": "ALB",
+      "gp": 0,
+      "last_date": "2025-08-30T22:00Z"
+    },
+    "2241": {
+      "rating": 1435.305523090729,
+      "name": "Gardner-Webb",
+      "abbr": "GWEB",
+      "gp": 0,
+      "last_date": "2025-09-20T19:30Z"
+    },
+    "2535": {
+      "rating": 1426.0875825681385,
+      "name": "Samford",
+      "abbr": "SAM",
+      "gp": 0,
+      "last_date": "2025-11-22T17:00Z"
+    },
+    "2729": {
+      "rating": 1436.0909066107795,
+      "name": "William & Mary",
+      "abbr": "W&M",
+      "gp": 0,
+      "last_date": "2025-09-13T16:00Z"
+    },
+    "13": {
+      "rating": 1489.0710881875868,
+      "name": "Cal Poly",
+      "abbr": "CP",
+      "gp": 0,
+      "last_date": "2025-09-28T01:00Z"
+    },
+    "2458": {
+      "rating": 1424.89359712305,
+      "name": "N Colorado",
+      "abbr": "UNCO",
+      "gp": 0,
+      "last_date": "2025-10-19T01:00Z"
+    },
+    "2640": {
+      "rating": 1424.3285136638347,
+      "name": "Texas Southern",
+      "abbr": "TXSO",
+      "gp": 0,
+      "last_date": "2025-09-06T22:00Z"
+    },
+    "2617": {
+      "rating": 1428.4777357453706,
+      "name": "SF Austin",
+      "abbr": "SFA",
+      "gp": 0,
+      "last_date": "2025-08-29T00:00Z"
+    },
+    "2341": {
+      "rating": 1480.399188767999,
+      "name": "Long Island",
+      "abbr": "LIU",
+      "gp": 0,
+      "last_date": "2025-09-06T23:00Z"
+    },
+    "2464": {
+      "rating": 1499.1040764181141,
+      "name": "N Arizona",
+      "abbr": "NAU",
+      "gp": 0,
+      "last_date": "2025-08-31T02:00Z"
+    },
+    "2504": {
+      "rating": 1423.772635009424,
+      "name": "Prairie View",
+      "abbr": "PV",
+      "gp": 0,
+      "last_date": "2025-09-13T23:00Z"
+    },
+    "2678": {
+      "rating": 1450.553227183676,
+      "name": "VMI",
+      "abbr": "VMI",
+      "gp": 0,
+      "last_date": "2025-08-30T16:00Z"
+    },
+    "2415": {
+      "rating": 1409.7471080023056,
+      "name": "Morgan St",
+      "abbr": "MORG",
+      "gp": 0,
+      "last_date": "2025-09-13T19:30Z"
+    },
+    "2428": {
+      "rating": 1430.295571109369,
+      "name": "NC Central",
+      "abbr": "NCCU",
+      "gp": 0,
+      "last_date": "2025-09-06T22:00Z"
+    },
+    "2569": {
+      "rating": 1427.8489194670417,
+      "name": "SC State",
+      "abbr": "SCST",
+      "gp": 0,
+      "last_date": "2025-09-20T16:00Z"
+    },
+    "2142": {
+      "rating": 1446.3234531656294,
+      "name": "Colgate",
+      "abbr": "COLG",
+      "gp": 0,
+      "last_date": "2025-09-12T23:00Z"
+    },
+    "2460": {
+      "rating": 1394.2787266886173,
+      "name": "Northern Iowa",
+      "abbr": "UNI",
+      "gp": 0,
+      "last_date": "2025-11-15T20:30Z"
+    },
+    "222": {
+      "rating": 1507.7603792775085,
+      "name": "Villanova",
+      "abbr": "VILL",
+      "gp": 0,
+      "last_date": "2025-09-13T19:30Z"
+    },
+    "331": {
+      "rating": 1393.957251486835,
+      "name": "E Washington",
+      "abbr": "EWU",
+      "gp": 0,
+      "last_date": "2025-11-01T20:00Z"
+    },
+    "2754": {
+      "rating": 1426.7057219589565,
+      "name": "Youngstown St",
+      "abbr": "YSU",
+      "gp": 0,
+      "last_date": "2025-11-01T19:30Z"
+    },
+    "219": {
+      "rating": 1488.287115706973,
+      "name": "Penn",
+      "abbr": "PENN",
+      "gp": 0,
+      "last_date": "2024-09-21T22:00Z"
+    },
+    "2405": {
+      "rating": 1450.9103049741625,
+      "name": "Monmouth",
+      "abbr": "MONM",
+      "gp": 0,
+      "last_date": "2025-09-13T22:00Z"
+    },
+    "107": {
+      "rating": 1463.1624304949887,
+      "name": "Holy Cross",
+      "abbr": "HC",
+      "gp": 0,
+      "last_date": "2025-08-30T19:30Z"
+    },
+    "2529": {
+      "rating": 1480.0473747984886,
+      "name": "Sacred Heart",
+      "abbr": "SHU",
+      "gp": 0,
+      "last_date": "2024-09-28T19:30Z"
+    },
+    "2681": {
+      "rating": 1347.3265383798257,
+      "name": "Wagner",
+      "abbr": "WAG",
+      "gp": 0,
+      "last_date": "2025-09-20T17:00Z"
+    },
+    "311": {
+      "rating": 1392.497757981164,
+      "name": "Maine",
+      "abbr": "ME",
+      "gp": 0,
+      "last_date": "2025-09-20T23:00Z"
+    },
+    "2382": {
+      "rating": 1438.9537330343653,
+      "name": "Mercer",
+      "abbr": "MER",
+      "gp": 0,
+      "last_date": "2025-11-22T19:00Z"
+    },
+    "2127": {
+      "rating": 1382.0662881930034,
+      "name": "Charleston So",
+      "abbr": "CHSO",
+      "gp": 0,
+      "last_date": "2025-09-06T23:30Z"
+    },
+    "2643": {
+      "rating": 1451.21210114827,
+      "name": "The Citadel",
+      "abbr": "CIT",
+      "gp": 0,
+      "last_date": "2025-11-08T18:00Z"
+    },
+    "2747": {
+      "rating": 1426.2341286146043,
+      "name": "Wofford",
+      "abbr": "WOF",
+      "gp": 0,
+      "last_date": "2025-09-20T16:00Z"
+    },
+    "2011": {
+      "rating": 1460.5436918121018,
+      "name": "Alabama St",
+      "abbr": "ALST",
+      "gp": 0,
+      "last_date": "2025-08-29T00:30Z"
+    },
+    "2916": {
+      "rating": 1450.4682490660828,
+      "name": "Incarnate Word",
+      "abbr": "UIW",
+      "gp": 0,
+      "last_date": "2025-09-13T19:30Z"
+    },
+    "2385": {
+      "rating": 1425.3246250302534,
+      "name": "Mercyhurst",
+      "abbr": "MERC",
+      "gp": 0,
+      "last_date": "2025-09-14T01:00Z"
+    },
+    "2582": {
+      "rating": 1461.3381343179158,
+      "name": "Southern",
+      "abbr": "SOU",
+      "gp": 0,
+      "last_date": "2025-09-14T02:00Z"
+    },
+    "2900": {
+      "rating": 1492.2451268757404,
+      "name": "St Thomas (MN)",
+      "abbr": "STMN",
+      "gp": 0,
+      "last_date": "2025-11-22T20:30Z"
+    }
+  },
+  "meta": {
+    "last_game_date": "2026-01-20T00:30Z",
+    "season": 2026,
+    "n_games": 1906,
+    "signals": {
+      "weather": true,
+      "travel": true,
+      "qb": false,
+      "epa": true
+    },
+    "calibrated_at": "2026-08-25T17:25:55"
+  }
+}

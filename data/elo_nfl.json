@@ -1,0 +1,263 @@
+{
+  "league": "nfl",
+  "params": {
+    "k": 18,
+    "hfa": 48.0,
+    "points_per_elo": 25.0,
+    "revert": 0.45,
+    "mean": 1500.0,
+    "score_sd": 11.5
+  },
+  "teams": {
+    "12": {
+      "rating": 1459.9655306630384,
+      "name": "Chiefs",
+      "abbr": "KC",
+      "gp": 2,
+      "last_date": "2026-08-22T23:30Z"
+    },
+    "33": {
+      "rating": 1583.2704926161757,
+      "name": "Ravens",
+      "abbr": "BAL",
+      "gp": 2,
+      "last_date": "2026-08-22T17:00Z"
+    },
+    "21": {
+      "rating": 1522.1059970417373,
+      "name": "Eagles",
+      "abbr": "PHI",
+      "gp": 2,
+      "last_date": "2026-08-22T23:00Z"
+    },
+    "9": {
+      "rating": 1560.4866105294013,
+      "name": "Packers",
+      "abbr": "GB",
+      "gp": 1,
+      "last_date": "2026-08-22T01:00Z"
+    },
+    "1": {
+      "rating": 1510.1738949249275,
+      "name": "Falcons",
+      "abbr": "ATL",
+      "gp": 1,
+      "last_date": "2026-08-22T17:00Z"
+    },
+    "23": {
+      "rating": 1462.2004921128682,
+      "name": "Steelers",
+      "abbr": "PIT",
+      "gp": 1,
+      "last_date": "2026-08-21T23:00Z"
+    },
+    "2": {
+      "rating": 1622.8452802751922,
+      "name": "Bills",
+      "abbr": "BUF",
+      "gp": 2,
+      "last_date": "2026-08-22T17:00Z"
+    },
+    "22": {
+      "rating": 1370.8529813291095,
+      "name": "Cardinals",
+      "abbr": "ARI",
+      "gp": 1,
+      "last_date": "2026-08-23T02:00Z"
+    },
+    "3": {
+      "rating": 1515.9409760416395,
+      "name": "Bears",
+      "abbr": "CHI",
+      "gp": 2,
+      "last_date": "2026-08-22T23:00Z"
+    },
+    "10": {
+      "rating": 1381.847257268095,
+      "name": "Titans",
+      "abbr": "TEN",
+      "gp": 1,
+      "last_date": "2026-08-24T00:00Z"
+    },
+    "4": {
+      "rating": 1503.8292721820148,
+      "name": "Bengals",
+      "abbr": "CIN",
+      "gp": 1,
+      "last_date": "2026-08-22T23:00Z"
+    },
+    "17": {
+      "rating": 1606.7904450481471,
+      "name": "Patriots",
+      "abbr": "NE",
+      "gp": 1,
+      "last_date": "2026-08-22T23:00Z"
+    },
+    "11": {
+      "rating": 1433.29243659694,
+      "name": "Colts",
+      "abbr": "IND",
+      "gp": 1,
+      "last_date": "2026-08-22T17:00Z"
+    },
+    "34": {
+      "rating": 1581.883123197548,
+      "name": "Texans",
+      "abbr": "HOU",
+      "gp": 1,
+      "last_date": "2026-08-21T00:00Z"
+    },
+    "15": {
+      "rating": 1417.506612513092,
+      "name": "Dolphins",
+      "abbr": "MIA",
+      "gp": 1,
+      "last_date": "2026-08-22T20:00Z"
+    },
+    "30": {
+      "rating": 1536.8201482402405,
+      "name": "Jaguars",
+      "abbr": "JAX",
+      "gp": 2,
+      "last_date": "2026-08-21T23:30Z"
+    },
+    "18": {
+      "rating": 1416.5814116526678,
+      "name": "Saints",
+      "abbr": "NO",
+      "gp": 2,
+      "last_date": "2026-08-22T20:00Z"
+    },
+    "29": {
+      "rating": 1469.96653242104,
+      "name": "Panthers",
+      "abbr": "CAR",
+      "gp": 2,
+      "last_date": "2026-08-21T23:30Z"
+    },
+    "19": {
+      "rating": 1452.3562564006136,
+      "name": "Giants",
+      "abbr": "NYG",
+      "gp": 2,
+      "last_date": "2026-08-22T20:00Z"
+    },
+    "16": {
+      "rating": 1534.017317442592,
+      "name": "Vikings",
+      "abbr": "MIN",
+      "gp": 2,
+      "last_date": "2026-08-22T17:00Z"
+    },
+    "24": {
+      "rating": 1495.632379771405,
+      "name": "Chargers",
+      "abbr": "LAC",
+      "gp": 1,
+      "last_date": "2026-08-21T02:00Z"
+    },
+    "13": {
+      "rating": 1368.325183390105,
+      "name": "Raiders",
+      "abbr": "LV",
+      "gp": 1,
+      "last_date": "2026-08-21T00:00Z"
+    },
+    "26": {
+      "rating": 1610.3401085006597,
+      "name": "Seahawks",
+      "abbr": "SEA",
+      "gp": 2,
+      "last_date": "2026-08-24T00:00Z"
+    },
+    "7": {
+      "rating": 1565.3752218186155,
+      "name": "Broncos",
+      "abbr": "DEN",
+      "gp": 1,
+      "last_date": "2026-08-22T01:00Z"
+    },
+    "5": {
+      "rating": 1387.9661755936454,
+      "name": "Browns",
+      "abbr": "CLE",
+      "gp": 2,
+      "last_date": "2026-08-22T17:00Z"
+    },
+    "6": {
+      "rating": 1518.45407704456,
+      "name": "Cowboys",
+      "abbr": "DAL",
+      "gp": 2,
+      "last_date": "2026-08-23T02:00Z"
+    },
+    "27": {
+      "rating": 1481.666529469369,
+      "name": "Buccaneers",
+      "abbr": "TB",
+      "gp": 1,
+      "last_date": "2026-08-22T23:30Z"
+    },
+    "28": {
+      "rating": 1453.3670651986954,
+      "name": "Commanders",
+      "abbr": "WSH",
+      "gp": 1,
+      "last_date": "2026-08-22T16:00Z"
+    },
+    "8": {
+      "rating": 1556.9868735074742,
+      "name": "Lions",
+      "abbr": "DET",
+      "gp": 1,
+      "last_date": "2026-08-22T16:00Z"
+    },
+    "14": {
+      "rating": 1631.059184090766,
+      "name": "Rams",
+      "abbr": "LAR",
+      "gp": 2,
+      "last_date": "2026-08-22T20:00Z"
+    },
+    "25": {
+      "rating": 1583.141181051563,
+      "name": "49ers",
+      "abbr": "SF",
+      "gp": 1,
+      "last_date": "2026-08-21T02:00Z"
+    },
+    "20": {
+      "rating": 1404.9529520660622,
+      "name": "Jets",
+      "abbr": "NYJ",
+      "gp": 1,
+      "last_date": "2026-08-21T23:00Z"
+    },
+    "32": {
+      "rating": 1527.8923330434466,
+      "name": "NFC",
+      "abbr": "NFC",
+      "gp": 0,
+      "last_date": "2026-02-04T01:00Z"
+    },
+    "31": {
+      "rating": 1472.1076669565534,
+      "name": "AFC",
+      "abbr": "AFC",
+      "gp": 0,
+      "last_date": "2026-02-04T01:00Z"
+    }
+  },
+  "meta": {
+    "last_game_date": "2026-08-24T00:00Z",
+    "season": 2026,
+    "n_games": 595,
+    "signals": {
+      "weather": true,
+      "travel": true,
+      "qb": false,
+      "epa": true
+    },
+    "calibrated_at": "2026-08-25T12:17:39"
+  }
+}

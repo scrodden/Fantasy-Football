@@ -1,0 +1,50 @@
+name: Betting model — scheduled update
+
+# Runs the maintenance job in the cloud so you never have to keep the app open.
+# It locks bets ~24h before kickoff, settles finished games, updates the model,
+# regenerates the results page, and commits the new state back to the repo.
+
+on:
+  schedule:
+    # Every 2 hours, during football season (Aug–Jan). Times are UTC.
+    - cron: "0 */2 * 8-12,1 *"
+  workflow_dispatch: {}      # adds a manual "Run workflow" button
+
+permissions:
+  contents: write            # allow the job to commit the updated state
+
+concurrency:
+  group: betting-update
+  cancel-in-progress: false  # never interrupt a run mid-write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run maintenance + rebuild results page
+        env:
+          CFBD_API_KEY: ${{ secrets.CFBD_API_KEY }}     # your CFBD key (a repo secret)
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}     # optional; blank is fine
+        run: |
+          python cron_task.py
+          python build_results_page.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name "betting-bot"
+          git config user.email "betting-bot@users.noreply.github.com"
+          git add data docs
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Auto-update $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

@@ -1,0 +1,23 @@
+# Bluesky handles to monitor for NFL injury / roster / depth-chart news.
+# One handle per line (no leading @). Lines starting with # are ignored.
+# Optional team tag after a comma limits a beat writer to their team,
+# e.g. "somewriter.bsky.social, KC" — national insiders take no tag.
+# Handles that 404 are skipped automatically, so it's safe to edit freely.
+#
+# All handles below were verified live. To add a reporter: open their profile
+# on bsky.app and copy the handle from the URL (bsky.app/profile/<handle>).
+# Note: several TV/national reporters (Garafolo, Fowler, Russini) aren't on
+# Bluesky first-party — the reposter/aggregator bot at the bottom mirrors them.
+
+# --- National insiders (verified, first-party) ---
+adamschefter.bsky.social
+rapsheet.bsky.social
+tompelissero.bsky.social
+fieldyates.bsky.social
+schultzreport.bsky.social
+
+# --- Aggregator: mirrors many reporters' posts (Garafolo, Pelissero, etc.) ---
+nflnewsreposterbot.bsky.social
+
+# --- Add your team's beat writers here, e.g.:
+# yourbeatwriter.bsky.social, KC

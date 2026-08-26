@@ -1,0 +1,1941 @@
+{
+  "params": {
+    "avg_pts": 29.0,
+    "alpha": 0.14,
+    "home_pts": 1.4,
+    "form_w": 0.22,
+    "rest_per_day": 0.3,
+    "rest_cap": 4.0,
+    "bye_bonus": 1.2
+  },
+  "teams": {
+    "59": {
+      "off": 2.134908433547347,
+      "def": -2.6049123916359296,
+      "last_date": null,
+      "form": [],
+      "name": "Georgia Tech",
+      "abbr": "GT"
+    },
+    "52": {
+      "off": 0.4612316720340103,
+      "def": -2.952612982127812,
+      "last_date": null,
+      "form": [],
+      "name": "Florida St",
+      "abbr": "FSU"
+    },
+    "167": {
+      "off": -0.5091104873051313,
+      "def": -3.0144540000260958,
+      "last_date": null,
+      "form": [],
+      "name": "New Mexico",
+      "abbr": "UNM"
+    },
+    "147": {
+      "off": -0.2260703394189031,
+      "def": 0.9984179847175745,
+      "last_date": null,
+      "form": [],
+      "name": "Montana St",
+      "abbr": "MTST"
+    },
+    "2440": {
+      "off": -3.453246184251335,
+      "def": -1.1265390828258528,
+      "last_date": null,
+      "form": [],
+      "name": "Nevada",
+      "abbr": "NEV"
+    },
+    "2567": {
+      "off": 3.4875482301021226,
+      "def": -5.045539517619628,
+      "last_date": null,
+      "form": [],
+      "name": "SMU",
+      "abbr": "SMU"
+    },
+    "62": {
+      "off": 0.8777594943279714,
+      "def": -1.8942756800559373,
+      "last_date": null,
+      "form": [],
+      "name": "Hawai'i",
+      "abbr": "HAW"
+    },
+    "2169": {
+      "off": -1.0245721623050512,
+      "def": 0.4040769262221917,
+      "last_date": null,
+      "form": [],
+      "name": "Delaware St",
+      "abbr": "DSU"
+    },
+    "164": {
+      "off": 2.1943667173566,
+      "def": 0.21902789426866276,
+      "last_date": null,
+      "form": [],
+      "name": "Rutgers",
+      "abbr": "RUTG"
+    },
+    "47": {
+      "off": -1.9631051919480031,
+      "def": 2.271429248867941,
+      "last_date": null,
+      "form": [],
+      "name": "Howard",
+      "abbr": "HOW"
+    },
+    "48": {
+      "off": 0.5033241417698048,
+      "def": 1.7406151753667194,
+      "last_date": null,
+      "form": [],
+      "name": "Delaware",
+      "abbr": "DEL"
+    },
+    "2803": {
+      "off": -2.454485884236002,
+      "def": -0.1581400937191269,
+      "last_date": null,
+      "form": [],
+      "name": "Bryant",
+      "abbr": "BRY"
+    },
+    "154": {
+      "off": 1.50288561267892,
+      "def": -2.9667991681153194,
+      "last_date": null,
+      "form": [],
+      "name": "Wake Forest",
+      "abbr": "WAKE"
+    },
+    "2448": {
+      "off": -2.038949818486874,
+      "def": 3.4307988592808005,
+      "last_date": null,
+      "form": [],
+      "name": "NC A&T",
+      "abbr": "NCAT"
+    },
+    "2116": {
+      "off": -1.2202608882570496,
+      "def": -1.9373609578457742,
+      "last_date": null,
+      "form": [],
+      "name": "UCF",
+      "abbr": "UCF"
+    },
+    "160": {
+      "off": -0.996964059594122,
+      "def": 1.5297869252350456,
+      "last_date": null,
+      "form": [],
+      "name": "New Hampshire",
+      "abbr": "UNH"
+    },
+    "2084": {
+      "off": -2.0373262778826877,
+      "def": 0.20104540901620688,
+      "last_date": null,
+      "form": [],
+      "name": "Buffalo",
+      "abbr": "BUFF"
+    },
+    "322": {
+      "off": -2.706638224396061,
+      "def": 1.233698570687778,
+      "last_date": null,
+      "form": [],
+      "name": "Lafayette",
+      "abbr": "LAF"
+    },
+    "189": {
+      "off": -5.009170791952772,
+      "def": -0.634668854151051,
+      "last_date": null,
+      "form": [],
+      "name": "Bowling Green",
+      "abbr": "BGSU"
+    },
+    "2230": {
+      "off": -1.3790922569278332,
+      "def": 2.722982597820112,
+      "last_date": null,
+      "form": [],
+      "name": "Fordham",
+      "abbr": "FOR"
+    },
+    "2117": {
+      "off": -2.6038583590255504,
+      "def": -1.440413956837911,
+      "last_date": null,
+      "form": [],
+      "name": "C Michigan",
+      "abbr": "CMU"
+    },
+    "2115": {
+      "off": -1.2839968584390067,
+      "def": 3.1633774438678355,
+      "last_date": null,
+      "form": [],
+      "name": "C Connecticut",
+      "abbr": "CCSU"
+    },
+    "8": {
+      "off": 3.4002053929553187,
+      "def": 0.8422665335268934,
+      "last_date": null,
+      "form": [],
+      "name": "Arkansas",
+      "abbr": "ARK"
+    },
+    "2029": {
+      "off": -2.3975144830810775,
+      "def": 3.465995480340505,
+      "last_date": null,
+      "form": [],
+      "name": "AR-Pine Bluff",
+      "abbr": "UAPB"
+    },
+    "2649": {
+      "off": 1.2737513950565382,
+      "def": -6.1512908821380705,
+      "last_date": null,
+      "form": [],
+      "name": "Toledo",
+      "abbr": "TOL"
+    },
+    "2184": {
+      "off": -3.911927406003203,
+      "def": 4.801198798463462,
+      "last_date": null,
+      "form": [],
+      "name": "Duquesne",
+      "abbr": "DUQ"
+    },
+    "152": {
+      "off": 2.834858926733762,
+      "def": -2.9295731435094323,
+      "last_date": null,
+      "form": [],
+      "name": "NC State",
+      "abbr": "NCSU"
+    },
+    "2717": {
+      "off": -1.2908374491856003,
+      "def": 1.3115660049643565,
+      "last_date": null,
+      "form": [],
+      "name": "W Carolina",
+      "abbr": "WCU"
+    },
+    "142": {
+      "off": 0.7153227077382722,
+      "def": -6.209900117690459,
+      "last_date": null,
+      "form": [],
+      "name": "Missouri",
+      "abbr": "MIZ"
+    },
+    "93": {
+      "off": -3.0787057388773937,
+      "def": 3.5371693080501903,
+      "last_date": null,
+      "form": [],
+      "name": "Murray St",
+      "abbr": "MUR"
+    },
+    "2305": {
+      "off": 0.32454828680044345,
+      "def": -1.9919252276168735,
+      "last_date": null,
+      "form": [],
+      "name": "Kansas",
+      "abbr": "KU"
+    },
+    "2815": {
+      "off": -3.57864853099033,
+      "def": 0.3772481990395726,
+      "last_date": null,
+      "form": [],
+      "name": "Lindenwood",
+      "abbr": "LIN"
+    },
+    "38": {
+      "off": -1.5503667005318125,
+      "def": 0.13620192944657306,
+      "last_date": null,
+      "form": [],
+      "name": "Colorado",
+      "abbr": "COLO"
+    },
+    "2449": {
+      "off": 4.206607779800069,
+      "def": -4.9364704780828585,
+      "last_date": null,
+      "form": [],
+      "name": "N Dakota St",
+      "abbr": "NDSU"
+    },
+    "55": {
+      "off": -0.8417966372030745,
+      "def": -1.5594530070678596,
+      "last_date": null,
+      "form": [],
+      "name": "Jax State",
+      "abbr": "JVST"
+    },
+    "324": {
+      "off": -1.8854753136690223,
+      "def": 2.7798958055185796,
+      "last_date": null,
+      "form": [],
+      "name": "Coastal",
+      "abbr": "CCU"
+    },
+    "5": {
+      "off": -1.1470502848201587,
+      "def": 2.004802815012624,
+      "last_date": null,
+      "form": [],
+      "name": "UAB",
+      "abbr": "UAB"
+    },
+    "2016": {
+      "off": -3.258044675459537,
+      "def": 3.261714151204459,
+      "last_date": null,
+      "form": [],
+      "name": "Alcorn St",
+      "abbr": "ALCN"
+    },
+    "2655": {
+      "off": 0.5535144159342782,
+      "def": -4.161237252117459,
+      "last_date": null,
+      "form": [],
+      "name": "Tulane",
+      "abbr": "TULN"
+    },
+    "2545": {
+      "off": -3.0922356404814666,
+      "def": 2.2492676262912004,
+      "last_date": null,
+      "form": [],
+      "name": "SE Louisiana",
+      "abbr": "SELA"
+    },
+    "202": {
+      "off": -1.5304533421832018,
+      "def": 1.487742536860562,
+      "last_date": null,
+      "form": [],
+      "name": "Tulsa",
+      "abbr": "TLSA"
+    },
+    "2466": {
+      "off": -3.435090654305835,
+      "def": 7.1871964757894125,
+      "last_date": null,
+      "form": [],
+      "name": "N'Western St",
+      "abbr": "NWST"
+    },
+    "254": {
+      "off": 7.701987783644281,
+      "def": -4.553347488395771,
+      "last_date": null,
+      "form": [],
+      "name": "Utah",
+      "abbr": "UTAH"
+    },
+    "253": {
+      "off": -0.8988000000000003,
+      "def": 0.4368000000000002,
+      "last_date": null,
+      "form": [],
+      "name": "Southern Utah",
+      "abbr": "SUU"
+    },
+    "135": {
+      "off": -0.2858871921106104,
+      "def": -3.2144877682070963,
+      "last_date": null,
+      "form": [],
+      "name": "Minnesota",
+      "abbr": "MINN"
+    },
+    "153": {
+      "off": -2.5829717867610746,
+      "def": -1.664923541265844,
+      "last_date": null,
+      "form": [],
+      "name": "North Carolina",
+      "abbr": "UNC"
+    },
+    "2433": {
+      "off": -5.273670633109396,
+      "def": 0.9978671303112512,
+      "last_date": null,
+      "form": [],
+      "name": "UL Monroe",
+      "abbr": "ULM"
+    },
+    "2296": {
+      "off": -1.285350508544739,
+      "def": 0.97167734317827,
+      "last_date": null,
+      "form": [],
+      "name": "Jackson St",
+      "abbr": "JKST"
+    },
+    "356": {
+      "off": 0.9398775602922537,
+      "def": -3.7539676254847802,
+      "last_date": null,
+      "form": [],
+      "name": "Illinois",
+      "abbr": "ILL"
+    },
+    "2197": {
+      "off": -2.2939396336007687,
+      "def": 1.84644052461655,
+      "last_date": null,
+      "form": [],
+      "name": "E Illinois",
+      "abbr": "EIU"
+    },
+    "23": {
+      "off": -2.7971974656626366,
+      "def": 3.1387366196179873,
+      "last_date": null,
+      "form": [],
+      "name": "San Jos\u00e9 St",
+      "abbr": "SJSU"
+    },
+    "16": {
+      "off": 1.1997026547043834,
+      "def": 0.4909442418077065,
+      "last_date": null,
+      "form": [],
+      "name": "Sacramento St",
+      "abbr": "SAC"
+    },
+    "349": {
+      "off": -1.4690385809166826,
+      "def": -5.592578379686016,
+      "last_date": null,
+      "form": [],
+      "name": "Army",
+      "abbr": "ARMY"
+    },
+    "2329": {
+      "off": -0.7210000000000001,
+      "def": 0.4060000000000001,
+      "last_date": null,
+      "form": [],
+      "name": "Lehigh",
+      "abbr": "LEH"
+    },
+    "201": {
+      "off": 1.2613687479100446,
+      "def": -6.415376769030448,
+      "last_date": null,
+      "form": [],
+      "name": "Oklahoma",
+      "abbr": "OU"
+    },
+    "218": {
+      "off": -0.7055863330253798,
+      "def": 0.8095685129043899,
+      "last_date": null,
+      "form": [],
+      "name": "Temple",
+      "abbr": "TEM"
+    },
+    "127": {
+      "off": 0.3133157133089372,
+      "def": -1.2669231122366043,
+      "last_date": null,
+      "form": [],
+      "name": "Michigan St",
+      "abbr": "MSU"
+    },
+    "2226": {
+      "off": 0.28033242332055375,
+      "def": 2.880058901608516,
+      "last_date": null,
+      "form": [],
+      "name": "FAU",
+      "abbr": "FAU"
+    },
+    "150": {
+      "off": 5.622806916479528,
+      "def": -0.08878317412984571,
+      "last_date": null,
+      "form": [],
+      "name": "Duke",
+      "abbr": "DUKE"
+    },
+    "2210": {
+      "off": -1.370290900437363,
+      "def": 0.8751849806242282,
+      "last_date": null,
+      "form": [],
+      "name": "Elon",
+      "abbr": "ELON"
+    },
+    "275": {
+      "off": -3.606165494704829,
+      "def": -5.923252825259816,
+      "last_date": null,
+      "form": [],
+      "name": "Wisconsin",
+      "abbr": "WIS"
+    },
+    "2711": {
+      "off": 0.49605296127827436,
+      "def": -5.1518720932698,
+      "last_date": null,
+      "form": [],
+      "name": "W Michigan",
+      "abbr": "WMU"
+    },
+    "24": {
+      "off": -1.3511661792756293,
+      "def": -1.5395164219785151,
+      "last_date": null,
+      "form": [],
+      "name": "Stanford",
+      "abbr": "STAN"
+    },
+    "2628": {
+      "off": 2.162082611065346,
+      "def": -3.369538018858106,
+      "last_date": null,
+      "form": [],
+      "name": "TCU",
+      "abbr": "TCU"
+    },
+    "61": {
+      "off": 3.8084283756957293,
+      "def": -7.33136146183406,
+      "last_date": null,
+      "form": [],
+      "name": "Georgia",
+      "abbr": "UGA"
+    },
+    "228": {
+      "off": 1.6907605897248092,
+      "def": -5.826625829740191,
+      "last_date": null,
+      "form": [],
+      "name": "Clemson",
+      "abbr": "CLEM"
+    },
+    "277": {
+      "off": -0.6104864199382595,
+      "def": 0.1123313943042682,
+      "last_date": null,
+      "form": [],
+      "name": "West Virginia",
+      "abbr": "WVU"
+    },
+    "213": {
+      "off": 3.771975129275277,
+      "def": -5.727891928494853,
+      "last_date": null,
+      "form": [],
+      "name": "Penn State",
+      "abbr": "PSU"
+    },
+    "2294": {
+      "off": 2.9620701229382598,
+      "def": -7.478076224204924,
+      "last_date": null,
+      "form": [],
+      "name": "Iowa",
+      "abbr": "IOWA"
+    },
+    "2287": {
+      "off": -1.6096069236958133,
+      "def": -0.2856338280796483,
+      "last_date": null,
+      "form": [],
+      "name": "Illinois St",
+      "abbr": "ILST"
+    },
+    "238": {
+      "off": 7.0463930567394755,
+      "def": -3.4916423978842244,
+      "last_date": null,
+      "form": [],
+      "name": "Vanderbilt",
+      "abbr": "VAN"
+    },
+    "259": {
+      "off": -1.2871625668945943,
+      "def": -0.9378275360607885,
+      "last_date": null,
+      "form": [],
+      "name": "Virginia Tech",
+      "abbr": "VT"
+    },
+    "120": {
+      "off": -1.2103146871589068,
+      "def": 0.08434206525119303,
+      "last_date": null,
+      "form": [],
+      "name": "Maryland",
+      "abbr": "MD"
+    },
+    "41": {
+      "off": 2.3366567666279816,
+      "def": 0.32139118834196645,
+      "last_date": null,
+      "form": [],
+      "name": "UConn",
+      "abbr": "CONN"
+    },
+    "97": {
+      "off": 1.6810905902151017,
+      "def": -4.592986449344766,
+      "last_date": null,
+      "form": [],
+      "name": "Louisville",
+      "abbr": "LOU"
+    },
+    "2046": {
+      "off": -1.502906648238626,
+      "def": -0.4935786512438596,
+      "last_date": null,
+      "form": [],
+      "name": "Austin Peay",
+      "abbr": "APSU"
+    },
+    "2509": {
+      "off": -2.5415741755213404,
+      "def": 0.9418424125784274,
+      "last_date": null,
+      "form": [],
+      "name": "Purdue",
+      "abbr": "PUR"
+    },
+    "282": {
+      "off": -2.8633438215940012,
+      "def": 2.9553089163436903,
+      "last_date": null,
+      "form": [],
+      "name": "Indiana St",
+      "abbr": "INST"
+    },
+    "221": {
+      "off": 2.500925549702923,
+      "def": -2.6910104028509996,
+      "last_date": null,
+      "form": [],
+      "name": "Pitt",
+      "abbr": "PITT"
+    },
+    "2309": {
+      "off": -3.076306836615222,
+      "def": 2.2114366115015875,
+      "last_date": null,
+      "form": [],
+      "name": "Kent State",
+      "abbr": "KENT"
+    },
+    "2426": {
+      "off": 1.8190107294786486,
+      "def": -3.6592099610430973,
+      "last_date": null,
+      "form": [],
+      "name": "Navy",
+      "abbr": "NAVY"
+    },
+    "2083": {
+      "off": -1.0360396610384552,
+      "def": 2.045535417138013,
+      "last_date": null,
+      "form": [],
+      "name": "Bucknell",
+      "abbr": "BUCK"
+    },
+    "2633": {
+      "off": 5.173739739744941,
+      "def": -1.5307861838922934,
+      "last_date": null,
+      "form": [],
+      "name": "Tennessee",
+      "abbr": "TENN"
+    },
+    "236": {
+      "off": -1.9787438465993779,
+      "def": 1.6183902296433534,
+      "last_date": null,
+      "form": [],
+      "name": "Chattanooga",
+      "abbr": "UTC"
+    },
+    "197": {
+      "off": -4.564365625975566,
+      "def": -0.43943000117487185,
+      "last_date": null,
+      "form": [],
+      "name": "Oklahoma St",
+      "abbr": "OKST"
+    },
+    "2571": {
+      "off": -1.6882394005316963,
+      "def": -2.432469079365994,
+      "last_date": null,
+      "form": [],
+      "name": "S Dakota St",
+      "abbr": "SDST"
+    },
+    "2132": {
+      "off": 0.6358457661305794,
+      "def": -1.2632456031034558,
+      "last_date": null,
+      "form": [],
+      "name": "Cincinnati",
+      "abbr": "CIN"
+    },
+    "119": {
+      "off": -0.7387534732121198,
+      "def": 1.434054448395421,
+      "last_date": null,
+      "form": [],
+      "name": "Towson",
+      "abbr": "TOW"
+    },
+    "265": {
+      "off": -0.07913564803918305,
+      "def": -5.456110664880768,
+      "last_date": null,
+      "form": [],
+      "name": "Washington St",
+      "abbr": "WSU"
+    },
+    "2502": {
+      "off": -2.906931965535871,
+      "def": 4.37875939667324,
+      "last_date": null,
+      "form": [],
+      "name": "Portland St",
+      "abbr": "PRST"
+    },
+    "194": {
+      "off": 4.294489288103696,
+      "def": -10.103516885618042,
+      "last_date": null,
+      "form": [],
+      "name": "Ohio State",
+      "abbr": "OSU"
+    },
+    "2006": {
+      "off": -2.519326513181143,
+      "def": -0.2739725164177525,
+      "last_date": null,
+      "form": [],
+      "name": "Akron",
+      "abbr": "AKR"
+    },
+    "251": {
+      "off": 4.460536797664551,
+      "def": -4.57312173959818,
+      "last_date": null,
+      "form": [],
+      "name": "Texas",
+      "abbr": "TEX"
+    },
+    "36": {
+      "off": -3.781045926670234,
+      "def": 2.0027876349201925,
+      "last_date": null,
+      "form": [],
+      "name": "Colorado St",
+      "abbr": "CSU"
+    },
+    "57": {
+      "off": -0.12955961356533385,
+      "def": -3.6909878951511677,
+      "last_date": null,
+      "form": [],
+      "name": "Florida",
+      "abbr": "FLA"
+    },
+    "2390": {
+      "off": 4.530118553993422,
+      "def": -9.91931786995057,
+      "last_date": null,
+      "form": [],
+      "name": "Miami",
+      "abbr": "MIA"
+    },
+    "84": {
+      "off": 9.76543125718742,
+      "def": -9.932358993625884,
+      "last_date": null,
+      "form": [],
+      "name": "Indiana",
+      "abbr": "IU"
+    },
+    "2229": {
+      "off": 1.0075078629349914,
+      "def": 2.0026356062782793,
+      "last_date": null,
+      "form": [],
+      "name": "FIU",
+      "abbr": "FIU"
+    },
+    "158": {
+      "off": 0.7956953571865917,
+      "def": -1.67859619413372,
+      "last_date": null,
+      "form": [],
+      "name": "Nebraska",
+      "abbr": "NEB"
+    },
+    "2638": {
+      "off": -1.870576069996872,
+      "def": 3.6677172638207747,
+      "last_date": null,
+      "form": [],
+      "name": "UTEP",
+      "abbr": "UTEP"
+    },
+    "113": {
+      "off": -6.6967918164449705,
+      "def": 5.821068667976815,
+      "last_date": null,
+      "form": [],
+      "name": "UMass",
+      "abbr": "MASS"
+    },
+    "2199": {
+      "off": -1.4296137748024909,
+      "def": 0.5278960065158629,
+      "last_date": null,
+      "form": [],
+      "name": "E Michigan",
+      "abbr": "EMU"
+    },
+    "2026": {
+      "off": -3.0018485396964563,
+      "def": 1.2572734029343893,
+      "last_date": null,
+      "form": [],
+      "name": "App State",
+      "abbr": "APP"
+    },
+    "2193": {
+      "off": -0.619118739769809,
+      "def": 2.9595099027597787,
+      "last_date": null,
+      "form": [],
+      "name": "ETSU",
+      "abbr": "ETSU"
+    },
+    "66": {
+      "off": 0.6662212188610082,
+      "def": -4.139799283231269,
+      "last_date": null,
+      "form": [],
+      "name": "Iowa State",
+      "abbr": "ISU"
+    },
+    "155": {
+      "off": -0.7913128304135686,
+      "def": -1.1968878029438452,
+      "last_date": null,
+      "form": [],
+      "name": "North Dakota",
+      "abbr": "UND"
+    },
+    "183": {
+      "off": -2.947889540863641,
+      "def": 2.1849540162778567,
+      "last_date": null,
+      "form": [],
+      "name": "Syracuse",
+      "abbr": "SYR"
+    },
+    "195": {
+      "off": 0.8877981666365647,
+      "def": -1.5198421504511332,
+      "last_date": null,
+      "form": [],
+      "name": "Ohio",
+      "abbr": "OHIO"
+    },
+    "2636": {
+      "off": 4.974392119122042,
+      "def": -1.1944089930138304,
+      "last_date": null,
+      "form": [],
+      "name": "UTSA",
+      "abbr": "UTSA"
+    },
+    "338": {
+      "off": -0.34156501139148887,
+      "def": 0.3575810135804429,
+      "last_date": null,
+      "form": [],
+      "name": "Kennesaw St",
+      "abbr": "KENN"
+    },
+    "2005": {
+      "off": -0.3399624893389017,
+      "def": -0.9245573367567745,
+      "last_date": null,
+      "form": [],
+      "name": "Air Force",
+      "abbr": "AFA"
+    },
+    "2771": {
+      "off": -2.9730653625516172,
+      "def": 0.8057166805229047,
+      "last_date": null,
+      "form": [],
+      "name": "Merrimack",
+      "abbr": "MRMK"
+    },
+    "77": {
+      "off": -0.029006707828492684,
+      "def": -4.087827670932873,
+      "last_date": null,
+      "form": [],
+      "name": "Northwestern",
+      "abbr": "NU"
+    },
+    "193": {
+      "off": -1.4776607223023173,
+      "def": -2.4900906520143735,
+      "last_date": null,
+      "form": [],
+      "name": "Miami OH",
+      "abbr": "M-OH"
+    },
+    "2459": {
+      "off": -3.6974627093352788,
+      "def": 0.11198787322091608,
+      "last_date": null,
+      "form": [],
+      "name": "N Illinois",
+      "abbr": "NIU"
+    },
+    "2710": {
+      "off": -3.53062043706272,
+      "def": 4.119506578244723,
+      "last_date": null,
+      "form": [],
+      "name": "W Illinois",
+      "abbr": "WIU"
+    },
+    "290": {
+      "off": -0.715164825102383,
+      "def": 0.0901616776481533,
+      "last_date": null,
+      "form": [],
+      "name": "GA Southern",
+      "abbr": "GASO"
+    },
+    "68": {
+      "off": 0.8284078614753266,
+      "def": -3.0165721618322388,
+      "last_date": null,
+      "form": [],
+      "name": "Boise St",
+      "abbr": "BOIS"
+    },
+    "2579": {
+      "off": 0.6691318369566065,
+      "def": -5.041800818033075,
+      "last_date": null,
+      "form": [],
+      "name": "South Carolina",
+      "abbr": "SC"
+    },
+    "295": {
+      "off": 1.0371621930548607,
+      "def": -5.9020182580266045,
+      "last_date": null,
+      "form": [],
+      "name": "Old Dominion",
+      "abbr": "ODU"
+    },
+    "276": {
+      "off": -0.30156776430013554,
+      "def": 0.27925489832283684,
+      "last_date": null,
+      "form": [],
+      "name": "Marshall",
+      "abbr": "MRSH"
+    },
+    "2619": {
+      "off": -2.7189007575774755,
+      "def": 1.4736702964174593,
+      "last_date": null,
+      "form": [],
+      "name": "Stony Brook",
+      "abbr": "STBK"
+    },
+    "25": {
+      "off": 0.8717043701666786,
+      "def": -0.3846192890854834,
+      "last_date": null,
+      "form": [],
+      "name": "California",
+      "abbr": "CAL"
+    },
+    "302": {
+      "off": -1.0582876322482142,
+      "def": 2.284423851356339,
+      "last_date": null,
+      "form": [],
+      "name": "UC Davis",
+      "abbr": "UCD"
+    },
+    "6": {
+      "off": -0.10923039311472506,
+      "def": 1.8354493615999419,
+      "last_date": null,
+      "form": [],
+      "name": "South Alabama",
+      "abbr": "USA"
+    },
+    "249": {
+      "off": 8.111152391989231,
+      "def": 0.569272340662363,
+      "last_date": null,
+      "form": [],
+      "name": "North Texas",
+      "abbr": "UNT"
+    },
+    "344": {
+      "off": 2.3760011606968336,
+      "def": 1.1993154891350115,
+      "last_date": null,
+      "form": [],
+      "name": "Mississippi St",
+      "abbr": "MSST"
+    },
+    "2198": {
+      "off": -3.055788293075847,
+      "def": 2.376381302393638,
+      "last_date": null,
+      "form": [],
+      "name": "E Kentucky",
+      "abbr": "EKU"
+    },
+    "2335": {
+      "off": -0.08972683876668874,
+      "def": 0.5730214245497527,
+      "last_date": null,
+      "form": [],
+      "name": "Liberty",
+      "abbr": "LIB"
+    },
+    "2097": {
+      "off": -2.684183383187002,
+      "def": 3.7362713456365935,
+      "last_date": null,
+      "form": [],
+      "name": "Campbell",
+      "abbr": "CAM"
+    },
+    "258": {
+      "off": -0.053775247706684404,
+      "def": -6.178107423686468,
+      "last_date": null,
+      "form": [],
+      "name": "Virginia",
+      "abbr": "UVA"
+    },
+    "257": {
+      "off": -1.6743070588328055,
+      "def": 0.23633651686151502,
+      "last_date": null,
+      "form": [],
+      "name": "Richmond",
+      "abbr": "RICH"
+    },
+    "151": {
+      "off": 2.0350916487130277,
+      "def": -4.120592917232534,
+      "last_date": null,
+      "form": [],
+      "name": "East Carolina",
+      "abbr": "ECU"
+    },
+    "2450": {
+      "off": -1.9055836605309433,
+      "def": 2.0333850519680303,
+      "last_date": null,
+      "form": [],
+      "name": "Norfolk St",
+      "abbr": "NORF"
+    },
+    "204": {
+      "off": -4.217409745701544,
+      "def": 0.0042827286413620325,
+      "last_date": null,
+      "form": [],
+      "name": "Oregon St",
+      "abbr": "ORST"
+    },
+    "304": {
+      "off": -0.572737584181132,
+      "def": 0.4968052383294205,
+      "last_date": null,
+      "form": [],
+      "name": "Idaho St",
+      "abbr": "IDST"
+    },
+    "333": {
+      "off": 3.142016227146967,
+      "def": -5.80636469991547,
+      "last_date": null,
+      "form": [],
+      "name": "Alabama",
+      "abbr": "ALA"
+    },
+    "98": {
+      "off": 1.0827658105510007,
+      "def": -1.3821155997189218,
+      "last_date": null,
+      "form": [],
+      "name": "Western KY",
+      "abbr": "WKU"
+    },
+    "145": {
+      "off": 7.308820772149625,
+      "def": -4.548990373428192,
+      "last_date": null,
+      "form": [],
+      "name": "Ole Miss",
+      "abbr": "MISS"
+    },
+    "231": {
+      "off": -1.4437352505642973,
+      "def": 2.1551781263196386,
+      "last_date": null,
+      "form": [],
+      "name": "Furman",
+      "abbr": "FUR"
+    },
+    "2306": {
+      "off": 2.1475684528877776,
+      "def": -2.7554809704825614,
+      "last_date": null,
+      "form": [],
+      "name": "Kansas St",
+      "abbr": "KSU"
+    },
+    "2630": {
+      "off": -4.034787450743923,
+      "def": 1.8614577794407021,
+      "last_date": null,
+      "form": [],
+      "name": "UT Martin",
+      "abbr": "UTM"
+    },
+    "2032": {
+      "off": -0.7637885638752626,
+      "def": -0.30071082124805343,
+      "last_date": null,
+      "form": [],
+      "name": "Arkansas St",
+      "abbr": "ARST"
+    },
+    "2110": {
+      "off": -1.8496591510864175,
+      "def": 2.9647444305267463,
+      "last_date": null,
+      "form": [],
+      "name": "C Arkansas",
+      "abbr": "CARK"
+    },
+    "58": {
+      "off": 5.522896427536484,
+      "def": -3.245692960806627,
+      "last_date": null,
+      "form": [],
+      "name": "South Florida",
+      "abbr": "USF"
+    },
+    "2065": {
+      "off": -3.209954573312914,
+      "def": 2.6226538631899383,
+      "last_date": null,
+      "form": [],
+      "name": "Bethune",
+      "abbr": "BCU"
+    },
+    "239": {
+      "off": 2.4944581398316896,
+      "def": 0.47553314978334504,
+      "last_date": null,
+      "form": [],
+      "name": "Baylor",
+      "abbr": "BAY"
+    },
+    "2627": {
+      "off": -0.18274241656556733,
+      "def": 0.15462543239992033,
+      "last_date": null,
+      "form": [],
+      "name": "Tarleton St",
+      "abbr": "TAR"
+    },
+    "248": {
+      "off": 1.7076342662931798,
+      "def": -1.9415274010157368,
+      "last_date": null,
+      "form": [],
+      "name": "Houston",
+      "abbr": "HOU"
+    },
+    "2439": {
+      "off": 3.7995446758759526,
+      "def": -0.8731049971576316,
+      "last_date": null,
+      "form": [],
+      "name": "UNLV",
+      "abbr": "UNLV"
+    },
+    "2393": {
+      "off": -2.067718184894674,
+      "def": 2.0630028452866607,
+      "last_date": null,
+      "form": [],
+      "name": "MTSU",
+      "abbr": "MTSU"
+    },
+    "2635": {
+      "off": -1.4379191746040352,
+      "def": 1.274414609545015,
+      "last_date": null,
+      "form": [],
+      "name": "Tennessee Tech",
+      "abbr": "TNTC"
+    },
+    "242": {
+      "off": -4.56416439901496,
+      "def": 1.3050302867900418,
+      "last_date": null,
+      "form": [],
+      "name": "Rice",
+      "abbr": "RICE"
+    },
+    "2534": {
+      "off": -5.047690739038829,
+      "def": 4.114434461841443,
+      "last_date": null,
+      "form": [],
+      "name": "Sam Houston",
+      "abbr": "SHSU"
+    },
+    "2653": {
+      "off": -2.7156090161820425,
+      "def": -2.6761196956197066,
+      "last_date": null,
+      "form": [],
+      "name": "Troy",
+      "abbr": "TROY"
+    },
+    "235": {
+      "off": 0.33861425100149334,
+      "def": -2.306227396877468,
+      "last_date": null,
+      "form": [],
+      "name": "Memphis",
+      "abbr": "MEM"
+    },
+    "2453": {
+      "off": -2.2494500180012524,
+      "def": 2.025032416216398,
+      "last_date": null,
+      "form": [],
+      "name": "North Alabama",
+      "abbr": "UNA"
+    },
+    "2483": {
+      "off": 7.125287047418637,
+      "def": -6.720555604230884,
+      "last_date": null,
+      "form": [],
+      "name": "Oregon",
+      "abbr": "ORE"
+    },
+    "70": {
+      "off": -2.132127545724904,
+      "def": -2.0571744401316963,
+      "last_date": null,
+      "form": [],
+      "name": "Idaho",
+      "abbr": "IDHO"
+    },
+    "245": {
+      "off": 3.820008276381971,
+      "def": -5.76469742503131,
+      "last_date": null,
+      "form": [],
+      "name": "Texas A&M",
+      "abbr": "TA&M"
+    },
+    "87": {
+      "off": 8.259460780886924,
+      "def": -7.332212076282986,
+      "last_date": null,
+      "form": [],
+      "name": "Notre Dame",
+      "abbr": "ND"
+    },
+    "130": {
+      "off": 1.8937425056784236,
+      "def": -3.9994673994174317,
+      "last_date": null,
+      "form": [],
+      "name": "Michigan",
+      "abbr": "MICH"
+    },
+    "278": {
+      "off": -0.9564446757811929,
+      "def": -4.907704014449733,
+      "last_date": null,
+      "form": [],
+      "name": "Fresno St",
+      "abbr": "FRES"
+    },
+    "2": {
+      "off": 1.7579602858131549,
+      "def": -4.738585284662304,
+      "last_date": null,
+      "form": [],
+      "name": "Auburn",
+      "abbr": "AUB"
+    },
+    "2010": {
+      "off": -1.9854067604199956,
+      "def": 2.6360682870543117,
+      "last_date": null,
+      "form": [],
+      "name": "Alabama A&M",
+      "abbr": "AAMU"
+    },
+    "26": {
+      "off": -1.8137537292976225,
+      "def": -0.30140539785795173,
+      "last_date": null,
+      "form": [],
+      "name": "UCLA",
+      "abbr": "UCLA"
+    },
+    "2641": {
+      "off": 5.235570822152972,
+      "def": -9.516772527138592,
+      "last_date": null,
+      "form": [],
+      "name": "Texas Tech",
+      "abbr": "TTU"
+    },
+    "2000": {
+      "off": -0.9586795145993535,
+      "def": 1.6941711867893448,
+      "last_date": null,
+      "form": [],
+      "name": "Abilene Chrstn",
+      "abbr": "ACU"
+    },
+    "96": {
+      "off": -0.9046990152884093,
+      "def": -2.207742214718968,
+      "last_date": null,
+      "form": [],
+      "name": "Kentucky",
+      "abbr": "UK"
+    },
+    "2572": {
+      "off": -0.6921379381463966,
+      "def": 0.9086380923361697,
+      "last_date": null,
+      "form": [],
+      "name": "Southern Miss",
+      "abbr": "USM"
+    },
+    "252": {
+      "off": 2.8322692491253485,
+      "def": -5.58812407218257,
+      "last_date": null,
+      "form": [],
+      "name": "BYU",
+      "abbr": "BYU"
+    },
+    "79": {
+      "off": -1.7239331788273693,
+      "def": 0.9068041961792198,
+      "last_date": null,
+      "form": [],
+      "name": "S Illinois",
+      "abbr": "SIU"
+    },
+    "2247": {
+      "off": -3.173645009390652,
+      "def": 2.3136508163140723,
+      "last_date": null,
+      "form": [],
+      "name": "Georgia St",
+      "abbr": "GAST"
+    },
+    "2277": {
+      "off": -2.1524529730738697,
+      "def": 3.032098116856289,
+      "last_date": null,
+      "form": [],
+      "name": "Hou Christian",
+      "abbr": "HCU"
+    },
+    "309": {
+      "off": -1.475194937073874,
+      "def": 0.06777245617455241,
+      "last_date": null,
+      "form": [],
+      "name": "Louisiana",
+      "abbr": "UL"
+    },
+    "2755": {
+      "off": -1.7123206225672611,
+      "def": 2.843143236570702,
+      "last_date": null,
+      "form": [],
+      "name": "Grambling",
+      "abbr": "GRAM"
+    },
+    "2348": {
+      "off": -0.8728047281373528,
+      "def": -2.037178918469083,
+      "last_date": null,
+      "form": [],
+      "name": "Louisiana Tech",
+      "abbr": "LT"
+    },
+    "2447": {
+      "off": -3.1997131540967105,
+      "def": 0.7382906483758384,
+      "last_date": null,
+      "form": [],
+      "name": "Nicholls",
+      "abbr": "NICH"
+    },
+    "21": {
+      "off": -0.2414264481101207,
+      "def": -4.3611180409692,
+      "last_date": null,
+      "form": [],
+      "name": "San Diego St",
+      "abbr": "SDSU"
+    },
+    "2837": {
+      "off": -3.262571146649341,
+      "def": 4.335706902258211,
+      "last_date": null,
+      "form": [],
+      "name": "E Texas A&M",
+      "abbr": "ETAM"
+    },
+    "328": {
+      "off": 1.8048459748642118,
+      "def": -0.4250254945206736,
+      "last_date": null,
+      "form": [],
+      "name": "Utah State",
+      "abbr": "USU"
+    },
+    "2523": {
+      "off": -2.185431620693743,
+      "def": 1.1172171402203972,
+      "last_date": null,
+      "form": [],
+      "name": "Robert Morris",
+      "abbr": "RMU"
+    },
+    "2429": {
+      "off": -5.557461935290966,
+      "def": 1.4798534889785362,
+      "last_date": null,
+      "form": [],
+      "name": "Charlotte",
+      "abbr": "CLT"
+    },
+    "256": {
+      "off": 5.085072895276335,
+      "def": -4.13160121946537,
+      "last_date": null,
+      "form": [],
+      "name": "James Madison",
+      "abbr": "JMU"
+    },
+    "326": {
+      "off": 4.017412387652644,
+      "def": -0.8451517166735719,
+      "last_date": null,
+      "form": [],
+      "name": "Texas St",
+      "abbr": "TXST"
+    },
+    "2320": {
+      "off": -2.003329780219508,
+      "def": 1.5020628181925606,
+      "last_date": null,
+      "form": [],
+      "name": "Lamar",
+      "abbr": "LAM"
+    },
+    "149": {
+      "off": 1.316666849004274,
+      "def": 0.0037153163552791357,
+      "last_date": null,
+      "form": [],
+      "name": "Montana",
+      "abbr": "MONT"
+    },
+    "2623": {
+      "off": -0.059215579817137265,
+      "def": 1.519630215123694,
+      "last_date": null,
+      "form": [],
+      "name": "Missouri St",
+      "abbr": "MOST"
+    },
+    "166": {
+      "off": -3.401544862269335,
+      "def": 0.8998632858054955,
+      "last_date": null,
+      "form": [],
+      "name": "New Mexico St",
+      "abbr": "NMSU"
+    },
+    "2546": {
+      "off": -0.8603385326562065,
+      "def": 0.6756889333945337,
+      "last_date": null,
+      "form": [],
+      "name": "SE Missouri",
+      "abbr": "SEMO"
+    },
+    "12": {
+      "off": 2.3308494689390753,
+      "def": -5.331341764018063,
+      "last_date": null,
+      "form": [],
+      "name": "Arizona",
+      "abbr": "ARIZ"
+    },
+    "9": {
+      "off": 0.5888212605373169,
+      "def": -3.5110680691052822,
+      "last_date": null,
+      "form": [],
+      "name": "Arizona St",
+      "abbr": "ASU"
+    },
+    "2751": {
+      "off": -5.547919837810033,
+      "def": -3.5546037706682836,
+      "last_date": null,
+      "form": [],
+      "name": "Wyoming",
+      "abbr": "WYO"
+    },
+    "264": {
+      "off": 3.991226496551573,
+      "def": -5.954703747047275,
+      "last_date": null,
+      "form": [],
+      "name": "Washington",
+      "abbr": "WASH"
+    },
+    "2692": {
+      "off": -2.504117890777073,
+      "def": 4.382601406661696,
+      "last_date": null,
+      "form": [],
+      "name": "Weber St",
+      "abbr": "WEB"
+    },
+    "99": {
+      "off": 0.09803709462264043,
+      "def": -4.597901166508876,
+      "last_date": null,
+      "form": [],
+      "name": "LSU",
+      "abbr": "LSU"
+    },
+    "30": {
+      "off": 4.046691507041811,
+      "def": -3.6162429815119066,
+      "last_date": null,
+      "form": [],
+      "name": "USC",
+      "abbr": "USC"
+    },
+    "227": {
+      "off": -1.5044403071061647,
+      "def": 1.828120779982043,
+      "last_date": null,
+      "form": [],
+      "name": "Rhode Island",
+      "abbr": "URI"
+    },
+    "2377": {
+      "off": -2.955884291541342,
+      "def": 1.9247084582782952,
+      "last_date": null,
+      "form": [],
+      "name": "McNeese",
+      "abbr": "MCN"
+    },
+    "2050": {
+      "off": -4.306245041991221,
+      "def": 1.829968885590226,
+      "last_date": null,
+      "form": [],
+      "name": "Ball State",
+      "abbr": "BALL"
+    },
+    "2598": {
+      "off": -3.9779979220414896,
+      "def": 1.0623703687611386,
+      "last_date": null,
+      "form": [],
+      "name": "Saint Francis",
+      "abbr": "SFPA"
+    },
+    "3101": {
+      "off": -0.3613400000000001,
+      "def": 1.4589400000000001,
+      "last_date": null,
+      "form": [],
+      "name": "Utah Tech",
+      "abbr": "UTU"
+    },
+    "233": {
+      "off": -1.3771994109814394,
+      "def": 1.9451261563895643,
+      "last_date": null,
+      "form": [],
+      "name": "South Dakota",
+      "abbr": "SDAK"
+    },
+    "2634": {
+      "off": -2.0973186611311077,
+      "def": 2.55173962845306,
+      "last_date": null,
+      "form": [],
+      "name": "Tennessee St",
+      "abbr": "TNST"
+    },
+    "103": {
+      "off": -0.18904671013689678,
+      "def": -0.020046634383584117,
+      "last_date": null,
+      "form": [],
+      "name": "Boston College",
+      "abbr": "BC"
+    },
+    "50": {
+      "off": -2.080477767514136,
+      "def": 2.858158968595322,
+      "last_date": null,
+      "form": [],
+      "name": "Florida A&M",
+      "abbr": "FAMU"
+    },
+    "399": {
+      "off": -1.7501891022169027,
+      "def": 0.5580632769142533,
+      "last_date": null,
+      "form": [],
+      "name": "UAlbany",
+      "abbr": "ALB"
+    },
+    "2241": {
+      "off": -0.26795112186481385,
+      "def": 2.7868273013137195,
+      "last_date": null,
+      "form": [],
+      "name": "Gardner-Webb",
+      "abbr": "GWEB"
+    },
+    "2535": {
+      "off": -3.395884936140604,
+      "def": 1.08658191098869,
+      "last_date": null,
+      "form": [],
+      "name": "Samford",
+      "abbr": "SAM"
+    },
+    "2729": {
+      "off": -0.7850673826005079,
+      "def": 1.7904973984389643,
+      "last_date": null,
+      "form": [],
+      "name": "William & Mary",
+      "abbr": "W&M"
+    },
+    "13": {
+      "off": -1.2320955456833205,
+      "def": 1.5831522129871467,
+      "last_date": null,
+      "form": [],
+      "name": "Cal Poly",
+      "abbr": "CP"
+    },
+    "2458": {
+      "off": -0.5483511130342645,
+      "def": 0.39241626610179653,
+      "last_date": null,
+      "form": [],
+      "name": "N Colorado",
+      "abbr": "UNCO"
+    },
+    "2640": {
+      "off": -2.057525951039635,
+      "def": 1.5903607669353168,
+      "last_date": null,
+      "form": [],
+      "name": "Texas Southern",
+      "abbr": "TXSO"
+    },
+    "2617": {
+      "off": -1.9740065099699309,
+      "def": 0.13332157380426496,
+      "last_date": null,
+      "form": [],
+      "name": "SF Austin",
+      "abbr": "SFA"
+    },
+    "2341": {
+      "off": -2.260779530425811,
+      "def": 1.3334286970833706,
+      "last_date": null,
+      "form": [],
+      "name": "Long Island",
+      "abbr": "LIU"
+    },
+    "2464": {
+      "off": -0.6162962354470929,
+      "def": -0.49543241380623537,
+      "last_date": null,
+      "form": [],
+      "name": "N Arizona",
+      "abbr": "NAU"
+    },
+    "2504": {
+      "off": -1.3221354453164937,
+      "def": 1.2569147706438661,
+      "last_date": null,
+      "form": [],
+      "name": "Prairie View",
+      "abbr": "PV"
+    },
+    "2678": {
+      "off": -1.698234312187279,
+      "def": 2.2652863192698494,
+      "last_date": null,
+      "form": [],
+      "name": "VMI",
+      "abbr": "VMI"
+    },
+    "2415": {
+      "off": -2.6381739061768297,
+      "def": 2.1435573020718,
+      "last_date": null,
+      "form": [],
+      "name": "Morgan St",
+      "abbr": "MORG"
+    },
+    "2428": {
+      "off": -1.8819887734161083,
+      "def": 2.086221060077147,
+      "last_date": null,
+      "form": [],
+      "name": "NC Central",
+      "abbr": "NCCU"
+    },
+    "2569": {
+      "off": -1.7796386524943228,
+      "def": 2.843385958343397,
+      "last_date": null,
+      "form": [],
+      "name": "SC State",
+      "abbr": "SCST"
+    },
+    "2142": {
+      "off": -0.5743514819802378,
+      "def": 2.3754385840806753,
+      "last_date": null,
+      "form": [],
+      "name": "Colgate",
+      "abbr": "COLG"
+    },
+    "2460": {
+      "off": -1.1784909520574267,
+      "def": 2.008504257732613,
+      "last_date": null,
+      "form": [],
+      "name": "Northern Iowa",
+      "abbr": "UNI"
+    },
+    "222": {
+      "off": -0.4575975399372631,
+      "def": 1.1732898780213752,
+      "last_date": null,
+      "form": [],
+      "name": "Villanova",
+      "abbr": "VILL"
+    },
+    "331": {
+      "off": -2.117541239270343,
+      "def": 2.114084165825733,
+      "last_date": null,
+      "form": [],
+      "name": "E Washington",
+      "abbr": "EWU"
+    },
+    "2754": {
+      "off": 0.8132327354662914,
+      "def": 1.6428787242386385,
+      "last_date": null,
+      "form": [],
+      "name": "Youngstown St",
+      "abbr": "YSU"
+    },
+    "219": {
+      "off": -0.07608720000000009,
+      "def": -0.1837108,
+      "last_date": null,
+      "form": [],
+      "name": "Penn",
+      "abbr": "PENN"
+    },
+    "2405": {
+      "off": 1.2210622410965057,
+      "def": 1.8834619715756316,
+      "last_date": null,
+      "form": [],
+      "name": "Monmouth",
+      "abbr": "MONM"
+    },
+    "107": {
+      "off": -0.8931734737046197,
+      "def": -0.2773080396867443,
+      "last_date": null,
+      "form": [],
+      "name": "Holy Cross",
+      "abbr": "HC"
+    },
+    "2529": {
+      "off": -0.8354349920000002,
+      "def": 0.5420087120000001,
+      "last_date": null,
+      "form": [],
+      "name": "Sacred Heart",
+      "abbr": "SHU"
+    },
+    "2681": {
+      "off": -3.513770401893198,
+      "def": 3.2503906894185617,
+      "last_date": null,
+      "form": [],
+      "name": "Wagner",
+      "abbr": "WAG"
+    },
+    "311": {
+      "off": -2.4095709985270086,
+      "def": 1.8867075714596369,
+      "last_date": null,
+      "form": [],
+      "name": "Maine",
+      "abbr": "ME"
+    },
+    "2382": {
+      "off": -0.7168081174353782,
+      "def": 2.348689631598994,
+      "last_date": null,
+      "form": [],
+      "name": "Mercer",
+      "abbr": "MER"
+    },
+    "2127": {
+      "off": -3.9608387387155672,
+      "def": 0.32049976836728367,
+      "last_date": null,
+      "form": [],
+      "name": "Charleston So",
+      "abbr": "CHSO"
+    },
+    "2643": {
+      "off": -3.1596136873405714,
+      "def": 1.3801129905258445,
+      "last_date": null,
+      "form": [],
+      "name": "The Citadel",
+      "abbr": "CIT"
+    },
+    "2747": {
+      "off": -1.7683463825283394,
+      "def": 1.2053986932939553,
+      "last_date": null,
+      "form": [],
+      "name": "Wofford",
+      "abbr": "WOF"
+    },
+    "2011": {
+      "off": 0.8833789499758039,
+      "def": 1.5090507652418739,
+      "last_date": null,
+      "form": [],
+      "name": "Alabama St",
+      "abbr": "ALST"
+    },
+    "2916": {
+      "off": -0.7619127272684544,
+      "def": 1.0038325875718088,
+      "last_date": null,
+      "form": [],
+      "name": "Incarnate Word",
+      "abbr": "UIW"
+    },
+    "2385": {
+      "off": -0.026690677229326918,
+      "def": 1.6320103687794176,
+      "last_date": null,
+      "form": [],
+      "name": "Mercyhurst",
+      "abbr": "MERC"
+    },
+    "2582": {
+      "off": -1.2636922204978613,
+      "def": 1.7846851118174063,
+      "last_date": null,
+      "form": [],
+      "name": "Southern",
+      "abbr": "SOU"
+    },
+    "2900": {
+      "off": -0.6437672137183237,
+      "def": 1.7251983952558674,
+      "last_date": null,
+      "form": [],
+      "name": "St Thomas (MN)",
+      "abbr": "STMN"
+    }
+  }
+}
