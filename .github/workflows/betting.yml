@@ -35,7 +35,7 @@ jobs:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}     # optional; blank is fine
         run: |
           python cron_task.py
-          python build_results_page.py
+          python build_cloud.py
 
       - name: Commit updated state
         run: |

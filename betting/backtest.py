@@ -403,6 +403,150 @@ def cfb_priors_ablation(seasons: list[int], *, test_from: int | None = None,
             "improvement": round((base_mae or 0) - (prior_mae or 0), 3)}
 
 
+def keynumber_ablation(league: str, seasons: list[int], *, test_from: int | None = None,
+                       warmup_games: int = 40, min_gp: int = 3) -> dict:
+    """Do key-number-aware cover probabilities beat a plain normal curve?
+    Compares log-loss + calibration of the two methods on every scoreable
+    spread bet (the model's ATS pick) vs the actual cover outcome."""
+    import math
+    from betting import keynumbers as _kn
+    _norm_cdf = lambda x: 0.5 * (1 + math.erf(x / math.sqrt(2)))
+    seasons = sorted(seasons)
+    if test_from is None:
+        test_from = seasons[1] if len(seasons) > 1 else seasons[0]
+    proj = Projector.fresh(league, {"pace": {"form_w": 0.0 if league == "nfl" else 0.22}})
+    games = history.games(league, seasons) if league == "cfb" else history.nfl_games(seasons)
+    sd = proj.elo.score_sd
+    n = 0
+    ll_norm = ll_key = 0.0
+    cal_norm = {}; cal_key = {}   # bucket -> [sum_pred, sum_outcome, n]
+    cur = None; seen = 0
+    for rec in games:
+        if rec["season"] != cur:
+            if cur is not None:
+                proj.new_season(rec["season"])
+            cur = rec["season"]
+        pg = _pgame(rec)
+        c = rec.get("closing") or {}
+        hs = c.get("home_spread")
+        margin = rec["home_score"] - rec["away_score"]
+        gp = min((proj.elo.teams.get(str(rec["home"]["id"]), {}) or {}).get("gp", 0),
+                 (proj.elo.teams.get(str(rec["away"]["id"]), {}) or {}).get("gp", 0))
+        if rec["season"] >= test_from and seen >= warmup_games and gp >= min_gp and hs is not None:
+            mm = proj.project(pg, anchor=False)["model_margin"]
+            edge = mm + hs
+            if abs(edge) > 1e-6:
+                side = "home" if edge > 0 else "away"
+                # actual cover outcome (skip pushes)
+                diff = (margin + hs) if side == "home" else -(margin + hs)
+                if abs(diff) > 1e-9:
+                    y = 1.0 if diff > 0 else 0.0
+                    p_norm = _norm_cdf(abs(edge) / sd)
+                    p_key = _kn.spread_cover_prob(mm, hs, side, sd, league)[0]
+                    for p, ll_acc, cal in ((p_norm, "n", cal_norm), (p_key, "k", cal_key)):
+                        pc = min(0.999, max(0.001, p))
+                        b = min(9, int(pc * 10))
+                        e = cal.setdefault(b, [0.0, 0.0, 0])
+                        e[0] += pc; e[1] += y; e[2] += 1
+                    ll_norm += -(y * math.log(min(0.999, max(0.001, p_norm))) + (1 - y) * math.log(min(0.999, max(0.001, 1 - p_norm))))
+                    ll_key += -(y * math.log(min(0.999, max(0.001, p_key))) + (1 - y) * math.log(min(0.999, max(0.001, 1 - p_key))))
+                    n += 1
+        proj.process_game(pg)
+        seen += 1
+
+    def _caltable(cal):
+        rows = []
+        for b in sorted(cal):
+            s, o, c = cal[b]
+            rows.append({"pred": round(100 * s / c, 1), "actual": round(100 * o / c, 1), "n": c})
+        return rows
+    return {"league": league, "n": n,
+            "logloss_normal": round(ll_norm / n, 4) if n else None,
+            "logloss_keynumber": round(ll_key / n, 4) if n else None,
+            "improvement": round((ll_norm - ll_key) / n, 5) if n else None,
+            "calibration_normal": _caltable(cal_norm),
+            "calibration_keynumber": _caltable(cal_key)}
+
+
+def calibration_ablation(league: str, seasons: list[int], *, holdout: int | None = None,
+                         warmup_games: int = 40, min_gp: int = 3) -> dict:
+    """Fit isotonic calibration on the training seasons and check whether it
+    lowers Brier on a held-out season (out-of-sample)."""
+    from betting import probcal
+    seasons = sorted(seasons)
+    if holdout is None:
+        holdout = seasons[-1]
+    fw = 0.0 if league == "nfl" else 0.22
+    proj = Projector.fresh(league, {"pace": {"form_w": fw}})
+    games = history.games(league, seasons) if league == "cfb" else history.nfl_games(seasons)
+    train_pairs = []
+    hold = []          # (raw_p, outcome) for holdout season
+    cur = None; seen = 0
+    for rec in games:
+        if rec["season"] != cur:
+            if cur is not None:
+                proj.new_season(rec["season"])
+            cur = rec["season"]
+        pg = _pgame(rec)
+        margin = rec["home_score"] - rec["away_score"]
+        if margin == 0:
+            proj.process_game(pg); seen += 1; continue
+        gp = min((proj.elo.teams.get(str(rec["home"]["id"]), {}) or {}).get("gp", 0),
+                 (proj.elo.teams.get(str(rec["away"]["id"]), {}) or {}).get("gp", 0))
+        if seen >= warmup_games and gp >= min_gp and rec["season"] >= seasons[1]:
+            p = proj.project(pg, anchor=False)["home_win_prob"]
+            y = 1.0 if margin > 0 else 0.0
+            if rec["season"] == holdout:
+                hold.append((p, y))
+            else:
+                train_pairs.append((p, y))
+        proj.process_game(pg); seen += 1
+
+    tp = [p for p, _ in train_pairs]; ty = [y for _, y in train_pairs]
+    curve = probcal.fit(tp, ty)
+    platt = probcal.fit_platt(tp, ty)
+    if not hold:
+        return {"error": "no holdout games"}
+    brier_raw = sum((p - y) ** 2 for p, y in hold) / len(hold)
+    brier_iso = sum((probcal.apply(curve, p) - y) ** 2 for p, y in hold) / len(hold)
+    brier_platt = sum((probcal.apply_platt(platt, p) - y) ** 2 for p, y in hold) / len(hold)
+    return {"league": league, "holdout": holdout, "train_n": len(train_pairs),
+            "holdout_n": len(hold),
+            "brier_raw": round(brier_raw, 4),
+            "brier_isotonic": round(brier_iso, 4),
+            "brier_platt": round(brier_platt, 4),
+            "platt_params": [round(x, 3) for x in platt],
+            "platt_improvement": round(brier_raw - brier_platt, 5),
+            "curve": curve}
+
+
+def fit_winprob_calibration(league: str, seasons: list[int], *,
+                            warmup_games: int = 40, min_gp: int = 3):
+    """Fit Platt win-prob calibration on ALL given seasons (for live use)."""
+    from betting import probcal
+    seasons = sorted(seasons)
+    fw = 0.0 if league == "nfl" else 0.22
+    proj = Projector.fresh(league, {"pace": {"form_w": fw}})
+    games = history.games(league, seasons) if league == "cfb" else history.nfl_games(seasons)
+    preds = []; outs = []
+    cur = None; seen = 0
+    for rec in games:
+        if rec["season"] != cur:
+            if cur is not None:
+                proj.new_season(rec["season"])
+            cur = rec["season"]
+        pg = _pgame(rec)
+        margin = rec["home_score"] - rec["away_score"]
+        if margin != 0:
+            gp = min((proj.elo.teams.get(str(rec["home"]["id"]), {}) or {}).get("gp", 0),
+                     (proj.elo.teams.get(str(rec["away"]["id"]), {}) or {}).get("gp", 0))
+            if seen >= warmup_games and gp >= min_gp and rec["season"] >= seasons[1]:
+                preds.append(proj.project(pg, anchor=False)["home_win_prob"])
+                outs.append(1.0 if margin > 0 else 0.0)
+        proj.process_game(pg); seen += 1
+    return probcal.fit_platt(preds, outs) if preds else None
+
+
 def objective(metrics: dict) -> float:
     """Scalar loss for the calibrator (lower is better): predictive accuracy
     first (margin MAE + Brier), which is robust; ATS ROI is too noisy to

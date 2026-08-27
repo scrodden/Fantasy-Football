@@ -179,6 +179,9 @@ class Projector:
         self.use_epa = flags.get("epa", False)
         self.epa_blend = _epa.BLEND_BY_LEAGUE.get(league, _epa.DEFAULT_BLEND)
         self.qb = _signals.QBTracker()
+        # Win-prob calibration (Platt [a,b]); validated to help CFB, and to be
+        # a no-op (identity) for NFL, so only CFB stores it.
+        self.winprob_platt = (self.elo.meta.get("winprob_platt") if load else None)
         # EPA ratings (NFL: keyed by abbr from PBP; CFB: keyed by CFBD name +
         # an ESPN-id map). Loaded from disk only for the live model.
         self.epa_model = _epa.load(league) if load else None
@@ -314,6 +317,10 @@ class Projector:
         home_score = (total + margin) / 2.0
         away_score = (total - margin) / 2.0
         win_prob = self._win_prob_from_margin(margin)
+        # Gentle Platt recalibration (CFB) so stated probabilities match reality.
+        if self.winprob_platt:
+            from betting import probcal
+            win_prob = probcal.apply_platt(self.winprob_platt, win_prob)
         # Anchor win prob to the de-vigged market moneyline too, so we don't
         # inherit the spread->win-prob conversion's underdog bias.
         hml, aml = mkt.get("home_ml"), mkt.get("away_ml")
