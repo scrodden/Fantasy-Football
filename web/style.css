@@ -378,3 +378,13 @@ tr.sv-best { background: rgba(63,185,80,.08); }
 .bet-strat-detail { background: var(--bg-elev); border: 1px solid var(--blue); border-radius: 10px; padding: .8rem 1rem; margin: .2rem 0 1.2rem; }
 .bet-strat-detail .bet-detail-head { display: flex; align-items: baseline; gap: .5rem; flex-wrap: wrap; font-weight: 700; margin-bottom: .5rem; }
 .bet-strat-detail #bet-strat-close { margin-left: auto; cursor: pointer; }
+
+/* ----- Locked / awaiting-result panel ----- */
+.bet-pending { background: var(--bg-elev); border: 1px solid var(--warn); border-radius: 12px; padding: .9rem 1.1rem; margin: .4rem 0 1.4rem; }
+.bet-pending-head { font-weight: 800; font-size: 1.05rem; margin-bottom: .6rem; }
+.bet-pend-day { margin-bottom: .6rem; }
+.bet-pend-day .bet-day-head { position: static; border-bottom: 1px solid var(--border); font-size: .85rem; }
+.bet-pend-game { padding: .45rem 0; border-bottom: 1px solid var(--border); }
+.bet-pend-game:last-child { border-bottom: none; }
+.bet-pend-matchup { font-weight: 700; display: flex; align-items: center; gap: .5rem; flex-wrap: wrap; }
+.bet-pend-picks { margin-top: .3rem; font-size: .9rem; color: var(--text); }

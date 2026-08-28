@@ -154,18 +154,18 @@ def _bets_for_game(g: dict, proj: dict, league: str) -> dict:
                 side, team, number = "home", home["abbr"], hs
             else:
                 side, team, number = "away", away["abbr"], -hs
-            bets["spread"] = {"side": side, "team": team, "line": number,
+            bets["spread"] = {"market": "spread", "side": side, "team": team, "line": number,
                               "price": -110, "stake": STAKE,
                               "pick": f"{team} {number:+g}", "lean": round(lean, 2)}
 
     # 2) Moneyline: our predicted winner at its price.
     hml, aml = market.get("home_ml"), market.get("away_ml")
     if proj["proj_margin"] > 0 and hml is not None:
-        bets["moneyline"] = {"side": "home", "team": home["abbr"], "price": hml,
-                             "stake": STAKE, "pick": f"{home['abbr']} ML {hml:+d}"}
+        bets["moneyline"] = {"market": "moneyline", "side": "home", "team": home["abbr"],
+                             "price": hml, "stake": STAKE, "pick": f"{home['abbr']} ML {hml:+d}"}
     elif proj["proj_margin"] < 0 and aml is not None:
-        bets["moneyline"] = {"side": "away", "team": away["abbr"], "price": aml,
-                             "stake": STAKE, "pick": f"{away['abbr']} ML {aml:+d}"}
+        bets["moneyline"] = {"market": "moneyline", "side": "away", "team": away["abbr"],
+                             "price": aml, "stake": STAKE, "pick": f"{away['abbr']} ML {aml:+d}"}
 
     # 3) Value: the model's flagged spread/moneyline edges (skip totals).
     # 4) Bankroll: EVERY flagged edge (spread/total/moneyline), Kelly-sized later.

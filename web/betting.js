@@ -375,6 +375,7 @@
 
     return (
       intro +
+      pendingPanel(r) +
       latestWeekPanel(r) +
       '<h3 class="bet-h3">Season totals <span class="muted">— click a strategy to see every bet behind it</span></h3>' +
       '<div class="bet-tiles bet-strat-tiles">' + tiles + "</div>" +
@@ -382,6 +383,41 @@
       '<h3 class="bet-h3">Week by week <span class="muted">— click a week to see every bet</span></h3>' +
       '<table class="bet-table bet-week-table"><thead>' + head + "</thead><tbody>" + rows + "</tbody></table>"
     );
+  }
+
+  // Locked-but-not-yet-settled bets, grouped by game, with an "awaiting result"
+  // indicator — so a bet shows up the moment it's locked.
+  function pendingPanel(r) {
+    var games = {};
+    STRATS.forEach(function (s) {
+      (r.totals[s].bets || []).forEach(function (b) {
+        if (b.result === "win" || b.result === "loss" || b.result === "push") return;
+        var g = games[b.game_id] || (games[b.game_id] = { game: b.game, kickoff: b.kickoff, picks: {} });
+        var mkt = mktOf(b, s);
+        g.picks[mkt + "|" + b.pick] = { market: mkt, pick: b.pick };
+      });
+    });
+    var ids = Object.keys(games);
+    if (!ids.length) return "";
+    ids.sort(function (a, b) { return String(games[a].kickoff || "").localeCompare(String(games[b].kickoff || "")); });
+    var byDay = {};
+    ids.forEach(function (id) { (byDay[dayKey(games[id].kickoff)] = byDay[dayKey(games[id].kickoff)] || []).push(id); });
+    var sections = Object.keys(byDay).sort().map(function (k) {
+      var rows = byDay[k].map(function (id) {
+        var g = games[id];
+        var picks = Object.keys(g.picks).map(function (pk) {
+          var pp = g.picks[pk];
+          return marketTag(pp.market) + " <strong>" + esc(pp.pick) + "</strong>";
+        }).join(" &nbsp; ");
+        return '<div class="bet-pend-game"><div class="bet-pend-matchup">' + esc(g.game) +
+          ' <span class="muted">· ' + esc(timeLabel(g.kickoff)) + '</span> <span class="bet-res bet-res-pending">⏳ awaiting result</span></div>' +
+          '<div class="bet-pend-picks">' + picks + "</div></div>";
+      }).join("");
+      var label = k === "zzz" ? "Date TBD" : dayLabel(games[byDay[k][0]].kickoff);
+      return '<div class="bet-pend-day"><div class="bet-day-head">📅 ' + esc(label) + "</div>" + rows + "</div>";
+    }).join("");
+    return '<div class="bet-pending"><div class="bet-pending-head">🔒 Locked in — awaiting results <span class="muted">(' +
+      ids.length + " game" + (ids.length !== 1 ? "s" : "") + ")</span></div>" + sections + "</div>";
   }
 
   function latestWeekPanel(r) {
@@ -408,6 +444,8 @@
   function shortStrat(s) {
     return { value: "High conviction", moneyline: "Moneyline", spread: "Spread", bankroll: "Bankroll (Kelly)" }[s] || s;
   }
+  // The spread/moneyline strategy bets predate a stored "market" field; infer it.
+  function mktOf(bet, s) { return bet.market || (s === "moneyline" ? "moneyline" : "spread"); }
 
   // Every bet behind a strategy's number, with a running balance.
   function stratDetailPanel(r, s) {
@@ -422,7 +460,7 @@
       if (settled) running += (bet.pnl || 0);
       var price = bet.market === "moneyline" || (bet.price && bet.price !== -110) ? odds(bet.price) : "-110";
       return '<tr class="bet-bet-' + res + '"><td class="num muted">' + (bet.week || "") + "</td>" +
-        "<td>" + marketTag(bet.market) + "</td>" +
+        "<td>" + marketTag(mktOf(bet, s)) + "</td>" +
         "<td>" + esc(bet.game) + (bet.score ? ' <span class="muted">' + esc(bet.score) + "</span>" : "") + "</td>" +
         "<td><strong>" + esc(bet.pick) + "</strong></td>" +
         '<td class="num muted">' + dollars(bet.stake || 100) + "</td>" +
@@ -466,7 +504,7 @@
         var res = bet.result || "pending";
         var pnl = bet.result ? money2(bet.pnl) : "—";
         var price = bet.market === "moneyline" || (bet.price && bet.price !== -110) ? odds(bet.price) : "-110";
-        return "<tr class=\"bet-bet-" + res + "\"><td>" + marketTag(bet.market) + "</td><td>" + esc(bet.game) + "</td><td><strong>" + esc(bet.pick) + "</strong></td>" +
+        return "<tr class=\"bet-bet-" + res + "\"><td>" + marketTag(mktOf(bet, s)) + "</td><td>" + esc(bet.game) + "</td><td><strong>" + esc(bet.pick) + "</strong></td>" +
           '<td class="num muted">' + dollars(bet.stake || 100) + "</td>" +
           "<td class=\"num\">" + price + "</td><td>" + resBadge(res) + "</td>" +
           '<td class="num bet-ev ' + (bet.pnl > 0 ? "pos" : (bet.pnl < 0 ? "neg" : "")) + '">' + pnl + "</td></tr>";
