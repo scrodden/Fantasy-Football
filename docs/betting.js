@@ -611,6 +611,13 @@
     return '<div class="bet-edges">' + sections + "</div>";
   }
 
+  // A spread shown from the favorite's side, e.g. "EMU -6.5" (margin>0 = home fav).
+  function favSpread(margin, homeAbbr, awayAbbr) {
+    if (Math.abs(margin) < 0.05) return "Pick'em";
+    var fav = margin > 0 ? homeAbbr : awayAbbr;
+    return esc(fav) + " " + sg(-Math.abs(margin));
+  }
+
   function gameCard(g) {
     var p = g.projection, m = g.market || {};
     var edges = (g.edges || []).filter(passFilters);
@@ -618,43 +625,43 @@
     var a = g.away, h = g.home;
     var aRank = a.rank ? '<span class="bet-rank">#' + a.rank + "</span> " : "";
     var hRank = h.rank ? '<span class="bet-rank">#' + h.rank + "</span> " : "";
-    var favA = p.proj_margin < 0 ? " bet-winner" : "";
-    var favH = p.proj_margin > 0 ? " bet-winner" : "";
-    var mline = m.home_spread != null
-      ? (sg(m.home_spread) + " / " + (m.total != null ? "O" + m.total : "—") + (m.home_ml != null ? " / " + odds(m.home_ml) + "," + odds(m.away_ml) : ""))
-      : "no line";
-    var comp = p.components || {};
-    var restNote = comp.rest_note ? '<span class="bet-note">🛌 ' + esc(comp.rest_note) + "</span>" : "";
-    var kick = timeLabel(g.date);
-    var status = g.completed ? '<span class="bet-final">FINAL ' + (a.score) + "-" + (h.score) + "</span>"
-      : ('<span class="bet-kick">🕐 ' + esc(kick || g.status || "") + "</span>");
+    var favA = p.proj_margin < -0.05 ? " bet-winner" : "";
+    var favH = p.proj_margin > 0.05 ? " bet-winner" : "";
     var aName = esc(a.full || a.name || a.abbr), hName = esc(h.full || h.name || h.abbr);
+
+    var modelSpread = favSpread(p.proj_margin, h.abbr, a.abbr);
+    var mktSpread = m.home_spread != null ? favSpread(-m.home_spread, h.abbr, a.abbr) : "—";
+    var mktTotal = m.total != null ? m.total : "—";
+
+    var kick = timeLabel(g.date);
+    var status = g.completed ? '<span class="bet-final">FINAL ' + a.score + "–" + h.score + "</span>"
+      : ('<span class="bet-kick">🕐 ' + esc(kick || g.status || "") + "</span>");
+    var restNote = (p.components || {}).rest_note ? '<span class="bet-note">🛌 ' + esc(p.components.rest_note) + "</span>" : "";
+
+    var compare =
+      '<div class="bet-compare">' +
+      '<div class="bet-cmp-row bet-cmp-head"><span></span><span>Our model</span><span>The line</span></div>' +
+      '<div class="bet-cmp-row"><span class="bet-cmp-lbl">Spread</span><span>' + modelSpread + "</span><span class=\"muted\">" + mktSpread + "</span></div>" +
+      '<div class="bet-cmp-row"><span class="bet-cmp-lbl">Total</span><span>' + p.proj_total + "</span><span class=\"muted\">" + mktTotal + "</span></div>" +
+      "</div>";
 
     var edgeHtml = edges.length
       ? '<div class="bet-card-edges">' + edges.map(function (e) {
           return '<div class="bet-chip bet-conf-row-' + e.confidence + '">' + marketTag(e.market) +
             " <strong>" + esc(e.pick) + "</strong> " +
-            '<span class="bet-chip-ev ' + (e.ev >= 0 ? "pos" : "neg") + '">' + evPct(e.ev) + "</span> " +
+            '<span class="bet-chip-ev ' + (e.ev >= 0 ? "pos" : "neg") + '">' + evPct(e.ev) + " EV</span> " +
             confBadge(e.confidence) + "</div>";
         }).join("") + "</div>"
-      : '<div class="bet-card-noedge muted">No edge — model agrees with the market here.</div>';
+      : '<div class="bet-card-noedge muted">✓ No edge — model matches the market.</div>';
 
     return (
       '<div class="bet-card" data-game-id="' + esc(g.id) + '" title="Click for the model’s full reasoning">' +
-      '  <div class="bet-card-top">' +
-      '    <div class="bet-matchup">' +
-      '      <div class="bet-team' + favA + '">' + aRank + '<span class="bet-tname">' + aName + '</span> <span class="bet-rec muted">' + esc(a.record || "") + "</span>" +
-      '        <span class="bet-proj">' + p.proj_away_score + "</span></div>" +
-      '      <div class="bet-team' + favH + '">' + hRank + '<span class="bet-tname">' + hName + '</span> <span class="bet-rec muted">' + esc(h.record || "") + "</span>" +
-      '        <span class="bet-proj">' + p.proj_home_score + "</span></div>" +
-      "    </div>" +
-      '    <div class="bet-card-num">' +
-      '      <div class="bet-line"><span class="muted">Model</span> ' + esc(a.abbr) + " " + sg(-p.proj_margin) + ", O/U " + p.proj_total + "</div>" +
-      '      <div class="bet-line"><span class="muted">Market</span> ' + esc(h.abbr) + " " + esc(mline) + "</div>" +
-      '      <div class="bet-line bet-status">' + status + " " + restNote + "</div>" +
-      "    </div>" +
-      "  </div>" +
-      edgeHtml +
+      '<div class="bet-card-head">' + status + restNote + "</div>" +
+      '<div class="bet-matchup">' +
+      '  <div class="bet-team' + favA + '">' + aRank + '<span class="bet-tname">' + aName + '</span><span class="bet-rec muted">' + esc(a.record || "") + '</span><span class="bet-proj">' + p.proj_away_score + "</span></div>" +
+      '  <div class="bet-team' + favH + '">' + hRank + '<span class="bet-tname">' + hName + '</span><span class="bet-rec muted">' + esc(h.record || "") + '</span><span class="bet-proj">' + p.proj_home_score + "</span></div>" +
+      "</div>" +
+      compare + edgeHtml +
       "</div>"
     );
   }
