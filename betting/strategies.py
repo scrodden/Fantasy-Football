@@ -29,12 +29,15 @@ from betting.model import Projector
 from betting.elo import DATA_DIR
 
 LOCK_HOURS = 24                 # freeze a game's bets this long before kickoff
-STAKE = 100.0                   # flat stake per bet
-STRATEGIES = ("spread", "moneyline", "value")
+STAKE = 100.0                   # flat stake per bet (strategies 1-3)
+STARTING_BANKROLL = 10000.0     # strategy 4: grows/shrinks with Kelly-sized bets
+KELLY_MIN_STAKE = 1.0           # don't place a Kelly bet smaller than this
+STRATEGIES = ("spread", "moneyline", "value", "bankroll")
 STRATEGY_LABEL = {
     "spread": "Spread — every game",
     "moneyline": "Moneyline — every game",
     "value": "High conviction (value)",
+    "bankroll": "Bankroll — ¼-Kelly on every edge ($10k start)",
 }
 
 
@@ -104,6 +107,33 @@ def _grade_ml(side: str, price, hs: int, as_: int):
     return ("win", _profit(STAKE, price)) if win else ("loss", -STAKE)
 
 
+def _grade_bet(bet: dict, hs: int, as_: int):
+    """Grade a bet of any market at its OWN stake (used for Kelly bets)."""
+    stake = bet.get("stake", STAKE)
+    price = bet.get("price") if bet.get("price") is not None else -110
+    m = bet["market"]
+    if m == "total":
+        total = hs + as_
+        line = bet.get("line")
+        if line is None:
+            return "void", 0.0
+        if abs(total - line) < 1e-9:
+            return "push", 0.0
+        win = (total > line) == (bet["side"] == "over")
+    elif m == "spread":
+        margin = hs - as_
+        diff = (margin + bet["line"]) if bet["side"] == "home" else (-margin + bet["line"])
+        if abs(diff) < 1e-9:
+            return "push", 0.0
+        win = diff > 0
+    else:  # moneyline
+        margin = hs - as_
+        if margin == 0:
+            return "push", 0.0
+        win = (margin > 0) == (bet["side"] == "home")
+    return ("win", _profit(stake, price)) if win else ("loss", -stake)
+
+
 # ---------------------------------------------------------------------------
 # Building a game's bets at lock time
 # ---------------------------------------------------------------------------
@@ -135,21 +165,36 @@ def _bets_for_game(g: dict, proj: dict, league: str) -> dict:
                              "stake": STAKE, "pick": f"{away['abbr']} ML {aml:+d}"}
 
     # 3) Value: the model's flagged spread/moneyline edges (skip totals).
+    # 4) Bankroll: EVERY flagged edge (spread/total/moneyline), Kelly-sized later.
+    bets["bankroll"] = []
     for e in edges.evaluate(g, proj, league):
-        if e["market"] not in ("spread", "moneyline"):
-            continue
-        bets["value"].append({
+        entry = {
             "market": e["market"], "side": e["side"], "team": e.get("team"),
             "pick": e["pick"], "line": e.get("line"),
             "price": e.get("price") if e.get("price") is not None else -110,
-            "stake": STAKE, "ev": e["ev"], "edge": e["edge"],
+            "ev": e["ev"], "edge": e["edge"], "kelly": e.get("kelly", 0.0),
             "confidence": e["confidence"], "book": e.get("book"),
-        })
+        }
+        if e["market"] in ("spread", "moneyline"):
+            bets["value"].append({**entry, "stake": STAKE})
+        # Kelly stake filled in at lock time from the current bankroll.
+        if e.get("kelly", 0) > 0:
+            bets["bankroll"].append(dict(entry))
     return bets
 
 
 def _has_any_bet(bets: dict) -> bool:
-    return bool(bets["spread"] or bets["moneyline"] or bets["value"])
+    return bool(bets["spread"] or bets["moneyline"] or bets["value"] or bets.get("bankroll"))
+
+
+def current_bankroll(ledger: dict) -> float:
+    """$10,000 plus the net P&L of every already-settled Kelly bet."""
+    pnl = 0.0
+    for lk in ledger["locks"].values():
+        if lk.get("settled"):
+            for b in lk["bets"].get("bankroll", []):
+                pnl += b.get("pnl", 0.0)
+    return STARTING_BANKROLL + pnl
 
 
 # ---------------------------------------------------------------------------
@@ -187,6 +232,14 @@ def lock_due_bets(league: str, hours: int = LOCK_HOURS) -> dict:
         p = proj.project(g)
         p["_spread_sd"] = proj.elo.score_sd
         bets = _bets_for_game(g, p, league)
+        # Kelly-size the bankroll bets from the bankroll as it stands now.
+        bankroll = current_bankroll(ledger)
+        sized = []
+        for b in bets.get("bankroll", []):
+            stake = round(b["kelly"] * bankroll, 2)
+            if stake >= KELLY_MIN_STAKE:
+                sized.append({**b, "stake": stake, "bankroll_at_bet": round(bankroll, 2)})
+        bets["bankroll"] = sized
         if not _has_any_bet(bets):
             continue
         locks[gid] = {
@@ -249,6 +302,8 @@ def settle(league: str, since_days: int = 12) -> dict:
             else:
                 res, pnl = _grade_ml(v["side"], v["price"], hs, as_)
             v["result"], v["pnl"] = res, pnl
+        for v in b.get("bankroll", []):     # Kelly bets, own stake, any market
+            v["result"], v["pnl"] = _grade_bet(v, hs, as_)
         lk["settled"] = True
         settled += 1
 
@@ -313,6 +368,8 @@ def report(league: str) -> dict:
             _add_bet(wk_bucket(wk, "moneyline"), b["moneyline"], meta)
         for v in b.get("value", []):
             _add_bet(wk_bucket(wk, "value"), v, meta)
+        for v in b.get("bankroll", []):
+            _add_bet(wk_bucket(wk, "bankroll"), v, meta)
 
     # Order weeks, finalize buckets, and build cumulative curves per strategy.
     week_nums = sorted([w for w in weeks if w is not None])
@@ -326,7 +383,10 @@ def report(league: str) -> dict:
             bkt = _finalize(weeks[wk][s])
             cum[s] += bkt["profit"]
             row["strategies"][s] = {**bkt, "cumulative": round(cum[s], 2)}
-            curves[s].append({"week": wk, "cumulative": round(cum[s], 2), "profit": bkt["profit"]})
+            if s == "bankroll":
+                row["strategies"][s]["bankroll_value"] = round(STARTING_BANKROLL + cum[s], 2)
+            curves[s].append({"week": wk, "cumulative": round(cum[s], 2), "profit": bkt["profit"],
+                              "value": round(STARTING_BANKROLL + cum[s], 2) if s == "bankroll" else None})
             # accumulate season totals
             t = totals[s]
             for k in ("win", "loss", "push", "pending"):
@@ -346,11 +406,11 @@ def report(league: str) -> dict:
     for row in reversed(out_weeks):
         if any(row["strategies"][s]["n"] > 0 for s in STRATEGIES):
             latest_week = {"week": row["week"], "strategies": {
-                s: {k: row["strategies"][s][k] for k in
-                    ("record", "profit", "roi", "win_pct", "n", "pending")}
+                s: {k: row["strategies"][s].get(k) for k in
+                    ("record", "profit", "roi", "win_pct", "n", "pending", "bankroll_value")}
                 for s in STRATEGIES}}
-            # combined line across all three strategies
-            allb = [b for s in STRATEGIES for b in row["strategies"][s]["bets"]]
+            # combined line across the three flat strategies (not the bankroll one)
+            allb = [b for s in ("spread", "moneyline", "value") for b in row["strategies"][s]["bets"]]
             wins = sum(1 for b in allb if b.get("result") == "win")
             losses = sum(1 for b in allb if b.get("result") == "loss")
             pushes = sum(1 for b in allb if b.get("result") == "push")
@@ -374,6 +434,10 @@ def report(league: str) -> dict:
         "n_settled": sum(1 for l in locks if l.get("settled")),
         "lock_hours": LOCK_HOURS,
         "stake": STAKE,
+        "starting_bankroll": STARTING_BANKROLL,
+        "bankroll_value": round(STARTING_BANKROLL + totals["bankroll"]["profit"], 2),
+        "bankroll_return_pct": round(100.0 * totals["bankroll"]["profit"] / STARTING_BANKROLL, 1),
+        "bankroll_pending": totals["bankroll"]["pending"],
     }
 
 

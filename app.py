@@ -22,7 +22,10 @@ import webbrowser
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 
 from fantasy import auction, model, sources, util, yahoo
-from betting import data as bet_data, train as bet_train, strategies as bet_strat, survivor
+# The win-probability engine (Elo + schedule/odds) powers the Survivor planner.
+# The betting/gambling surface has been removed from the app; this stays only as
+# an internal model that Survivor consumes.
+from betting import train as bet_train, survivor
 from betting.model import Projector as BetProjector
 
 HOST = os.environ.get("FF_HOST", "127.0.0.1")
@@ -173,120 +176,6 @@ def api_refresh() -> dict:
 
 
 # ---------------------------------------------------------------------------
-# Betting model API
-# ---------------------------------------------------------------------------
-def _bet_league(qs_or_req) -> str:
-    lg = (qs_or_req.get("league") if isinstance(qs_or_req, dict)
-          else qs_or_req).lower() if qs_or_req else "nfl"
-    return lg if lg in bet_data.LEAGUES else "nfl"
-
-
-def api_betting_board(league: str) -> dict:
-    return bet_train.build_board(league)
-
-
-def api_betting_accuracy(league: str) -> dict:
-    return bet_train.accuracy(league)
-
-
-def api_betting_rankings(league: str) -> dict:
-    proj = BetProjector(league)
-    return {"league": league, "label": bet_data.LEAGUE_LABEL[league],
-            "as_of": proj.elo.meta.get("last_game_date"),
-            "teams": proj.elo.rankings()}
-
-
-def _bet_seasons() -> list:
-    """The seasons we have history for (nflverse/ESPN cover 2021+)."""
-    import datetime as _d
-    y = _d.date.today().year
-    start = 2021
-    end = y if _d.date.today().month >= 9 else y - 1
-    return list(range(start, end + 1))
-
-
-def api_betting_backtest(league: str) -> dict:
-    from betting import backtest
-    seasons = _bet_seasons()
-    proj = BetProjector(league)
-    ov = {"elo": {"k": proj.elo.k, "hfa": proj.elo.hfa,
-                  "points_per_elo": proj.elo.points_per_elo,
-                  "revert": proj.elo.revert, "score_sd": proj.elo.score_sd},
-          "pace": {"alpha": proj.pace.alpha, "home_pts": proj.pace.home_pts,
-                   "form_w": proj.pace.form_w},
-          "signals": proj.elo.meta.get("signals") or {}}
-    r = backtest.run(league, seasons, overrides=ov)
-    r["using_live_params"] = True
-    r["signals"] = proj.elo.meta.get("signals") or {}
-    r["calibrated_at"] = proj.elo.meta.get("calibrated_at")
-    return r
-
-
-def api_betting_rebuild(league: str) -> dict:
-    """Full cold-start rebuild (rarely needed): seed from the last two completed
-    seasons, calibrate, seed CFB preseason priors, and sync EPA. This DISCARDS
-    any in-season learning, so it's an advanced/repair action only."""
-    import datetime as _d
-    from betting import calibrate
-    upcoming = _d.date.today().year if _d.date.today().month >= 8 else _d.date.today().year - 1
-    seed_years = [upcoming - 2, upcoming - 1]
-    out = {"league": league, "seeded": bet_train.seed(league, seed_years)}
-    rep = calibrate.calibrate(league, _bet_seasons())
-    out["calibrated"] = calibrate.apply_to_live(league, rep["params"])
-    out["calibration"] = {"baseline_mae": rep["baseline"]["margin_mae"],
-                          "tuned_mae": rep["tuned_train"]["margin_mae"]}
-    # CFB: apply preseason priors for the upcoming season.
-    if league == "cfb":
-        try:
-            from betting import cfbd
-            if cfbd.enabled():
-                proj = BetProjector(league)
-                out["priors"] = cfbd.apply_season_priors(proj, upcoming)
-                proj.save()
-        except Exception as exc:
-            out["priors_error"] = str(exc)
-    # Rebuild EPA ratings.
-    try:
-        from betting import epa as _epa, cfbd as _cfbd
-        if league == "nfl":
-            _epa.sync(); _epa.sync_qb()
-        elif _cfbd.enabled():
-            _epa.sync_cfb()
-        out["epa_synced"] = True
-    except Exception as exc:
-        out["epa_error"] = str(exc)
-    bet_train._board_cache_clear(league)
-    return out
-
-
-def api_betting_calibrate(league: str) -> dict:
-    from betting import calibrate
-    seasons = _bet_seasons()
-    rep = calibrate.calibrate(league, seasons)
-    applied = calibrate.apply_to_live(league, rep["params"])
-    rep["applied"] = applied
-    return rep
-
-
-def api_betting_status() -> dict:
-    """Whether each league's model has been seeded, plus Odds API config."""
-    import os as _os
-    from betting import cfbd as _cfbd
-    out = {"odds_api_configured": bool(bet_data.odds_api_key()),
-           "cfbd_configured": _cfbd.enabled(), "leagues": {}}
-    for lg in bet_data.LEAGUES:
-        proj = BetProjector(lg)
-        out["leagues"][lg] = {
-            "label": bet_data.LEAGUE_LABEL[lg],
-            "seeded": proj.elo.meta.get("n_games", 0) > 0,
-            "games_learned": proj.elo.meta.get("n_games", 0),
-            "teams_rated": len(proj.elo.teams),
-            "season": proj.elo.meta.get("season"),
-        }
-    return out
-
-
-# ---------------------------------------------------------------------------
 # HTTP handler
 # ---------------------------------------------------------------------------
 class Handler(BaseHTTPRequestHandler):
@@ -346,7 +235,7 @@ class Handler(BaseHTTPRequestHandler):
         self.send_response(200)
         self.send_header("Content-Type", content_type)
         self.send_header("Content-Length", str(len(body)))
-        # Always revalidate so a fresh app.js/betting.js/style.css is picked up
+        # Always revalidate so a fresh app.js/survivor.js/style.css is picked up
         # after an update instead of a stale browser-cached copy.
         self.send_header("Cache-Control", "no-cache, must-revalidate")
         self.end_headers()
@@ -362,8 +251,6 @@ class Handler(BaseHTTPRequestHandler):
                 return self._send_file("style.css", "text/css; charset=utf-8")
             if path == "/app.js":
                 return self._send_file("app.js", "application/javascript; charset=utf-8")
-            if path == "/betting.js":
-                return self._send_file("betting.js", "application/javascript; charset=utf-8")
             if path == "/survivor.js":
                 return self._send_file("survivor.js", "application/javascript; charset=utf-8")
             if path == "/api/players":
@@ -399,30 +286,6 @@ class Handler(BaseHTTPRequestHandler):
                 return self._send_callback_page(ok, msg)
             if path == "/api/yahoo/authurl":
                 return self._send_json({"auth_url": yahoo.auth_url()})
-            if path.startswith("/api/betting/"):
-                from urllib.parse import parse_qs, urlparse
-                qs = parse_qs(urlparse(self.path).query)
-                league = _bet_league(qs.get("league", ["nfl"])[0])
-                if path == "/api/betting/status":
-                    return self._send_json(api_betting_status())
-                if path == "/api/betting/board":
-                    return self._send_json(api_betting_board(league))
-                if path == "/api/betting/explain":
-                    gid = qs.get("game_id", [""])[0]
-                    return self._send_json(bet_train.explain_game(league, gid))
-                if path == "/api/betting/accuracy":
-                    return self._send_json(api_betting_accuracy(league))
-                if path == "/api/betting/rankings":
-                    return self._send_json(api_betting_rankings(league))
-                if path == "/api/betting/strategies":
-                    # Opportunistically lock/settle so the tracker is current.
-                    try:
-                        bet_strat.maintain(league)
-                    except Exception as exc:
-                        sys.stderr.write(f"[betting maintain] {exc}\n")
-                    return self._send_json(bet_strat.report(league))
-                if path == "/api/betting/backtest":
-                    return self._send_json(api_betting_backtest(league))
             if path == "/api/yahoo/status":
                 st = {"configured": yahoo.is_configured(), "connected": yahoo.is_connected()}
                 if st["connected"]:
@@ -459,47 +322,6 @@ class Handler(BaseHTTPRequestHandler):
                     used=req.get("used") or [],
                     start_week=req.get("start_week"),
                     horizon=req.get("horizon")))
-            if path == "/api/betting/seed":
-                req = self._read_json()
-                league = _bet_league(req)
-                years = req.get("years") or [2024, 2025]
-                return self._send_json(bet_train.seed(league, years))
-            if path == "/api/betting/update":
-                req = self._read_json()
-                league = _bet_league(req)
-                out = bet_train.update_from_results(league)
-                out["strategies"] = bet_strat.maintain(league)
-                return self._send_json(out)
-            if path == "/api/betting/calibrate":
-                req = self._read_json()
-                league = _bet_league(req)
-                return self._send_json(api_betting_calibrate(league))
-            if path == "/api/betting/rebuild":
-                req = self._read_json()
-                league = _bet_league(req)
-                return self._send_json(api_betting_rebuild(league))
-            if path == "/api/betting/lock":
-                req = self._read_json()
-                league = _bet_league(req)
-                return self._send_json(bet_strat.lock_due_bets(league))
-            if path == "/api/betting/config":
-                req = self._read_json()
-                cfg = bet_data.load_config()
-                key = (req.get("odds_api_key") or "").strip()
-                if key:
-                    cfg["odds_api_key"] = key
-                elif "odds_api_key" in req:  # explicit clear
-                    cfg.pop("odds_api_key", None)
-                ckey = (req.get("cfbd_api_key") or "").strip()
-                if ckey:
-                    cfg["cfbd_api_key"] = ckey
-                elif "cfbd_api_key" in req:
-                    cfg.pop("cfbd_api_key", None)
-                bet_data.save_config(cfg)
-                from betting import cfbd as _cfbd
-                return self._send_json({"ok": True,
-                                        "odds_api_configured": bool(bet_data.odds_api_key()),
-                                        "cfbd_configured": _cfbd.enabled()})
             if path == "/api/yahoo/config":
                 req = self._read_json()
                 yahoo.save_config(req.get("client_id", ""), req.get("client_secret", ""))
@@ -590,33 +412,32 @@ def _warm():
         print(f"[warm] initial load failed (will retry on request): {exc}")
 
 
-def _betting_autopilot():
-    """While the app is up, keep the model and tracker current: ingest each
-    week's finished games into the ratings (so the Betting AND Survivor tabs
-    reflect the latest results without any manual step), lock each game's bets
-    ~24h before kickoff, and settle finished games. Best-effort, quiet."""
+def _ratings_autopilot():
+    """Keep the NFL win-probability model current for the Survivor planner:
+    ingest each week's finished games into the ratings (on startup and every
+    20 min) so the plan reflects the latest results with no manual step. If the
+    model was never seeded, cold-start it from the last two seasons first.
+    Best-effort, quiet."""
     import time as _time
+    import datetime as _dt
     while True:
-        for lg in bet_data.LEAGUES:
-            try:
-                # 1. Learn from any newly-finished games (sharpens win probs).
-                upd = bet_train.update_from_results(lg)
-                if upd.get("new_finals_learned"):
-                    sys.stderr.write(f"[betting {lg}] learned {upd['new_finals_learned']} new finals\n")
-                # 2. Lock due bets + settle finished ones for the tracker.
-                res = bet_strat.maintain(lg)
-                locked = res["lock"].get("locked", 0)
-                settled = res["settle"].get("settled", 0)
-                if locked or settled:
-                    sys.stderr.write(f"[betting {lg}] locked {locked}, settled {settled}\n")
-            except Exception as exc:
-                sys.stderr.write(f"[betting autopilot {lg}] {exc}\n")
+        try:
+            proj = BetProjector("nfl")
+            if proj.elo.meta.get("n_games", 0) == 0:
+                yr = _dt.date.today().year
+                base = yr if _dt.date.today().month >= 8 else yr - 1
+                bet_train.seed("nfl", [base - 2, base - 1])
+            upd = bet_train.update_from_results("nfl")
+            if upd.get("new_finals_learned"):
+                sys.stderr.write(f"[ratings] learned {upd['new_finals_learned']} new finals\n")
+        except Exception as exc:
+            sys.stderr.write(f"[ratings autopilot] {exc}\n")
         _time.sleep(1200)  # every 20 minutes
 
 
 def main():
     threading.Thread(target=_warm, daemon=True).start()
-    threading.Thread(target=_betting_autopilot, daemon=True).start()
+    threading.Thread(target=_ratings_autopilot, daemon=True).start()
     httpd = ThreadingHTTPServer((HOST, PORT), Handler)
     scheme = "http"
     if USE_HTTPS:

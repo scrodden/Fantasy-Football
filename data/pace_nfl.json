@@ -342,22 +342,6 @@
       ],
       "name": "Jets",
       "abbr": "NYJ"
-    },
-    "32": {
-      "off": 3.8297999999999996,
-      "def": 2.6933999999999996,
-      "last_date": null,
-      "form": [],
-      "name": "NFC",
-      "abbr": "NFC"
-    },
-    "31": {
-      "off": 2.6933999999999996,
-      "def": 3.8297999999999996,
-      "last_date": null,
-      "form": [],
-      "name": "AFC",
-      "abbr": "AFC"
     }
   }
 }

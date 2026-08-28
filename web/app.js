@@ -1938,7 +1938,6 @@ function switchView(view) {
   else if (view === "teams") renderTeams();
   else if (view === "draft") renderDraft();
   else if (view === "draftroom") renderDraftRoom();
-  else if (view === "betting" && window.Betting) window.Betting.show();
   else if (view === "survivor" && window.Survivor) window.Survivor.show();
 }
 

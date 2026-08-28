@@ -29,6 +29,8 @@ _ODDS_SPORT = {"nfl": "americanfootball_nfl", "cfb": "americanfootball_ncaaf"}
 
 LEAGUES = ("nfl", "cfb")
 LEAGUE_LABEL = {"nfl": "NFL", "cfb": "College (FBS)"}
+# All-star / conference pseudo-teams from the Pro Bowl — never a real matchup.
+_PSEUDO_TEAMS = {"AFC", "NFC", "NFL"}
 
 
 # ---------------------------------------------------------------------------
@@ -252,6 +254,9 @@ def historical_games(league: str, start: _dt.date, end: _dt.date,
             # Train only on games that count: skip preseason (backups play, so
             # results are poor signal for team strength) and unfinished games.
             if g.get("seasontype") == 1:
+                continue
+            # Skip the Pro Bowl / all-star exhibition (AFC vs NFC squads).
+            if g["home"]["abbr"] in _PSEUDO_TEAMS or g["away"]["abbr"] in _PSEUDO_TEAMS:
                 continue
             if g["completed"] and g["home"]["score"] is not None:
                 out.append(g)

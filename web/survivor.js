@@ -206,7 +206,7 @@
   function method() {
     var b = state.board || {};
     var m = b.model || {};
-    return '<div class="method" style="margin-top:1rem"><strong>How this works:</strong> every remaining game gets a win probability from the same model as the Betting tab — team ratings (Elo + opponent-adjusted scoring) anchored to the live sportsbook line where one exists. The season is then solved as an assignment problem: one distinct team per week, maximizing the product of weekly win probabilities (your survival odds). That’s why the Week-' + (b.this_week ? b.this_week.week : "1") + ' pick isn’t always the biggest favorite — a big favorite is often worth saving for a week when your other options are weak. Recompute weekly as lines and results move. <span class="muted">Model: ' + (m.teams_rated || 0) + ' teams, ' + (m.n_games_learned || 0) + ' games learned. Free data only (ESPN).</span></div>';
+    return '<div class="method" style="margin-top:1rem"><strong>How this works:</strong> every remaining game gets a win probability from a team-strength model — Elo ratings plus opponent-adjusted scoring, anchored to the live betting line where one exists. The season is then solved as an assignment problem: one distinct team per week, maximizing the product of weekly win probabilities (your survival odds). That’s why the Week-' + (b.this_week ? b.this_week.week : "1") + ' pick isn’t always the biggest favorite — a big favorite is often worth saving for a week when your other options are weak. Recompute weekly as lines and results move. <span class="muted">Model: ' + (m.teams_rated || 0) + ' teams, ' + (m.n_games_learned || 0) + ' games learned. Free data only (ESPN).</span></div>';
   }
 
   function wire() {

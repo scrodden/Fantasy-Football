@@ -186,10 +186,15 @@ class EloModel:
         self.meta["season"] = season
 
     # -- reporting --
+    # Pro Bowl all-star squads leak in from ESPN's historical schedule; they're
+    # never a real matchup, so keep them out of the power ratings.
+    PSEUDO_TEAMS = {"AFC", "NFC", "NFL"}
+
     def rankings(self, limit: int | None = None) -> list[dict]:
         rows = [{"id": tid, "rating": round(n["rating"], 1),
                  "name": n.get("name"), "abbr": n.get("abbr"), "gp": n.get("gp", 0)}
-                for tid, n in self.teams.items()]
+                for tid, n in self.teams.items()
+                if n.get("abbr") not in self.PSEUDO_TEAMS]
         rows.sort(key=lambda r: r["rating"], reverse=True)
         for i, r in enumerate(rows, 1):
             r["rank"] = i
