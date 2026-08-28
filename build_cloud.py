@@ -70,11 +70,19 @@ def _backtest(lg: str) -> dict:
 
 def main() -> None:
     os.makedirs(DDATA, exist_ok=True)
-    # Ship the real frontend + styles.
+    # Ship the real frontend + styles, and cache-bust them by content hash so a
+    # browser always loads the current version after a deploy (no hard refresh).
+    import hashlib
+    ver = {}
     for fn in ("betting.js", "style.css"):
-        shutil.copy(os.path.join(ROOT, "web", fn), os.path.join(DOCS, fn))
+        src = os.path.join(ROOT, "web", fn)
+        shutil.copy(src, os.path.join(DOCS, fn))
+        with open(src, "rb") as fh:
+            ver[fn] = hashlib.md5(fh.read()).hexdigest()[:8]
+    html = (INDEX_HTML.replace("style.css", "style.css?v=" + ver["style.css"])
+                      .replace("betting.js", "betting.js?v=" + ver["betting.js"]))
     with open(os.path.join(DOCS, "index.html"), "w", encoding="utf-8") as fh:
-        fh.write(INDEX_HTML)
+        fh.write(html)
 
     _write("status.json", _status())
     for lg in data.LEAGUES:
