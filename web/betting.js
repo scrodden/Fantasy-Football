@@ -422,6 +422,7 @@
       if (settled) running += (bet.pnl || 0);
       var price = bet.market === "moneyline" || (bet.price && bet.price !== -110) ? odds(bet.price) : "-110";
       return '<tr class="bet-bet-' + res + '"><td class="num muted">' + (bet.week || "") + "</td>" +
+        "<td>" + marketTag(bet.market) + "</td>" +
         "<td>" + esc(bet.game) + (bet.score ? ' <span class="muted">' + esc(bet.score) + "</span>" : "") + "</td>" +
         "<td><strong>" + esc(bet.pick) + "</strong></td>" +
         '<td class="num muted">' + dollars(bet.stake || 100) + "</td>" +
@@ -430,12 +431,12 @@
         '<td class="num">' + (settled ? dollars(running) : "—") + "</td></tr>";
     }).join("");
     var t = r.totals[s];
-    if (!bets.length) rows = '<tr><td colspan="8" class="muted">No bets settled or pending yet.</td></tr>';
-    return '<div class="bet-strat-detail"><div class="bet-detail-head">Every ' + esc(shortStrat(s)) + " bet · " +
+    if (!bets.length) rows = '<tr><td colspan="9" class="muted">No bets settled or pending yet.</td></tr>';
+    return '<div class="bet-strat-detail"><div class="bet-detail-head">📋 Every <strong>' + esc(shortStrat(s)) + "</strong> bet · " +
       esc(t.record || "0-0") + " · " + money2(t.profit) + " → " + dollars(t.bankroll_value) +
       ' <a class="bet-lw-link" id="bet-strat-close">close ✕</a></div>' +
       '<div style="overflow-x:auto"><table class="bet-table bet-detail-table"><thead><tr>' +
-      "<th>Wk</th><th>Game</th><th>Pick</th><th>Stake</th><th>Price</th><th>Result</th><th>P&amp;L</th><th>Balance</th>" +
+      "<th>Wk</th><th>Mkt</th><th>Game</th><th>Pick</th><th>Stake</th><th>Price</th><th>Result</th><th>P&amp;L</th><th>Balance</th>" +
       "</tr></thead><tbody>" + rows + "</tbody></table></div></div>";
   }
 
@@ -465,7 +466,7 @@
         var res = bet.result || "pending";
         var pnl = bet.result ? money2(bet.pnl) : "—";
         var price = bet.market === "moneyline" || (bet.price && bet.price !== -110) ? odds(bet.price) : "-110";
-        return "<tr class=\"bet-bet-" + res + "\"><td>" + esc(bet.game) + "</td><td><strong>" + esc(bet.pick) + "</strong></td>" +
+        return "<tr class=\"bet-bet-" + res + "\"><td>" + marketTag(bet.market) + "</td><td>" + esc(bet.game) + "</td><td><strong>" + esc(bet.pick) + "</strong></td>" +
           '<td class="num muted">' + dollars(bet.stake || 100) + "</td>" +
           "<td class=\"num\">" + price + "</td><td>" + resBadge(res) + "</td>" +
           '<td class="num bet-ev ' + (bet.pnl > 0 ? "pos" : (bet.pnl < 0 ? "neg" : "")) + '">' + pnl + "</td></tr>";
@@ -477,7 +478,7 @@
       return (
         '<div class="bet-detail-strat">' +
         '<div class="bet-detail-head">' + esc(state.strategies.strategy_labels[s]) + " " + head + "</div>" +
-        '<table class="bet-table bet-detail-table"><thead><tr><th>Game</th><th>Pick</th><th>Stake</th><th>Price</th><th>Result</th><th>P&amp;L</th></tr></thead><tbody>' +
+        '<table class="bet-table bet-detail-table"><thead><tr><th>Mkt</th><th>Game</th><th>Pick</th><th>Stake</th><th>Price</th><th>Result</th><th>P&amp;L</th></tr></thead><tbody>' +
         rows + "</tbody></table></div>"
       );
     }).join("");
