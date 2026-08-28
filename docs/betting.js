@@ -21,6 +21,7 @@
     lab: null,
     labBusy: null,
     expanded: {},
+    stratDetail: null,
   };
 
   var panel = function () { return document.getElementById("betting-panel"); };
@@ -337,30 +338,22 @@
       return intro + '<div class="bet-acc-empty muted">No bets locked yet. Bets lock automatically ~' + r.lock_hours + 'h before each game' + (STATIC ? " (the cloud does this on a schedule)" : " (the app does this in the background while it’s open)") + '. Come back once this week’s games are inside that window.</div>';
     }
 
-    // Season summary tiles per strategy
+    // Season summary tiles — every strategy shown as a $10k bankroll.
     var tiles = STRATS.map(function (s) {
       var t = r.totals[s];
       var curve = (r.curves[s] || []);
-      if (s === "bankroll") {
-        var ret = r.bankroll_return_pct;
-        return '<div class="bet-strat-card">' +
-          '<div class="bet-strat-name">' + esc(r.strategy_labels[s]) + "</div>" +
-          '<div class="bet-strat-pnl ' + pnlCls(ret) + '">' + dollars(r.bankroll_value) + "</div>" +
-          '<div class="bet-strat-sub muted">' + (ret >= 0 ? "+" : "") + ret + "% from " + dollars(r.starting_bankroll) +
-          " · " + esc(t.record) + (r.bankroll_pending ? " · " + r.bankroll_pending + " pending" : "") + "</div>" +
-          '<div class="bet-strat-sub muted">' + t.n + " Kelly bets settled</div>" +
-          sparkline(curve) + "</div>";
-      }
-      return (
-        '<div class="bet-strat-card">' +
-        '  <div class="bet-strat-name">' + esc(r.strategy_labels[s]) + "</div>" +
-        '  <div class="bet-strat-pnl ' + pnlCls(t.profit) + '">' + money2(t.profit) + "</div>" +
-        '  <div class="bet-strat-sub muted">' + esc(t.record) + "  ·  " + (t.roi != null ? t.roi + "% ROI" : "—") +
-        (t.win_pct != null ? "  ·  " + t.win_pct + "% win" : "") + "</div>" +
-        '  <div class="bet-strat-sub muted">' + t.n + " bets settled" + (t.pending ? " · " + t.pending + " pending" : "") + "</div>" +
-        sparkline(curve) +
-        "</div>"
-      );
+      var val = t.bankroll_value != null ? t.bankroll_value : (r.starting_bankroll || 10000);
+      var ret = t.return_pct != null ? t.return_pct : 0;
+      var sizing = s === "bankroll" ? "¼-Kelly (compounding)" : "flat $" + (r.stake || 100);
+      var open = state.stratDetail === s;
+      return '<div class="bet-strat-card' + (open ? " open" : "") + '" data-strat="' + s + '" title="Click to see every bet">' +
+        '<div class="bet-strat-name">' + esc(r.strategy_labels[s]) + ' <span class="bet-strat-caret">' + (open ? "▾" : "▸") + "</span></div>" +
+        '<div class="bet-strat-pnl ' + pnlCls(t.profit) + '">' + dollars(val) + "</div>" +
+        '<div class="bet-strat-sub muted">' + (ret >= 0 ? "+" : "") + ret + "% from " + dollars(r.starting_bankroll || 10000) +
+        "  ·  " + esc(t.record || "0-0") + (t.win_pct != null ? "  ·  " + t.win_pct + "% win" : "") + "</div>" +
+        '<div class="bet-strat-sub muted">' + t.n + " bets settled · " + sizing +
+        (t.pending ? " · " + t.pending + " pending" : "") + "</div>" +
+        sparkline(curve) + "</div>";
     }).join("");
 
     // Weekly table
@@ -372,13 +365,9 @@
       var cells = STRATS.map(function (s) {
         var b = w.strategies[s];
         var pend = b.pending ? ' <span class="muted">(' + b.pending + "p)</span>" : "";
-        if (s === "bankroll") {
-          return '<td class="bet-wk-cell"><span class="bet-ev ' + pnlCls(b.profit) + '">' +
-            (b.bankroll_value != null ? dollars(b.bankroll_value) : "—") + "</span>" +
-            ' <span class="muted">' + money(b.profit) + "</span>" + pend + "</td>";
-        }
-        return '<td class="bet-wk-cell"><span class="bet-wk-rec">' + esc(b.record || "0-0") + "</span>" +
-          ' <span class="bet-ev ' + pnlCls(b.profit) + '">' + money(b.profit) + "</span>" + pend + "</td>";
+        return '<td class="bet-wk-cell"><span class="bet-ev ' + pnlCls(b.profit) + '">' +
+          (b.bankroll_value != null ? dollars(b.bankroll_value) : "—") + "</span>" +
+          ' <span class="muted">' + money(b.profit) + "</span>" + pend + "</td>";
       }).join("");
       var detail = open ? '<tr class="bet-wk-detail"><td colspan="' + (STRATS.length + 1) + '">' + weekDetail(w) + "</td></tr>" : "";
       return '<tr class="bet-wk-row" data-week="' + w.week + '"><td class="bet-wk-toggle">' + (open ? "▾" : "▸") + " Wk " + w.week + "</td>" + cells + "</tr>" + detail;
@@ -387,8 +376,9 @@
     return (
       intro +
       latestWeekPanel(r) +
-      '<h3 class="bet-h3">Season totals</h3>' +
+      '<h3 class="bet-h3">Season totals <span class="muted">— click a strategy to see every bet behind it</span></h3>' +
       '<div class="bet-tiles bet-strat-tiles">' + tiles + "</div>" +
+      (state.stratDetail ? stratDetailPanel(r, state.stratDetail) : "") +
       '<h3 class="bet-h3">Week by week <span class="muted">— click a week to see every bet</span></h3>' +
       '<table class="bet-table bet-week-table"><thead>' + head + "</thead><tbody>" + rows + "</tbody></table>"
     );
@@ -400,15 +390,9 @@
     var c = lw.combined || {};
     var cards = STRATS.map(function (s) {
       var b = lw.strategies[s];
-      if (s === "bankroll") {
-        return '<div class="bet-lw-card"><div class="bet-lw-name">' + esc(shortStrat(s)) + "</div>" +
-          '<div class="bet-lw-pnl ' + pnlCls(b.profit) + '">' + (b.bankroll_value != null ? dollars(b.bankroll_value) : "—") + "</div>" +
-          '<div class="bet-lw-sub muted">' + money(b.profit) + " this week" +
-          (b.pending ? ' · <span class="bet-res-pending">' + b.pending + " pending</span>" : "") + "</div></div>";
-      }
       return '<div class="bet-lw-card"><div class="bet-lw-name">' + esc(shortStrat(s)) + "</div>" +
-        '<div class="bet-lw-pnl ' + pnlCls(b.profit) + '">' + money(b.profit) + "</div>" +
-        '<div class="bet-lw-sub muted">' + esc(b.record || "0-0") + (b.roi != null ? " · " + b.roi + "%" : "") +
+        '<div class="bet-lw-pnl ' + pnlCls(b.profit) + '">' + (b.bankroll_value != null ? dollars(b.bankroll_value) : "—") + "</div>" +
+        '<div class="bet-lw-sub muted">' + money(b.profit) + " this week · " + esc(b.record || "0-0") +
         (b.pending ? ' · <span class="bet-res-pending">' + b.pending + " pending</span>" : "") + "</div></div>";
     }).join("");
     return (
@@ -423,6 +407,36 @@
   }
   function shortStrat(s) {
     return { value: "High conviction", moneyline: "Moneyline", spread: "Spread", bankroll: "Bankroll (Kelly)" }[s] || s;
+  }
+
+  // Every bet behind a strategy's number, with a running balance.
+  function stratDetailPanel(r, s) {
+    var start = r.starting_bankroll || 10000;
+    var bets = (r.totals[s].bets || []).slice().sort(function (a, b) {
+      return (a.week - b.week) || String(a.kickoff || "").localeCompare(String(b.kickoff || ""));
+    });
+    var running = start;
+    var rows = bets.map(function (bet) {
+      var res = bet.result || "pending";
+      var settled = res === "win" || res === "loss" || res === "push";
+      if (settled) running += (bet.pnl || 0);
+      var price = bet.market === "moneyline" || (bet.price && bet.price !== -110) ? odds(bet.price) : "-110";
+      return '<tr class="bet-bet-' + res + '"><td class="num muted">' + (bet.week || "") + "</td>" +
+        "<td>" + esc(bet.game) + (bet.score ? ' <span class="muted">' + esc(bet.score) + "</span>" : "") + "</td>" +
+        "<td><strong>" + esc(bet.pick) + "</strong></td>" +
+        '<td class="num muted">' + dollars(bet.stake || 100) + "</td>" +
+        '<td class="num">' + price + "</td><td>" + resBadge(res) + "</td>" +
+        '<td class="num bet-ev ' + (bet.pnl > 0 ? "pos" : (bet.pnl < 0 ? "neg" : "")) + '">' + (settled ? money2(bet.pnl) : "—") + "</td>" +
+        '<td class="num">' + (settled ? dollars(running) : "—") + "</td></tr>";
+    }).join("");
+    var t = r.totals[s];
+    if (!bets.length) rows = '<tr><td colspan="8" class="muted">No bets settled or pending yet.</td></tr>';
+    return '<div class="bet-strat-detail"><div class="bet-detail-head">Every ' + esc(shortStrat(s)) + " bet · " +
+      esc(t.record || "0-0") + " · " + money2(t.profit) + " → " + dollars(t.bankroll_value) +
+      ' <a class="bet-lw-link" id="bet-strat-close">close ✕</a></div>' +
+      '<div style="overflow-x:auto"><table class="bet-table bet-detail-table"><thead><tr>' +
+      "<th>Wk</th><th>Game</th><th>Pick</th><th>Stake</th><th>Price</th><th>Result</th><th>P&amp;L</th><th>Balance</th>" +
+      "</tr></thead><tbody>" + rows + "</tbody></table></div></div>";
   }
 
   function sparkline(curve) {
@@ -748,8 +762,15 @@
         var wk = row.dataset.week; state.expanded[wk] = !state.expanded[wk]; render();
       };
     });
-    var lwLink = p.querySelector(".bet-lw-link");
+    var lwLink = p.querySelector(".bet-lw-link[data-week]");
     if (lwLink) lwLink.onclick = function () { state.expanded[lwLink.dataset.week] = true; render(); };
+    p.querySelectorAll(".bet-strat-card[data-strat]").forEach(function (c) {
+      c.onclick = function () {
+        var s = c.dataset.strat; state.stratDetail = (state.stratDetail === s ? null : s); render();
+        var d = panel().querySelector(".bet-strat-detail"); if (d) d.scrollIntoView({ behavior: "smooth", block: "nearest" });
+      };
+    });
+    bind(p, "#bet-strat-close", function () { state.stratDetail = null; render(); });
     bind(p, "#bet-locknow", doLockNow);
     bind(p, "#bet-recal", doRecalibrate);
     p.querySelectorAll("[data-game-id]").forEach(function (el) {

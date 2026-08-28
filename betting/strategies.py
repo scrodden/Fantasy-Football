@@ -382,11 +382,12 @@ def report(league: str) -> dict:
         for s in STRATEGIES:
             bkt = _finalize(weeks[wk][s])
             cum[s] += bkt["profit"]
-            row["strategies"][s] = {**bkt, "cumulative": round(cum[s], 2)}
-            if s == "bankroll":
-                row["strategies"][s]["bankroll_value"] = round(STARTING_BANKROLL + cum[s], 2)
+            # Every strategy is tracked as a $10,000 bankroll (flat $100 stakes
+            # for 1-3; compounding Kelly for the 4th).
+            row["strategies"][s] = {**bkt, "cumulative": round(cum[s], 2),
+                                    "bankroll_value": round(STARTING_BANKROLL + cum[s], 2)}
             curves[s].append({"week": wk, "cumulative": round(cum[s], 2), "profit": bkt["profit"],
-                              "value": round(STARTING_BANKROLL + cum[s], 2) if s == "bankroll" else None})
+                              "value": round(STARTING_BANKROLL + cum[s], 2)})
             # accumulate season totals
             t = totals[s]
             for k in ("win", "loss", "push", "pending"):
@@ -399,6 +400,8 @@ def report(league: str) -> dict:
 
     for s in STRATEGIES:
         _finalize(totals[s])
+        totals[s]["bankroll_value"] = round(STARTING_BANKROLL + totals[s]["profit"], 2)
+        totals[s]["return_pct"] = round(100.0 * totals[s]["profit"] / STARTING_BANKROLL, 1)
 
     # The most recent week that has any graded (settled) bets -- the "how did
     # this week's strategies do" summary the user sees after a slate finishes.
