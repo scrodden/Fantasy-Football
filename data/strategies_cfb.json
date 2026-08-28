@@ -459,6 +459,55 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401862693": {
+      "game_id": "401862693",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-08-30T02:00Z",
+      "locked_at": "2026-08-28T22:02:29+00:00",
+      "home": "UNLV",
+      "away": "MEM",
+      "home_full": "UNLV Rebels",
+      "away_full": "Memphis Tigers",
+      "line": {
+        "home_spread": -4.5,
+        "total": 56.5,
+        "home_ml": -192,
+        "away_ml": 160,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 4.9,
+        "proj_total": 57.3,
+        "proj_home_score": 31.1,
+        "proj_away_score": 26.2,
+        "home_win_prob": 0.6383
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "UNLV",
+          "line": -4.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "UNLV -4.5",
+          "lean": 0.4
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "UNLV",
+          "price": -192,
+          "stake": 100.0,
+          "pick": "UNLV ML -192"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
