@@ -1,0 +1,464 @@
+{
+  "locks": {
+    "401856766": {
+      "game_id": "401856766",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-08-29T16:00Z",
+      "locked_at": "2026-08-28T18:54:17+00:00",
+      "home": "TCU",
+      "away": "UNC",
+      "home_full": "TCU Horned Frogs",
+      "away_full": "North Carolina Tar Heels",
+      "line": {
+        "home_spread": -9.5,
+        "total": 46.5,
+        "home_ml": -355,
+        "away_ml": 280,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 8.8,
+        "proj_total": 48.4,
+        "proj_home_score": 28.6,
+        "proj_away_score": 19.8,
+        "home_win_prob": 0.7506
+      },
+      "bets": {
+        "spread": {
+          "side": "away",
+          "team": "UNC",
+          "line": 9.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "UNC +9.5",
+          "lean": -0.7
+        },
+        "moneyline": {
+          "side": "home",
+          "team": "TCU",
+          "price": -355,
+          "stake": 100.0,
+          "pick": "TCU ML -355"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401864494": {
+      "game_id": "401864494",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-08-29T19:00Z",
+      "locked_at": "2026-08-28T18:54:17+00:00",
+      "home": "USC",
+      "away": "SJSU",
+      "home_full": "USC Trojans",
+      "away_full": "San Jos\u00e9 State Spartans",
+      "line": {
+        "home_spread": -38.5,
+        "total": 61.5,
+        "home_ml": null,
+        "away_ml": null,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 32.2,
+        "proj_total": 60.6,
+        "proj_home_score": 46.4,
+        "proj_away_score": 14.2,
+        "home_win_prob": 0.9915
+      },
+      "bets": {
+        "spread": {
+          "side": "away",
+          "team": "SJSU",
+          "line": 38.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "SJSU +38.5",
+          "lean": -6.3
+        },
+        "moneyline": null,
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401858202": {
+      "game_id": "401858202",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-08-29T19:30Z",
+      "locked_at": "2026-08-28T18:54:17+00:00",
+      "home": "UVA",
+      "away": "NCSU",
+      "home_full": "Virginia Cavaliers",
+      "away_full": "NC State Wolfpack",
+      "line": {
+        "home_spread": -4.0,
+        "total": 51.5,
+        "home_ml": -180,
+        "away_ml": 150,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 3.6,
+        "proj_total": 51.6,
+        "proj_home_score": 27.6,
+        "proj_away_score": 24.0,
+        "home_win_prob": 0.6172
+      },
+      "bets": {
+        "spread": {
+          "side": "away",
+          "team": "NCSU",
+          "line": 4.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "NCSU +4",
+          "lean": -0.4
+        },
+        "moneyline": {
+          "side": "home",
+          "team": "UVA",
+          "price": -180,
+          "stake": 100.0,
+          "pick": "UVA ML -180"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401864577": {
+      "game_id": "401864577",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-08-29T21:30Z",
+      "locked_at": "2026-08-28T18:54:17+00:00",
+      "home": "NDSU",
+      "away": "JVST",
+      "home_full": "North Dakota State Bison",
+      "away_full": "Jacksonville State Gamecocks",
+      "line": {
+        "home_spread": -7.0,
+        "total": 46.5,
+        "home_ml": -265,
+        "away_ml": 215,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 9.5,
+        "proj_total": 49.2,
+        "proj_home_score": 29.3,
+        "proj_away_score": 19.8,
+        "home_win_prob": 0.7201
+      },
+      "bets": {
+        "spread": {
+          "side": "home",
+          "team": "NDSU",
+          "line": -7.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "NDSU -7",
+          "lean": 2.5
+        },
+        "moneyline": {
+          "side": "home",
+          "team": "NDSU",
+          "price": -265,
+          "stake": 100.0,
+          "pick": "NDSU ML -265"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "NDSU",
+            "pick": "NDSU -7",
+            "line": -7.0,
+            "price": -110,
+            "ev": 0.081,
+            "edge": 2.5,
+            "kelly": 0.0222,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "NDSU",
+            "pick": "NDSU -7",
+            "line": -7.0,
+            "price": -110,
+            "ev": 0.081,
+            "edge": 2.5,
+            "kelly": 0.0222,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 222.0,
+            "bankroll_at_bet": 10000.0
+          },
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 46.5",
+            "line": 46.5,
+            "price": -110,
+            "ev": 0.079,
+            "edge": 2.7,
+            "kelly": 0.0216,
+            "confidence": "low",
+            "book": null,
+            "stake": 216.0,
+            "bankroll_at_bet": 10000.0
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401866408": {
+      "game_id": "401866408",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-08-29T22:30Z",
+      "locked_at": "2026-08-28T18:54:17+00:00",
+      "home": "EMU",
+      "away": "SAC",
+      "home_full": "Eastern Michigan Eagles",
+      "away_full": "Sacramento State Hornets",
+      "line": {
+        "home_spread": -9.5,
+        "total": 54.5,
+        "home_ml": -375,
+        "away_ml": 295,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 4.4,
+        "proj_total": 55.9,
+        "proj_home_score": 30.1,
+        "proj_away_score": 25.7,
+        "home_win_prob": 0.7198
+      },
+      "bets": {
+        "spread": {
+          "side": "away",
+          "team": "SAC",
+          "line": 9.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "SAC +9.5",
+          "lean": -5.1
+        },
+        "moneyline": {
+          "side": "home",
+          "team": "EMU",
+          "price": -375,
+          "stake": 100.0,
+          "pick": "EMU ML -375"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "SAC",
+            "pick": "SAC +9.5",
+            "line": 9.5,
+            "price": -110,
+            "ev": 0.209,
+            "edge": 5.1,
+            "kelly": 0.0574,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "SAC",
+            "pick": "SAC ML +295",
+            "line": 295,
+            "price": 295,
+            "ev": 0.107,
+            "edge": 3.7,
+            "kelly": 0.0091,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "SAC",
+            "pick": "SAC +9.5",
+            "line": 9.5,
+            "price": -110,
+            "ev": 0.209,
+            "edge": 5.1,
+            "kelly": 0.0574,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 574.0,
+            "bankroll_at_bet": 10000.0
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "SAC",
+            "pick": "SAC ML +295",
+            "line": 295,
+            "price": 295,
+            "ev": 0.107,
+            "edge": 3.7,
+            "kelly": 0.0091,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 91.0,
+            "bankroll_at_bet": 10000.0
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401858201": {
+      "game_id": "401858201",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-08-29T23:00Z",
+      "locked_at": "2026-08-28T18:54:17+00:00",
+      "home": "STAN",
+      "away": "HAW",
+      "home_full": "Stanford Cardinal",
+      "away_full": "Hawai'i Rainbow Warriors",
+      "line": {
+        "home_spread": -4.0,
+        "total": 48.5,
+        "home_ml": -198,
+        "away_ml": 164,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 2.5,
+        "proj_total": 50.3,
+        "proj_home_score": 26.4,
+        "proj_away_score": 23.9,
+        "home_win_prob": 0.6201
+      },
+      "bets": {
+        "spread": {
+          "side": "away",
+          "team": "HAW",
+          "line": 4.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "HAW +4",
+          "lean": -1.5
+        },
+        "moneyline": {
+          "side": "home",
+          "team": "STAN",
+          "price": -198,
+          "stake": 100.0,
+          "pick": "STAN ML -198"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "HAW",
+            "pick": "HAW +4",
+            "line": 4.0,
+            "price": -110,
+            "ev": 0.031,
+            "edge": 1.5,
+            "kelly": 0.0084,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "HAW",
+            "pick": "HAW +4",
+            "line": 4.0,
+            "price": -110,
+            "ev": 0.031,
+            "edge": 1.5,
+            "kelly": 0.0084,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 84.0,
+            "bankroll_at_bet": 10000.0
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401864570": {
+      "game_id": "401864570",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-08-29T23:00Z",
+      "locked_at": "2026-08-28T18:54:17+00:00",
+      "home": "FSU",
+      "away": "NMSU",
+      "home_full": "Florida State Seminoles",
+      "away_full": "New Mexico State Aggies",
+      "line": {
+        "home_spread": -31.5,
+        "total": 53.5,
+        "home_ml": -10000,
+        "away_ml": 3000,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 25.4,
+        "proj_total": 53.3,
+        "proj_home_score": 39.4,
+        "proj_away_score": 14.0,
+        "home_win_prob": 0.9694
+      },
+      "bets": {
+        "spread": {
+          "side": "away",
+          "team": "NMSU",
+          "line": 31.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "NMSU +31.5",
+          "lean": -6.1
+        },
+        "moneyline": {
+          "side": "home",
+          "team": "FSU",
+          "price": -10000,
+          "stake": 100.0,
+          "pick": "FSU ML -10000"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    }
+  }
+}

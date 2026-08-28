@@ -28,7 +28,10 @@ from betting import data, edges
 from betting.model import Projector
 from betting.elo import DATA_DIR
 
-LOCK_HOURS = 24                 # freeze a game's bets this long before kickoff
+LOCK_HOURS = 30                 # lock a game's bets up to this long before kickoff
+                                # (widened from 24 so flaky cloud scheduling still
+                                # catches every game inside its window; the model
+                                # + line are captured at first run within it)
 STAKE = 100.0                   # flat stake per bet (strategies 1-3)
 STARTING_BANKROLL = 10000.0     # strategy 4: grows/shrinks with Kelly-sized bets
 KELLY_MIN_STAKE = 1.0           # don't place a Kelly bet smaller than this

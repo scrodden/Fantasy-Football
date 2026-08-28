@@ -6,8 +6,10 @@ name: Betting model — scheduled update
 
 on:
   schedule:
-    # Every 2 hours, during football season (Aug–Jan). Times are UTC.
-    - cron: "0 */2 * 8-12,1 *"
+    # Hourly during football season (Aug–Jan). GitHub often skips/delays
+    # scheduled runs, so hourly + a widened lock window (see LOCK_HOURS) makes
+    # it very likely every game gets locked inside its pre-kickoff window.
+    - cron: "0 * * 8-12,1 *"
   workflow_dispatch: {}      # adds a manual "Run workflow" button
 
 permissions:
