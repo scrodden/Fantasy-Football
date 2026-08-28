@@ -3,17 +3,26 @@
 <title>Football Betting Model</title>
 <link rel="stylesheet" href="style.css?v=28419255">
 <style>
-body{background:var(--bg);color:var(--text);font-family:-apple-system,Segoe UI,Roboto,sans-serif;margin:0}
-.cloudbar{display:flex;align-items:baseline;gap:.8rem;flex-wrap:wrap;padding:1rem 1.2rem .4rem}
-.cloudbar h1{margin:0;font-size:1.3rem}
-.cloudbar .muted{font-size:.82rem}
-#betting-panel{padding:0 1.2rem 3rem}
-.cloud-note{margin:.2rem 1.2rem 1rem;color:var(--muted);font-size:.82rem}
+html,body{overflow-x:hidden}
+body{background:var(--bg);color:var(--text);font-family:-apple-system,Segoe UI,Roboto,sans-serif;margin:0;line-height:1.5}
+.page{max-width:1040px;margin:0 auto;padding:0 1.1rem}
+.hero{display:flex;align-items:center;gap:1rem;padding:1.5rem 0 1.1rem;border-bottom:1px solid var(--border);margin-bottom:1.2rem}
+.hero .logo{font-size:2.1rem;line-height:1}
+.hero h1{margin:0;font-size:1.55rem;font-weight:800;letter-spacing:-.02em}
+.hero .tag{color:var(--muted);font-size:.82rem;margin-top:.2rem;max-width:60ch}
+.hero .live{margin-left:auto;align-self:flex-start;font-size:.7rem;font-weight:700;letter-spacing:.03em;text-transform:uppercase;color:var(--accent);background:rgba(63,185,80,.12);border:1px solid rgba(63,185,80,.4);border-radius:999px;padding:.2rem .6rem;white-space:nowrap}
+#betting-panel{padding:0 0 4rem}
+/* keep every wide table/element inside the readable column */
+#betting-panel table{max-width:100%}
+#betting-panel .bet-week-table,#betting-panel .bet-edges table,#betting-panel .bet-detail-table{display:block;overflow-x:auto}
 </style></head><body>
-<div class="cloudbar"><span style="font-size:1.5rem">🏈</span><h1>Football Betting Model</h1>
-<span class="muted">auto-updating cloud view</span></div>
-<div class="cloud-note">Projections, edges, and weekly strategy results — updated automatically every couple of hours. Click any game for the model's full reasoning.</div>
-<div id="betting-panel"><p class="muted" style="padding:1.2rem">Loading…</p></div>
+<div class="page">
+<div class="hero"><span class="logo">🏈</span>
+<div><h1>Football Betting Model</h1>
+<div class="tag">Projections, edges &amp; weekly strategy results for every NFL and college game — updated automatically. Tap any game for the model's full reasoning.</div></div>
+<span class="live">● Live</span></div>
+<div id="betting-panel"><p class="muted" style="padding:1.2rem 0">Loading…</p></div>
+</div>
 <script>window.BETTING_STATIC = true;</script>
 <script src="betting.js?v=68e45c4c"></script>
 <script>document.addEventListener("DOMContentLoaded",function(){ if(window.Betting) window.Betting.show(); });</script>
