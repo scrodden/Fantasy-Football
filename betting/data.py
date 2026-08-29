@@ -235,32 +235,52 @@ def current_board(league: str, ttl: float = 900) -> dict:
     return scoreboard(league, ttl=ttl)
 
 
+def _collect_finals(board: dict, out: list) -> None:
+    """Append the completed, countable games from a scoreboard into ``out``."""
+    for g in board["games"]:
+        # Train only on games that count: skip preseason (backups play, so
+        # results are poor signal for team strength) and unfinished games.
+        if g.get("seasontype") == 1:
+            continue
+        # Skip the Pro Bowl / all-star exhibition (AFC vs NFC squads).
+        if g["home"]["abbr"] in _PSEUDO_TEAMS or g["away"]["abbr"] in _PSEUDO_TEAMS:
+            continue
+        if g["completed"] and g["home"]["score"] is not None:
+            out.append(g)
+
+
 def historical_games(league: str, start: _dt.date, end: _dt.date,
                      ttl: float = 30 * 24 * 3600) -> list[dict]:
     """Every completed game in a date range, for training/backtesting.
 
-    ESPN accepts ``dates=YYYYMMDD-YYYYMMDD``.  We chunk by ~2-week windows to
-    stay within the ~200-event response cap (college has ~100+ games/week).
-    Long TTL because finished results never change.
+    ESPN accepts ``dates=YYYYMMDD-YYYYMMDD``, and we chunk fully-past windows by
+    ~2-week ranges (one request each, cached long since finished results never
+    change).  BUT ESPN's range query silently returns *nothing* when the range
+    ends on the current, in-progress week -- so today's finals would be invisible
+    and bets would never settle.  We therefore fetch the last few days (the
+    "live edge") one day at a time -- single-day queries work reliably right up
+    to the current day -- with a short TTL so freshly-finished games appear.
     """
+    today = _dt.date.today()
+    edge_start = today - _dt.timedelta(days=2)   # today/yesterday/day-before: per-day
     out: list[dict] = []
+
+    # (a) stable past portion -- efficient multi-day range chunks, cached long.
+    range_end = min(end, edge_start - _dt.timedelta(days=1))
     span = 14 if league == "cfb" else 21
     cur = start
-    while cur <= end:
-        stop = min(end, cur + _dt.timedelta(days=span - 1))
+    while cur <= range_end:
+        stop = min(range_end, cur + _dt.timedelta(days=span - 1))
         dates = f"{cur.strftime('%Y%m%d')}-{stop.strftime('%Y%m%d')}"
-        board = scoreboard(league, dates=dates, ttl=ttl)
-        for g in board["games"]:
-            # Train only on games that count: skip preseason (backups play, so
-            # results are poor signal for team strength) and unfinished games.
-            if g.get("seasontype") == 1:
-                continue
-            # Skip the Pro Bowl / all-star exhibition (AFC vs NFC squads).
-            if g["home"]["abbr"] in _PSEUDO_TEAMS or g["away"]["abbr"] in _PSEUDO_TEAMS:
-                continue
-            if g["completed"] and g["home"]["score"] is not None:
-                out.append(g)
+        _collect_finals(scoreboard(league, dates=dates, ttl=ttl), out)
         cur = stop + _dt.timedelta(days=1)
+
+    # (b) live edge -- one request per day (range queries break here), short TTL.
+    day = max(start, edge_start)
+    while day <= end:
+        _collect_finals(scoreboard(league, dates=day.strftime("%Y%m%d"), ttl=900), out)
+        day += _dt.timedelta(days=1)
+
     # De-dup by event id (chunk boundaries can overlap a game's listing).
     seen, uniq = set(), []
     for g in out:
