@@ -552,7 +552,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "UNLV -4.5",
-          "lean": 0.4
+          "lean": 0.4,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -560,12 +562,16 @@
           "team": "UNLV",
           "price": -192,
           "stake": 100.0,
-          "pick": "UNLV ML -192"
+          "pick": "UNLV ML -192",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 21,
+      "away_score": 27
     }
   }
 }
