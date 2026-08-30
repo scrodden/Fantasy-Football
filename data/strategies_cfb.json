@@ -410,14 +410,18 @@
           "price": -110,
           "stake": 100.0,
           "pick": "HAW +4",
-          "lean": -1.5
+          "lean": -1.5,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "side": "home",
           "team": "STAN",
           "price": -198,
           "stake": 100.0,
-          "pick": "STAN ML -198"
+          "pick": "STAN ML -198",
+          "result": "win",
+          "pnl": 50.51
         },
         "value": [
           {
@@ -432,7 +436,9 @@
             "kelly": 0.0084,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           }
         ],
         "bankroll": [
@@ -449,11 +455,15 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 84.0,
-            "bankroll_at_bet": 10000.0
+            "bankroll_at_bet": 10000.0,
+            "result": "loss",
+            "pnl": -84.0
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 37,
+      "away_score": 27
     },
     "401864570": {
       "game_id": "401864570",
@@ -488,19 +498,25 @@
           "price": -110,
           "stake": 100.0,
           "pick": "NMSU +31.5",
-          "lean": -6.1
+          "lean": -6.1,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "side": "home",
           "team": "FSU",
           "price": -10000,
           "stake": 100.0,
-          "pick": "FSU ML -10000"
+          "pick": "FSU ML -10000",
+          "result": "win",
+          "pnl": 1.0
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 34,
+      "away_score": 17
     },
     "401862693": {
       "game_id": "401862693",
