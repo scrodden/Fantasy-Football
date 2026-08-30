@@ -184,14 +184,18 @@
           "price": -110,
           "stake": 100.0,
           "pick": "NDSU -7",
-          "lean": 2.5
+          "lean": 2.5,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "side": "home",
           "team": "NDSU",
           "price": -265,
           "stake": 100.0,
-          "pick": "NDSU ML -265"
+          "pick": "NDSU ML -265",
+          "result": "win",
+          "pnl": 37.74
         },
         "value": [
           {
@@ -206,7 +210,9 @@
             "kelly": 0.0222,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           }
         ],
         "bankroll": [
@@ -223,7 +229,9 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 222.0,
-            "bankroll_at_bet": 10000.0
+            "bankroll_at_bet": 10000.0,
+            "result": "win",
+            "pnl": 201.82
           },
           {
             "market": "total",
@@ -238,11 +246,15 @@
             "confidence": "low",
             "book": null,
             "stake": 216.0,
-            "bankroll_at_bet": 10000.0
+            "bankroll_at_bet": 10000.0,
+            "result": "loss",
+            "pnl": -216.0
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 33,
+      "away_score": 7
     },
     "401866408": {
       "game_id": "401866408",

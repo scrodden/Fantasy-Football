@@ -241,18 +241,18 @@
       "last_date": "2025-11-29T17:00Z"
     },
     "2449": {
-      "rating": 1785.7124241663992,
+      "rating": 1795.4624768521076,
       "name": "N Dakota St",
       "abbr": "NDSU",
-      "gp": 0,
-      "last_date": "2025-12-06T18:00Z"
+      "gp": 1,
+      "last_date": "2026-08-29T21:30Z"
     },
     "55": {
-      "rating": 1485.4190899229852,
+      "rating": 1475.6690372372768,
       "name": "Jax State",
       "abbr": "JVST",
-      "gp": 0,
-      "last_date": "2025-12-17T02:00Z"
+      "gp": 1,
+      "last_date": "2026-08-29T21:30Z"
     },
     "324": {
       "rating": 1355.4718985715394,
@@ -1698,9 +1698,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-08-29T19:30Z",
+    "last_game_date": "2026-08-29T21:30Z",
     "season": 2026,
-    "n_games": 1909,
+    "n_games": 1910,
     "signals": {
       "weather": true,
       "travel": true,

@@ -106,7 +106,8 @@
         "pick": "Over 46.25",
         "line": 46.25,
         "price": -110,
-        "edge": 3.0
+        "edge": 3.0,
+        "result": "loss"
       },
       {
         "market": "spread",
@@ -114,10 +115,18 @@
         "pick": "NDSU -7",
         "line": -7.0,
         "price": -110,
-        "edge": 2.5
+        "edge": 2.5,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 33,
+    "away_score": 7,
+    "actual_margin": 26,
+    "su_correct": true,
+    "brier": 0.0847,
+    "margin_err": 16.5,
+    "total_err": 9.2
   },
   "401866408": {
     "id": "401866408",
