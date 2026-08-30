@@ -15,7 +15,14 @@
       "away_ml": 250
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 10,
+    "away_score": 15,
+    "actual_margin": -5,
+    "su_correct": false,
+    "brier": 0.5105,
+    "margin_err": 12.5,
+    "total_err": 24.1
   },
   "401864494": {
     "id": "401864494",
@@ -33,7 +40,14 @@
       "away_ml": null
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 42,
+    "away_score": 26,
+    "actual_margin": 16,
+    "su_correct": true,
+    "brier": 0.0003,
+    "margin_err": 16.2,
+    "total_err": 8.1
   },
   "401858202": {
     "id": "401858202",
@@ -57,10 +71,18 @@
         "pick": "UVA ML -145",
         "line": -145,
         "price": -145,
-        "edge": 2.2
+        "edge": 2.2,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 34,
+    "away_score": 8,
+    "actual_margin": 26,
+    "su_correct": true,
+    "brier": 0.1253,
+    "margin_err": 21.4,
+    "total_err": 10.9
   },
   "401864577": {
     "id": "401864577",

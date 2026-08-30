@@ -33,19 +33,25 @@
           "price": -110,
           "stake": 100.0,
           "pick": "UNC +9.5",
-          "lean": -0.7
+          "lean": -0.7,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "side": "home",
           "team": "TCU",
           "price": -355,
           "stake": 100.0,
-          "pick": "TCU ML -355"
+          "pick": "TCU ML -355",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 10,
+      "away_score": 15
     },
     "401864494": {
       "game_id": "401864494",
@@ -80,13 +86,17 @@
           "price": -110,
           "stake": 100.0,
           "pick": "SJSU +38.5",
-          "lean": -6.3
+          "lean": -6.3,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": null,
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 42,
+      "away_score": 26
     },
     "401858202": {
       "game_id": "401858202",
@@ -121,19 +131,25 @@
           "price": -110,
           "stake": 100.0,
           "pick": "NCSU +4",
-          "lean": -0.4
+          "lean": -0.4,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "side": "home",
           "team": "UVA",
           "price": -180,
           "stake": 100.0,
-          "pick": "UVA ML -180"
+          "pick": "UVA ML -180",
+          "result": "win",
+          "pnl": 55.56
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 34,
+      "away_score": 8
     },
     "401864577": {
       "game_id": "401864577",
