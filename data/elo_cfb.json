@@ -367,11 +367,11 @@
       "last_date": "2026-08-29T19:00Z"
     },
     "16": {
-      "rating": 1540.5852631753444,
+      "rating": 1483.5951399958274,
       "name": "Sacramento St",
       "abbr": "SAC",
-      "gp": 0,
-      "last_date": "2025-11-22T21:00Z"
+      "gp": 1,
+      "last_date": "2026-08-29T22:30Z"
     },
     "349": {
       "rating": 1579.2709745154193,
@@ -717,11 +717,11 @@
       "last_date": "2025-11-19T00:15Z"
     },
     "2199": {
-      "rating": 1329.7583420958383,
+      "rating": 1386.7484652753553,
       "name": "E Michigan",
       "abbr": "EMU",
-      "gp": 0,
-      "last_date": "2025-11-15T17:00Z"
+      "gp": 1,
+      "last_date": "2026-08-29T22:30Z"
     },
     "2026": {
       "rating": 1342.640045286369,
@@ -1698,9 +1698,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-08-29T21:30Z",
+    "last_game_date": "2026-08-29T22:30Z",
     "season": 2026,
-    "n_games": 1910,
+    "n_games": 1911,
     "signals": {
       "weather": true,
       "travel": true,

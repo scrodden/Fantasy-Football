@@ -150,7 +150,8 @@
         "pick": "SAC +10",
         "line": 10.0,
         "price": -110,
-        "edge": 5.3
+        "edge": 5.3,
+        "result": "loss"
       },
       {
         "market": "moneyline",
@@ -158,7 +159,8 @@
         "pick": "SAC ML +300",
         "line": 300,
         "price": 300,
-        "edge": 3.8
+        "edge": 3.8,
+        "result": "loss"
       },
       {
         "market": "total",
@@ -166,10 +168,18 @@
         "pick": "Over 52.5",
         "line": 52.5,
         "price": -110,
-        "edge": 2.0
+        "edge": 2.0,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 28,
+    "away_score": 17,
+    "actual_margin": 11,
+    "su_correct": true,
+    "brier": 0.0805,
+    "margin_err": 6.3,
+    "total_err": 9.5
   },
   "401858201": {
     "id": "401858201",

@@ -289,14 +289,18 @@
           "price": -110,
           "stake": 100.0,
           "pick": "SAC +9.5",
-          "lean": -5.1
+          "lean": -5.1,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "side": "home",
           "team": "EMU",
           "price": -375,
           "stake": 100.0,
-          "pick": "EMU ML -375"
+          "pick": "EMU ML -375",
+          "result": "win",
+          "pnl": 26.67
         },
         "value": [
           {
@@ -311,7 +315,9 @@
             "kelly": 0.0574,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           },
           {
             "market": "moneyline",
@@ -325,7 +331,9 @@
             "kelly": 0.0091,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           }
         ],
         "bankroll": [
@@ -342,7 +350,9 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 574.0,
-            "bankroll_at_bet": 10000.0
+            "bankroll_at_bet": 10000.0,
+            "result": "loss",
+            "pnl": -574.0
           },
           {
             "market": "moneyline",
@@ -357,11 +367,15 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 91.0,
-            "bankroll_at_bet": 10000.0
+            "bankroll_at_bet": 10000.0,
+            "result": "loss",
+            "pnl": -91.0
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 28,
+      "away_score": 17
     },
     "401858201": {
       "game_id": "401858201",
