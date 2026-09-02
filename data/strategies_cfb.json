@@ -905,6 +905,139 @@
         ]
       },
       "settled": false
+    },
+    "401856663": {
+      "game_id": "401856663",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-04T00:00Z",
+      "locked_at": "2026-09-02T18:18:59+00:00",
+      "home": "MIZ",
+      "away": "UAPB",
+      "home_full": "Missouri Tigers",
+      "away_full": "Arkansas-Pine Bluff Golden Lions",
+      "line": {
+        "home_spread": -54.5,
+        "total": 61.5,
+        "home_ml": null,
+        "away_ml": null,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 41.8,
+        "proj_total": 59.0,
+        "proj_home_score": 50.4,
+        "proj_away_score": 8.6,
+        "home_win_prob": 0.9989
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "UAPB",
+          "line": 54.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "UAPB +54.5",
+          "lean": -12.7
+        },
+        "moneyline": null,
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401856776": {
+      "game_id": "401856776",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-04T00:00Z",
+      "locked_at": "2026-09-02T18:18:59+00:00",
+      "home": "GT",
+      "away": "COLO",
+      "home_full": "Georgia Tech Yellow Jackets",
+      "away_full": "Colorado Buffaloes",
+      "line": {
+        "home_spread": -6.5,
+        "total": 51.5,
+        "home_ml": -250,
+        "away_ml": 205,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 7.4,
+        "proj_total": 53.0,
+        "proj_home_score": 30.2,
+        "proj_away_score": 22.8,
+        "home_win_prob": 0.6972
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "GT",
+          "line": -6.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "GT -6.5",
+          "lean": 0.9
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "GT",
+          "price": -250,
+          "stake": 100.0,
+          "pick": "GT ML -250"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401858422": {
+      "game_id": "401858422",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-04T00:00Z",
+      "locked_at": "2026-09-02T18:18:59+00:00",
+      "home": "MINN",
+      "away": "EIU",
+      "home_full": "Minnesota Golden Gophers",
+      "away_full": "Eastern Illinois Panthers",
+      "line": {
+        "home_spread": -42.5,
+        "total": 51.5,
+        "home_ml": null,
+        "away_ml": null,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 32.5,
+        "proj_total": 52.3,
+        "proj_home_score": 42.4,
+        "proj_away_score": 9.9,
+        "home_win_prob": 0.9921
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "EIU",
+          "line": 42.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "EIU +42.5",
+          "lean": -10.0
+        },
+        "moneyline": null,
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
