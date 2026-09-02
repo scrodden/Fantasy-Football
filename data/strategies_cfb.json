@@ -621,6 +621,290 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401856767": {
+      "game_id": "401856767",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-03T23:00Z",
+      "locked_at": "2026-09-02T17:14:33+00:00",
+      "home": "UCF",
+      "away": "BCU",
+      "home_full": "UCF Knights",
+      "away_full": "Bethune-Cookman Wildcats",
+      "line": {
+        "home_spread": -42.5,
+        "total": 58.5,
+        "home_ml": null,
+        "away_ml": null,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 31.3,
+        "proj_total": 57.1,
+        "proj_home_score": 44.2,
+        "proj_away_score": 12.9,
+        "home_win_prob": 0.9899
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "BCU",
+          "line": 42.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "BCU +42.5",
+          "lean": -11.2
+        },
+        "moneyline": null,
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401858204": {
+      "game_id": "401858204",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-03T23:00Z",
+      "locked_at": "2026-09-02T17:14:33+00:00",
+      "home": "WAKE",
+      "away": "AKR",
+      "home_full": "Wake Forest Demon Deacons",
+      "away_full": "Akron Zips",
+      "line": {
+        "home_spread": -24.5,
+        "total": 48.5,
+        "home_ml": -3200,
+        "away_ml": 1400,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 21.1,
+        "proj_total": 50.2,
+        "proj_home_score": 35.6,
+        "proj_away_score": 14.6,
+        "home_win_prob": 0.9385
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "AKR",
+          "line": 24.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "AKR +24.5",
+          "lean": -3.4
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "WAKE",
+          "price": -3200,
+          "stake": 100.0,
+          "pick": "WAKE ML -3200"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401864424": {
+      "game_id": "401864424",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-03T23:00Z",
+      "locked_at": "2026-09-02T17:14:33+00:00",
+      "home": "DEL",
+      "away": "MRMK",
+      "home_full": "Delaware Blue Hens",
+      "away_full": "Merrimack Warriors",
+      "line": {
+        "home_spread": -28.5,
+        "total": 55.5,
+        "home_ml": -20000,
+        "away_ml": 3500,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 20.7,
+        "proj_total": 56.3,
+        "proj_home_score": 38.5,
+        "proj_away_score": 17.8,
+        "home_win_prob": 0.9628
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "MRMK",
+          "line": 28.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "MRMK +28.5",
+          "lean": -7.8
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "DEL",
+          "price": -20000,
+          "stake": 100.0,
+          "pick": "DEL ML -20000"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401864425": {
+      "game_id": "401864425",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-03T23:00Z",
+      "locked_at": "2026-09-02T17:14:33+00:00",
+      "home": "KENN",
+      "away": "WES",
+      "home_full": "Kennesaw State Owls",
+      "away_full": "West Georgia Wolves",
+      "line": {
+        "home_spread": -23.5,
+        "total": 51.5,
+        "home_ml": -4000,
+        "away_ml": 1600,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 15.7,
+        "proj_total": 53.6,
+        "proj_home_score": 34.6,
+        "proj_away_score": 19.0,
+        "home_win_prob": 0.9247
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "WES",
+          "line": 23.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "WES +23.5",
+          "lean": -7.8
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "KENN",
+          "price": -4000,
+          "stake": 100.0,
+          "pick": "KENN ML -4000"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401866409": {
+      "game_id": "401866409",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-03T23:00Z",
+      "locked_at": "2026-09-02T17:14:33+00:00",
+      "home": "BUFF",
+      "away": "ALB",
+      "home_full": "Buffalo Bulls",
+      "away_full": "UAlbany Great Danes",
+      "line": {
+        "home_spread": -18.5,
+        "total": 48.5,
+        "home_ml": -1200,
+        "away_ml": 750,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 12.4,
+        "proj_total": 50.6,
+        "proj_home_score": 31.5,
+        "proj_away_score": 19.1,
+        "home_win_prob": 0.8695
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "ALB",
+          "line": 18.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "ALB +18.5",
+          "lean": -6.1
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "BUFF",
+          "price": -1200,
+          "stake": 100.0,
+          "pick": "BUFF ML -1200"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "ALB",
+            "pick": "ALB +18.5",
+            "line": 18.5,
+            "price": -110,
+            "ev": 0.256,
+            "edge": 6.1,
+            "kelly": 0.0704,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "ALB",
+            "pick": "ALB +18.5",
+            "line": 18.5,
+            "price": -110,
+            "ev": 0.256,
+            "edge": 6.1,
+            "kelly": 0.0704,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 650.27,
+            "bankroll_at_bet": 9236.82
+          },
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 48.5",
+            "line": 48.5,
+            "price": -110,
+            "ev": 0.051,
+            "edge": 2.1,
+            "kelly": 0.0141,
+            "confidence": "low",
+            "book": null,
+            "stake": 130.24,
+            "bankroll_at_bet": 9236.82
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
