@@ -1038,6 +1038,104 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401856768": {
+      "game_id": "401856768",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-04T01:00Z",
+      "locked_at": "2026-09-02T19:13:38+00:00",
+      "home": "UTAH",
+      "away": "IDHO",
+      "home_full": "Utah Utes",
+      "away_full": "Idaho Vandals",
+      "line": {
+        "home_spread": -35.5,
+        "total": 57.5,
+        "home_ml": -100000,
+        "away_ml": 5000,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 29.7,
+        "proj_total": 57.3,
+        "proj_home_score": 43.5,
+        "proj_away_score": 13.8,
+        "home_win_prob": 0.9826
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "IDHO",
+          "line": 35.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "IDHO +35.5",
+          "lean": -5.8
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "UTAH",
+          "price": -100000,
+          "stake": 100.0,
+          "pick": "UTAH ML -100000"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401858424": {
+      "game_id": "401858424",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-04T01:00Z",
+      "locked_at": "2026-09-02T19:13:38+00:00",
+      "home": "ILL",
+      "away": "UAB",
+      "home_full": "Illinois Fighting Illini",
+      "away_full": "UAB Blazers",
+      "line": {
+        "home_spread": -27.5,
+        "total": 54.5,
+        "home_ml": -4500,
+        "away_ml": 1700,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 22.6,
+        "proj_total": 55.0,
+        "proj_home_score": 38.8,
+        "proj_away_score": 16.2,
+        "home_win_prob": 0.9493
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "UAB",
+          "line": 27.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "UAB +27.5",
+          "lean": -4.9
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "ILL",
+          "price": -4500,
+          "stake": 100.0,
+          "pick": "ILL ML -4500"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
