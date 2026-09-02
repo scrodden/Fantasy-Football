@@ -572,6 +572,55 @@
       "settled": true,
       "home_score": 21,
       "away_score": 27
+    },
+    "401858423": {
+      "game_id": "401858423",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-03T22:00Z",
+      "locked_at": "2026-09-02T16:16:04+00:00",
+      "home": "RUTG",
+      "away": "MASS",
+      "home_full": "Rutgers Scarlet Knights",
+      "away_full": "Massachusetts Minutemen",
+      "line": {
+        "home_spread": -28.5,
+        "total": 51.5,
+        "home_ml": -8000,
+        "away_ml": 2200,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 24.7,
+        "proj_total": 54.1,
+        "proj_home_score": 39.4,
+        "proj_away_score": 14.7,
+        "home_win_prob": 0.9612
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "MASS",
+          "line": 28.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "MASS +28.5",
+          "lean": -3.8
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "RUTG",
+          "price": -8000,
+          "stake": 100.0,
+          "pick": "RUTG ML -8000"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
