@@ -1307,6 +1307,199 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401856664": {
+      "game_id": "401856664",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-05T00:00Z",
+      "locked_at": "2026-09-03T18:17:58+00:00",
+      "home": "OU",
+      "away": "UTEP",
+      "home_full": "Oklahoma Sooners",
+      "away_full": "UTEP Miners",
+      "line": {
+        "home_spread": -40.5,
+        "total": 51.5,
+        "home_ml": null,
+        "away_ml": null,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 34.0,
+        "proj_total": 52.5,
+        "proj_home_score": 43.2,
+        "proj_away_score": 9.3,
+        "home_win_prob": 0.994
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "UTEP",
+          "line": 40.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "UTEP +40.5",
+          "lean": -6.5
+        },
+        "moneyline": null,
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401856769": {
+      "game_id": "401856769",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-05T00:00Z",
+      "locked_at": "2026-09-03T18:17:58+00:00",
+      "home": "KU",
+      "away": "LIU",
+      "home_full": "Kansas Jayhawks",
+      "away_full": "Long Island University Sharks",
+      "line": {
+        "home_spread": -41.5,
+        "total": 53.5,
+        "home_ml": null,
+        "away_ml": null,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 29.6,
+        "proj_total": 54.1,
+        "proj_home_score": 41.9,
+        "proj_away_score": 12.2,
+        "home_win_prob": 0.9863
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "LIU",
+          "line": 41.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "LIU +41.5",
+          "lean": -11.9
+        },
+        "moneyline": null,
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401858429": {
+      "game_id": "401858429",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-05T00:00Z",
+      "locked_at": "2026-09-03T18:17:58+00:00",
+      "home": "MSU",
+      "away": "TOL",
+      "home_full": "Michigan State Spartans",
+      "away_full": "Toledo Rockets",
+      "line": {
+        "home_spread": -10.0,
+        "total": 46.5,
+        "home_ml": -410,
+        "away_ml": 320,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 5.5,
+        "proj_total": 48.3,
+        "proj_home_score": 26.9,
+        "proj_away_score": 21.4,
+        "home_win_prob": 0.7391
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "TOL",
+          "line": 10.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "TOL +10",
+          "lean": -4.5
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "MSU",
+          "price": -410,
+          "stake": 100.0,
+          "pick": "MSU ML -410"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "TOL",
+            "pick": "TOL +10",
+            "line": 10.0,
+            "price": -110,
+            "ev": 0.18,
+            "edge": 4.5,
+            "kelly": 0.0494,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "TOL",
+            "pick": "TOL ML +320",
+            "line": 320,
+            "price": 320,
+            "ev": 0.096,
+            "edge": 3.2,
+            "kelly": 0.0075,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "TOL",
+            "pick": "TOL +10",
+            "line": 10.0,
+            "price": -110,
+            "ev": 0.18,
+            "edge": 4.5,
+            "kelly": 0.0494,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 456.3,
+            "bankroll_at_bet": 9236.82
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "TOL",
+            "pick": "TOL ML +320",
+            "line": 320,
+            "price": 320,
+            "ev": 0.096,
+            "edge": 3.2,
+            "kelly": 0.0075,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 69.28,
+            "bankroll_at_bet": 9236.82
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
