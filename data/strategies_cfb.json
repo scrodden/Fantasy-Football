@@ -1500,6 +1500,104 @@
         ]
       },
       "settled": false
+    },
+    "401858206": {
+      "game_id": "401858206",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-05T01:00Z",
+      "locked_at": "2026-09-03T19:12:44+00:00",
+      "home": "STAN",
+      "away": "MIA",
+      "home_full": "Stanford Cardinal",
+      "away_full": "Miami Hurricanes",
+      "line": {
+        "home_spread": 24.5,
+        "total": 48.5,
+        "home_ml": 1400,
+        "away_ml": -3200,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -19.5,
+        "proj_total": 49.3,
+        "proj_home_score": 14.9,
+        "proj_away_score": 34.4,
+        "home_win_prob": 0.0675
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "STAN",
+          "line": 24.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "STAN +24.5",
+          "lean": 5.0
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "MIA",
+          "price": -3200,
+          "stake": 100.0,
+          "pick": "MIA ML -3200"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401858436": {
+      "game_id": "401858436",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-05T01:00Z",
+      "locked_at": "2026-09-03T19:12:44+00:00",
+      "home": "USC",
+      "away": "FRES",
+      "home_full": "USC Trojans",
+      "away_full": "Fresno State Bulldogs",
+      "line": {
+        "home_spread": -22.5,
+        "total": 51.5,
+        "home_ml": -2100,
+        "away_ml": 1100,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 18.9,
+        "proj_total": 52.3,
+        "proj_home_score": 35.6,
+        "proj_away_score": 16.7,
+        "home_win_prob": 0.9213
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "FRES",
+          "line": 22.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "FRES +22.5",
+          "lean": -3.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "USC",
+          "price": -2100,
+          "stake": 100.0,
+          "pick": "USC ML -2100"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
