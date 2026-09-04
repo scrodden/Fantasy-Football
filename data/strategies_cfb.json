@@ -818,7 +818,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "WES +23.5",
-          "lean": -7.8
+          "lean": -7.8,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -826,12 +828,16 @@
           "team": "KENN",
           "price": -4000,
           "stake": 100.0,
-          "pick": "KENN ML -4000"
+          "pick": "KENN ML -4000",
+          "result": "win",
+          "pnl": 2.5
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 47,
+      "away_score": 0
     },
     "401866409": {
       "game_id": "401866409",
@@ -962,13 +968,17 @@
           "price": -110,
           "stake": 100.0,
           "pick": "UAPB +54.5",
-          "lean": -12.7
+          "lean": -12.7,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": null,
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 54,
+      "away_score": 14
     },
     "401856776": {
       "game_id": "401856776",
@@ -1004,7 +1014,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "GT -6.5",
-          "lean": 0.9
+          "lean": 0.9,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -1012,12 +1024,16 @@
           "team": "GT",
           "price": -250,
           "stake": 100.0,
-          "pick": "GT ML -250"
+          "pick": "GT ML -250",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 13,
+      "away_score": 14
     },
     "401858422": {
       "game_id": "401858422",
@@ -1053,13 +1069,17 @@
           "price": -110,
           "stake": 100.0,
           "pick": "EIU +42.5",
-          "lean": -10.0
+          "lean": -10.0,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": null,
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 59,
+      "away_score": 7
     },
     "401856768": {
       "game_id": "401856768",
