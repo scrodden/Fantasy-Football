@@ -2746,6 +2746,48 @@
         ]
       },
       "settled": false
+    },
+    "401856658": {
+      "game_id": "401856658",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-05T19:00Z",
+      "locked_at": "2026-09-04T13:15:25+00:00",
+      "home": "UGA",
+      "away": "TNST",
+      "home_full": "Georgia Bulldogs",
+      "away_full": "Tennessee State Tigers",
+      "line": {
+        "home_spread": -46.5,
+        "total": 55.5,
+        "home_ml": null,
+        "away_ml": null,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 39.6,
+        "proj_total": 55.3,
+        "proj_home_score": 47.5,
+        "proj_away_score": 7.8,
+        "home_win_prob": 0.9982
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "TNST",
+          "line": 46.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "TNST +46.5",
+          "lean": -6.9
+        },
+        "moneyline": null,
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
