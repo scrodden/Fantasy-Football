@@ -122,11 +122,11 @@
       "last_date": "2025-09-13T18:00Z"
     },
     "2084": {
-      "rating": 1359.51688809564,
+      "rating": 1384.531767668237,
       "name": "Buffalo",
       "abbr": "BUFF",
-      "gp": 0,
-      "last_date": "2025-11-28T17:00Z"
+      "gp": 1,
+      "last_date": "2026-09-03T23:00Z"
     },
     "322": {
       "rating": 1360.2723402903785,
@@ -1452,11 +1452,11 @@
       "last_date": "2025-09-06T22:00Z"
     },
     "399": {
-      "rating": 1425.3207743671371,
+      "rating": 1400.30589479454,
       "name": "UAlbany",
       "abbr": "ALB",
-      "gp": 0,
-      "last_date": "2025-08-30T22:00Z"
+      "gp": 1,
+      "last_date": "2026-09-03T23:00Z"
     },
     "2241": {
       "rating": 1435.305523090729,
@@ -1705,9 +1705,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-09-04T01:00Z",
+    "last_game_date": "2026-09-03T23:00Z",
     "season": 2026,
-    "n_games": 1924,
+    "n_games": 1925,
     "signals": {
       "weather": true,
       "travel": true,

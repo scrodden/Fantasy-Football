@@ -873,7 +873,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "ALB +18.5",
-          "lean": -6.1
+          "lean": -6.1,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -881,7 +883,9 @@
           "team": "BUFF",
           "price": -1200,
           "stake": 100.0,
-          "pick": "BUFF ML -1200"
+          "pick": "BUFF ML -1200",
+          "result": "win",
+          "pnl": 8.33
         },
         "value": [
           {
@@ -896,7 +900,9 @@
             "kelly": 0.0704,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           }
         ],
         "bankroll": [
@@ -913,7 +919,9 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 650.27,
-            "bankroll_at_bet": 9236.82
+            "bankroll_at_bet": 9236.82,
+            "result": "win",
+            "pnl": 591.15
           },
           {
             "market": "total",
@@ -928,11 +936,15 @@
             "confidence": "low",
             "book": null,
             "stake": 130.24,
-            "bankroll_at_bet": 9236.82
+            "bankroll_at_bet": 9236.82,
+            "result": "loss",
+            "pnl": -130.24
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 21,
+      "away_score": 17
     },
     "401856663": {
       "game_id": "401856663",
