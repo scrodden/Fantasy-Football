@@ -3758,6 +3758,97 @@
         ]
       },
       "settled": false
+    },
+    "401860878": {
+      "game_id": "401860878",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-05T22:00Z",
+      "locked_at": "2026-09-04T16:15:59+00:00",
+      "home": "CSU",
+      "away": "WYO",
+      "home_full": "Colorado State Rams",
+      "away_full": "Wyoming Cowboys",
+      "line": {
+        "home_spread": -3.0,
+        "total": 46.5,
+        "home_ml": -155,
+        "away_ml": 130,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 1.9,
+        "proj_total": 46.7,
+        "proj_home_score": 24.3,
+        "proj_away_score": 22.4,
+        "home_win_prob": 0.5777
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "WYO",
+          "line": 3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "WYO +3",
+          "lean": -1.1
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "CSU",
+          "price": -155,
+          "stake": 100.0,
+          "pick": "CSU ML -155"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401867973": {
+      "game_id": "401867973",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-05T22:00Z",
+      "locked_at": "2026-09-04T16:15:59+00:00",
+      "home": "ODU",
+      "away": "NORF",
+      "home_full": "Old Dominion Monarchs",
+      "away_full": "Norfolk State Spartans",
+      "line": {
+        "home_spread": -40.5,
+        "total": 52.5,
+        "home_ml": null,
+        "away_ml": null,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 29.7,
+        "proj_total": 52.7,
+        "proj_home_score": 41.2,
+        "proj_away_score": 11.5,
+        "home_win_prob": 0.9866
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "NORF",
+          "line": 40.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "NORF +40.5",
+          "lean": -10.8
+        },
+        "moneyline": null,
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
