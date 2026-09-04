@@ -5181,6 +5181,55 @@
         ]
       },
       "settled": false
+    },
+    "401870790": {
+      "game_id": "401870790",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-06T01:00Z",
+      "locked_at": "2026-09-04T19:12:06+00:00",
+      "home": "NMSU",
+      "away": "MERC",
+      "home_full": "New Mexico State Aggies",
+      "away_full": "Mercyhurst Lakers",
+      "line": {
+        "home_spread": -28.5,
+        "total": 52.5,
+        "home_ml": -8000,
+        "away_ml": 2200,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 17.7,
+        "proj_total": 53.9,
+        "proj_home_score": 35.8,
+        "proj_away_score": 18.1,
+        "home_win_prob": 0.9429
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "MERC",
+          "line": 28.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "MERC +28.5",
+          "lean": -10.8
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "NMSU",
+          "price": -8000,
+          "stake": 100.0,
+          "pick": "NMSU ML -8000"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
