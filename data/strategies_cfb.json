@@ -2318,6 +2318,339 @@
         ]
       },
       "settled": false
+    },
+    "401858432": {
+      "game_id": "401858432",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-05T16:30Z",
+      "locked_at": "2026-09-04T11:14:14+00:00",
+      "home": "OSU",
+      "away": "BALL",
+      "home_full": "Ohio State Buckeyes",
+      "away_full": "Ball State Cardinals",
+      "line": {
+        "home_spread": -49.5,
+        "total": 56.5,
+        "home_ml": null,
+        "away_ml": null,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 43.4,
+        "proj_total": 54.3,
+        "proj_home_score": 48.9,
+        "proj_away_score": 5.4,
+        "home_win_prob": 0.9993
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "BALL",
+          "line": 49.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "BALL +49.5",
+          "lean": -6.1
+        },
+        "moneyline": null,
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401858207": {
+      "game_id": "401858207",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-05T16:30Z",
+      "locked_at": "2026-09-04T11:14:14+00:00",
+      "home": "PITT",
+      "away": "M-OH",
+      "home_full": "Pittsburgh Panthers",
+      "away_full": "Miami (OH) RedHawks",
+      "line": {
+        "home_spread": -16.5,
+        "total": 47.5,
+        "home_ml": -800,
+        "away_ml": 550,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 13.4,
+        "proj_total": 49.5,
+        "proj_home_score": 31.5,
+        "proj_away_score": 18.0,
+        "home_win_prob": 0.8519
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "M-OH",
+          "line": 16.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "M-OH +16.5",
+          "lean": -3.1
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "PITT",
+          "price": -800,
+          "stake": 100.0,
+          "pick": "PITT ML -800"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "M-OH",
+            "pick": "M-OH +16.5",
+            "line": 16.5,
+            "price": -110,
+            "ev": 0.111,
+            "edge": 3.1,
+            "kelly": 0.0305,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "M-OH",
+            "pick": "M-OH +16.5",
+            "line": 16.5,
+            "price": -110,
+            "ev": 0.111,
+            "edge": 3.1,
+            "kelly": 0.0305,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 295.78,
+            "bankroll_at_bet": 9697.73
+          },
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 47.5",
+            "line": 47.5,
+            "price": -110,
+            "ev": 0.047,
+            "edge": 2.0,
+            "kelly": 0.0128,
+            "confidence": "low",
+            "book": null,
+            "stake": 124.13,
+            "bankroll_at_bet": 9697.73
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401856665": {
+      "game_id": "401856665",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-05T16:45Z",
+      "locked_at": "2026-09-04T11:14:14+00:00",
+      "home": "SC",
+      "away": "KENT",
+      "home_full": "South Carolina Gamecocks",
+      "away_full": "Kent State Golden Flashes",
+      "line": {
+        "home_spread": -35.5,
+        "total": 53.5,
+        "home_ml": -100000,
+        "away_ml": 5000,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 29.3,
+        "proj_total": 53.3,
+        "proj_home_score": 41.3,
+        "proj_away_score": 12.0,
+        "home_win_prob": 0.9823
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "KENT",
+          "line": 35.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "KENT +35.5",
+          "lean": -6.2
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "SC",
+          "price": -100000,
+          "stake": 100.0,
+          "pick": "SC ML -100000"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401856659": {
+      "game_id": "401856659",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-05T17:00Z",
+      "locked_at": "2026-09-04T11:14:14+00:00",
+      "home": "UK",
+      "away": "YSU",
+      "home_full": "Kentucky Wildcats",
+      "away_full": "Youngstown State Penguins",
+      "line": {
+        "home_spread": -22.5,
+        "total": 62.5,
+        "home_ml": -3600,
+        "away_ml": 1500,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 17.9,
+        "proj_total": 60.8,
+        "proj_home_score": 39.4,
+        "proj_away_score": 21.5,
+        "home_win_prob": 0.9314
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "YSU",
+          "line": 22.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "YSU +22.5",
+          "lean": -4.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "UK",
+          "price": -3600,
+          "stake": 100.0,
+          "pick": "UK ML -3600"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401856779": {
+      "game_id": "401856779",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-05T17:00Z",
+      "locked_at": "2026-09-04T11:14:14+00:00",
+      "home": "ISU",
+      "away": "SEMO",
+      "home_full": "Iowa State Cyclones",
+      "away_full": "Southeast Missouri State Redhawks",
+      "line": {
+        "home_spread": -29.5,
+        "total": 53.5,
+        "home_ml": -20000,
+        "away_ml": 3500,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 22.4,
+        "proj_total": 53.8,
+        "proj_home_score": 38.1,
+        "proj_away_score": 15.7,
+        "home_win_prob": 0.967
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "SEMO",
+          "line": 29.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "SEMO +29.5",
+          "lean": -7.1
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "ISU",
+          "price": -20000,
+          "stake": 100.0,
+          "pick": "ISU ML -20000"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401864496": {
+      "game_id": "401864496",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-05T17:00Z",
+      "locked_at": "2026-09-04T11:14:14+00:00",
+      "home": "AFA",
+      "away": "DUQ",
+      "home_full": "Air Force Falcons",
+      "away_full": "Duquesne Dukes",
+      "line": {
+        "home_spread": -28.5,
+        "total": 57.5,
+        "home_ml": -8000,
+        "away_ml": 2200,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 21.7,
+        "proj_total": 57.5,
+        "proj_home_score": 39.6,
+        "proj_away_score": 17.9,
+        "home_win_prob": 0.9552
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "DUQ",
+          "line": 28.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "DUQ +28.5",
+          "lean": -6.8
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "AFA",
+          "price": -8000,
+          "stake": 100.0,
+          "pick": "AFA ML -8000"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
