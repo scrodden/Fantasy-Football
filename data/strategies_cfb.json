@@ -5230,6 +5230,279 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401856773": {
+      "game_id": "401856773",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-06T01:30Z",
+      "locked_at": "2026-09-04T20:14:51+00:00",
+      "home": "ARIZ",
+      "away": "NAU",
+      "home_full": "Arizona Wildcats",
+      "away_full": "Northern Arizona Lumberjacks",
+      "line": {
+        "home_spread": -31.5,
+        "total": 58.5,
+        "home_ml": -8000,
+        "away_ml": 2200,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 25.3,
+        "proj_total": 57.0,
+        "proj_home_score": 41.2,
+        "proj_away_score": 15.9,
+        "home_win_prob": 0.9621
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "NAU",
+          "line": 31.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "NAU +31.5",
+          "lean": -6.2
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "ARIZ",
+          "price": -8000,
+          "stake": 100.0,
+          "pick": "ARIZ ML -8000"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401860879": {
+      "game_id": "401860879",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-06T01:30Z",
+      "locked_at": "2026-09-04T20:14:51+00:00",
+      "home": "SDSU",
+      "away": "PRST",
+      "home_full": "San Diego State Aztecs",
+      "away_full": "Portland State Vikings",
+      "line": {
+        "home_spread": -40.5,
+        "total": 61.5,
+        "home_ml": null,
+        "away_ml": null,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 30.9,
+        "proj_total": 59.4,
+        "proj_home_score": 45.1,
+        "proj_away_score": 14.2,
+        "home_win_prob": 0.9892
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "PRST",
+          "line": 40.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "PRST +40.5",
+          "lean": -9.6
+        },
+        "moneyline": null,
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401856774": {
+      "game_id": "401856774",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-06T02:00Z",
+      "locked_at": "2026-09-04T20:14:51+00:00",
+      "home": "ASU",
+      "away": "MORG",
+      "home_full": "Arizona State Sun Devils",
+      "away_full": "Morgan State Bears",
+      "line": {
+        "home_spread": -44.5,
+        "total": 52.5,
+        "home_ml": null,
+        "away_ml": null,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 33.6,
+        "proj_total": 53.2,
+        "proj_home_score": 43.4,
+        "proj_away_score": 9.8,
+        "home_win_prob": 0.9935
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "MORG",
+          "line": 44.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "MORG +44.5",
+          "lean": -10.9
+        },
+        "moneyline": null,
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401864497": {
+      "game_id": "401864497",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-06T02:00Z",
+      "locked_at": "2026-09-04T20:14:51+00:00",
+      "home": "HAW",
+      "away": "UNLV",
+      "home_full": "Hawai'i Rainbow Warriors",
+      "away_full": "UNLV Rebels",
+      "line": {
+        "home_spread": 3.0,
+        "total": 55.5,
+        "home_ml": 130,
+        "away_ml": -155,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -2.0,
+        "proj_total": 57.1,
+        "proj_home_score": 27.5,
+        "proj_away_score": 29.6,
+        "home_win_prob": 0.4285
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "HAW",
+          "line": 3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "HAW +3",
+          "lean": 1.0
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "UNLV",
+          "price": -155,
+          "stake": 100.0,
+          "pick": "UNLV ML -155"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401864498": {
+      "game_id": "401864498",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-06T02:00Z",
+      "locked_at": "2026-09-04T20:14:51+00:00",
+      "home": "UNM",
+      "away": "CMU",
+      "home_full": "New Mexico Lobos",
+      "away_full": "Central Michigan Chippewas",
+      "line": {
+        "home_spread": -10.5,
+        "total": 46.5,
+        "home_ml": -440,
+        "away_ml": 340,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 9.6,
+        "proj_total": 47.8,
+        "proj_home_score": 28.7,
+        "proj_away_score": 19.1,
+        "home_win_prob": 0.7793
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "CMU",
+          "line": 10.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "CMU +10.5",
+          "lean": -0.9
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "UNM",
+          "price": -440,
+          "stake": 100.0,
+          "pick": "UNM ML -440"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401866411": {
+      "game_id": "401866411",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-06T02:00Z",
+      "locked_at": "2026-09-04T20:14:51+00:00",
+      "home": "SAC",
+      "away": "MVSU",
+      "home_full": "Sacramento State Hornets",
+      "away_full": "Mississippi Valley State Delta Devils",
+      "line": {
+        "home_spread": -37.5,
+        "total": 56.5,
+        "home_ml": null,
+        "away_ml": null,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 24.8,
+        "proj_total": 56.9,
+        "proj_home_score": 40.8,
+        "proj_away_score": 16.1,
+        "home_win_prob": 0.9687
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "MVSU",
+          "line": 37.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "MVSU +37.5",
+          "lean": -12.7
+        },
+        "moneyline": null,
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
