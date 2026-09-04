@@ -2651,6 +2651,101 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401862698": {
+      "game_id": "401862698",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-05T18:00Z",
+      "locked_at": "2026-09-04T12:20:15+00:00",
+      "home": "TEM",
+      "away": "URI",
+      "home_full": "Temple Owls",
+      "away_full": "Rhode Island Rams",
+      "line": {
+        "home_spread": -14.5,
+        "total": 51.5,
+        "home_ml": -700,
+        "away_ml": 500,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 10.5,
+        "proj_total": 53.7,
+        "proj_home_score": 32.1,
+        "proj_away_score": 21.6,
+        "home_win_prob": 0.8253
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "URI",
+          "line": 14.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "URI +14.5",
+          "lean": -4.0
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "TEM",
+          "price": -700,
+          "stake": 100.0,
+          "pick": "TEM ML -700"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "URI",
+            "pick": "URI +14.5",
+            "line": 14.5,
+            "price": -110,
+            "ev": 0.155,
+            "edge": 4.0,
+            "kelly": 0.0427,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "URI",
+            "pick": "URI +14.5",
+            "line": 14.5,
+            "price": -110,
+            "ev": 0.155,
+            "edge": 4.0,
+            "kelly": 0.0427,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 414.09,
+            "bankroll_at_bet": 9697.73
+          },
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 51.5",
+            "line": 51.5,
+            "price": -110,
+            "ev": 0.056,
+            "edge": 2.2,
+            "kelly": 0.0153,
+            "confidence": "low",
+            "book": null,
+            "stake": 148.38,
+            "bankroll_at_bet": 9697.73
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
