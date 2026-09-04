@@ -1115,7 +1115,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "IDHO +35.5",
-          "lean": -5.8
+          "lean": -5.8,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -1123,12 +1125,16 @@
           "team": "UTAH",
           "price": -100000,
           "stake": 100.0,
-          "pick": "UTAH ML -100000"
+          "pick": "UTAH ML -100000",
+          "result": "win",
+          "pnl": 0.1
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 66,
+      "away_score": 14
     },
     "401858424": {
       "game_id": "401858424",
@@ -1164,7 +1170,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "UAB +27.5",
-          "lean": -4.9
+          "lean": -4.9,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -1172,12 +1180,16 @@
           "team": "ILL",
           "price": -4500,
           "stake": 100.0,
-          "pick": "ILL ML -4500"
+          "pick": "ILL ML -4500",
+          "result": "win",
+          "pnl": 2.22
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 42,
+      "away_score": 23
     },
     "401864495": {
       "game_id": "401864495",
