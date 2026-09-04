@@ -607,7 +607,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "MASS +28.5",
-          "lean": -3.8
+          "lean": -3.8,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -615,12 +617,16 @@
           "team": "RUTG",
           "price": -8000,
           "stake": 100.0,
-          "pick": "RUTG ML -8000"
+          "pick": "RUTG ML -8000",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 21,
+      "away_score": 37
     },
     "401856767": {
       "game_id": "401856767",

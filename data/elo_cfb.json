@@ -66,11 +66,11 @@
       "last_date": "2025-08-28T23:00Z"
     },
     "164": {
-      "rating": 1538.3237710338933,
+      "rating": 1435.1217536295253,
       "name": "Rutgers",
       "abbr": "RUTG",
-      "gp": 0,
-      "last_date": "2025-11-29T20:30Z"
+      "gp": 1,
+      "last_date": "2026-09-03T22:00Z"
     },
     "47": {
       "rating": 1414.5746614665345,
@@ -710,11 +710,11 @@
       "last_date": "2025-11-29T18:00Z"
     },
     "113": {
-      "rating": 1103.351183540925,
+      "rating": 1206.553200945293,
       "name": "UMass",
       "abbr": "MASS",
-      "gp": 0,
-      "last_date": "2025-11-19T00:15Z"
+      "gp": 1,
+      "last_date": "2026-09-03T22:00Z"
     },
     "2199": {
       "rating": 1386.7484652753553,
@@ -1698,9 +1698,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-08-30T02:00Z",
+    "last_game_date": "2026-09-03T22:00Z",
     "season": 2026,
-    "n_games": 1914,
+    "n_games": 1915,
     "signals": {
       "weather": true,
       "travel": true,
