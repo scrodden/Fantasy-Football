@@ -3663,6 +3663,101 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401868356": {
+      "game_id": "401868356",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-05T21:00Z",
+      "locked_at": "2026-09-04T15:15:38+00:00",
+      "home": "USM",
+      "away": "ALCN",
+      "home_full": "Southern Miss Golden Eagles",
+      "away_full": "Alcorn State Braves",
+      "line": {
+        "home_spread": -20.5,
+        "total": 50.5,
+        "home_ml": -1200,
+        "away_ml": 750,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 13.2,
+        "proj_total": 53.0,
+        "proj_home_score": 33.1,
+        "proj_away_score": 19.9,
+        "home_win_prob": 0.8737
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "ALCN",
+          "line": 20.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "ALCN +20.5",
+          "lean": -7.3
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "USM",
+          "price": -1200,
+          "stake": 100.0,
+          "pick": "USM ML -1200"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "ALCN",
+            "pick": "ALCN +20.5",
+            "line": 20.5,
+            "price": -110,
+            "ev": 0.311,
+            "edge": 7.3,
+            "kelly": 0.0855,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "ALCN",
+            "pick": "ALCN +20.5",
+            "line": 20.5,
+            "price": -110,
+            "ev": 0.311,
+            "edge": 7.3,
+            "kelly": 0.0855,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 829.16,
+            "bankroll_at_bet": 9697.73
+          },
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 50.5",
+            "line": 50.5,
+            "price": -110,
+            "ev": 0.07,
+            "edge": 2.5,
+            "kelly": 0.0191,
+            "confidence": "low",
+            "book": null,
+            "stake": 185.23,
+            "bankroll_at_bet": 9697.73
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
