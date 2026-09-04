@@ -5503,6 +5503,135 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401858210": {
+      "game_id": "401858210",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-06T02:30Z",
+      "locked_at": "2026-09-04T21:14:28+00:00",
+      "home": "CAL",
+      "away": "UCLA",
+      "home_full": "California Golden Bears",
+      "away_full": "UCLA Bruins",
+      "line": {
+        "home_spread": 2.5,
+        "total": 53.5,
+        "home_ml": 114,
+        "away_ml": -135,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -0.8,
+        "proj_total": 54.4,
+        "proj_home_score": 26.8,
+        "proj_away_score": 27.6,
+        "home_win_prob": 0.4607
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "CAL",
+          "line": 2.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "CAL +2.5",
+          "lean": 1.7
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "UCLA",
+          "price": -135,
+          "stake": 100.0,
+          "pick": "UCLA ML -135"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "CAL",
+            "pick": "CAL +2.5",
+            "line": 2.5,
+            "price": -110,
+            "ev": 0.041,
+            "edge": 1.7,
+            "kelly": 0.0112,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "CAL",
+            "pick": "CAL +2.5",
+            "line": 2.5,
+            "price": -110,
+            "ev": 0.041,
+            "edge": 1.7,
+            "kelly": 0.0112,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 108.61,
+            "bankroll_at_bet": 9697.73
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401864432": {
+      "game_id": "401864432",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-06T02:30Z",
+      "locked_at": "2026-09-04T21:14:28+00:00",
+      "home": "NEV",
+      "away": "WKU",
+      "home_full": "Nevada Wolf Pack",
+      "away_full": "Western Kentucky Hilltoppers",
+      "line": {
+        "home_spread": 1.5,
+        "total": 52.5,
+        "home_ml": -105,
+        "away_ml": -115,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -2.2,
+        "proj_total": 52.7,
+        "proj_home_score": 25.3,
+        "proj_away_score": 27.4,
+        "home_win_prob": 0.4746
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "WKU",
+          "line": -1.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "WKU -1.5",
+          "lean": -0.7
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "WKU",
+          "price": -115,
+          "stake": 100.0,
+          "pick": "WKU ML -115"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
