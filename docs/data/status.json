@@ -1,1 +1,1 @@
-{"odds_api_configured": false, "cfbd_configured": true, "leagues": {"nfl": {"label": "NFL", "seeded": true, "games_learned": 595, "teams_rated": 32, "season": 2026}, "cfb": {"label": "College (FBS)", "seeded": true, "games_learned": 1915, "teams_rated": 241, "season": 2026}}}
+{"odds_api_configured": false, "cfbd_configured": true, "leagues": {"nfl": {"label": "NFL", "seeded": true, "games_learned": 595, "teams_rated": 32, "season": 2026}, "cfb": {"label": "College (FBS)", "seeded": true, "games_learned": 1918, "teams_rated": 241, "season": 2026}}}
