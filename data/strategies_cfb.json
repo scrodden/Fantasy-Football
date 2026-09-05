@@ -5735,6 +5735,104 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401858438": {
+      "game_id": "401858438",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-06T23:30Z",
+      "locked_at": "2026-09-05T18:16:41+00:00",
+      "home": "ND",
+      "away": "WIS",
+      "home_full": "Notre Dame Fighting Irish",
+      "away_full": "Wisconsin Badgers",
+      "line": {
+        "home_spread": -20.5,
+        "total": 46.5,
+        "home_ml": -1450,
+        "away_ml": 850,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 19.9,
+        "proj_total": 47.4,
+        "proj_home_score": 33.7,
+        "proj_away_score": 13.7,
+        "home_win_prob": 0.9104
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "WIS",
+          "line": 20.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "WIS +20.5",
+          "lean": -0.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "ND",
+          "price": -1450,
+          "stake": 100.0,
+          "pick": "ND ML -1450"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401856661": {
+      "game_id": "401856661",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-06T23:30Z",
+      "locked_at": "2026-09-05T18:16:41+00:00",
+      "home": "MISS",
+      "away": "LOU",
+      "home_full": "Ole Miss Rebels",
+      "away_full": "Louisville Cardinals",
+      "line": {
+        "home_spread": -6.5,
+        "total": 54.5,
+        "home_ml": -265,
+        "away_ml": 215,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 6.8,
+        "proj_total": 55.6,
+        "proj_home_score": 31.2,
+        "proj_away_score": 24.4,
+        "home_win_prob": 0.6989
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "MISS",
+          "line": -6.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "MISS -6.5",
+          "lean": 0.3
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "MISS",
+          "price": -265,
+          "stake": 100.0,
+          "pick": "MISS ML -265"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
