@@ -444,11 +444,11 @@
       "last_date": "2025-12-19T16:00Z"
     },
     "24": {
-      "rating": 1514.163998647293,
+      "rating": 1503.6493903828934,
       "name": "Stanford",
       "abbr": "STAN",
-      "gp": 1,
-      "last_date": "2026-08-29T23:00Z"
+      "gp": 2,
+      "last_date": "2026-09-05T01:00Z"
     },
     "2628": {
       "rating": 1644.5322730471355,
@@ -675,11 +675,11 @@
       "last_date": "2025-11-29T21:30Z"
     },
     "2390": {
-      "rating": 1931.2164311465435,
+      "rating": 1941.7310394109431,
       "name": "Miami",
       "abbr": "MIA",
-      "gp": 0,
-      "last_date": "2026-01-20T00:30Z"
+      "gp": 1,
+      "last_date": "2026-09-05T01:00Z"
     },
     "84": {
       "rating": 1979.0413070719087,
@@ -1707,7 +1707,7 @@
   "meta": {
     "last_game_date": "2026-09-05T01:00Z",
     "season": 2026,
-    "n_games": 1932,
+    "n_games": 1933,
     "signals": {
       "weather": true,
       "travel": true,
