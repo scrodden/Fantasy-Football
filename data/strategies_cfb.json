@@ -1373,7 +1373,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "NCAT +28.5",
-          "lean": -12.1
+          "lean": -12.1,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -1381,12 +1383,16 @@
           "team": "GAST",
           "price": -6500,
           "stake": 100.0,
-          "pick": "GAST ML -6500"
+          "pick": "GAST ML -6500",
+          "result": "win",
+          "pnl": 1.54
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 59,
+      "away_score": 10
     },
     "401856664": {
       "game_id": "401856664",

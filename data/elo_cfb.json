@@ -101,11 +101,11 @@
       "last_date": "2026-09-03T23:00Z"
     },
     "2448": {
-      "rating": 1392.3513045674824,
+      "rating": 1289.695822570425,
       "name": "NC A&T",
       "abbr": "NCAT",
-      "gp": 0,
-      "last_date": "2025-09-06T23:00Z"
+      "gp": 1,
+      "last_date": "2026-09-04T23:00Z"
     },
     "2116": {
       "rating": 1531.9364239225577,
@@ -1214,11 +1214,11 @@
       "last_date": "2025-10-11T19:30Z"
     },
     "2247": {
-      "rating": 1112.1935248810375,
+      "rating": 1214.849006878095,
       "name": "Georgia St",
       "abbr": "GAST",
-      "gp": 0,
-      "last_date": "2025-11-29T19:00Z"
+      "gp": 1,
+      "last_date": "2026-09-04T23:00Z"
     },
     "2277": {
       "rating": 1413.1060381561813,
@@ -1707,7 +1707,7 @@
   "meta": {
     "last_game_date": "2026-09-04T23:00Z",
     "season": 2026,
-    "n_games": 1927,
+    "n_games": 1928,
     "signals": {
       "weather": true,
       "travel": true,
