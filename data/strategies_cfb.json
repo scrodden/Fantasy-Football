@@ -2748,7 +2748,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "SEMO +29.5",
-          "lean": -7.1
+          "lean": -7.1,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -2756,12 +2758,16 @@
           "team": "ISU",
           "price": -20000,
           "stake": 100.0,
-          "pick": "ISU ML -20000"
+          "pick": "ISU ML -20000",
+          "result": "win",
+          "pnl": 0.5
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 38,
+      "away_score": 10
     },
     "401864496": {
       "game_id": "401864496",
@@ -2852,7 +2858,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "URI +14.5",
-          "lean": -4.0
+          "lean": -4.0,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -2860,7 +2868,9 @@
           "team": "TEM",
           "price": -700,
           "stake": 100.0,
-          "pick": "TEM ML -700"
+          "pick": "TEM ML -700",
+          "result": "win",
+          "pnl": 14.29
         },
         "value": [
           {
@@ -2875,7 +2885,9 @@
             "kelly": 0.0427,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           }
         ],
         "bankroll": [
@@ -2892,7 +2904,9 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 414.09,
-            "bankroll_at_bet": 9697.73
+            "bankroll_at_bet": 9697.73,
+            "result": "loss",
+            "pnl": -414.09
           },
           {
             "market": "total",
@@ -2907,11 +2921,15 @@
             "confidence": "low",
             "book": null,
             "stake": 148.38,
-            "bankroll_at_bet": 9697.73
+            "bankroll_at_bet": 9697.73,
+            "result": "win",
+            "pnl": 134.89
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 38,
+      "away_score": 14
     },
     "401856658": {
       "game_id": "401856658",
