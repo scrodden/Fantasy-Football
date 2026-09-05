@@ -5686,6 +5686,55 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401858437": {
+      "game_id": "401858437",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-06T20:00Z",
+      "locked_at": "2026-09-05T14:13:50+00:00",
+      "home": "WASH",
+      "away": "WSU",
+      "home_full": "Washington Huskies",
+      "away_full": "Washington State Cougars",
+      "line": {
+        "home_spread": -23.5,
+        "total": 51.5,
+        "home_ml": -2400,
+        "away_ml": 1200,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 19.9,
+        "proj_total": 51.2,
+        "proj_home_score": 35.6,
+        "proj_away_score": 15.6,
+        "home_win_prob": 0.9287
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "WSU",
+          "line": 23.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "WSU +23.5",
+          "lean": -3.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "WASH",
+          "price": -2400,
+          "stake": 100.0,
+          "pick": "WASH ML -2400"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
