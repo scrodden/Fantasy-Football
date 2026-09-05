@@ -2965,13 +2965,17 @@
           "price": -110,
           "stake": 100.0,
           "pick": "TNST +46.5",
-          "lean": -6.9
+          "lean": -6.9,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": null,
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 63,
+      "away_score": 3
     },
     "401858433": {
       "game_id": "401858433",

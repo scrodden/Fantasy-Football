@@ -458,11 +458,11 @@
       "last_date": "2026-08-29T16:00Z"
     },
     "61": {
-      "rating": 1981.7831698709624,
+      "rating": 1984.7287534778768,
       "name": "Georgia",
       "abbr": "UGA",
-      "gp": 0,
-      "last_date": "2026-01-02T01:00Z"
+      "gp": 1,
+      "last_date": "2026-09-05T19:00Z"
     },
     "228": {
       "rating": 1706.2514523425043,
@@ -1431,11 +1431,11 @@
       "last_date": "2025-09-27T18:00Z"
     },
     "2634": {
-      "rating": 1435.3763628461988,
+      "rating": 1432.4307792392844,
       "name": "Tennessee St",
       "abbr": "TNST",
-      "gp": 0,
-      "last_date": "2025-09-06T18:30Z"
+      "gp": 1,
+      "last_date": "2026-09-05T19:00Z"
     },
     "103": {
       "rating": 1451.2019175256562,
@@ -1705,9 +1705,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-09-05T18:00Z",
+    "last_game_date": "2026-09-05T19:00Z",
     "season": 2026,
-    "n_games": 1950,
+    "n_games": 1951,
     "signals": {
       "weather": true,
       "travel": true,
