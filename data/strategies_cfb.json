@@ -5040,7 +5040,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "CLEM +10",
-          "lean": -3.0
+          "lean": -3.0,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -5048,7 +5050,9 @@
           "team": "LSU",
           "price": -375,
           "stake": 100.0,
-          "pick": "LSU ML -375"
+          "pick": "LSU ML -375",
+          "result": "win",
+          "pnl": 26.67
         },
         "value": [
           {
@@ -5063,7 +5067,9 @@
             "kelly": 0.0291,
             "confidence": "low",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           }
         ],
         "bankroll": [
@@ -5080,11 +5086,15 @@
             "confidence": "low",
             "book": "Draft Kings",
             "stake": 282.2,
-            "bankroll_at_bet": 9697.73
+            "bankroll_at_bet": 9697.73,
+            "result": "loss",
+            "pnl": -282.2
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 51,
+      "away_score": 10
     },
     "401858428": {
       "game_id": "401858428",
@@ -5666,7 +5676,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "MERC +28.5",
-          "lean": -10.8
+          "lean": -10.8,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -5674,12 +5686,16 @@
           "team": "NMSU",
           "price": -8000,
           "stake": 100.0,
-          "pick": "NMSU ML -8000"
+          "pick": "NMSU ML -8000",
+          "result": "win",
+          "pnl": 1.25
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 51,
+      "away_score": 14
     },
     "401856773": {
       "game_id": "401856773",
@@ -5715,7 +5731,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "NAU +31.5",
-          "lean": -6.2
+          "lean": -6.2,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -5723,12 +5741,16 @@
           "team": "ARIZ",
           "price": -8000,
           "stake": 100.0,
-          "pick": "ARIZ ML -8000"
+          "pick": "ARIZ ML -8000",
+          "result": "win",
+          "pnl": 1.25
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 35,
+      "away_score": 7
     },
     "401860879": {
       "game_id": "401860879",
@@ -5764,13 +5786,17 @@
           "price": -110,
           "stake": 100.0,
           "pick": "PRST +40.5",
-          "lean": -9.6
+          "lean": -9.6,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": null,
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 53,
+      "away_score": 20
     },
     "401856774": {
       "game_id": "401856774",
