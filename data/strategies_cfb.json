@@ -6301,6 +6301,55 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401858212": {
+      "game_id": "401858212",
+      "league": "cfb",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-07T23:30Z",
+      "locked_at": "2026-09-06T18:16:41+00:00",
+      "home": "FSU",
+      "away": "SMU",
+      "home_full": "Florida State Seminoles",
+      "away_full": "SMU Mustangs",
+      "line": {
+        "home_spread": 3.0,
+        "total": 52.5,
+        "home_ml": 130,
+        "away_ml": -155,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -3.8,
+        "proj_total": 52.9,
+        "proj_home_score": 24.5,
+        "proj_away_score": 28.4,
+        "home_win_prob": 0.4099
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "SMU",
+          "line": -3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "SMU -3",
+          "lean": -0.8
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "SMU",
+          "price": -155,
+          "stake": 100.0,
+          "pick": "SMU ML -155"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
