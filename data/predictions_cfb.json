@@ -2076,10 +2076,18 @@
         "pick": "MUR +20.5",
         "line": 20.5,
         "price": -110,
-        "edge": 7.7
+        "edge": 7.7,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 38,
+    "away_score": 14,
+    "actual_margin": 24,
+    "su_correct": true,
+    "brier": 0.0151,
+    "margin_err": 11.2,
+    "total_err": 7.2
   },
   "401868140": {
     "id": "401868140",
@@ -2728,7 +2736,14 @@
       "away_ml": -120
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 24,
+    "away_score": 45,
+    "actual_margin": -21,
+    "su_correct": true,
+    "brier": 0.2346,
+    "margin_err": 20.9,
+    "total_err": 14.6
   },
   "401864432": {
     "id": "401864432",
