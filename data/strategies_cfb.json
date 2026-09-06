@@ -5832,13 +5832,17 @@
           "price": -110,
           "stake": 100.0,
           "pick": "MORG +44.5",
-          "lean": -10.9
+          "lean": -10.9,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": null,
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 70,
+      "away_score": 7
     },
     "401864497": {
       "game_id": "401864497",
@@ -5874,7 +5878,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "HAW +3",
-          "lean": 1.0
+          "lean": 1.0,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -5882,12 +5888,16 @@
           "team": "UNLV",
           "price": -155,
           "stake": 100.0,
-          "pick": "UNLV ML -155"
+          "pick": "UNLV ML -155",
+          "result": "win",
+          "pnl": 64.52
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 6,
+      "away_score": 21
     },
     "401864498": {
       "game_id": "401864498",
@@ -5923,7 +5933,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "CMU +10.5",
-          "lean": -0.9
+          "lean": -0.9,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -5931,12 +5943,16 @@
           "team": "UNM",
           "price": -440,
           "stake": 100.0,
-          "pick": "UNM ML -440"
+          "pick": "UNM ML -440",
+          "result": "win",
+          "pnl": 22.73
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 38,
+      "away_score": 7
     },
     "401866411": {
       "game_id": "401866411",
@@ -5972,13 +5988,17 @@
           "price": -110,
           "stake": 100.0,
           "pick": "MVSU +37.5",
-          "lean": -12.7
+          "lean": -12.7,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": null,
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 52,
+      "away_score": 0
     },
     "401858210": {
       "game_id": "401858210",
@@ -6094,7 +6114,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "WKU -1.5",
-          "lean": -0.7
+          "lean": -0.7,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -6102,12 +6124,16 @@
           "team": "WKU",
           "price": -115,
           "stake": 100.0,
-          "pick": "WKU ML -115"
+          "pick": "WKU ML -115",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 49,
+      "away_score": 14
     },
     "401858437": {
       "game_id": "401858437",
