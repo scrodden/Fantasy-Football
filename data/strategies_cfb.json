@@ -3446,7 +3446,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "CIT +20.5",
-          "lean": -9.7
+          "lean": -9.7,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -3454,7 +3456,9 @@
           "team": "CLT",
           "price": -1650,
           "stake": 100.0,
-          "pick": "CLT ML -1650"
+          "pick": "CLT ML -1650",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [
           {
@@ -3469,7 +3473,9 @@
             "kelly": 0.1141,
             "confidence": "medium",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           }
         ],
         "bankroll": [
@@ -3486,11 +3492,15 @@
             "confidence": "medium",
             "book": "DraftKings",
             "stake": 1106.51,
-            "bankroll_at_bet": 9697.73
+            "bankroll_at_bet": 9697.73,
+            "result": "win",
+            "pnl": 1005.92
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 41,
+      "away_score": 43
     },
     "401862696": {
       "game_id": "401862696",
@@ -4136,13 +4146,17 @@
           "price": -110,
           "stake": 100.0,
           "pick": "NORF +40.5",
-          "lean": -10.8
+          "lean": -10.8,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": null,
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 31,
+      "away_score": 10
     },
     "401856668": {
       "game_id": "401856668",
