@@ -1304,7 +1304,14 @@
       "away_ml": 1500
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 34,
+    "away_score": 27,
+    "actual_margin": 7,
+    "su_correct": true,
+    "brier": 0.0041,
+    "margin_err": 14.8,
+    "total_err": 7.3
   },
   "401856667": {
     "id": "401856667",
@@ -1397,7 +1404,14 @@
       "away_ml": 240
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 17,
+    "away_score": 16,
+    "actual_margin": 1,
+    "su_correct": true,
+    "brier": 0.0911,
+    "margin_err": 5.0,
+    "total_err": 26.0
   },
   "401856777": {
     "id": "401856777",
@@ -1446,7 +1460,8 @@
         "pick": "TULN ML +350",
         "line": 350,
         "price": 350,
-        "edge": 5.0
+        "edge": 5.0,
+        "result": "loss"
       },
       {
         "market": "total",
@@ -1454,7 +1469,8 @@
         "pick": "Over 51.25",
         "line": 51.25,
         "price": -110,
-        "edge": 3.0
+        "edge": 3.0,
+        "result": "loss"
       },
       {
         "market": "spread",
@@ -1462,10 +1478,18 @@
         "pick": "TULN +9.5",
         "line": 9.5,
         "price": -110,
-        "edge": 1.9
+        "edge": 1.9,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 17,
+    "away_score": 3,
+    "actual_margin": 14,
+    "su_correct": true,
+    "brier": 0.0737,
+    "margin_err": 6.9,
+    "total_err": 34.2
   },
   "401862694": {
     "id": "401862694",
@@ -1626,7 +1650,8 @@
         "pick": "TLSA +14",
         "line": 14.0,
         "price": -110,
-        "edge": 5.6
+        "edge": 5.6,
+        "result": "win"
       },
       {
         "market": "total",
@@ -1634,10 +1659,18 @@
         "pick": "Under 60.75",
         "line": 60.75,
         "price": -110,
-        "edge": 2.6
+        "edge": 2.6,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 24,
+    "away_score": 10,
+    "actual_margin": 14,
+    "su_correct": false,
+    "brier": 0.63,
+    "margin_err": 22.4,
+    "total_err": 24.1
   },
   "401858426": {
     "id": "401858426",
@@ -1655,7 +1688,14 @@
       "away_ml": 5000
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 40,
+    "away_score": 0,
+    "actual_margin": 40,
+    "su_correct": true,
+    "brier": 0.0005,
+    "margin_err": 12.2,
+    "total_err": 6.9
   },
   "401856635": {
     "id": "401856635",
@@ -1673,7 +1713,14 @@
       "away_ml": null
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 31,
+    "away_score": 14,
+    "actual_margin": 17,
+    "su_correct": true,
+    "brier": 0.0006,
+    "margin_err": 12.4,
+    "total_err": 18.0
   },
   "401868356": {
     "id": "401868356",
@@ -1697,7 +1744,8 @@
         "pick": "ALCN +21",
         "line": 21.0,
         "price": -110,
-        "edge": 7.5
+        "edge": 7.5,
+        "result": "loss"
       },
       {
         "market": "total",
@@ -1705,10 +1753,18 @@
         "pick": "Over 50.5",
         "line": 50.5,
         "price": -110,
-        "edge": 2.5
+        "edge": 2.5,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 49,
+    "away_score": 3,
+    "actual_margin": 46,
+    "su_correct": true,
+    "brier": 0.0112,
+    "margin_err": 32.5,
+    "total_err": 1.0
   },
   "401860878": {
     "id": "401860878",
