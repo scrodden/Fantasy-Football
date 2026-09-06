@@ -1790,7 +1790,14 @@
       "away_ml": 150
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 35,
+    "away_score": 13,
+    "actual_margin": 22,
+    "su_correct": true,
+    "brier": 0.1618,
+    "margin_err": 19.8,
+    "total_err": 0.6
   },
   "401867973": {
     "id": "401867973",
@@ -1869,7 +1876,14 @@
       "away_ml": 5000
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 28,
+    "away_score": 9,
+    "actual_margin": 19,
+    "su_correct": true,
+    "brier": 0.0008,
+    "margin_err": 5.8,
+    "total_err": 23.9
   },
   "401856771": {
     "id": "401856771",
@@ -1887,7 +1901,14 @@
       "away_ml": null
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 71,
+    "away_score": 3,
+    "actual_margin": 68,
+    "su_correct": true,
+    "brier": 0.0002,
+    "margin_err": 35.7,
+    "total_err": 18.7
   },
   "401860880": {
     "id": "401860880",
@@ -1938,10 +1959,18 @@
         "pick": "ARST ML +330",
         "line": 330,
         "price": 330,
-        "edge": 2.5
+        "edge": 2.5,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 42,
+    "away_score": 24,
+    "actual_margin": 18,
+    "su_correct": true,
+    "brier": 0.0636,
+    "margin_err": 8.9,
+    "total_err": 10.7
   },
   "401862697": {
     "id": "401862697",
@@ -1983,10 +2012,18 @@
         "pick": "Over 54.25",
         "line": 54.25,
         "price": -110,
-        "edge": 3.0
+        "edge": 3.0,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 19,
+    "away_score": 9,
+    "actual_margin": 10,
+    "su_correct": true,
+    "brier": 0.0367,
+    "margin_err": 3.1,
+    "total_err": 29.3
   },
   "401867866": {
     "id": "401867866",
@@ -2082,7 +2119,8 @@
         "pick": "SELA +12.5",
         "line": 12.5,
         "price": -110,
-        "edge": 3.8
+        "edge": 3.8,
+        "result": "loss"
       },
       {
         "market": "moneyline",
@@ -2090,7 +2128,8 @@
         "pick": "SELA ML +370",
         "line": 370,
         "price": 370,
-        "edge": 2.5
+        "edge": 2.5,
+        "result": "loss"
       },
       {
         "market": "total",
@@ -2098,10 +2137,18 @@
         "pick": "Over 52.5",
         "line": 52.5,
         "price": -110,
-        "edge": 2.0
+        "edge": 2.0,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 39,
+    "away_score": 14,
+    "actual_margin": 25,
+    "su_correct": true,
+    "brier": 0.0523,
+    "margin_err": 16.3,
+    "total_err": 1.5
   },
   "401870763": {
     "id": "401870763",
