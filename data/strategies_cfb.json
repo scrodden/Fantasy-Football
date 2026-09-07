@@ -6189,7 +6189,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "WSU +23.5",
-          "lean": -3.6
+          "lean": -3.6,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -6197,12 +6199,16 @@
           "team": "WASH",
           "price": -2400,
           "stake": 100.0,
-          "pick": "WASH ML -2400"
+          "pick": "WASH ML -2400",
+          "result": "win",
+          "pnl": 4.17
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 24,
+      "away_score": 10
     },
     "401858438": {
       "game_id": "401858438",

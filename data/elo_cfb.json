@@ -626,11 +626,11 @@
       "last_date": "2026-09-05T19:30Z"
     },
     "265": {
-      "rating": 1539.9276713308602,
+      "rating": 1528.892965325285,
       "name": "Washington St",
       "abbr": "WSU",
-      "gp": 0,
-      "last_date": "2025-12-22T19:00Z"
+      "gp": 1,
+      "last_date": "2026-09-06T20:00Z"
     },
     "2502": {
       "rating": 1362.1401892041285,
@@ -1361,11 +1361,11 @@
       "last_date": "2026-09-05T22:00Z"
     },
     "264": {
-      "rating": 1780.748031213792,
+      "rating": 1791.7827372193672,
       "name": "Washington",
       "abbr": "WASH",
-      "gp": 0,
-      "last_date": "2025-12-14T01:00Z"
+      "gp": 1,
+      "last_date": "2026-09-06T20:00Z"
     },
     "2692": {
       "rating": 1331.3292024524478,
@@ -1726,9 +1726,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-09-06T02:30Z",
+    "last_game_date": "2026-09-06T20:00Z",
     "season": 2026,
-    "n_games": 2001,
+    "n_games": 2002,
     "signals": {
       "weather": true,
       "travel": true,
