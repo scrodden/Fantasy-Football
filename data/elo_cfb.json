@@ -528,11 +528,11 @@
       "last_date": "2026-09-05T16:00Z"
     },
     "97": {
-      "rating": 1694.6988245834298,
+      "rating": 1684.4504187249152,
       "name": "Louisville",
       "abbr": "LOU",
-      "gp": 0,
-      "last_date": "2025-11-29T17:00Z"
+      "gp": 1,
+      "last_date": "2026-09-06T23:30Z"
     },
     "2046": {
       "rating": 1475.4140499914606,
@@ -976,11 +976,11 @@
       "last_date": "2026-09-06T02:30Z"
     },
     "145": {
-      "rating": 1870.8851860873951,
+      "rating": 1881.1335919459098,
       "name": "Ole Miss",
       "abbr": "MISS",
-      "gp": 0,
-      "last_date": "2026-01-09T00:30Z"
+      "gp": 1,
+      "last_date": "2026-09-06T23:30Z"
     },
     "231": {
       "rating": 1428.8387459479077,
@@ -1728,7 +1728,7 @@
   "meta": {
     "last_game_date": "2026-09-06T23:30Z",
     "season": 2026,
-    "n_games": 2003,
+    "n_games": 2004,
     "signals": {
       "weather": true,
       "travel": true,

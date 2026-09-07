@@ -2842,10 +2842,18 @@
         "pick": "LOU ML +220",
         "line": 220,
         "price": 220,
-        "edge": 2.2
+        "edge": 2.2,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 41,
+    "away_score": 38,
+    "actual_margin": 3,
+    "su_correct": true,
+    "brier": 0.1075,
+    "margin_err": 3.0,
+    "total_err": 22.7
   },
   "401858212": {
     "id": "401858212",

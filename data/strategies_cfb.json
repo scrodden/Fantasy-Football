@@ -6299,7 +6299,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "MISS -6.5",
-          "lean": 0.3
+          "lean": 0.3,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -6307,12 +6309,16 @@
           "team": "MISS",
           "price": -265,
           "stake": 100.0,
-          "pick": "MISS ML -265"
+          "pick": "MISS ML -265",
+          "result": "win",
+          "pnl": 37.74
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 41,
+      "away_score": 38
     },
     "401858212": {
       "game_id": "401858212",
