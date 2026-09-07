@@ -6244,7 +6244,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "WIS +20.5",
-          "lean": -0.6
+          "lean": -0.6,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -6252,12 +6254,16 @@
           "team": "ND",
           "price": -1450,
           "stake": 100.0,
-          "pick": "ND ML -1450"
+          "pick": "ND ML -1450",
+          "result": "win",
+          "pnl": 6.9
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 41,
+      "away_score": 13
     },
     "401856661": {
       "game_id": "401856661",

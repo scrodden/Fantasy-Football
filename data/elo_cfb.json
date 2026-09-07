@@ -430,11 +430,11 @@
       "last_date": "2025-08-28T23:30Z"
     },
     "275": {
-      "rating": 1537.134022755432,
+      "rating": 1531.2868958776612,
       "name": "Wisconsin",
       "abbr": "WIS",
-      "gp": 0,
-      "last_date": "2025-11-29T20:30Z"
+      "gp": 1,
+      "last_date": "2026-09-06T23:30Z"
     },
     "2711": {
       "rating": 1568.9438033027623,
@@ -1130,11 +1130,11 @@
       "last_date": "2026-09-05T23:00Z"
     },
     "87": {
-      "rating": 1987.227464504983,
+      "rating": 1993.0745913827536,
       "name": "Notre Dame",
       "abbr": "ND",
-      "gp": 0,
-      "last_date": "2025-11-30T03:30Z"
+      "gp": 1,
+      "last_date": "2026-09-06T23:30Z"
     },
     "130": {
       "rating": 1768.9930350879167,
@@ -1726,9 +1726,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-09-06T20:00Z",
+    "last_game_date": "2026-09-06T23:30Z",
     "season": 2026,
-    "n_games": 2002,
+    "n_games": 2003,
     "signals": {
       "weather": true,
       "travel": true,
