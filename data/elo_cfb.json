@@ -17,11 +17,11 @@
       "last_date": "2026-09-04T00:00Z"
     },
     "52": {
-      "rating": 1575.1106955328412,
+      "rating": 1563.27409118739,
       "name": "Florida St",
       "abbr": "FSU",
-      "gp": 1,
-      "last_date": "2026-08-29T23:00Z"
+      "gp": 2,
+      "last_date": "2026-09-07T23:30Z"
     },
     "167": {
       "rating": 1605.953278122648,
@@ -45,11 +45,11 @@
       "last_date": "2026-09-06T02:30Z"
     },
     "2567": {
-      "rating": 1774.5801128509856,
+      "rating": 1786.4167171964368,
       "name": "SMU",
       "abbr": "SMU",
-      "gp": 0,
-      "last_date": "2026-01-03T01:00Z"
+      "gp": 1,
+      "last_date": "2026-09-07T23:30Z"
     },
     "62": {
       "rating": 1478.6556919937948,
@@ -1726,9 +1726,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-09-06T23:30Z",
+    "last_game_date": "2026-09-07T23:30Z",
     "season": 2026,
-    "n_games": 2004,
+    "n_games": 2005,
     "signals": {
       "weather": true,
       "travel": true,

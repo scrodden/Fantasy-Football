@@ -6354,7 +6354,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "SMU -3",
-          "lean": -0.8
+          "lean": -0.8,
+          "result": "push",
+          "pnl": 0.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -6362,12 +6364,16 @@
           "team": "SMU",
           "price": -155,
           "stake": 100.0,
-          "pick": "SMU ML -155"
+          "pick": "SMU ML -155",
+          "result": "win",
+          "pnl": 64.52
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 24,
+      "away_score": 27
     }
   }
 }
