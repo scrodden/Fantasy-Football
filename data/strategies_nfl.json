@@ -1,0 +1,69 @@
+{
+  "locks": {
+    "401872656": {
+      "game_id": "401872656",
+      "league": "nfl",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-10T00:20Z",
+      "locked_at": "2026-09-08T19:14:24+00:00",
+      "home": "SEA",
+      "away": "NE",
+      "home_full": "Seattle Seahawks",
+      "away_full": "New England Patriots",
+      "line": {
+        "home_spread": -3.0,
+        "total": 44.5,
+        "home_ml": -170,
+        "away_ml": 142,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 2.8,
+        "proj_total": 41.8,
+        "proj_home_score": 22.3,
+        "proj_away_score": 19.5,
+        "home_win_prob": 0.5999
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "NE",
+          "line": 3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "NE +3",
+          "lean": -0.2
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "SEA",
+          "price": -170,
+          "stake": 100.0,
+          "pick": "SEA ML -170"
+        },
+        "value": [],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "under",
+            "team": null,
+            "pick": "Under 44.5",
+            "line": 44.5,
+            "price": -110,
+            "ev": 0.106,
+            "edge": 2.7,
+            "kelly": 0.0291,
+            "confidence": "low",
+            "book": null,
+            "stake": 291.0,
+            "bankroll_at_bet": 10000.0
+          }
+        ]
+      },
+      "settled": false
+    }
+  }
+}
