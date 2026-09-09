@@ -64,6 +64,55 @@
         ]
       },
       "settled": false
+    },
+    "401872657": {
+      "game_id": "401872657",
+      "league": "nfl",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-11T00:35Z",
+      "locked_at": "2026-09-09T19:13:26+00:00",
+      "home": "LAR",
+      "away": "SF",
+      "home_full": "Los Angeles Rams",
+      "away_full": "San Francisco 49ers",
+      "line": {
+        "home_spread": -3.5,
+        "total": 48.5,
+        "home_ml": -198,
+        "away_ml": 164,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 2.6,
+        "proj_total": 49.5,
+        "proj_home_score": 26.1,
+        "proj_away_score": 23.4,
+        "home_win_prob": 0.6117
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "SF",
+          "line": 3.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "SF +3.5",
+          "lean": -0.9
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "LAR",
+          "price": -198,
+          "stake": 100.0,
+          "pick": "LAR ML -198"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
