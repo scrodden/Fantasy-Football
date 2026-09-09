@@ -6374,6 +6374,48 @@
       "settled": true,
       "home_score": 24,
       "away_score": 27
+    },
+    "401858213": {
+      "game_id": "401858213",
+      "league": "cfb",
+      "season": 2026,
+      "week": 2,
+      "kickoff": "2026-09-11T00:00Z",
+      "locked_at": "2026-09-09T18:18:57+00:00",
+      "home": "MIA",
+      "away": "FAMU",
+      "home_full": "Miami Hurricanes",
+      "away_full": "Florida A&M Rattlers",
+      "line": {
+        "home_spread": -57.5,
+        "total": 62.5,
+        "home_ml": null,
+        "away_ml": null,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 49.1,
+        "proj_total": 59.6,
+        "proj_home_score": 54.4,
+        "proj_away_score": 5.2,
+        "home_win_prob": 0.9996
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "FAMU",
+          "line": 57.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "FAMU +57.5",
+          "lean": -8.4
+        },
+        "moneyline": null,
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
