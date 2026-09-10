@@ -6549,6 +6549,135 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401858214": {
+      "game_id": "401858214",
+      "league": "cfb",
+      "season": 2026,
+      "week": 2,
+      "kickoff": "2026-09-11T23:30Z",
+      "locked_at": "2026-09-10T18:17:22+00:00",
+      "home": "BC",
+      "away": "RUTG",
+      "home_full": "Boston College Eagles",
+      "away_full": "Rutgers Scarlet Knights",
+      "line": {
+        "home_spread": -3.5,
+        "total": 54.5,
+        "home_ml": -170,
+        "away_ml": 142,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 4.6,
+        "proj_total": 56.1,
+        "proj_home_score": 30.4,
+        "proj_away_score": 25.7,
+        "home_win_prob": 0.6197
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "BC",
+          "line": -3.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "BC -3.5",
+          "lean": 1.1
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "BC",
+          "price": -170,
+          "stake": 100.0,
+          "pick": "BC ML -170"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401856678": {
+      "game_id": "401856678",
+      "league": "cfb",
+      "season": 2026,
+      "week": 2,
+      "kickoff": "2026-09-12T00:00Z",
+      "locked_at": "2026-09-10T18:17:22+00:00",
+      "home": "KU",
+      "away": "MIZ",
+      "home_full": "Kansas Jayhawks",
+      "away_full": "Missouri Tigers",
+      "line": {
+        "home_spread": 5.5,
+        "total": 51.5,
+        "home_ml": 180,
+        "away_ml": -218,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -3.9,
+        "proj_total": 52.1,
+        "proj_home_score": 24.1,
+        "proj_away_score": 28.0,
+        "home_win_prob": 0.3614
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "KU",
+          "line": 5.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "KU +5.5",
+          "lean": 1.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "MIZ",
+          "price": -218,
+          "stake": 100.0,
+          "pick": "MIZ ML -218"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "KU",
+            "pick": "KU +5.5",
+            "line": 5.5,
+            "price": -110,
+            "ev": 0.036,
+            "edge": 1.6,
+            "kelly": 0.0098,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "KU",
+            "pick": "KU +5.5",
+            "line": 5.5,
+            "price": -110,
+            "ev": 0.036,
+            "edge": 1.6,
+            "kelly": 0.0098,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 58.75,
+            "bankroll_at_bet": 5994.62
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
