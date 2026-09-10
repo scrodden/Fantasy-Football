@@ -87,11 +87,11 @@
       "last_date": "2026-08-22T23:00Z"
     },
     "17": {
-      "rating": 1606.7904450481471,
+      "rating": 1596.3950942585814,
       "name": "Patriots",
       "abbr": "NE",
-      "gp": 1,
-      "last_date": "2026-08-22T23:00Z"
+      "gp": 2,
+      "last_date": "2026-09-10T00:20Z"
     },
     "11": {
       "rating": 1433.29243659694,
@@ -164,11 +164,11 @@
       "last_date": "2026-08-21T00:00Z"
     },
     "26": {
-      "rating": 1610.3401085006597,
+      "rating": 1620.7354592902254,
       "name": "Seahawks",
       "abbr": "SEA",
-      "gp": 2,
-      "last_date": "2026-08-24T00:00Z"
+      "gp": 3,
+      "last_date": "2026-09-10T00:20Z"
     },
     "7": {
       "rating": 1565.3752218186155,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-08-24T00:00Z",
+    "last_game_date": "2026-09-10T00:20Z",
     "season": 2026,
-    "n_games": 595,
+    "n_games": 596,
     "signals": {
       "weather": true,
       "travel": true,

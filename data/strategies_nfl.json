@@ -34,7 +34,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "NE +3",
-          "lean": -0.2
+          "lean": -0.2,
+          "result": "push",
+          "pnl": 0.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -42,7 +44,9 @@
           "team": "SEA",
           "price": -170,
           "stake": 100.0,
-          "pick": "SEA ML -170"
+          "pick": "SEA ML -170",
+          "result": "win",
+          "pnl": 58.82
         },
         "value": [],
         "bankroll": [
@@ -59,11 +63,15 @@
             "confidence": "low",
             "book": null,
             "stake": 291.0,
-            "bankroll_at_bet": 10000.0
+            "bankroll_at_bet": 10000.0,
+            "result": "win",
+            "pnl": 264.55
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 13,
+      "away_score": 10
     },
     "401872657": {
       "game_id": "401872657",
