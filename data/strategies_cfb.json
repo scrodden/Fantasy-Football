@@ -6416,6 +6416,139 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401858215": {
+      "game_id": "401858215",
+      "league": "cfb",
+      "season": 2026,
+      "week": 2,
+      "kickoff": "2026-09-11T23:00Z",
+      "locked_at": "2026-09-10T17:14:06+00:00",
+      "home": "LOU",
+      "away": "VILL",
+      "home_full": "Louisville Cardinals",
+      "away_full": "Villanova Wildcats",
+      "line": {
+        "home_spread": -36.5,
+        "total": 56.5,
+        "home_ml": null,
+        "away_ml": null,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 28.2,
+        "proj_total": 57.2,
+        "proj_home_score": 42.7,
+        "proj_away_score": 14.5,
+        "home_win_prob": 0.9824
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "VILL",
+          "line": 36.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "VILL +36.5",
+          "lean": -8.3
+        },
+        "moneyline": null,
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401858220": {
+      "game_id": "401858220",
+      "league": "cfb",
+      "season": 2026,
+      "week": 2,
+      "kickoff": "2026-09-11T23:00Z",
+      "locked_at": "2026-09-10T17:14:06+00:00",
+      "home": "UVA",
+      "away": "NORF",
+      "home_full": "Virginia Cavaliers",
+      "away_full": "Norfolk State Spartans",
+      "line": {
+        "home_spread": -44.5,
+        "total": 54.5,
+        "home_ml": null,
+        "away_ml": null,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 37.5,
+        "proj_total": 52.4,
+        "proj_home_score": 44.9,
+        "proj_away_score": 7.5,
+        "home_win_prob": 0.9971
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "NORF",
+          "line": 44.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "NORF +44.5",
+          "lean": -7.0
+        },
+        "moneyline": null,
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401858222": {
+      "game_id": "401858222",
+      "league": "cfb",
+      "season": 2026,
+      "week": 2,
+      "kickoff": "2026-09-11T23:00Z",
+      "locked_at": "2026-09-10T17:14:06+00:00",
+      "home": "NCSU",
+      "away": "RICH",
+      "home_full": "NC State Wolfpack",
+      "away_full": "Richmond Spiders",
+      "line": {
+        "home_spread": -32.5,
+        "total": 49.5,
+        "home_ml": -6500,
+        "away_ml": 2000,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 23.1,
+        "proj_total": 51.3,
+        "proj_home_score": 37.2,
+        "proj_away_score": 14.1,
+        "home_win_prob": 0.9555
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "RICH",
+          "line": 32.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "RICH +32.5",
+          "lean": -9.4
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "NCSU",
+          "price": -6500,
+          "stake": 100.0,
+          "pick": "NCSU ML -6500"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
