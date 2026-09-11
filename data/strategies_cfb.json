@@ -6409,13 +6409,17 @@
           "price": -110,
           "stake": 100.0,
           "pick": "FAMU +57.5",
-          "lean": -8.4
+          "lean": -8.4,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": null,
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 77,
+      "away_score": 7
     },
     "401858215": {
       "game_id": "401858215",

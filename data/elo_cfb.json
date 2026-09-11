@@ -675,11 +675,11 @@
       "last_date": "2026-09-05T23:45Z"
     },
     "2390": {
-      "rating": 1941.7310394109431,
+      "rating": 1944.373121018998,
       "name": "Miami",
       "abbr": "MIA",
-      "gp": 1,
-      "last_date": "2026-09-05T01:00Z"
+      "gp": 2,
+      "last_date": "2026-09-11T00:00Z"
     },
     "84": {
       "rating": 1982.6378767006513,
@@ -1445,11 +1445,11 @@
       "last_date": "2026-09-05T19:30Z"
     },
     "50": {
-      "rating": 1370.9467643870257,
+      "rating": 1368.3046827789708,
       "name": "Florida A&M",
       "abbr": "FAMU",
-      "gp": 0,
-      "last_date": "2025-09-06T22:00Z"
+      "gp": 1,
+      "last_date": "2026-09-11T00:00Z"
     },
     "399": {
       "rating": 1400.30589479454,
@@ -1726,9 +1726,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-09-07T23:30Z",
+    "last_game_date": "2026-09-11T00:00Z",
     "season": 2026,
-    "n_games": 2005,
+    "n_games": 2006,
     "signals": {
       "weather": true,
       "travel": true,
