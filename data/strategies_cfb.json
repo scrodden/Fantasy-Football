@@ -11768,6 +11768,115 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401864578": {
+      "game_id": "401864578",
+      "league": "cfb",
+      "season": 2026,
+      "week": 2,
+      "kickoff": "2026-09-13T03:59Z",
+      "locked_at": "2026-09-11T22:14:52+00:00",
+      "home": "HAW",
+      "away": "NMSU",
+      "home_full": "Hawai'i Rainbow Warriors",
+      "away_full": "New Mexico State Aggies",
+      "line": {
+        "home_spread": -7.0,
+        "total": 50.5,
+        "home_ml": -310,
+        "away_ml": 250,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 4.6,
+        "proj_total": 51.2,
+        "proj_home_score": 27.9,
+        "proj_away_score": 23.3,
+        "home_win_prob": 0.6921
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "NMSU",
+          "line": 7.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "NMSU +7",
+          "lean": -2.4
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "HAW",
+          "price": -310,
+          "stake": 100.0,
+          "pick": "HAW ML -310"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "NMSU",
+            "pick": "NMSU ML +250",
+            "line": 250,
+            "price": 250,
+            "ev": 0.078,
+            "edge": 3.4,
+            "kelly": 0.0078,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "NMSU",
+            "pick": "NMSU +7",
+            "line": 7.0,
+            "price": -110,
+            "ev": 0.076,
+            "edge": 2.4,
+            "kelly": 0.0209,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "NMSU",
+            "pick": "NMSU ML +250",
+            "line": 250,
+            "price": 250,
+            "ev": 0.078,
+            "edge": 3.4,
+            "kelly": 0.0078,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 46.76,
+            "bankroll_at_bet": 5994.62
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "NMSU",
+            "pick": "NMSU +7",
+            "line": 7.0,
+            "price": -110,
+            "ev": 0.076,
+            "edge": 2.4,
+            "kelly": 0.0209,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 125.29,
+            "bankroll_at_bet": 5994.62
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
