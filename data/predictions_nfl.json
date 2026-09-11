@@ -46,7 +46,8 @@
         "pick": "Over 48.5",
         "line": 48.5,
         "price": -110,
-        "edge": 3.1
+        "edge": 3.1,
+        "result": "loss"
       },
       {
         "market": "moneyline",
@@ -54,10 +55,18 @@
         "pick": "SF ML +154",
         "line": 154,
         "price": 154,
-        "edge": 5.9
+        "edge": 5.9,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 7,
+    "away_score": 27,
+    "actual_margin": -20,
+    "su_correct": false,
+    "brier": 0.3172,
+    "margin_err": 22.1,
+    "total_err": 17.6
   },
   "401872925": {
     "id": "401872925",

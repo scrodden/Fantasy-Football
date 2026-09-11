@@ -1,1 +1,1 @@
-{"league": "nfl", "n": 1, "su_pct": 100.0, "brier": 0.1269, "margin_mae": 1.9, "total_mae": 19.6, "by_market": {}}
+{"league": "nfl", "n": 2, "su_pct": 50.0, "brier": 0.222, "margin_mae": 12.0, "total_mae": 18.6, "by_market": {"total": {"win": 0, "loss": 1, "push": 0, "units": -1.0, "ats_pct": 0.0, "roi_pct": -100.0}, "moneyline": {"win": 1, "loss": 0, "push": 0, "units": 1.54, "ats_pct": 100.0, "roi_pct": 154.0}}}
