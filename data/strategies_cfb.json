@@ -7711,6 +7711,86 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401866413": {
+      "game_id": "401866413",
+      "league": "cfb",
+      "season": 2026,
+      "week": 2,
+      "kickoff": "2026-09-12T18:00Z",
+      "locked_at": "2026-09-11T12:20:32+00:00",
+      "home": "BALL",
+      "away": "STBK",
+      "home_full": "Ball State Cardinals",
+      "away_full": "Stony Brook Seawolves",
+      "line": {
+        "home_spread": -15.5,
+        "total": 56.5,
+        "home_ml": -850,
+        "away_ml": 575,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 7.7,
+        "proj_total": 56.2,
+        "proj_home_score": 31.9,
+        "proj_away_score": 24.3,
+        "home_win_prob": 0.8166
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "STBK",
+          "line": 15.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "STBK +15.5",
+          "lean": -7.8
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "BALL",
+          "price": -850,
+          "stake": 100.0,
+          "pick": "BALL ML -850"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "STBK",
+            "pick": "STBK +15.5",
+            "line": 15.5,
+            "price": -110,
+            "ev": 0.333,
+            "edge": 7.8,
+            "kelly": 0.0917,
+            "confidence": "medium",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "STBK",
+            "pick": "STBK +15.5",
+            "line": 15.5,
+            "price": -110,
+            "ev": 0.333,
+            "edge": 7.8,
+            "kelly": 0.0917,
+            "confidence": "medium",
+            "book": "Draft Kings",
+            "stake": 549.71,
+            "bankroll_at_bet": 5994.62
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
