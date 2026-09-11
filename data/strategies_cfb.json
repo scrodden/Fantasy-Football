@@ -11226,6 +11226,135 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401864504": {
+      "game_id": "401864504",
+      "league": "cfb",
+      "season": 2026,
+      "week": 2,
+      "kickoff": "2026-09-13T01:00Z",
+      "locked_at": "2026-09-11T19:13:18+00:00",
+      "home": "SJSU",
+      "away": "CP",
+      "home_full": "San Jos\u00e9 State Spartans",
+      "away_full": "Cal Poly Mustangs",
+      "line": {
+        "home_spread": -20.5,
+        "total": 56.5,
+        "home_ml": -2100,
+        "away_ml": 1100,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 13.3,
+        "proj_total": 57.2,
+        "proj_home_score": 35.2,
+        "proj_away_score": 22.0,
+        "home_win_prob": 0.8966
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "CP",
+          "line": 20.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "CP +20.5",
+          "lean": -7.2
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "SJSU",
+          "price": -2100,
+          "stake": 100.0,
+          "pick": "SJSU ML -2100"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "CP",
+            "pick": "CP +20.5",
+            "line": 20.5,
+            "price": -110,
+            "ev": 0.307,
+            "edge": 7.2,
+            "kelly": 0.0843,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "CP",
+            "pick": "CP +20.5",
+            "line": 20.5,
+            "price": -110,
+            "ev": 0.307,
+            "edge": 7.2,
+            "kelly": 0.0843,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 505.35,
+            "bankroll_at_bet": 5994.62
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401864505": {
+      "game_id": "401864505",
+      "league": "cfb",
+      "season": 2026,
+      "week": 2,
+      "kickoff": "2026-09-13T01:00Z",
+      "locked_at": "2026-09-11T19:13:18+00:00",
+      "home": "UTEP",
+      "away": "TXSO",
+      "home_full": "UTEP Miners",
+      "away_full": "Texas Southern Tigers",
+      "line": {
+        "home_spread": -25.5,
+        "total": 52.5,
+        "home_ml": -6500,
+        "away_ml": 2000,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 14.1,
+        "proj_total": 54.5,
+        "proj_home_score": 34.3,
+        "proj_away_score": 20.2,
+        "home_win_prob": 0.9241
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "TXSO",
+          "line": 25.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "TXSO +25.5",
+          "lean": -11.4
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "UTEP",
+          "price": -6500,
+          "stake": 100.0,
+          "pick": "UTEP ML -6500"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
