@@ -9320,6 +9320,317 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401856672": {
+      "game_id": "401856672",
+      "league": "cfb",
+      "season": 2026,
+      "week": 2,
+      "kickoff": "2026-09-12T21:30Z",
+      "locked_at": "2026-09-11T16:16:19+00:00",
+      "home": "FLA",
+      "away": "CAM",
+      "home_full": "Florida Gators",
+      "away_full": "Campbell Fighting Camels",
+      "line": {
+        "home_spread": -49.5,
+        "total": 65.5,
+        "home_ml": null,
+        "away_ml": null,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 40.5,
+        "proj_total": 63.5,
+        "proj_home_score": 52.0,
+        "proj_away_score": 11.5,
+        "home_win_prob": 0.9985
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "CAM",
+          "line": 49.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "CAM +49.5",
+          "lean": -9.0
+        },
+        "moneyline": null,
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401860881": {
+      "game_id": "401860881",
+      "league": "cfb",
+      "season": 2026,
+      "week": 2,
+      "kickoff": "2026-09-12T22:00Z",
+      "locked_at": "2026-09-11T16:16:19+00:00",
+      "home": "BOIS",
+      "away": "MEM",
+      "home_full": "Boise State Broncos",
+      "away_full": "Memphis Tigers",
+      "line": {
+        "home_spread": -8.5,
+        "total": 56.5,
+        "home_ml": -325,
+        "away_ml": 260,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 6.8,
+        "proj_total": 55.8,
+        "proj_home_score": 31.3,
+        "proj_away_score": 24.5,
+        "home_win_prob": 0.7234
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "MEM",
+          "line": 8.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "MEM +8.5",
+          "lean": -1.7
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "BOIS",
+          "price": -325,
+          "stake": 100.0,
+          "pick": "BOIS ML -325"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "MEM",
+            "pick": "MEM +8.5",
+            "line": 8.5,
+            "price": -110,
+            "ev": 0.041,
+            "edge": 1.7,
+            "kelly": 0.0112,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "MEM",
+            "pick": "MEM +8.5",
+            "line": 8.5,
+            "price": -110,
+            "ev": 0.041,
+            "edge": 1.7,
+            "kelly": 0.0112,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 67.14,
+            "bankroll_at_bet": 5994.62
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401866414": {
+      "game_id": "401866414",
+      "league": "cfb",
+      "season": 2026,
+      "week": 2,
+      "kickoff": "2026-09-12T22:00Z",
+      "locked_at": "2026-09-11T16:16:19+00:00",
+      "home": "FIU",
+      "away": "BUFF",
+      "home_full": "Florida International Panthers",
+      "away_full": "Buffalo Bulls",
+      "line": {
+        "home_spread": -10.0,
+        "total": 47.5,
+        "home_ml": -410,
+        "away_ml": 320,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 6.2,
+        "proj_total": 49.1,
+        "proj_home_score": 27.7,
+        "proj_away_score": 21.4,
+        "home_win_prob": 0.7418
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "BUFF",
+          "line": 10.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "BUFF +10",
+          "lean": -3.8
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "FIU",
+          "price": -410,
+          "stake": 100.0,
+          "pick": "FIU ML -410"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "BUFF",
+            "pick": "BUFF +10",
+            "line": 10.0,
+            "price": -110,
+            "ev": 0.145,
+            "edge": 3.8,
+            "kelly": 0.04,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "BUFF",
+            "pick": "BUFF ML +320",
+            "line": 320,
+            "price": 320,
+            "ev": 0.084,
+            "edge": 3.0,
+            "kelly": 0.0066,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "BUFF",
+            "pick": "BUFF +10",
+            "line": 10.0,
+            "price": -110,
+            "ev": 0.145,
+            "edge": 3.8,
+            "kelly": 0.04,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 239.78,
+            "bankroll_at_bet": 5994.62
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "BUFF",
+            "pick": "BUFF ML +320",
+            "line": 320,
+            "price": 320,
+            "ev": 0.084,
+            "edge": 3.0,
+            "kelly": 0.0066,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 39.56,
+            "bankroll_at_bet": 5994.62
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401866418": {
+      "game_id": "401866418",
+      "league": "cfb",
+      "season": 2026,
+      "week": 2,
+      "kickoff": "2026-09-12T22:00Z",
+      "locked_at": "2026-09-11T16:16:19+00:00",
+      "home": "OHIO",
+      "away": "JVST",
+      "home_full": "Ohio Bobcats",
+      "away_full": "Jacksonville State Gamecocks",
+      "line": {
+        "home_spread": -2.5,
+        "total": 50.5,
+        "home_ml": -130,
+        "away_ml": 110,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -0.8,
+        "proj_total": 52.2,
+        "proj_home_score": 25.7,
+        "proj_away_score": 26.5,
+        "home_win_prob": 0.5214
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "JVST",
+          "line": 2.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "JVST +2.5",
+          "lean": -3.3
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "JVST",
+          "price": 110,
+          "stake": 100.0,
+          "pick": "JVST ML +110"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "JVST",
+            "pick": "JVST +2.5",
+            "line": 2.5,
+            "price": -110,
+            "ev": 0.121,
+            "edge": 3.3,
+            "kelly": 0.0332,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "JVST",
+            "pick": "JVST +2.5",
+            "line": 2.5,
+            "price": -110,
+            "ev": 0.121,
+            "edge": 3.3,
+            "kelly": 0.0332,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 199.02,
+            "bankroll_at_bet": 5994.62
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
