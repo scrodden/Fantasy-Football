@@ -11530,6 +11530,244 @@
         ]
       },
       "settled": false
+    },
+    "401860883": {
+      "game_id": "401860883",
+      "league": "cfb",
+      "season": 2026,
+      "week": 2,
+      "kickoff": "2026-09-13T02:30Z",
+      "locked_at": "2026-09-11T21:14:30+00:00",
+      "home": "FRES",
+      "away": "SAC",
+      "home_full": "Fresno State Bulldogs",
+      "away_full": "Sacramento State Hornets",
+      "line": {
+        "home_spread": -18.5,
+        "total": 45.5,
+        "home_ml": -950,
+        "away_ml": 625,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 9.2,
+        "proj_total": 46.8,
+        "proj_home_score": 28.0,
+        "proj_away_score": 18.8,
+        "home_win_prob": 0.8298
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "SAC",
+          "line": 18.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "SAC +18.5",
+          "lean": -9.3
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "FRES",
+          "price": -950,
+          "stake": 100.0,
+          "pick": "FRES ML -950"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "SAC",
+            "pick": "SAC +18.5",
+            "line": 18.5,
+            "price": -110,
+            "ev": 0.398,
+            "edge": 9.3,
+            "kelly": 0.1095,
+            "confidence": "medium",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "SAC",
+            "pick": "SAC +18.5",
+            "line": 18.5,
+            "price": -110,
+            "ev": 0.398,
+            "edge": 9.3,
+            "kelly": 0.1095,
+            "confidence": "medium",
+            "book": "Draft Kings",
+            "stake": 656.41,
+            "bankroll_at_bet": 5994.62
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401864500": {
+      "game_id": "401864500",
+      "league": "cfb",
+      "season": 2026,
+      "week": 2,
+      "kickoff": "2026-09-13T02:30Z",
+      "locked_at": "2026-09-11T21:14:30+00:00",
+      "home": "NEV",
+      "away": "MTST",
+      "home_full": "Nevada Wolf Pack",
+      "away_full": "Montana State Bobcats",
+      "line": {
+        "home_spread": 3.5,
+        "total": 49.5,
+        "home_ml": 136,
+        "away_ml": -162,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": -0.1,
+        "proj_total": 51.4,
+        "proj_home_score": 25.7,
+        "proj_away_score": 25.8,
+        "home_win_prob": 0.439
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "NEV",
+          "line": 3.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "NEV +3.5",
+          "lean": 3.4
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "MTST",
+          "price": -162,
+          "stake": 100.0,
+          "pick": "MTST ML -162"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "NEV",
+            "pick": "NEV +3.5",
+            "line": 3.5,
+            "price": -110,
+            "ev": 0.126,
+            "edge": 3.4,
+            "kelly": 0.0346,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          },
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "NEV",
+            "pick": "NEV ML +136",
+            "line": 136,
+            "price": 136,
+            "ev": 0.036,
+            "edge": 3.2,
+            "kelly": 0.0066,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "NEV",
+            "pick": "NEV +3.5",
+            "line": 3.5,
+            "price": -110,
+            "ev": 0.126,
+            "edge": 3.4,
+            "kelly": 0.0346,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 207.41,
+            "bankroll_at_bet": 5994.62
+          },
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "NEV",
+            "pick": "NEV ML +136",
+            "line": 136,
+            "price": 136,
+            "ev": 0.036,
+            "edge": 3.2,
+            "kelly": 0.0066,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 39.56,
+            "bankroll_at_bet": 5994.62
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401858445": {
+      "game_id": "401858445",
+      "league": "cfb",
+      "season": 2026,
+      "week": 2,
+      "kickoff": "2026-09-13T03:00Z",
+      "locked_at": "2026-09-11T21:14:30+00:00",
+      "home": "USC",
+      "away": "UL",
+      "home_full": "USC Trojans",
+      "away_full": "Louisiana Ragin' Cajuns",
+      "line": {
+        "home_spread": -31.5,
+        "total": 59.5,
+        "home_ml": -9000,
+        "away_ml": 2500,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 24.7,
+        "proj_total": 57.7,
+        "proj_home_score": 41.2,
+        "proj_away_score": 16.5,
+        "home_win_prob": 0.9647
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "UL",
+          "line": 31.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "UL +31.5",
+          "lean": -6.8
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "USC",
+          "price": -9000,
+          "stake": 100.0,
+          "pick": "USC ML -9000"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
