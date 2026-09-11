@@ -11355,6 +11355,181 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401864502": {
+      "game_id": "401864502",
+      "league": "cfb",
+      "season": 2026,
+      "week": 2,
+      "kickoff": "2026-09-13T02:00Z",
+      "locked_at": "2026-09-11T20:15:23+00:00",
+      "home": "AFA",
+      "away": "NDSU",
+      "home_full": "Air Force Falcons",
+      "away_full": "North Dakota State Bison",
+      "line": {
+        "home_spread": 1.5,
+        "total": 47.5,
+        "home_ml": 105,
+        "away_ml": -125,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -4.1,
+        "proj_total": 47.7,
+        "proj_home_score": 21.8,
+        "proj_away_score": 25.9,
+        "home_win_prob": 0.4374
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "NDSU",
+          "line": -1.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "NDSU -1.5",
+          "lean": -2.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "NDSU",
+          "price": -125,
+          "stake": 100.0,
+          "pick": "NDSU ML -125"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "NDSU",
+            "pick": "NDSU -1.5",
+            "line": -1.5,
+            "price": -110,
+            "ev": 0.086,
+            "edge": 2.6,
+            "kelly": 0.0236,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "NDSU",
+            "pick": "NDSU -1.5",
+            "line": -1.5,
+            "price": -110,
+            "ev": 0.086,
+            "edge": 2.6,
+            "kelly": 0.0236,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 141.47,
+            "bankroll_at_bet": 5994.62
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401856670": {
+      "game_id": "401856670",
+      "league": "cfb",
+      "season": 2026,
+      "week": 2,
+      "kickoff": "2026-09-13T02:15Z",
+      "locked_at": "2026-09-11T20:15:23+00:00",
+      "home": "UTAH",
+      "away": "ARK",
+      "home_full": "Utah Utes",
+      "away_full": "Arkansas Razorbacks",
+      "line": {
+        "home_spread": -12.5,
+        "total": 55.5,
+        "home_ml": -520,
+        "away_ml": 390,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 15.0,
+        "proj_total": 59.5,
+        "proj_home_score": 37.2,
+        "proj_away_score": 22.2,
+        "home_win_prob": 0.8307
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "UTAH",
+          "line": -12.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "UTAH -12.5",
+          "lean": 2.5
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "UTAH",
+          "price": -520,
+          "stake": 100.0,
+          "pick": "UTAH ML -520"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "UTAH",
+            "pick": "UTAH -12.5",
+            "line": -12.5,
+            "price": -110,
+            "ev": 0.081,
+            "edge": 2.5,
+            "kelly": 0.0222,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 55.5",
+            "line": 55.5,
+            "price": -110,
+            "ev": 0.137,
+            "edge": 4.0,
+            "kelly": 0.0378,
+            "confidence": "low",
+            "book": null,
+            "stake": 226.6,
+            "bankroll_at_bet": 5994.62
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "UTAH",
+            "pick": "UTAH -12.5",
+            "line": -12.5,
+            "price": -110,
+            "ev": 0.081,
+            "edge": 2.5,
+            "kelly": 0.0222,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 133.08,
+            "bankroll_at_bet": 5994.62
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
