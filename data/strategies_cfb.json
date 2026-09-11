@@ -9271,6 +9271,55 @@
         ]
       },
       "settled": false
+    },
+    "401868187": {
+      "game_id": "401868187",
+      "league": "cfb",
+      "season": 2026,
+      "week": 2,
+      "kickoff": "2026-09-12T16:00Z",
+      "locked_at": "2026-09-11T15:14:52+00:00",
+      "home": "LIB",
+      "away": "GWEB",
+      "home_full": "Liberty Flames",
+      "away_full": "Gardner-Webb Runnin' Bulldogs",
+      "line": {
+        "home_spread": -27.5,
+        "total": 55.5,
+        "home_ml": -5000,
+        "away_ml": 1800,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 19.2,
+        "proj_total": 56.1,
+        "proj_home_score": 37.6,
+        "proj_away_score": 18.5,
+        "home_win_prob": 0.9422
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "GWEB",
+          "line": 27.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "GWEB +27.5",
+          "lean": -8.3
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "LIB",
+          "price": -5000,
+          "stake": 100.0,
+          "pick": "LIB ML -5000"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
