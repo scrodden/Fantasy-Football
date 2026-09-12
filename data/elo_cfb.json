@@ -920,11 +920,11 @@
       "last_date": "2025-10-04T18:00Z"
     },
     "258": {
-      "rating": 1695.2049316372186,
+      "rating": 1708.721038011714,
       "name": "Virginia",
       "abbr": "UVA",
-      "gp": 1,
-      "last_date": "2026-08-29T19:30Z"
+      "gp": 2,
+      "last_date": "2026-09-11T23:00Z"
     },
     "257": {
       "rating": 1474.2207686496827,
@@ -941,11 +941,11 @@
       "last_date": "2026-09-05T16:00Z"
     },
     "2450": {
-      "rating": 1417.3412406989166,
+      "rating": 1403.8251343244212,
       "name": "Norfolk St",
       "abbr": "NORF",
-      "gp": 1,
-      "last_date": "2026-09-05T22:00Z"
+      "gp": 2,
+      "last_date": "2026-09-11T23:00Z"
     },
     "204": {
       "rating": 1327.3336789437374,
@@ -1726,9 +1726,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-09-11T00:00Z",
+    "last_game_date": "2026-09-11T23:00Z",
     "season": 2026,
-    "n_games": 2006,
+    "n_games": 2007,
     "signals": {
       "weather": true,
       "travel": true,

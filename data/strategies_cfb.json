@@ -6497,13 +6497,17 @@
           "price": -110,
           "stake": 100.0,
           "pick": "NORF +44.5",
-          "lean": -7.0
+          "lean": -7.0,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": null,
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 59,
+      "away_score": 3
     },
     "401858222": {
       "game_id": "401858222",
