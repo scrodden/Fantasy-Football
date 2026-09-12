@@ -7900,7 +7900,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "STBK +15.5",
-          "lean": -7.8
+          "lean": -7.8,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -7908,7 +7910,9 @@
           "team": "BALL",
           "price": -850,
           "stake": 100.0,
-          "pick": "BALL ML -850"
+          "pick": "BALL ML -850",
+          "result": "win",
+          "pnl": 11.76
         },
         "value": [
           {
@@ -7923,7 +7927,9 @@
             "kelly": 0.0917,
             "confidence": "medium",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           }
         ],
         "bankroll": [
@@ -7940,11 +7946,15 @@
             "confidence": "medium",
             "book": "Draft Kings",
             "stake": 549.71,
-            "bankroll_at_bet": 5994.62
+            "bankroll_at_bet": 5994.62,
+            "result": "loss",
+            "pnl": -549.71
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 41,
+      "away_score": 17
     },
     "401859184": {
       "game_id": "401859184",

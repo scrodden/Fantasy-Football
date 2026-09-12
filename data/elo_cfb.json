@@ -857,11 +857,11 @@
       "last_date": "2026-09-05T19:30Z"
     },
     "2619": {
-      "rating": 1395.7177058177285,
+      "rating": 1326.4139106580008,
       "name": "Stony Brook",
       "abbr": "STBK",
-      "gp": 0,
-      "last_date": "2025-08-29T02:00Z"
+      "gp": 1,
+      "last_date": "2026-09-12T18:00Z"
     },
     "25": {
       "rating": 1468.3779611249636,
@@ -1403,11 +1403,11 @@
       "last_date": "2025-09-21T00:00Z"
     },
     "2050": {
-      "rating": 1212.9549970084151,
+      "rating": 1282.258792168143,
       "name": "Ball State",
       "abbr": "BALL",
-      "gp": 1,
-      "last_date": "2026-09-05T16:30Z"
+      "gp": 2,
+      "last_date": "2026-09-12T18:00Z"
     },
     "2598": {
       "rating": 1401.0585689122845,
@@ -1726,9 +1726,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-09-12T17:30Z",
+    "last_game_date": "2026-09-12T18:00Z",
     "season": 2026,
-    "n_games": 2029,
+    "n_games": 2030,
     "signals": {
       "weather": true,
       "travel": true,
