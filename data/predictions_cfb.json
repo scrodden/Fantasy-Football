@@ -3056,7 +3056,14 @@
       "away_ml": -2100
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 39,
+    "away_score": 31,
+    "actual_margin": 8,
+    "su_correct": false,
+    "brier": 0.8699,
+    "margin_err": 30.9,
+    "total_err": 14.8
   },
   "401858439": {
     "id": "401858439",
@@ -3209,7 +3216,14 @@
       "away_ml": null
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 35,
+    "away_score": 3,
+    "actual_margin": 32,
+    "su_correct": true,
+    "brier": 0.0507,
+    "margin_err": 22.4,
+    "total_err": 14.2
   },
   "401858221": {
     "id": "401858221",
@@ -3426,7 +3440,14 @@
       "away_ml": null
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 52,
+    "away_score": 7,
+    "actual_margin": 45,
+    "su_correct": true,
+    "brier": 0.0564,
+    "margin_err": 35.9,
+    "total_err": 4.1
   },
   "401866415": {
     "id": "401866415",

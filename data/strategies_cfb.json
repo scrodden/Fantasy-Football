@@ -6793,7 +6793,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "ORE -23.5",
-          "lean": -0.1
+          "lean": -0.1,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -6801,12 +6803,16 @@
           "team": "ORE",
           "price": -2100,
           "stake": 100.0,
-          "pick": "ORE ML -2100"
+          "pick": "ORE ML -2100",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 39,
+      "away_score": 31
     },
     "401856683": {
       "game_id": "401856683",
@@ -7097,13 +7103,17 @@
           "price": -110,
           "stake": 100.0,
           "pick": "ETSU +35.5",
-          "lean": -8.3
+          "lean": -8.3,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": null,
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 35,
+      "away_score": 3
     },
     "401858221": {
       "game_id": "401858221",
@@ -7734,13 +7744,17 @@
           "price": -110,
           "stake": 100.0,
           "pick": "UTM +41.5",
-          "lean": -10.4
+          "lean": -10.4,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": null,
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 52,
+      "away_score": 7
     },
     "401866415": {
       "game_id": "401866415",
