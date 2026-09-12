@@ -702,6 +702,265 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401872928": {
+      "game_id": "401872928",
+      "league": "nfl",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-13T20:25Z",
+      "locked_at": "2026-09-12T15:13:38+00:00",
+      "home": "LV",
+      "away": "MIA",
+      "home_full": "Las Vegas Raiders",
+      "away_full": "Miami Dolphins",
+      "line": {
+        "home_spread": -3.0,
+        "total": 40.5,
+        "home_ml": -170,
+        "away_ml": 142,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 1.8,
+        "proj_total": 40.4,
+        "proj_home_score": 21.1,
+        "proj_away_score": 19.3,
+        "home_win_prob": 0.5817
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "MIA",
+          "line": 3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "MIA +3",
+          "lean": -1.2
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "LV",
+          "price": -170,
+          "stake": 100.0,
+          "pick": "LV ML -170"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401872927": {
+      "game_id": "401872927",
+      "league": "nfl",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-13T20:25Z",
+      "locked_at": "2026-09-12T15:13:38+00:00",
+      "home": "MIN",
+      "away": "GB",
+      "home_full": "Minnesota Vikings",
+      "away_full": "Green Bay Packers",
+      "line": {
+        "home_spread": -1.5,
+        "total": 46.5,
+        "home_ml": -125,
+        "away_ml": 105,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 1.2,
+        "proj_total": 40.5,
+        "proj_home_score": 20.8,
+        "proj_away_score": 19.7,
+        "home_win_prob": 0.5365
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "GB",
+          "line": 1.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "GB +1.5",
+          "lean": -0.3
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "MIN",
+          "price": -125,
+          "stake": 100.0,
+          "pick": "MIN ML -125"
+        },
+        "value": [],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "under",
+            "team": null,
+            "pick": "Under 46.5",
+            "line": 46.5,
+            "price": -110,
+            "ev": 0.282,
+            "edge": 6.0,
+            "kelly": 0.0776,
+            "confidence": "low",
+            "book": null,
+            "stake": 796.53,
+            "bankroll_at_bet": 10264.55
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401872929": {
+      "game_id": "401872929",
+      "league": "nfl",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-13T20:25Z",
+      "locked_at": "2026-09-12T15:13:38+00:00",
+      "home": "PHI",
+      "away": "WSH",
+      "home_full": "Philadelphia Eagles",
+      "away_full": "Washington Commanders",
+      "line": {
+        "home_spread": -6.0,
+        "total": 44.5,
+        "home_ml": -250,
+        "away_ml": 205,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 5.3,
+        "proj_total": 41.9,
+        "proj_home_score": 23.6,
+        "proj_away_score": 18.3,
+        "home_win_prob": 0.6807
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "WSH",
+          "line": 6.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "WSH +6",
+          "lean": -0.7
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "PHI",
+          "price": -250,
+          "stake": 100.0,
+          "pick": "PHI ML -250"
+        },
+        "value": [],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "under",
+            "team": null,
+            "pick": "Under 44.5",
+            "line": 44.5,
+            "price": -110,
+            "ev": 0.1,
+            "edge": 2.6,
+            "kelly": 0.0276,
+            "confidence": "low",
+            "book": null,
+            "stake": 283.3,
+            "bankroll_at_bet": 10264.55
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401872926": {
+      "game_id": "401872926",
+      "league": "nfl",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-13T20:25Z",
+      "locked_at": "2026-09-12T15:13:38+00:00",
+      "home": "LAC",
+      "away": "ARI",
+      "home_full": "Los Angeles Chargers",
+      "away_full": "Arizona Cardinals",
+      "line": {
+        "home_spread": -9.5,
+        "total": 47.5,
+        "home_ml": -500,
+        "away_ml": 380,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 8.1,
+        "proj_total": 45.7,
+        "proj_home_score": 26.9,
+        "proj_away_score": 18.8,
+        "home_win_prob": 0.7777
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "ARI",
+          "line": 9.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "ARI +9.5",
+          "lean": -1.4
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "LAC",
+          "price": -500,
+          "stake": 100.0,
+          "pick": "LAC ML -500"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "ARI",
+            "pick": "ARI ML +380",
+            "line": 380,
+            "price": 380,
+            "ev": 0.067,
+            "edge": 2.2,
+            "kelly": 0.0044,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "ARI",
+            "pick": "ARI ML +380",
+            "line": 380,
+            "price": 380,
+            "ev": 0.067,
+            "edge": 2.2,
+            "kelly": 0.0044,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 45.16,
+            "bankroll_at_bet": 10264.55
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
