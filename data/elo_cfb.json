@@ -528,11 +528,11 @@
       "last_date": "2026-09-05T16:00Z"
     },
     "97": {
-      "rating": 1684.4504187249152,
+      "rating": 1706.2432645556178,
       "name": "Louisville",
       "abbr": "LOU",
-      "gp": 1,
-      "last_date": "2026-09-06T23:30Z"
+      "gp": 2,
+      "last_date": "2026-09-11T23:00Z"
     },
     "2046": {
       "rating": 1475.4140499914606,
@@ -1571,11 +1571,11 @@
       "last_date": "2025-11-15T20:30Z"
     },
     "222": {
-      "rating": 1507.7603792775085,
+      "rating": 1485.9675334468059,
       "name": "Villanova",
       "abbr": "VILL",
-      "gp": 0,
-      "last_date": "2025-09-13T19:30Z"
+      "gp": 1,
+      "last_date": "2026-09-11T23:00Z"
     },
     "331": {
       "rating": 1393.957251486835,
@@ -1728,7 +1728,7 @@
   "meta": {
     "last_game_date": "2026-09-11T23:00Z",
     "season": 2026,
-    "n_games": 2007,
+    "n_games": 2008,
     "signals": {
       "weather": true,
       "travel": true,

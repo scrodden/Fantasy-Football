@@ -6455,13 +6455,17 @@
           "price": -110,
           "stake": 100.0,
           "pick": "VILL +36.5",
-          "lean": -8.3
+          "lean": -8.3,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": null,
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 59,
+      "away_score": 13
     },
     "401858220": {
       "game_id": "401858220",
