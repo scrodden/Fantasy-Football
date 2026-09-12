@@ -961,6 +961,71 @@
         ]
       },
       "settled": false
+    },
+    "401872930": {
+      "game_id": "401872930",
+      "league": "nfl",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-14T00:20Z",
+      "locked_at": "2026-09-12T19:12:10+00:00",
+      "home": "NYG",
+      "away": "DAL",
+      "home_full": "New York Giants",
+      "away_full": "Dallas Cowboys",
+      "line": {
+        "home_spread": 3.0,
+        "total": 48.5,
+        "home_ml": 136,
+        "away_ml": -162,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": -1.7,
+        "proj_total": 45.8,
+        "proj_home_score": 22.1,
+        "proj_away_score": 23.7,
+        "home_win_prob": 0.4279
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "NYG",
+          "line": 3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "NYG +3",
+          "lean": 1.3
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "DAL",
+          "price": -162,
+          "stake": 100.0,
+          "pick": "DAL ML -162"
+        },
+        "value": [],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "under",
+            "team": null,
+            "pick": "Under 48.5",
+            "line": 48.5,
+            "price": -110,
+            "ev": 0.106,
+            "edge": 2.7,
+            "kelly": 0.0291,
+            "confidence": "low",
+            "book": null,
+            "stake": 298.7,
+            "bankroll_at_bet": 10264.55
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
