@@ -668,11 +668,11 @@
       "last_date": "2026-09-05T22:00Z"
     },
     "57": {
-      "rating": 1675.930001099727,
+      "rating": 1688.242685047153,
       "name": "Florida",
       "abbr": "FLA",
-      "gp": 1,
-      "last_date": "2026-09-05T23:45Z"
+      "gp": 2,
+      "last_date": "2026-09-12T21:30Z"
     },
     "2390": {
       "rating": 1944.373121018998,
@@ -913,11 +913,11 @@
       "last_date": "2026-09-12T16:00Z"
     },
     "2097": {
-      "rating": 1386.9643965881703,
+      "rating": 1374.6517126407443,
       "name": "Campbell",
       "abbr": "CAM",
-      "gp": 0,
-      "last_date": "2025-10-04T18:00Z"
+      "gp": 1,
+      "last_date": "2026-09-12T21:30Z"
     },
     "258": {
       "rating": 1708.721038011714,
@@ -1726,9 +1726,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-09-12T20:15Z",
+    "last_game_date": "2026-09-12T21:30Z",
     "season": 2026,
-    "n_games": 2052,
+    "n_games": 2053,
     "signals": {
       "weather": true,
       "travel": true,

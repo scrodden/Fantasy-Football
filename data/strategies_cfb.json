@@ -9705,13 +9705,17 @@
           "price": -110,
           "stake": 100.0,
           "pick": "CAM +49.5",
-          "lean": -9.0
+          "lean": -9.0,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": null,
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 52,
+      "away_score": 3
     },
     "401860881": {
       "game_id": "401860881",
