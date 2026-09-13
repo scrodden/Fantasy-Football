@@ -11411,7 +11411,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "GASO +19.5",
-          "lean": -8.7
+          "lean": -8.7,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -11419,7 +11421,9 @@
           "team": "CLEM",
           "price": -1200,
           "stake": 100.0,
-          "pick": "CLEM ML -1200"
+          "pick": "CLEM ML -1200",
+          "result": "win",
+          "pnl": 8.33
         },
         "value": [
           {
@@ -11434,7 +11438,9 @@
             "kelly": 0.1025,
             "confidence": "medium",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           }
         ],
         "bankroll": [
@@ -11451,11 +11457,15 @@
             "confidence": "medium",
             "book": "DraftKings",
             "stake": 614.45,
-            "bankroll_at_bet": 5994.62
+            "bankroll_at_bet": 5994.62,
+            "result": "win",
+            "pnl": 558.59
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 22,
+      "away_score": 7
     },
     "401862703": {
       "game_id": "401862703",
@@ -11919,7 +11929,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "TXSO +25.5",
-          "lean": -11.4
+          "lean": -11.4,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -11927,12 +11939,16 @@
           "team": "UTEP",
           "price": -6500,
           "stake": 100.0,
-          "pick": "UTEP ML -6500"
+          "pick": "UTEP ML -6500",
+          "result": "win",
+          "pnl": 1.54
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 51,
+      "away_score": 10
     },
     "401864502": {
       "game_id": "401864502",

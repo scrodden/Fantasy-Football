@@ -5016,10 +5016,18 @@
         "pick": "GASO +20.5",
         "line": 20.5,
         "price": -110,
-        "edge": 9.0
+        "edge": 9.0,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 22,
+    "away_score": 7,
+    "actual_margin": 15,
+    "su_correct": true,
+    "brier": 0.0185,
+    "margin_err": 3.5,
+    "total_err": 25.1
   },
   "401862703": {
     "id": "401862703",
@@ -5222,7 +5230,14 @@
       "away_ml": null
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 51,
+    "away_score": 10,
+    "actual_margin": 41,
+    "su_correct": false,
+    "brier": 0.6002,
+    "margin_err": 51.3,
+    "total_err": 2.2
   },
   "401864502": {
     "id": "401864502",
