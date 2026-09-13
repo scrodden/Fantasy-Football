@@ -1026,6 +1026,101 @@
         ]
       },
       "settled": false
+    },
+    "401872931": {
+      "game_id": "401872931",
+      "league": "nfl",
+      "season": 2026,
+      "week": 1,
+      "kickoff": "2026-09-15T00:15Z",
+      "locked_at": "2026-09-13T18:16:57+00:00",
+      "home": "KC",
+      "away": "DEN",
+      "home_full": "Kansas City Chiefs",
+      "away_full": "Denver Broncos",
+      "line": {
+        "home_spread": -2.5,
+        "total": 43.5,
+        "home_ml": -135,
+        "away_ml": 114,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -0.1,
+        "proj_total": 40.0,
+        "proj_home_score": 19.9,
+        "proj_away_score": 20.0,
+        "home_win_prob": 0.5212
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "DEN",
+          "line": 2.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "DEN +2.5",
+          "lean": -2.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "DEN",
+          "price": 114,
+          "stake": 100.0,
+          "pick": "DEN ML +114"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "DEN",
+            "pick": "DEN +2.5",
+            "line": 2.5,
+            "price": -110,
+            "ev": 0.125,
+            "edge": 2.6,
+            "kelly": 0.0345,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "under",
+            "team": null,
+            "pick": "Under 43.5",
+            "line": 43.5,
+            "price": -110,
+            "ev": 0.15,
+            "edge": 3.5,
+            "kelly": 0.0412,
+            "confidence": "low",
+            "book": null,
+            "stake": 422.9,
+            "bankroll_at_bet": 10264.55
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "DEN",
+            "pick": "DEN +2.5",
+            "line": 2.5,
+            "price": -110,
+            "ev": 0.125,
+            "edge": 2.6,
+            "kelly": 0.0345,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 354.13,
+            "bankroll_at_bet": 10264.55
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
