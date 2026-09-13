@@ -12449,7 +12449,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "NMSU +7",
-          "lean": -2.4
+          "lean": -2.4,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -12457,7 +12459,9 @@
           "team": "HAW",
           "price": -310,
           "stake": 100.0,
-          "pick": "HAW ML -310"
+          "pick": "HAW ML -310",
+          "result": "win",
+          "pnl": 32.26
         },
         "value": [
           {
@@ -12472,7 +12476,9 @@
             "kelly": 0.0078,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           },
           {
             "market": "spread",
@@ -12486,7 +12492,9 @@
             "kelly": 0.0209,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           }
         ],
         "bankroll": [
@@ -12503,7 +12511,9 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 46.76,
-            "bankroll_at_bet": 5994.62
+            "bankroll_at_bet": 5994.62,
+            "result": "loss",
+            "pnl": -46.76
           },
           {
             "market": "spread",
@@ -12518,11 +12528,15 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 125.29,
-            "bankroll_at_bet": 5994.62
+            "bankroll_at_bet": 5994.62,
+            "result": "loss",
+            "pnl": -125.29
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 29,
+      "away_score": 19
     }
   }
 }

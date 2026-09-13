@@ -5425,7 +5425,8 @@
         "pick": "NMSU +9.5",
         "line": 9.5,
         "price": -110,
-        "edge": 3.5
+        "edge": 3.5,
+        "result": "loss"
       },
       {
         "market": "moneyline",
@@ -5433,9 +5434,17 @@
         "pick": "NMSU ML +300",
         "line": 300,
         "price": 300,
-        "edge": 3.1
+        "edge": 3.1,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 29,
+    "away_score": 19,
+    "actual_margin": 10,
+    "su_correct": true,
+    "brier": 0.0735,
+    "margin_err": 4.0,
+    "total_err": 3.2
   }
 }

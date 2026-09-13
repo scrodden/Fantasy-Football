@@ -52,11 +52,11 @@
       "last_date": "2026-09-12T20:00Z"
     },
     "62": {
-      "rating": 1478.6556919937948,
+      "rating": 1494.0622385216525,
       "name": "Hawai'i",
       "abbr": "HAW",
-      "gp": 2,
-      "last_date": "2026-09-06T02:00Z"
+      "gp": 3,
+      "last_date": "2026-09-13T03:59Z"
     },
     "2169": {
       "rating": 1445.7528353575199,
@@ -1326,11 +1326,11 @@
       "last_date": "2026-09-12T23:00Z"
     },
     "166": {
-      "rating": 1327.8470903089983,
+      "rating": 1312.4405437811406,
       "name": "New Mexico St",
       "abbr": "NMSU",
-      "gp": 2,
-      "last_date": "2026-09-06T01:00Z"
+      "gp": 3,
+      "last_date": "2026-09-13T03:59Z"
     },
     "2546": {
       "rating": 1415.0428153464006,
@@ -1726,9 +1726,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-09-13T03:00Z",
+    "last_game_date": "2026-09-13T03:59Z",
     "season": 2026,
-    "n_games": 2090,
+    "n_games": 2091,
     "signals": {
       "weather": true,
       "travel": true,
