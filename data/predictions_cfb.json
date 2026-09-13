@@ -3724,10 +3724,18 @@
         "pick": "UCF +7",
         "line": 7.0,
         "price": -110,
-        "edge": 2.1
+        "edge": 2.1,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 12,
+    "away_score": 7,
+    "actual_margin": 5,
+    "su_correct": true,
+    "brier": 0.1,
+    "margin_err": 0.1,
+    "total_err": 39.7
   },
   "401858216": {
     "id": "401858216",
@@ -3751,7 +3759,8 @@
         "pick": "SYR -3.5",
         "line": -3.5,
         "price": -110,
-        "edge": 6.4
+        "edge": 6.4,
+        "result": "loss"
       },
       {
         "market": "moneyline",
@@ -3759,10 +3768,18 @@
         "pick": "SYR ML -166",
         "line": -166,
         "price": -166,
-        "edge": 6.7
+        "edge": 6.7,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 18,
+    "away_score": 21,
+    "actual_margin": -3,
+    "su_correct": false,
+    "brier": 0.4445,
+    "margin_err": 12.9,
+    "total_err": 19.2
   },
   "401858217": {
     "id": "401858217",
@@ -3900,7 +3917,8 @@
         "pick": "UTSA +1.5",
         "line": 1.5,
         "price": -110,
-        "edge": 5.3
+        "edge": 5.3,
+        "result": "win"
       },
       {
         "market": "moneyline",
@@ -3908,10 +3926,18 @@
         "pick": "UTSA ML -102",
         "line": -102,
         "price": -102,
-        "edge": 4.5
+        "edge": 4.5,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 26,
+    "away_score": 31,
+    "actual_margin": -5,
+    "su_correct": true,
+    "brier": 0.2234,
+    "margin_err": 1.2,
+    "total_err": 7.9
   },
   "401862708": {
     "id": "401862708",
@@ -4070,10 +4096,18 @@
         "pick": "Over 57.5",
         "line": 57.5,
         "price": -110,
-        "edge": 2.3
+        "edge": 2.3,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 44,
+    "away_score": 6,
+    "actual_margin": 38,
+    "su_correct": false,
+    "brier": 0.387,
+    "margin_err": 42.4,
+    "total_err": 9.8
   },
   "401858223": {
     "id": "401858223",
@@ -4091,7 +4125,14 @@
       "away_ml": null
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 56,
+    "away_score": 10,
+    "actual_margin": 46,
+    "su_correct": true,
+    "brier": 0.0182,
+    "margin_err": 31.7,
+    "total_err": 8.3
   },
   "401864506": {
     "id": "401864506",
@@ -4109,7 +4150,14 @@
       "away_ml": null
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 21,
+    "away_score": 13,
+    "actual_margin": 8,
+    "su_correct": false,
+    "brier": 0.4965,
+    "margin_err": 15.4,
+    "total_err": 14.9
   },
   "401865252": {
     "id": "401865252",
@@ -4127,7 +4175,14 @@
       "away_ml": null
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 70,
+    "away_score": 7,
+    "actual_margin": 63,
+    "su_correct": true,
+    "brier": 0.0006,
+    "margin_err": 36.6,
+    "total_err": 20.5
   },
   "401868326": {
     "id": "401868326",
@@ -4145,7 +4200,14 @@
       "away_ml": null
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 34,
+    "away_score": 17,
+    "actual_margin": 17,
+    "su_correct": false,
+    "brier": 0.2645,
+    "margin_err": 17.8,
+    "total_err": 3.1
   },
   "401856684": {
     "id": "401856684",
@@ -4169,7 +4231,8 @@
         "pick": "DEL +20.5",
         "line": 20.5,
         "price": -110,
-        "edge": 4.1
+        "edge": 4.1,
+        "result": "win"
       },
       {
         "market": "total",
@@ -4177,10 +4240,18 @@
         "pick": "Over 53.5",
         "line": 53.5,
         "price": -110,
-        "edge": 2.2
+        "edge": 2.2,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 35,
+    "away_score": 26,
+    "actual_margin": 9,
+    "su_correct": true,
+    "brier": 0.0098,
+    "margin_err": 7.4,
+    "total_err": 5.3
   },
   "401856672": {
     "id": "401856672",
