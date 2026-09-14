@@ -1100,7 +1100,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "NYG +3",
-          "lean": 1.3
+          "lean": 1.3,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -1108,7 +1110,9 @@
           "team": "DAL",
           "price": -162,
           "stake": 100.0,
-          "pick": "DAL ML -162"
+          "pick": "DAL ML -162",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [],
         "bankroll": [
@@ -1125,11 +1129,15 @@
             "confidence": "low",
             "book": null,
             "stake": 298.7,
-            "bankroll_at_bet": 10264.55
+            "bankroll_at_bet": 10264.55,
+            "result": "win",
+            "pnl": 271.55
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 28,
+      "away_score": 20
     },
     "401872931": {
       "game_id": "401872931",

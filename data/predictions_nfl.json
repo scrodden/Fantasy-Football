@@ -599,7 +599,8 @@
         "pick": "NYG ML +124",
         "line": 124,
         "price": 124,
-        "edge": 9.3
+        "edge": 9.3,
+        "result": "win"
       },
       {
         "market": "spread",
@@ -607,7 +608,8 @@
         "pick": "NYG +2.5",
         "line": 2.5,
         "price": -110,
-        "edge": 3.2
+        "edge": 3.2,
+        "result": "win"
       },
       {
         "market": "total",
@@ -615,10 +617,18 @@
         "pick": "Over 48.5",
         "line": 48.5,
         "price": -110,
-        "edge": 2.4
+        "edge": 2.4,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 28,
+    "away_score": 20,
+    "actual_margin": 8,
+    "su_correct": true,
+    "brier": 0.2292,
+    "margin_err": 7.3,
+    "total_err": 2.9
   },
   "401872931": {
     "id": "401872931",

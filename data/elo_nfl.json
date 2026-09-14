@@ -136,11 +136,11 @@
       "last_date": "2026-09-13T17:00Z"
     },
     "19": {
-      "rating": 1452.3562564006136,
+      "rating": 1473.3329826459562,
       "name": "Giants",
       "abbr": "NYG",
-      "gp": 2,
-      "last_date": "2026-08-22T20:00Z"
+      "gp": 3,
+      "last_date": "2026-09-14T00:20Z"
     },
     "16": {
       "rating": 1558.1841541869835,
@@ -185,11 +185,11 @@
       "last_date": "2026-09-13T17:00Z"
     },
     "6": {
-      "rating": 1518.45407704456,
+      "rating": 1497.4773507992174,
       "name": "Cowboys",
       "abbr": "DAL",
-      "gp": 2,
-      "last_date": "2026-08-23T02:00Z"
+      "gp": 3,
+      "last_date": "2026-09-14T00:20Z"
     },
     "27": {
       "rating": 1468.0761532155943,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-09-13T20:25Z",
+    "last_game_date": "2026-09-14T00:20Z",
     "season": 2026,
-    "n_games": 609,
+    "n_games": 610,
     "signals": {
       "weather": true,
       "travel": true,
