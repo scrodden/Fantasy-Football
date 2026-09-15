@@ -10,11 +10,11 @@
   },
   "teams": {
     "12": {
-      "rating": 1459.9655306630384,
+      "rating": 1493.2078254011012,
       "name": "Chiefs",
       "abbr": "KC",
-      "gp": 2,
-      "last_date": "2026-08-22T23:30Z"
+      "gp": 3,
+      "last_date": "2026-09-15T00:15Z"
     },
     "33": {
       "rating": 1601.3692581670298,
@@ -171,11 +171,11 @@
       "last_date": "2026-09-10T00:20Z"
     },
     "7": {
-      "rating": 1565.3752218186155,
+      "rating": 1532.1329270805527,
       "name": "Broncos",
       "abbr": "DEN",
-      "gp": 1,
-      "last_date": "2026-08-22T01:00Z"
+      "gp": 2,
+      "last_date": "2026-09-15T00:15Z"
     },
     "5": {
       "rating": 1375.0126136382403,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-09-14T00:20Z",
+    "last_game_date": "2026-09-15T00:15Z",
     "season": 2026,
-    "n_games": 610,
+    "n_games": 611,
     "signals": {
       "weather": true,
       "travel": true,

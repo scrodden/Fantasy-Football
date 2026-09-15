@@ -652,7 +652,8 @@
         "pick": "DEN ML +124",
         "line": 124,
         "price": 124,
-        "edge": 16.9
+        "edge": 16.9,
+        "result": "loss"
       },
       {
         "market": "spread",
@@ -660,7 +661,8 @@
         "pick": "DEN +3",
         "line": 3.0,
         "price": -110,
-        "edge": 6.1
+        "edge": 6.1,
+        "result": "loss"
       },
       {
         "market": "total",
@@ -668,10 +670,18 @@
         "pick": "Under 42.5",
         "line": 42.5,
         "price": -110,
-        "edge": 3.1
+        "edge": 3.1,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 31,
+    "away_score": 10,
+    "actual_margin": 21,
+    "su_correct": false,
+    "brier": 0.3509,
+    "margin_err": 24.1,
+    "total_err": 1.6
   },
   "401872932": {
     "id": "401872932",
