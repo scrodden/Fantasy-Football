@@ -1245,6 +1245,46 @@
       "settled": true,
       "home_score": 31,
       "away_score": 10
+    },
+    "401872932": {
+      "game_id": "401872932",
+      "league": "nfl",
+      "season": 2026,
+      "week": 2,
+      "kickoff": "2026-09-18T00:15Z",
+      "locked_at": "2026-09-16T18:17:56+00:00",
+      "home": "BUF",
+      "away": "DET",
+      "home_full": "Buffalo Bills",
+      "away_full": "Detroit Lions",
+      "line": {
+        "home_spread": -4.5,
+        "total": 54.5,
+        "home_ml": -230,
+        "away_ml": 190,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 4.5,
+        "proj_total": 52.9,
+        "proj_home_score": 28.7,
+        "proj_away_score": 24.2,
+        "home_win_prob": 0.6596
+      },
+      "bets": {
+        "spread": null,
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "BUF",
+          "price": -230,
+          "stake": 100.0,
+          "pick": "BUF ML -230"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }

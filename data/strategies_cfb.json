@@ -12537,6 +12537,55 @@
       "settled": true,
       "home_score": 29,
       "away_score": 19
+    },
+    "401858225": {
+      "game_id": "401858225",
+      "league": "cfb",
+      "season": 2026,
+      "week": 3,
+      "kickoff": "2026-09-17T23:30Z",
+      "locked_at": "2026-09-16T18:20:17+00:00",
+      "home": "PITT",
+      "away": "SYR",
+      "home_full": "Pittsburgh Panthers",
+      "away_full": "Syracuse Orange",
+      "line": {
+        "home_spread": -10.5,
+        "total": 51.5,
+        "home_ml": -425,
+        "away_ml": 330,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 10.1,
+        "proj_total": 51.9,
+        "proj_home_score": 31.0,
+        "proj_away_score": 20.9,
+        "home_win_prob": 0.78
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "SYR",
+          "line": 10.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "SYR +10.5",
+          "lean": -0.4
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "PITT",
+          "price": -425,
+          "stake": 100.0,
+          "pick": "PITT ML -425"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
