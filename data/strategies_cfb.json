@@ -12684,6 +12684,48 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401858455": {
+      "game_id": "401858455",
+      "league": "cfb",
+      "season": 2026,
+      "week": 3,
+      "kickoff": "2026-09-19T02:30Z",
+      "locked_at": "2026-09-17T21:17:38+00:00",
+      "home": "ORE",
+      "away": "PRST",
+      "home_full": "Oregon Ducks",
+      "away_full": "Portland State Vikings",
+      "line": {
+        "home_spread": -57.5,
+        "total": 67.5,
+        "home_ml": null,
+        "away_ml": null,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 45.0,
+        "proj_total": 66.8,
+        "proj_home_score": 55.9,
+        "proj_away_score": 10.9,
+        "home_win_prob": 0.9995
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "PRST",
+          "line": 57.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "PRST +57.5",
+          "lean": -12.5
+        },
+        "moneyline": null,
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
