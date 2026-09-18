@@ -14628,6 +14628,184 @@
         ]
       },
       "settled": false
+    },
+    "401862710": {
+      "game_id": "401862710",
+      "league": "cfb",
+      "season": 2026,
+      "week": 3,
+      "kickoff": "2026-09-19T22:00Z",
+      "locked_at": "2026-09-18T16:16:46+00:00",
+      "home": "ODU",
+      "away": "ECU",
+      "home_full": "Old Dominion Monarchs",
+      "away_full": "East Carolina Pirates",
+      "line": {
+        "home_spread": -3.0,
+        "total": 48.5,
+        "home_ml": -148,
+        "away_ml": 124,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 4.4,
+        "proj_total": 49.7,
+        "proj_home_score": 27.0,
+        "proj_away_score": 22.6,
+        "home_win_prob": 0.6013
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "ODU",
+          "line": -3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "ODU -3",
+          "lean": 1.4
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "ODU",
+          "price": -148,
+          "stake": 100.0,
+          "pick": "ODU ML -148"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401862771": {
+      "game_id": "401862771",
+      "league": "cfb",
+      "season": 2026,
+      "week": 3,
+      "kickoff": "2026-09-19T22:00Z",
+      "locked_at": "2026-09-18T16:16:46+00:00",
+      "home": "FAU",
+      "away": "FIU",
+      "home_full": "Florida Atlantic Owls",
+      "away_full": "Florida International Panthers",
+      "line": {
+        "home_spread": -6.5,
+        "total": 62.5,
+        "home_ml": -245,
+        "away_ml": 200,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 4.2,
+        "proj_total": 63.2,
+        "proj_home_score": 33.7,
+        "proj_away_score": 29.5,
+        "home_win_prob": 0.6611
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "FIU",
+          "line": 6.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "FIU +6.5",
+          "lean": -2.3
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "FAU",
+          "price": -245,
+          "stake": 100.0,
+          "pick": "FAU ML -245"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "FIU",
+            "pick": "FIU +6.5",
+            "line": 6.5,
+            "price": -110,
+            "ev": 0.071,
+            "edge": 2.3,
+            "kelly": 0.0195,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "FIU",
+            "pick": "FIU +6.5",
+            "line": 6.5,
+            "price": -110,
+            "ev": 0.071,
+            "edge": 2.3,
+            "kelly": 0.0195,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 51.74,
+            "bankroll_at_bet": 2653.22
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401864574": {
+      "game_id": "401864574",
+      "league": "cfb",
+      "season": 2026,
+      "week": 3,
+      "kickoff": "2026-09-19T22:00Z",
+      "locked_at": "2026-09-18T16:16:46+00:00",
+      "home": "APP",
+      "away": "CLT",
+      "home_full": "App State Mountaineers",
+      "away_full": "Charlotte 49ers",
+      "line": {
+        "home_spread": -17.5,
+        "total": 52.5,
+        "home_ml": -1100,
+        "away_ml": 700,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 18.6,
+        "proj_total": 53.3,
+        "proj_home_score": 35.9,
+        "proj_away_score": 17.4,
+        "home_win_prob": 0.8974
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "APP",
+          "line": -17.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "APP -17.5",
+          "lean": 1.1
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "APP",
+          "price": -1100,
+          "stake": 100.0,
+          "pick": "APP ML -1100"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
