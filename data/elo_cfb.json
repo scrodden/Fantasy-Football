@@ -556,11 +556,11 @@
       "last_date": "2026-09-04T23:00Z"
     },
     "221": {
-      "rating": 1661.623830733599,
+      "rating": 1673.1425827620344,
       "name": "Pitt",
       "abbr": "PITT",
-      "gp": 2,
-      "last_date": "2026-09-12T19:30Z"
+      "gp": 3,
+      "last_date": "2026-09-17T23:30Z"
     },
     "2309": {
       "rating": 1282.2548732334076,
@@ -752,11 +752,11 @@
       "last_date": "2025-11-08T19:00Z"
     },
     "183": {
-      "rating": 1428.9762179168645,
+      "rating": 1417.4574658884292,
       "name": "Syracuse",
       "abbr": "SYR",
-      "gp": 2,
-      "last_date": "2026-09-12T19:30Z"
+      "gp": 3,
+      "last_date": "2026-09-17T23:30Z"
     },
     "195": {
       "rating": 1498.4630635706385,
@@ -1726,9 +1726,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-09-13T03:59Z",
+    "last_game_date": "2026-09-17T23:30Z",
     "season": 2026,
-    "n_games": 2091,
+    "n_games": 2092,
     "signals": {
       "weather": true,
       "travel": true,

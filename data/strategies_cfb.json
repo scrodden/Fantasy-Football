@@ -12572,7 +12572,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "SYR +10.5",
-          "lean": -0.4
+          "lean": -0.4,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -12580,12 +12582,16 @@
           "team": "PITT",
           "price": -425,
           "stake": 100.0,
-          "pick": "PITT ML -425"
+          "pick": "PITT ML -425",
+          "result": "win",
+          "pnl": 23.53
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 27,
+      "away_score": 13
     },
     "401858226": {
       "game_id": "401858226",
