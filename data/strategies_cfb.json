@@ -14555,6 +14555,79 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401868317": {
+      "game_id": "401868317",
+      "league": "cfb",
+      "season": 2026,
+      "week": 3,
+      "kickoff": "2026-09-19T20:30Z",
+      "locked_at": "2026-09-18T15:17:02+00:00",
+      "home": "ULM",
+      "away": "SELA",
+      "home_full": "UL Monroe Warhawks",
+      "away_full": "SE Louisiana Lions",
+      "line": {
+        "home_spread": -10.5,
+        "total": 48.5,
+        "home_ml": null,
+        "away_ml": null,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 3.6,
+        "proj_total": 50.1,
+        "proj_home_score": 26.9,
+        "proj_away_score": 23.2,
+        "home_win_prob": 0.6182
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "SELA",
+          "line": 10.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "SELA +10.5",
+          "lean": -6.9
+        },
+        "moneyline": null,
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "SELA",
+            "pick": "SELA +10.5",
+            "line": 10.5,
+            "price": -110,
+            "ev": 0.293,
+            "edge": 6.9,
+            "kelly": 0.0806,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "SELA",
+            "pick": "SELA +10.5",
+            "line": 10.5,
+            "price": -110,
+            "ev": 0.293,
+            "edge": 6.9,
+            "kelly": 0.0806,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 213.85,
+            "bankroll_at_bet": 2653.22
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
