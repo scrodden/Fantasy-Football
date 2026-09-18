@@ -1279,12 +1279,16 @@
           "team": "BUF",
           "price": -230,
           "stake": 100.0,
-          "pick": "BUF ML -230"
+          "pick": "BUF ML -230",
+          "result": "win",
+          "pnl": 43.48
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 41,
+      "away_score": 31
     }
   }
 }

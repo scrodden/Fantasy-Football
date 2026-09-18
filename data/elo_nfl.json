@@ -52,11 +52,11 @@
       "last_date": "2026-09-13T17:00Z"
     },
     "2": {
-      "rating": 1639.350525057599,
+      "rating": 1652.5846715355121,
       "name": "Bills",
       "abbr": "BUF",
-      "gp": 3,
-      "last_date": "2026-09-13T17:00Z"
+      "gp": 4,
+      "last_date": "2026-09-18T00:15Z"
     },
     "22": {
       "rating": 1407.4287083812842,
@@ -206,11 +206,11 @@
       "last_date": "2026-09-13T20:25Z"
     },
     "8": {
-      "rating": 1559.8903962274997,
+      "rating": 1546.6562497495866,
       "name": "Lions",
       "abbr": "DET",
-      "gp": 2,
-      "last_date": "2026-09-13T17:00Z"
+      "gp": 3,
+      "last_date": "2026-09-18T00:15Z"
     },
     "14": {
       "rating": 1599.2094667354575,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-09-15T00:15Z",
+    "last_game_date": "2026-09-18T00:15Z",
     "season": 2026,
-    "n_games": 611,
+    "n_games": 612,
     "signals": {
       "weather": true,
       "travel": true,
