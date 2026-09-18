@@ -16410,6 +16410,192 @@
         ]
       },
       "settled": false
+    },
+    "401858233": {
+      "game_id": "401858233",
+      "league": "cfb",
+      "season": 2026,
+      "week": 3,
+      "kickoff": "2026-09-19T19:30Z",
+      "locked_at": "2026-09-18T20:17:27+00:00",
+      "home": "CAL",
+      "away": "WAG",
+      "home_full": "California Golden Bears",
+      "away_full": "Wagner Seahawks",
+      "line": {
+        "home_spread": -58.5,
+        "total": 65.5,
+        "home_ml": null,
+        "away_ml": null,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 45.1,
+        "proj_total": 64.1,
+        "proj_home_score": 54.6,
+        "proj_away_score": 9.5,
+        "home_win_prob": 0.9995
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "WAG",
+          "line": 58.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "WAG +58.5",
+          "lean": -13.4
+        },
+        "moneyline": null,
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401860885": {
+      "game_id": "401860885",
+      "league": "cfb",
+      "season": 2026,
+      "week": 3,
+      "kickoff": "2026-09-20T02:00Z",
+      "locked_at": "2026-09-18T20:17:27+00:00",
+      "home": "BOIS",
+      "away": "SDAK",
+      "home_full": "Boise State Broncos",
+      "away_full": "South Dakota Coyotes",
+      "line": {
+        "home_spread": -24.5,
+        "total": 56.5,
+        "home_ml": -4000,
+        "away_ml": 1600,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 20.8,
+        "proj_total": 56.8,
+        "proj_home_score": 38.8,
+        "proj_away_score": 18.0,
+        "home_win_prob": 0.943
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "SDAK",
+          "line": 24.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "SDAK +24.5",
+          "lean": -3.7
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "BOIS",
+          "price": -4000,
+          "stake": 100.0,
+          "pick": "BOIS ML -4000"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401860887": {
+      "game_id": "401860887",
+      "league": "cfb",
+      "season": 2026,
+      "week": 3,
+      "kickoff": "2026-09-20T02:00Z",
+      "locked_at": "2026-09-18T20:17:27+00:00",
+      "home": "SDSU",
+      "away": "JMU",
+      "home_full": "San Diego State Aztecs",
+      "away_full": "James Madison Dukes",
+      "line": {
+        "home_spread": -1.5,
+        "total": 46.5,
+        "home_ml": -120,
+        "away_ml": 100,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -2.4,
+        "proj_total": 50.3,
+        "proj_home_score": 24.0,
+        "proj_away_score": 26.4,
+        "home_win_prob": 0.4859
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "JMU",
+          "line": 1.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "JMU +1.5",
+          "lean": -3.9
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "JMU",
+          "price": 100,
+          "stake": 100.0,
+          "pick": "JMU ML +100"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "JMU",
+            "pick": "JMU +1.5",
+            "line": 1.5,
+            "price": -110,
+            "ev": 0.15,
+            "edge": 3.9,
+            "kelly": 0.0413,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "JMU",
+            "pick": "JMU +1.5",
+            "line": 1.5,
+            "price": -110,
+            "ev": 0.15,
+            "edge": 3.9,
+            "kelly": 0.0413,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 109.58,
+            "bankroll_at_bet": 2653.22
+          },
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 46.5",
+            "line": 46.5,
+            "price": -110,
+            "ev": 0.128,
+            "edge": 3.8,
+            "kelly": 0.0353,
+            "confidence": "low",
+            "book": null,
+            "stake": 93.66,
+            "bankroll_at_bet": 2653.22
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
