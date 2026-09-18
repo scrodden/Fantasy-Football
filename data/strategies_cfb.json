@@ -13372,6 +13372,200 @@
         ]
       },
       "settled": false
+    },
+    "401858460": {
+      "game_id": "401858460",
+      "league": "cfb",
+      "season": 2026,
+      "week": 3,
+      "kickoff": "2026-09-19T16:30Z",
+      "locked_at": "2026-09-18T11:16:44+00:00",
+      "home": "WIS",
+      "away": "EMU",
+      "home_full": "Wisconsin Badgers",
+      "away_full": "Eastern Michigan Eagles",
+      "line": {
+        "home_spread": -23.5,
+        "total": 45.5,
+        "home_ml": -2100,
+        "away_ml": 1100,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 19.4,
+        "proj_total": 44.4,
+        "proj_home_score": 31.9,
+        "proj_away_score": 12.5,
+        "home_win_prob": 0.9241
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "EMU",
+          "line": 23.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "EMU +23.5",
+          "lean": -4.1
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "WIS",
+          "price": -2100,
+          "stake": 100.0,
+          "pick": "WIS ML -2100"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401856695": {
+      "game_id": "401856695",
+      "league": "cfb",
+      "season": 2026,
+      "week": 3,
+      "kickoff": "2026-09-19T16:45Z",
+      "locked_at": "2026-09-18T11:16:44+00:00",
+      "home": "VAN",
+      "away": "NCSU",
+      "home_full": "Vanderbilt Commodores",
+      "away_full": "NC State Wolfpack",
+      "line": {
+        "home_spread": -3.0,
+        "total": 50.5,
+        "home_ml": -166,
+        "away_ml": 140,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 2.6,
+        "proj_total": 54.4,
+        "proj_home_score": 28.5,
+        "proj_away_score": 25.9,
+        "home_win_prob": 0.5947
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "NCSU",
+          "line": 3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "NCSU +3",
+          "lean": -0.4
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "VAN",
+          "price": -166,
+          "stake": 100.0,
+          "pick": "VAN ML -166"
+        },
+        "value": [],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 50.5",
+            "line": 50.5,
+            "price": -110,
+            "ev": 0.133,
+            "edge": 3.9,
+            "kelly": 0.0365,
+            "confidence": "low",
+            "book": null,
+            "stake": 96.84,
+            "bankroll_at_bet": 2653.22
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401864508": {
+      "game_id": "401864508",
+      "league": "cfb",
+      "season": 2026,
+      "week": 3,
+      "kickoff": "2026-09-19T17:00Z",
+      "locked_at": "2026-09-18T11:16:44+00:00",
+      "home": "CMU",
+      "away": "WYO",
+      "home_full": "Central Michigan Chippewas",
+      "away_full": "Wyoming Cowboys",
+      "line": {
+        "home_spread": 1.5,
+        "total": 38.5,
+        "home_ml": -108,
+        "away_ml": -112,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 0.2,
+        "proj_total": 38.1,
+        "proj_home_score": 19.2,
+        "proj_away_score": 19.0,
+        "home_win_prob": 0.5047
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "CMU",
+          "line": 1.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "CMU +1.5",
+          "lean": 1.7
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "CMU",
+          "price": -108,
+          "stake": 100.0,
+          "pick": "CMU ML -108"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "CMU",
+            "pick": "CMU +1.5",
+            "line": 1.5,
+            "price": -110,
+            "ev": 0.041,
+            "edge": 1.7,
+            "kelly": 0.0112,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "CMU",
+            "pick": "CMU +1.5",
+            "line": 1.5,
+            "price": -110,
+            "ev": 0.041,
+            "edge": 1.7,
+            "kelly": 0.0112,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 29.72,
+            "bankroll_at_bet": 2653.22
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
