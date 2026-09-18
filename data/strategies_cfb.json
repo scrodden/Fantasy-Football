@@ -13566,6 +13566,90 @@
         ]
       },
       "settled": false
+    },
+    "401858227": {
+      "game_id": "401858227",
+      "league": "cfb",
+      "season": 2026,
+      "week": 3,
+      "kickoff": "2026-09-19T18:00Z",
+      "locked_at": "2026-09-18T12:21:00+00:00",
+      "home": "BC",
+      "away": "ME",
+      "home_full": "Boston College Eagles",
+      "away_full": "Maine Black Bears",
+      "line": {
+        "home_spread": -38.5,
+        "total": 53.5,
+        "home_ml": null,
+        "away_ml": null,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 29.7,
+        "proj_total": 54.1,
+        "proj_home_score": 41.9,
+        "proj_away_score": 12.2,
+        "home_win_prob": 0.9866
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "ME",
+          "line": 38.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "ME +38.5",
+          "lean": -8.8
+        },
+        "moneyline": null,
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401858448": {
+      "game_id": "401858448",
+      "league": "cfb",
+      "season": 2026,
+      "week": 3,
+      "kickoff": "2026-09-19T18:00Z",
+      "locked_at": "2026-09-18T12:21:00+00:00",
+      "home": "ILL",
+      "away": "SIU",
+      "home_full": "Illinois Fighting Illini",
+      "away_full": "Southern Illinois Salukis",
+      "line": {
+        "home_spread": -38.5,
+        "total": 54.5,
+        "home_ml": null,
+        "away_ml": null,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 30.0,
+        "proj_total": 54.9,
+        "proj_home_score": 42.5,
+        "proj_away_score": 12.5,
+        "home_win_prob": 0.9873
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "SIU",
+          "line": 38.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "SIU +38.5",
+          "lean": -8.5
+        },
+        "moneyline": null,
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
