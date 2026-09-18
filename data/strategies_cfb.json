@@ -13650,6 +13650,86 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401862774": {
+      "game_id": "401862774",
+      "league": "cfb",
+      "season": 2026,
+      "week": 3,
+      "kickoff": "2026-09-19T19:00Z",
+      "locked_at": "2026-09-18T13:16:34+00:00",
+      "home": "TOL",
+      "away": "TEM",
+      "home_full": "Toledo Rockets",
+      "away_full": "Temple Owls",
+      "line": {
+        "home_spread": -6.0,
+        "total": 49.5,
+        "home_ml": -218,
+        "away_ml": 180,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 7.6,
+        "proj_total": 50.6,
+        "proj_home_score": 29.1,
+        "proj_away_score": 21.5,
+        "home_win_prob": 0.6866
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "TOL",
+          "line": -6.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "TOL -6",
+          "lean": 1.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "TOL",
+          "price": -218,
+          "stake": 100.0,
+          "pick": "TOL ML -218"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "TOL",
+            "pick": "TOL -6",
+            "line": -6.0,
+            "price": -110,
+            "ev": 0.036,
+            "edge": 1.6,
+            "kelly": 0.0098,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "TOL",
+            "pick": "TOL -6",
+            "line": -6.0,
+            "price": -110,
+            "ev": 0.036,
+            "edge": 1.6,
+            "kelly": 0.0098,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 26.0,
+            "bankroll_at_bet": 2653.22
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
