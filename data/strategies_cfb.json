@@ -13214,7 +13214,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "UNC +3",
-          "lean": -1.9
+          "lean": -1.9,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -13222,7 +13224,9 @@
           "team": "CLEM",
           "price": -166,
           "stake": 100.0,
-          "pick": "CLEM ML -166"
+          "pick": "CLEM ML -166",
+          "result": "win",
+          "pnl": 60.24
         },
         "value": [
           {
@@ -13237,7 +13241,9 @@
             "kelly": 0.014,
             "confidence": "low",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           }
         ],
         "bankroll": [
@@ -13254,11 +13260,15 @@
             "confidence": "low",
             "book": "Draft Kings",
             "stake": 37.15,
-            "bankroll_at_bet": 2653.22
+            "bankroll_at_bet": 2653.22,
+            "result": "loss",
+            "pnl": -37.15
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 28,
+      "away_score": 20
     },
     "401858451": {
       "game_id": "401858451",
@@ -13753,13 +13763,17 @@
           "price": -110,
           "stake": 100.0,
           "pick": "SIU +38.5",
-          "lean": -8.5
+          "lean": -8.5,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": null,
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 48,
+      "away_score": 10
     },
     "401862774": {
       "game_id": "401862774",
