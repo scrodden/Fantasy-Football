@@ -12627,7 +12627,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "WAKE +21",
-          "lean": 0.8
+          "lean": 0.8,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -12635,12 +12637,16 @@
           "team": "MIA",
           "price": -1600,
           "stake": 100.0,
-          "pick": "MIA ML -1600"
+          "pick": "MIA ML -1600",
+          "result": "win",
+          "pnl": 6.25
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 20,
+      "away_score": 33
     },
     "401856811": {
       "game_id": "401856811",
