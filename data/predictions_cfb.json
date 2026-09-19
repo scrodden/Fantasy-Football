@@ -5519,10 +5519,18 @@
         "pick": "HOU +8.5",
         "line": 8.5,
         "price": -110,
-        "edge": 1.8
+        "edge": 1.8,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 28,
+    "away_score": 26,
+    "actual_margin": 2,
+    "su_correct": true,
+    "brier": 0.0876,
+    "margin_err": 4.7,
+    "total_err": 2.8
   },
   "401858455": {
     "id": "401858455",

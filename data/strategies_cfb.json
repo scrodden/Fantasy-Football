@@ -12682,7 +12682,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "HOU +7.5",
-          "lean": -1.4
+          "lean": -1.4,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -12690,12 +12692,16 @@
           "team": "TTU",
           "price": -325,
           "stake": 100.0,
-          "pick": "TTU ML -325"
+          "pick": "TTU ML -325",
+          "result": "win",
+          "pnl": 30.77
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 28,
+      "away_score": 26
     },
     "401858455": {
       "game_id": "401858455",

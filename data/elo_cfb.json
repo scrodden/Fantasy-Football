@@ -1046,11 +1046,11 @@
       "last_date": "2026-09-05T16:00Z"
     },
     "248": {
-      "rating": 1687.1102025579298,
+      "rating": 1682.3838389339278,
       "name": "Houston",
       "abbr": "HOU",
-      "gp": 2,
-      "last_date": "2026-09-12T23:00Z"
+      "gp": 3,
+      "last_date": "2026-09-19T00:00Z"
     },
     "2439": {
       "rating": 1540.931777844694,
@@ -1172,11 +1172,11 @@
       "last_date": "2026-09-12T23:15Z"
     },
     "2641": {
-      "rating": 1917.58593062642,
+      "rating": 1922.312294250422,
       "name": "Texas Tech",
       "abbr": "TTU",
-      "gp": 2,
-      "last_date": "2026-09-12T23:30Z"
+      "gp": 3,
+      "last_date": "2026-09-19T00:00Z"
     },
     "2000": {
       "rating": 1388.4857376610353,
@@ -1726,9 +1726,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-09-18T23:30Z",
+    "last_game_date": "2026-09-19T00:00Z",
     "season": 2026,
-    "n_games": 2093,
+    "n_games": 2094,
     "signals": {
       "weather": true,
       "travel": true,
