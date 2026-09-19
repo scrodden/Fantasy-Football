@@ -12783,7 +12783,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "CCU +4.5",
-          "lean": -0.6
+          "lean": -0.6,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -12791,12 +12793,16 @@
           "team": "DEL",
           "price": -198,
           "stake": 100.0,
-          "pick": "DEL ML -198"
+          "pick": "DEL ML -198",
+          "result": "win",
+          "pnl": 50.51
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 22,
+      "away_score": 14
     },
     "401856686": {
       "game_id": "401856686",

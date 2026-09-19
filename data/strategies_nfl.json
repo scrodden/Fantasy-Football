@@ -2447,6 +2447,55 @@
         ]
       },
       "settled": false
+    },
+    "401872945": {
+      "game_id": "401872945",
+      "league": "nfl",
+      "season": 2026,
+      "week": 2,
+      "kickoff": "2026-09-21T00:20Z",
+      "locked_at": "2026-09-19T19:12:12+00:00",
+      "home": "KC",
+      "away": "IND",
+      "home_full": "Kansas City Chiefs",
+      "away_full": "Indianapolis Colts",
+      "line": {
+        "home_spread": -6.0,
+        "total": 46.5,
+        "home_ml": -285,
+        "away_ml": 230,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 5.4,
+        "proj_total": 45.1,
+        "proj_home_score": 25.2,
+        "proj_away_score": 19.8,
+        "home_win_prob": 0.6924
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "IND",
+          "line": 6.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "IND +6",
+          "lean": -0.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "KC",
+          "price": -285,
+          "stake": 100.0,
+          "pick": "KC ML -285"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }

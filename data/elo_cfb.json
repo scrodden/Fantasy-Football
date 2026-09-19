@@ -80,11 +80,11 @@
       "last_date": "2026-09-12T16:00Z"
     },
     "48": {
-      "rating": 1425.9528969131277,
+      "rating": 1450.6451458453898,
       "name": "Delaware",
       "abbr": "DEL",
-      "gp": 2,
-      "last_date": "2026-09-12T20:15Z"
+      "gp": 3,
+      "last_date": "2026-09-19T15:30Z"
     },
     "2803": {
       "rating": 1398.0033563286775,
@@ -255,11 +255,11 @@
       "last_date": "2026-09-12T22:00Z"
     },
     "324": {
-      "rating": 1401.8355004464165,
+      "rating": 1377.1432515141544,
       "name": "Coastal",
       "abbr": "CCU",
-      "gp": 2,
-      "last_date": "2026-09-12T23:30Z"
+      "gp": 3,
+      "last_date": "2026-09-19T15:30Z"
     },
     "5": {
       "rating": 1306.6582110019974,
@@ -1726,9 +1726,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-09-19T02:30Z",
+    "last_game_date": "2026-09-19T15:30Z",
     "season": 2026,
-    "n_games": 2095,
+    "n_games": 2096,
     "signals": {
       "weather": true,
       "travel": true,
