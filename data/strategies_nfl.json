@@ -2050,6 +2050,179 @@
         ]
       },
       "settled": false
+    },
+    "401872940": {
+      "game_id": "401872940",
+      "league": "nfl",
+      "season": 2026,
+      "week": 2,
+      "kickoff": "2026-09-20T20:05Z",
+      "locked_at": "2026-09-19T14:14:31+00:00",
+      "home": "DEN",
+      "away": "JAX",
+      "home_full": "Denver Broncos",
+      "away_full": "Jacksonville Jaguars",
+      "line": {
+        "home_spread": -2.5,
+        "total": 45.5,
+        "home_ml": -148,
+        "away_ml": 124,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 1.4,
+        "proj_total": 45.8,
+        "proj_home_score": 23.6,
+        "proj_away_score": 22.2,
+        "home_win_prob": 0.5572
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "JAX",
+          "line": 2.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "JAX +2.5",
+          "lean": -1.1
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "DEN",
+          "price": -148,
+          "stake": 100.0,
+          "pick": "DEN ML -148"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401872941": {
+      "game_id": "401872941",
+      "league": "nfl",
+      "season": 2026,
+      "week": 2,
+      "kickoff": "2026-09-20T20:05Z",
+      "locked_at": "2026-09-19T14:14:31+00:00",
+      "home": "LAC",
+      "away": "LV",
+      "home_full": "Los Angeles Chargers",
+      "away_full": "Las Vegas Raiders",
+      "line": {
+        "home_spread": -6.5,
+        "total": 43.5,
+        "home_ml": -305,
+        "away_ml": 245,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 4.6,
+        "proj_total": 41.4,
+        "proj_home_score": 23.0,
+        "proj_away_score": 18.4,
+        "home_win_prob": 0.6833
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "LV",
+          "line": 6.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "LV +6.5",
+          "lean": -1.9
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "LAC",
+          "price": -305,
+          "stake": 100.0,
+          "pick": "LAC ML -305"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "LV",
+            "pick": "LV ML +245",
+            "line": 245,
+            "price": 245,
+            "ev": 0.093,
+            "edge": 3.9,
+            "kelly": 0.0095,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "LV",
+            "pick": "LV +6.5",
+            "line": 6.5,
+            "price": -110,
+            "ev": 0.08,
+            "edge": 1.9,
+            "kelly": 0.0219,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "LV",
+            "pick": "LV ML +245",
+            "line": 245,
+            "price": 245,
+            "ev": 0.093,
+            "edge": 3.9,
+            "kelly": 0.0095,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 70.19,
+            "bankroll_at_bet": 7388.71
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "LV",
+            "pick": "LV +6.5",
+            "line": 6.5,
+            "price": -110,
+            "ev": 0.08,
+            "edge": 1.9,
+            "kelly": 0.0219,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 161.81,
+            "bankroll_at_bet": 7388.71
+          },
+          {
+            "market": "total",
+            "side": "under",
+            "team": null,
+            "pick": "Under 43.5",
+            "line": 43.5,
+            "price": -110,
+            "ev": 0.073,
+            "edge": 2.1,
+            "kelly": 0.0199,
+            "confidence": "low",
+            "book": null,
+            "stake": 147.04,
+            "bankroll_at_bet": 7388.71
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
