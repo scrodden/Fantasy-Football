@@ -5910,10 +5910,18 @@
         "pick": "Over 52.5",
         "line": 52.5,
         "price": -110,
-        "edge": 3.0
+        "edge": 3.0,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 35,
+    "away_score": 31,
+    "actual_margin": 4,
+    "su_correct": true,
+    "brier": 0.1569,
+    "margin_err": 1.1,
+    "total_err": 10.5
   },
   "401864508": {
     "id": "401864508",
@@ -5956,7 +5964,14 @@
       "away_ml": null
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 22,
+    "away_score": 16,
+    "actual_margin": 6,
+    "su_correct": true,
+    "brier": 0.0163,
+    "margin_err": 8.8,
+    "total_err": 17.1
   },
   "401858448": {
     "id": "401858448",

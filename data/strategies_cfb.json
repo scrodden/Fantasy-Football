@@ -13544,7 +13544,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "NCSU +3",
-          "lean": -0.4
+          "lean": -0.4,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -13552,7 +13554,9 @@
           "team": "VAN",
           "price": -166,
           "stake": 100.0,
-          "pick": "VAN ML -166"
+          "pick": "VAN ML -166",
+          "result": "win",
+          "pnl": 60.24
         },
         "value": [],
         "bankroll": [
@@ -13569,11 +13573,15 @@
             "confidence": "low",
             "book": null,
             "stake": 96.84,
-            "bankroll_at_bet": 2653.22
+            "bankroll_at_bet": 2653.22,
+            "result": "win",
+            "pnl": 88.04
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 35,
+      "away_score": 31
     },
     "401864508": {
       "game_id": "401864508",
@@ -13699,13 +13707,17 @@
           "price": -110,
           "stake": 100.0,
           "pick": "ME +38.5",
-          "lean": -8.8
+          "lean": -8.8,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": null,
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 22,
+      "away_score": 16
     },
     "401858448": {
       "game_id": "401858448",
