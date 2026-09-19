@@ -12737,13 +12737,17 @@
           "price": -110,
           "stake": 100.0,
           "pick": "PRST +57.5",
-          "lean": -12.5
+          "lean": -12.5,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": null,
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 84,
+      "away_score": 0
     },
     "401869940": {
       "game_id": "401869940",

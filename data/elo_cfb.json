@@ -633,11 +633,11 @@
       "last_date": "2026-09-12T16:00Z"
     },
     "2502": {
-      "rating": 1362.1401892041285,
+      "rating": 1359.548560127409,
       "name": "Portland St",
       "abbr": "PRST",
-      "gp": 1,
-      "last_date": "2026-09-06T01:30Z"
+      "gp": 2,
+      "last_date": "2026-09-19T02:30Z"
     },
     "194": {
       "rating": 2024.0476122517027,
@@ -1109,11 +1109,11 @@
       "last_date": "2026-09-05T20:15Z"
     },
     "2483": {
-      "rating": 1943.09581780749,
+      "rating": 1945.6874468842095,
       "name": "Oregon",
       "abbr": "ORE",
-      "gp": 2,
-      "last_date": "2026-09-12T17:30Z"
+      "gp": 3,
+      "last_date": "2026-09-19T02:30Z"
     },
     "70": {
       "rating": 1442.3251191148447,
@@ -1726,9 +1726,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-09-19T00:00Z",
+    "last_game_date": "2026-09-19T02:30Z",
     "season": 2026,
-    "n_games": 2094,
+    "n_games": 2095,
     "signals": {
       "weather": true,
       "travel": true,
