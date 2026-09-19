@@ -2223,6 +2223,230 @@
         ]
       },
       "settled": false
+    },
+    "401872944": {
+      "game_id": "401872944",
+      "league": "nfl",
+      "season": 2026,
+      "week": 2,
+      "kickoff": "2026-09-20T20:25Z",
+      "locked_at": "2026-09-19T15:13:43+00:00",
+      "home": "DAL",
+      "away": "WSH",
+      "home_full": "Dallas Cowboys",
+      "away_full": "Washington Commanders",
+      "line": {
+        "home_spread": -3.5,
+        "total": 50.5,
+        "home_ml": -218,
+        "away_ml": 180,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 3.2,
+        "proj_total": 48.4,
+        "proj_home_score": 25.8,
+        "proj_away_score": 22.6,
+        "home_win_prob": 0.6298
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "WSH",
+          "line": 3.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "WSH +3.5",
+          "lean": -0.3
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "DAL",
+          "price": -218,
+          "stake": 100.0,
+          "pick": "DAL ML -218"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "WSH",
+            "pick": "WSH ML +180",
+            "line": 180,
+            "price": 180,
+            "ev": 0.037,
+            "edge": 2.8,
+            "kelly": 0.0051,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "under",
+            "team": null,
+            "pick": "Under 50.5",
+            "line": 50.5,
+            "price": -110,
+            "ev": 0.073,
+            "edge": 2.1,
+            "kelly": 0.0199,
+            "confidence": "low",
+            "book": null,
+            "stake": 147.04,
+            "bankroll_at_bet": 7388.71
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "WSH",
+            "pick": "WSH ML +180",
+            "line": 180,
+            "price": 180,
+            "ev": 0.037,
+            "edge": 2.8,
+            "kelly": 0.0051,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 37.68,
+            "bankroll_at_bet": 7388.71
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401872943": {
+      "game_id": "401872943",
+      "league": "nfl",
+      "season": 2026,
+      "week": 2,
+      "kickoff": "2026-09-20T20:25Z",
+      "locked_at": "2026-09-19T15:13:43+00:00",
+      "home": "ARI",
+      "away": "SEA",
+      "home_full": "Arizona Cardinals",
+      "away_full": "Seattle Seahawks",
+      "line": {
+        "home_spread": 3.5,
+        "total": 40.5,
+        "home_ml": 170,
+        "away_ml": -205,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -4.7,
+        "proj_total": 39.8,
+        "proj_home_score": 17.5,
+        "proj_away_score": 22.2,
+        "home_win_prob": 0.3466
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "SEA",
+          "line": -3.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "SEA -3.5",
+          "lean": -1.2
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "SEA",
+          "price": -205,
+          "stake": 100.0,
+          "pick": "SEA ML -205"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401872942": {
+      "game_id": "401872942",
+      "league": "nfl",
+      "season": 2026,
+      "week": 2,
+      "kickoff": "2026-09-20T20:25Z",
+      "locked_at": "2026-09-19T15:13:43+00:00",
+      "home": "SF",
+      "away": "MIA",
+      "home_full": "San Francisco 49ers",
+      "away_full": "Miami Dolphins",
+      "line": {
+        "home_spread": -13.5,
+        "total": 44.5,
+        "home_ml": -950,
+        "away_ml": 625,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 11.8,
+        "proj_total": 44.6,
+        "proj_home_score": 28.2,
+        "proj_away_score": 16.4,
+        "home_win_prob": 0.8564
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "MIA",
+          "line": 13.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "MIA +13.5",
+          "lean": -1.7
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "SF",
+          "price": -950,
+          "stake": 100.0,
+          "pick": "SF ML -950"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "MIA",
+            "pick": "MIA +13.5",
+            "line": 13.5,
+            "price": -110,
+            "ev": 0.067,
+            "edge": 1.7,
+            "kelly": 0.0183,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "MIA",
+            "pick": "MIA +13.5",
+            "line": 13.5,
+            "price": -110,
+            "ev": 0.067,
+            "edge": 1.7,
+            "kelly": 0.0183,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 135.21,
+            "bankroll_at_bet": 7388.71
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
