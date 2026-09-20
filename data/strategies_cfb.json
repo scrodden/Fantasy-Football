@@ -15046,7 +15046,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "APP -17.5",
-          "lean": 1.1
+          "lean": 1.1,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -15054,12 +15056,16 @@
           "team": "APP",
           "price": -1100,
           "stake": 100.0,
-          "pick": "APP ML -1100"
+          "pick": "APP ML -1100",
+          "result": "win",
+          "pnl": 9.09
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 26,
+      "away_score": 21
     },
     "401871047": {
       "game_id": "401871047",
