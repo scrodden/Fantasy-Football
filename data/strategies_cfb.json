@@ -15218,7 +15218,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "TROY +27.5",
-          "lean": -4.3
+          "lean": -4.3,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -15226,12 +15228,16 @@
           "team": "MIZ",
           "price": -4500,
           "stake": 100.0,
-          "pick": "MIZ ML -4500"
+          "pick": "MIZ ML -4500",
+          "result": "win",
+          "pnl": 2.22
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 27,
+      "away_score": 17
     },
     "401856687": {
       "game_id": "401856687",
@@ -15267,7 +15273,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "FLA -2.5",
-          "lean": -1.1
+          "lean": -1.1,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -15275,12 +15283,16 @@
           "team": "FLA",
           "price": -130,
           "stake": 100.0,
-          "pick": "FLA ML -130"
+          "pick": "FLA ML -130",
+          "result": "win",
+          "pnl": 76.92
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 39,
+      "away_score": 44
     },
     "401856800": {
       "game_id": "401856800",
@@ -15316,7 +15328,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "GAST +17.5",
-          "lean": -3.6
+          "lean": -3.6,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -15324,7 +15338,9 @@
           "team": "UCF",
           "price": -1050,
           "stake": 100.0,
-          "pick": "UCF ML -1050"
+          "pick": "UCF ML -1050",
+          "result": "win",
+          "pnl": 9.52
         },
         "value": [
           {
@@ -15339,7 +15355,9 @@
             "kelly": 0.0373,
             "confidence": "low",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           }
         ],
         "bankroll": [
@@ -15356,11 +15374,15 @@
             "confidence": "low",
             "book": "Draft Kings",
             "stake": 98.97,
-            "bankroll_at_bet": 2653.22
+            "bankroll_at_bet": 2653.22,
+            "result": "win",
+            "pnl": 89.97
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 44,
+      "away_score": 30
     },
     "401856803": {
       "game_id": "401856803",
@@ -15442,7 +15464,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "USM +3",
-          "lean": 1.0
+          "lean": 1.0,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -15450,7 +15474,9 @@
           "team": "CONN",
           "price": -162,
           "stake": 100.0,
-          "pick": "CONN ML -162"
+          "pick": "CONN ML -162",
+          "result": "win",
+          "pnl": 61.73
         },
         "value": [],
         "bankroll": [
@@ -15467,11 +15493,15 @@
             "confidence": "low",
             "book": null,
             "stake": 33.96,
-            "bankroll_at_bet": 2653.22
+            "bankroll_at_bet": 2653.22,
+            "result": "win",
+            "pnl": 30.87
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 20,
+      "away_score": 48
     },
     "401862772": {
       "game_id": "401862772",
@@ -15507,7 +15537,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "UTM +34.5",
-          "lean": -5.2
+          "lean": -5.2,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -15515,12 +15547,16 @@
           "team": "MEM",
           "price": -50000,
           "stake": 100.0,
-          "pick": "MEM ML -50000"
+          "pick": "MEM ML -50000",
+          "result": "win",
+          "pnl": 0.2
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 45,
+      "away_score": 21
     },
     "401862773": {
       "game_id": "401862773",
@@ -15556,7 +15592,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "WMU -9.5",
-          "lean": -0.4
+          "lean": -0.4,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -15564,12 +15602,16 @@
           "team": "WMU",
           "price": -360,
           "stake": 100.0,
-          "pick": "WMU ML -360"
+          "pick": "WMU ML -360",
+          "result": "win",
+          "pnl": 27.78
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 21,
+      "away_score": 28
     },
     "401862777": {
       "game_id": "401862777",
@@ -15605,13 +15647,17 @@
           "price": -110,
           "stake": 100.0,
           "pick": "DSU +36.5",
-          "lean": -8.5
+          "lean": -8.5,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": null,
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 59,
+      "away_score": 17
     },
     "401864443": {
       "game_id": "401864443",
@@ -15647,7 +15693,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "MTSU +3.5",
-          "lean": 0.4
+          "lean": 0.4,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -15655,12 +15703,16 @@
           "team": "NEV",
           "price": -180,
           "stake": 100.0,
-          "pick": "NEV ML -180"
+          "pick": "NEV ML -180",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 27,
+      "away_score": 20
     },
     "401866423": {
       "game_id": "401866423",
@@ -15696,7 +15748,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "OHIO +6.5",
-          "lean": -1.4
+          "lean": -1.4,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -15704,7 +15758,9 @@
           "team": "USA",
           "price": -258,
           "stake": 100.0,
-          "pick": "USA ML -258"
+          "pick": "USA ML -258",
+          "result": "win",
+          "pnl": 38.76
         },
         "value": [],
         "bankroll": [
@@ -15721,11 +15777,15 @@
             "confidence": "low",
             "book": null,
             "stake": 135.84,
-            "bankroll_at_bet": 2653.22
+            "bankroll_at_bet": 2653.22,
+            "result": "win",
+            "pnl": 123.49
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 41,
+      "away_score": 36
     },
     "401869948": {
       "game_id": "401869948",
@@ -15823,7 +15883,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "NICH +17.5",
-          "lean": -5.7
+          "lean": -5.7,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": null,
         "value": [
@@ -15839,7 +15901,9 @@
             "kelly": 0.0652,
             "confidence": "low",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           }
         ],
         "bankroll": [
@@ -15856,11 +15920,15 @@
             "confidence": "low",
             "book": "Draft Kings",
             "stake": 172.99,
-            "bankroll_at_bet": 2653.22
+            "bankroll_at_bet": 2653.22,
+            "result": "loss",
+            "pnl": -172.99
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 59,
+      "away_score": 0
     },
     "401858452": {
       "game_id": "401858452",
@@ -15951,13 +16019,17 @@
           "price": -110,
           "stake": 100.0,
           "pick": "EWU +42.5",
-          "lean": -8.1
+          "lean": -8.1,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": null,
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 48,
+      "away_score": 16
     },
     "401858453": {
       "game_id": "401858453",
@@ -15993,7 +16065,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "MSU +29.5",
-          "lean": -3.2
+          "lean": -3.2,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -16001,12 +16075,16 @@
           "team": "ND",
           "price": -5000,
           "stake": 100.0,
-          "pick": "ND ML -5000"
+          "pick": "ND ML -5000",
+          "result": "win",
+          "pnl": 2.0
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 27,
+      "away_score": 10
     },
     "401856688": {
       "game_id": "401856688",
@@ -16156,7 +16234,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "UNM +21.5",
-          "lean": -7.5
+          "lean": -7.5,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -16164,12 +16244,16 @@
           "team": "OU",
           "price": -2100,
           "stake": 100.0,
-          "pick": "OU ML -2100"
+          "pick": "OU ML -2100",
+          "result": "win",
+          "pnl": 4.76
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 14,
+      "away_score": 6
     },
     "401856802": {
       "game_id": "401856802",
@@ -16205,7 +16289,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "UVA -10.5",
-          "lean": 0.2
+          "lean": 0.2,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -16213,12 +16299,16 @@
           "team": "UVA",
           "price": -410,
           "stake": 100.0,
-          "pick": "UVA ML -410"
+          "pick": "UVA ML -410",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 27,
+      "away_score": 38
     },
     "401856796": {
       "game_id": "401856796",
@@ -16254,7 +16344,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "NU -3.5",
-          "lean": 2.1
+          "lean": 2.1,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -16262,7 +16354,9 @@
           "team": "NU",
           "price": -175,
           "stake": 100.0,
-          "pick": "NU ML -175"
+          "pick": "NU ML -175",
+          "result": "win",
+          "pnl": 57.14
         },
         "value": [
           {
@@ -16277,7 +16371,9 @@
             "kelly": 0.0167,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           }
         ],
         "bankroll": [
@@ -16294,11 +16390,15 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 44.31,
-            "bankroll_at_bet": 2653.22
+            "bankroll_at_bet": 2653.22,
+            "result": "win",
+            "pnl": 40.28
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 41,
+      "away_score": 7
     },
     "401858232": {
       "game_id": "401858232",
@@ -16429,7 +16529,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "KENN +35.5",
-          "lean": -6.1
+          "lean": -6.1,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -16437,12 +16539,16 @@
           "team": "TENN",
           "price": -8000,
           "stake": 100.0,
-          "pick": "TENN ML -8000"
+          "pick": "TENN ML -8000",
+          "result": "win",
+          "pnl": 1.25
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 42,
+      "away_score": 9
     },
     "401856693": {
       "game_id": "401856693",
@@ -16527,7 +16633,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "ARST +18.5",
-          "lean": -3.3
+          "lean": -3.3,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -16535,7 +16643,9 @@
           "team": "TCU",
           "price": -1350,
           "stake": 100.0,
-          "pick": "TCU ML -1350"
+          "pick": "TCU ML -1350",
+          "result": "win",
+          "pnl": 7.41
         },
         "value": [
           {
@@ -16550,7 +16660,9 @@
             "kelly": 0.0332,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           }
         ],
         "bankroll": [
@@ -16567,11 +16679,15 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 88.09,
-            "bankroll_at_bet": 2653.22
+            "bankroll_at_bet": 2653.22,
+            "result": "loss",
+            "pnl": -88.09
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 31,
+      "away_score": 7
     },
     "401862775": {
       "game_id": "401862775",
