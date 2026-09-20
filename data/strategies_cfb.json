@@ -17215,7 +17215,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "PUR +14",
-          "lean": -1.1
+          "lean": -1.1,
+          "result": "push",
+          "pnl": 0.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -17223,12 +17225,16 @@
           "team": "UCLA",
           "price": -650,
           "stake": 100.0,
-          "pick": "UCLA ML -650"
+          "pick": "UCLA ML -650",
+          "result": "win",
+          "pnl": 15.38
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 52,
+      "away_score": 38
     },
     "401860886": {
       "game_id": "401860886",
@@ -17264,7 +17270,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "MONT +17.5",
-          "lean": -7.6
+          "lean": -7.6,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -17272,7 +17280,9 @@
           "team": "ORST",
           "price": -950,
           "stake": 100.0,
-          "pick": "ORST ML -950"
+          "pick": "ORST ML -950",
+          "result": "win",
+          "pnl": 10.53
         },
         "value": [
           {
@@ -17287,7 +17297,9 @@
             "kelly": 0.0892,
             "confidence": "medium",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           }
         ],
         "bankroll": [
@@ -17304,11 +17316,15 @@
             "confidence": "medium",
             "book": "DraftKings",
             "stake": 236.67,
-            "bankroll_at_bet": 2653.22
+            "bankroll_at_bet": 2653.22,
+            "result": "loss",
+            "pnl": -236.67
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 52,
+      "away_score": 17
     },
     "401860888": {
       "game_id": "401860888",
@@ -17344,7 +17360,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "SJSU +6.5",
-          "lean": 0.3
+          "lean": 0.3,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -17352,12 +17370,16 @@
           "team": "FRES",
           "price": -230,
           "stake": 100.0,
-          "pick": "FRES ML -230"
+          "pick": "FRES ML -230",
+          "result": "win",
+          "pnl": 43.48
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 10,
+      "away_score": 26
     }
   }
 }
