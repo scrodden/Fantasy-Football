@@ -16943,7 +16943,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "SDAK +24.5",
-          "lean": -3.7
+          "lean": -3.7,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -16951,12 +16953,16 @@
           "team": "BOIS",
           "price": -4000,
           "stake": 100.0,
-          "pick": "BOIS ML -4000"
+          "pick": "BOIS ML -4000",
+          "result": "win",
+          "pnl": 2.5
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 38,
+      "away_score": 24
     },
     "401860887": {
       "game_id": "401860887",
@@ -16992,7 +16998,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "JMU +1.5",
-          "lean": -3.9
+          "lean": -3.9,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -17000,7 +17008,9 @@
           "team": "JMU",
           "price": 100,
           "stake": 100.0,
-          "pick": "JMU ML +100"
+          "pick": "JMU ML +100",
+          "result": "win",
+          "pnl": 100.0
         },
         "value": [
           {
@@ -17015,7 +17025,9 @@
             "kelly": 0.0413,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           }
         ],
         "bankroll": [
@@ -17032,7 +17044,9 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 109.58,
-            "bankroll_at_bet": 2653.22
+            "bankroll_at_bet": 2653.22,
+            "result": "win",
+            "pnl": 99.62
           },
           {
             "market": "total",
@@ -17047,11 +17061,15 @@
             "confidence": "low",
             "book": null,
             "stake": 93.66,
-            "bankroll_at_bet": 2653.22
+            "bankroll_at_bet": 2653.22,
+            "result": "loss",
+            "pnl": -93.66
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 13,
+      "away_score": 26
     },
     "401856793": {
       "game_id": "401856793",
@@ -17087,7 +17105,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "NIU +33.5",
-          "lean": -3.4
+          "lean": -3.4,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -17095,12 +17115,16 @@
           "team": "ARIZ",
           "price": -6500,
           "stake": 100.0,
-          "pick": "ARIZ ML -6500"
+          "pick": "ARIZ ML -6500",
+          "result": "win",
+          "pnl": 1.54
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 42,
+      "away_score": 17
     },
     "401864507": {
       "game_id": "401864507",
@@ -17136,7 +17160,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "SAC +27.5",
-          "lean": 6.4
+          "lean": 6.4,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -17144,12 +17170,16 @@
           "team": "NDSU",
           "price": -6500,
           "stake": 100.0,
-          "pick": "NDSU ML -6500"
+          "pick": "NDSU ML -6500",
+          "result": "win",
+          "pnl": 1.54
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 10,
+      "away_score": 31
     },
     "401858458": {
       "game_id": "401858458",
