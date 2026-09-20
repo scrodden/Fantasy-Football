@@ -915,7 +915,8 @@
         "pick": "NYJ ML +185",
         "line": 185,
         "price": 185,
-        "edge": 4.7
+        "edge": 4.7,
+        "result": "loss"
       },
       {
         "market": "spread",
@@ -923,10 +924,18 @@
         "pick": "NYJ +4.5",
         "line": 4.5,
         "price": -110,
-        "edge": 2.0
+        "edge": 2.0,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 17,
+    "away_score": 20,
+    "actual_margin": -3,
+    "su_correct": true,
+    "brier": 0.1467,
+    "margin_err": 0.5,
+    "total_err": 6.3
   },
   "401872935": {
     "id": "401872935",
@@ -1020,10 +1029,18 @@
         "pick": "Over 46.5",
         "line": 46.5,
         "price": -110,
-        "edge": 2.2
+        "edge": 2.2,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 6,
+    "away_score": 20,
+    "actual_margin": -14,
+    "su_correct": false,
+    "brier": 0.3539,
+    "margin_err": 17.0,
+    "total_err": 22.7
   },
   "401872940": {
     "id": "401872940",
