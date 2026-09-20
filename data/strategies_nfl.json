@@ -2496,6 +2496,62 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401872947": {
+      "game_id": "401872947",
+      "league": "nfl",
+      "season": 2026,
+      "week": 2,
+      "kickoff": "2026-09-22T00:15Z",
+      "locked_at": "2026-09-20T18:16:48+00:00",
+      "home": "LAR",
+      "away": "NYG",
+      "home_full": "Los Angeles Rams",
+      "away_full": "New York Giants",
+      "line": {
+        "home_spread": -6.5,
+        "total": 47.5,
+        "home_ml": -285,
+        "away_ml": 230,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 6.5,
+        "proj_total": 43.9,
+        "proj_home_score": 25.2,
+        "proj_away_score": 18.7,
+        "home_win_prob": 0.713
+      },
+      "bets": {
+        "spread": null,
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "LAR",
+          "price": -285,
+          "stake": 100.0,
+          "pick": "LAR ML -285"
+        },
+        "value": [],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "under",
+            "team": null,
+            "pick": "Under 47.5",
+            "line": 47.5,
+            "price": -110,
+            "ev": 0.155,
+            "edge": 3.6,
+            "kelly": 0.0427,
+            "confidence": "low",
+            "book": null,
+            "stake": 315.5,
+            "bankroll_at_bet": 7388.71
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
