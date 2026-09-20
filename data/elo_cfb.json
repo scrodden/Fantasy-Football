@@ -17,11 +17,11 @@
       "last_date": "2026-09-19T16:00Z"
     },
     "52": {
-      "rating": 1563.27409118739,
+      "rating": 1554.463749008303,
       "name": "Florida St",
       "abbr": "FSU",
-      "gp": 2,
-      "last_date": "2026-09-07T23:30Z"
+      "gp": 3,
+      "last_date": "2026-09-19T21:15Z"
     },
     "167": {
       "rating": 1621.4754893445993,
@@ -962,11 +962,11 @@
       "last_date": "2026-09-05T23:00Z"
     },
     "333": {
-      "rating": 1846.151998751277,
+      "rating": 1854.962340930364,
       "name": "Alabama",
       "abbr": "ALA",
-      "gp": 2,
-      "last_date": "2026-09-12T19:30Z"
+      "gp": 3,
+      "last_date": "2026-09-19T21:15Z"
     },
     "98": {
       "rating": 1424.1616021684247,
@@ -1733,9 +1733,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-09-19T20:30Z",
+    "last_game_date": "2026-09-19T21:15Z",
     "season": 2026,
-    "n_games": 2127,
+    "n_games": 2128,
     "signals": {
       "weather": true,
       "travel": true,

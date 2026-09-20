@@ -13972,7 +13972,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "FSU +19.5",
-          "lean": -1.0
+          "lean": -1.0,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -13980,12 +13982,16 @@
           "team": "ALA",
           "price": -1350,
           "stake": 100.0,
-          "pick": "ALA ML -1350"
+          "pick": "ALA ML -1350",
+          "result": "win",
+          "pnl": 7.41
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 50,
+      "away_score": 36
     },
     "401858457": {
       "game_id": "401858457",
