@@ -2376,7 +2376,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "WSH +3.5",
-          "lean": -0.3
+          "lean": -0.3,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -2384,7 +2386,9 @@
           "team": "DAL",
           "price": -218,
           "stake": 100.0,
-          "pick": "DAL ML -218"
+          "pick": "DAL ML -218",
+          "result": "win",
+          "pnl": 45.87
         },
         "value": [
           {
@@ -2399,7 +2403,9 @@
             "kelly": 0.0051,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           }
         ],
         "bankroll": [
@@ -2416,7 +2422,9 @@
             "confidence": "low",
             "book": null,
             "stake": 147.04,
-            "bankroll_at_bet": 7388.71
+            "bankroll_at_bet": 7388.71,
+            "result": "loss",
+            "pnl": -147.04
           },
           {
             "market": "moneyline",
@@ -2431,11 +2439,15 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 37.68,
-            "bankroll_at_bet": 7388.71
+            "bankroll_at_bet": 7388.71,
+            "result": "loss",
+            "pnl": -37.68
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 37,
+      "away_score": 20
     },
     "401872943": {
       "game_id": "401872943",
@@ -2471,7 +2483,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "SEA -3.5",
-          "lean": -1.2
+          "lean": -1.2,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -2479,12 +2493,16 @@
           "team": "SEA",
           "price": -205,
           "stake": 100.0,
-          "pick": "SEA ML -205"
+          "pick": "SEA ML -205",
+          "result": "win",
+          "pnl": 48.78
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 7,
+      "away_score": 31
     },
     "401872942": {
       "game_id": "401872942",
