@@ -2628,7 +2628,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "IND +6",
-          "lean": -0.6
+          "lean": -0.6,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -2636,12 +2638,16 @@
           "team": "KC",
           "price": -285,
           "stake": 100.0,
-          "pick": "KC ML -285"
+          "pick": "KC ML -285",
+          "result": "win",
+          "pnl": 35.09
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 33,
+      "away_score": 30
     },
     "401872947": {
       "game_id": "401872947",

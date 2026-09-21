@@ -1265,10 +1265,18 @@
         "pick": "Under 48.5",
         "line": 48.5,
         "price": -110,
-        "edge": 3.5
+        "edge": 3.5,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 33,
+    "away_score": 30,
+    "actual_margin": 3,
+    "su_correct": true,
+    "brier": 0.0801,
+    "margin_err": 3.7,
+    "total_err": 18.0
   },
   "401872947": {
     "id": "401872947",

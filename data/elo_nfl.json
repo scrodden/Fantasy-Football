@@ -10,11 +10,11 @@
   },
   "teams": {
     "12": {
-      "rating": 1493.2078254011012,
+      "rating": 1500.9067506925226,
       "name": "Chiefs",
       "abbr": "KC",
-      "gp": 3,
-      "last_date": "2026-09-15T00:15Z"
+      "gp": 4,
+      "last_date": "2026-09-21T00:20Z"
     },
     "33": {
       "rating": 1568.0323482584063,
@@ -94,11 +94,11 @@
       "last_date": "2026-09-20T17:00Z"
     },
     "11": {
-      "rating": 1415.193671046086,
+      "rating": 1407.4947457546646,
       "name": "Colts",
       "abbr": "IND",
-      "gp": 2,
-      "last_date": "2026-09-13T17:00Z"
+      "gp": 3,
+      "last_date": "2026-09-21T00:20Z"
     },
     "34": {
       "rating": 1533.0291254004853,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-09-20T20:25Z",
+    "last_game_date": "2026-09-21T00:20Z",
     "season": 2026,
-    "n_games": 625,
+    "n_games": 626,
     "signals": {
       "weather": true,
       "travel": true,
