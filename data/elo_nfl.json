@@ -136,11 +136,11 @@
       "last_date": "2026-09-20T17:00Z"
     },
     "19": {
-      "rating": 1473.3329826459562,
+      "rating": 1459.275398229487,
       "name": "Giants",
       "abbr": "NYG",
-      "gp": 3,
-      "last_date": "2026-09-14T00:20Z"
+      "gp": 4,
+      "last_date": "2026-09-22T00:15Z"
     },
     "16": {
       "rating": 1577.7174289775644,
@@ -213,11 +213,11 @@
       "last_date": "2026-09-18T00:15Z"
     },
     "14": {
-      "rating": 1599.2094667354575,
+      "rating": 1613.2670511519266,
       "name": "Rams",
       "abbr": "LAR",
-      "gp": 3,
-      "last_date": "2026-09-11T00:35Z"
+      "gp": 4,
+      "last_date": "2026-09-22T00:15Z"
     },
     "25": {
       "rating": 1623.7637503074002,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-09-21T00:20Z",
+    "last_game_date": "2026-09-22T00:15Z",
     "season": 2026,
-    "n_games": 626,
+    "n_games": 627,
     "signals": {
       "weather": true,
       "travel": true,

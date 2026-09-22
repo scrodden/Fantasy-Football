@@ -2682,7 +2682,9 @@
           "team": "LAR",
           "price": -285,
           "stake": 100.0,
-          "pick": "LAR ML -285"
+          "pick": "LAR ML -285",
+          "result": "win",
+          "pnl": 35.09
         },
         "value": [],
         "bankroll": [
@@ -2699,11 +2701,15 @@
             "confidence": "low",
             "book": null,
             "stake": 315.5,
-            "bankroll_at_bet": 7388.71
+            "bankroll_at_bet": 7388.71,
+            "result": "win",
+            "pnl": 286.82
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 28,
+      "away_score": 6
     }
   }
 }
