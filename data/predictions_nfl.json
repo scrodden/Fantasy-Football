@@ -1304,5 +1304,432 @@
       }
     ],
     "settled": false
+  },
+  "401872948": {
+    "id": "401872948",
+    "league": "nfl",
+    "date": "2026-09-25T00:15Z",
+    "home": "GB",
+    "away": "ATL",
+    "proj_margin": 5.8,
+    "proj_total": 44.5,
+    "home_win_prob": 0.7024,
+    "market": {
+      "home_spread": -6.5,
+      "total": 44.5,
+      "home_ml": -298,
+      "away_ml": 240
+    },
+    "bets": [],
+    "settled": false
+  },
+  "401872953": {
+    "id": "401872953",
+    "league": "nfl",
+    "date": "2026-09-27T17:00Z",
+    "home": "BUF",
+    "away": "LAC",
+    "proj_margin": 9.6,
+    "proj_total": 49.4,
+    "home_win_prob": 0.7712,
+    "market": {
+      "home_spread": -7.0,
+      "total": 50.5,
+      "home_ml": -310,
+      "away_ml": 250
+    },
+    "bets": [
+      {
+        "market": "spread",
+        "side": "home",
+        "pick": "BUF -7",
+        "line": -7.0,
+        "price": -110,
+        "edge": 2.6
+      }
+    ],
+    "settled": false
+  },
+  "401872949": {
+    "id": "401872949",
+    "league": "nfl",
+    "date": "2026-09-27T17:00Z",
+    "home": "CLE",
+    "away": "CAR",
+    "proj_margin": -2.1,
+    "proj_total": 43.9,
+    "home_win_prob": 0.4233,
+    "market": {
+      "home_spread": 3.0,
+      "total": 42.5,
+      "home_ml": 130,
+      "away_ml": -155
+    },
+    "bets": [],
+    "settled": false
+  },
+  "401872954": {
+    "id": "401872954",
+    "league": "nfl",
+    "date": "2026-09-27T17:00Z",
+    "home": "DET",
+    "away": "NYJ",
+    "proj_margin": 6.1,
+    "proj_total": 46.4,
+    "home_win_prob": 0.7033,
+    "market": {
+      "home_spread": -6.5,
+      "total": 48.5,
+      "home_ml": -278,
+      "away_ml": 225
+    },
+    "bets": [
+      {
+        "market": "total",
+        "side": "under",
+        "pick": "Under 48.5",
+        "line": 48.5,
+        "price": -110,
+        "edge": 2.1
+      }
+    ],
+    "settled": false
+  },
+  "401872951": {
+    "id": "401872951",
+    "league": "nfl",
+    "date": "2026-09-27T17:00Z",
+    "home": "IND",
+    "away": "HOU",
+    "proj_margin": -2.6,
+    "proj_total": 48.2,
+    "home_win_prob": 0.4193,
+    "market": {
+      "home_spread": 2.5,
+      "total": 43.5,
+      "home_ml": 120,
+      "away_ml": -142
+    },
+    "bets": [
+      {
+        "market": "total",
+        "side": "over",
+        "pick": "Over 43.5",
+        "line": 43.5,
+        "price": -110,
+        "edge": 4.7
+      }
+    ],
+    "settled": false
+  },
+  "401872952": {
+    "id": "401872952",
+    "league": "nfl",
+    "date": "2026-09-27T17:00Z",
+    "home": "MIA",
+    "away": "KC",
+    "proj_margin": -6.0,
+    "proj_total": 41.2,
+    "home_win_prob": 0.2457,
+    "market": {
+      "home_spread": 11.5,
+      "total": 45.5,
+      "home_ml": 550,
+      "away_ml": -800
+    },
+    "bets": [
+      {
+        "market": "spread",
+        "side": "home",
+        "pick": "MIA +11.5",
+        "line": 11.5,
+        "price": -110,
+        "edge": 5.5
+      },
+      {
+        "market": "total",
+        "side": "under",
+        "pick": "Under 45.5",
+        "line": 45.5,
+        "price": -110,
+        "edge": 4.3
+      }
+    ],
+    "settled": false
+  },
+  "401872956": {
+    "id": "401872956",
+    "league": "nfl",
+    "date": "2026-09-27T17:00Z",
+    "home": "NYG",
+    "away": "TEN",
+    "proj_margin": 7.8,
+    "proj_total": 41.1,
+    "home_win_prob": 0.732,
+    "market": {
+      "home_spread": -6.0,
+      "total": 42.5,
+      "home_ml": -270,
+      "away_ml": 220
+    },
+    "bets": [
+      {
+        "market": "spread",
+        "side": "home",
+        "pick": "NYG -6",
+        "line": -6.0,
+        "price": -110,
+        "edge": 1.8
+      }
+    ],
+    "settled": false
+  },
+  "401872950": {
+    "id": "401872950",
+    "league": "nfl",
+    "date": "2026-09-27T17:00Z",
+    "home": "PIT",
+    "away": "CIN",
+    "proj_margin": -2.2,
+    "proj_total": 40.1,
+    "home_win_prob": 0.4074,
+    "market": {
+      "home_spread": 3.5,
+      "total": 42.5,
+      "home_ml": 154,
+      "away_ml": -185
+    },
+    "bets": [
+      {
+        "market": "total",
+        "side": "under",
+        "pick": "Under 42.5",
+        "line": 42.5,
+        "price": -110,
+        "edge": 2.4
+      },
+      {
+        "market": "moneyline",
+        "side": "home",
+        "pick": "PIT ML +154",
+        "line": 154,
+        "price": 154,
+        "edge": 3.0
+      }
+    ],
+    "settled": false
+  },
+  "401872955": {
+    "id": "401872955",
+    "league": "nfl",
+    "date": "2026-09-27T17:00Z",
+    "home": "WSH",
+    "away": "SEA",
+    "proj_margin": -5.7,
+    "proj_total": 38.6,
+    "home_win_prob": 0.3034,
+    "market": {
+      "home_spread": 6.5,
+      "total": 39.5,
+      "home_ml": 230,
+      "away_ml": -285
+    },
+    "bets": [],
+    "settled": false
+  },
+  "401872957": {
+    "id": "401872957",
+    "league": "nfl",
+    "date": "2026-09-27T17:00Z",
+    "home": "JAX",
+    "away": "NE",
+    "proj_margin": 0.8,
+    "proj_total": 42.5,
+    "home_win_prob": 0.5477,
+    "market": {
+      "home_spread": -3.0,
+      "total": 45.5,
+      "home_ml": -155,
+      "away_ml": 130
+    },
+    "bets": [
+      {
+        "market": "total",
+        "side": "under",
+        "pick": "Under 45.5",
+        "line": 45.5,
+        "price": -110,
+        "edge": 3.0
+      },
+      {
+        "market": "spread",
+        "side": "away",
+        "pick": "NE +3",
+        "line": 3.0,
+        "price": -110,
+        "edge": 2.2
+      },
+      {
+        "market": "moneyline",
+        "side": "away",
+        "pick": "NE ML +130",
+        "line": 130,
+        "price": 130,
+        "edge": 3.5
+      }
+    ],
+    "settled": false
+  },
+  "401872958": {
+    "id": "401872958",
+    "league": "nfl",
+    "date": "2026-09-27T20:05Z",
+    "home": "SF",
+    "away": "ARI",
+    "proj_margin": 9.6,
+    "proj_total": 48.1,
+    "home_win_prob": 0.7962,
+    "market": {
+      "home_spread": -8.5,
+      "total": 47.5,
+      "home_ml": -470,
+      "away_ml": 360
+    },
+    "bets": [],
+    "settled": false
+  },
+  "401872959": {
+    "id": "401872959",
+    "league": "nfl",
+    "date": "2026-09-27T20:05Z",
+    "home": "TB",
+    "away": "MIN",
+    "proj_margin": -2.4,
+    "proj_total": 37.7,
+    "home_win_prob": 0.4371,
+    "market": {
+      "home_spread": 1.5,
+      "total": 42.5,
+      "home_ml": 102,
+      "away_ml": -122
+    },
+    "bets": [
+      {
+        "market": "total",
+        "side": "under",
+        "pick": "Under 42.5",
+        "line": 42.5,
+        "price": -110,
+        "edge": 4.8
+      }
+    ],
+    "settled": false
+  },
+  "401872960": {
+    "id": "401872960",
+    "league": "nfl",
+    "date": "2026-09-27T20:25Z",
+    "home": "DAL",
+    "away": "BAL",
+    "proj_margin": -2.4,
+    "proj_total": 49.1,
+    "home_win_prob": 0.4164,
+    "market": {
+      "home_spread": 3.0,
+      "total": 52.5,
+      "home_ml": 130,
+      "away_ml": -155
+    },
+    "bets": [
+      {
+        "market": "total",
+        "side": "under",
+        "pick": "Under 52.5",
+        "line": 52.5,
+        "price": -110,
+        "edge": 3.4
+      }
+    ],
+    "settled": false
+  },
+  "401872961": {
+    "id": "401872961",
+    "league": "nfl",
+    "date": "2026-09-27T20:25Z",
+    "home": "NO",
+    "away": "LV",
+    "proj_margin": 2.7,
+    "proj_total": 42.1,
+    "home_win_prob": 0.599,
+    "market": {
+      "home_spread": -3.0,
+      "total": 43.5,
+      "home_ml": -175,
+      "away_ml": 145
+    },
+    "bets": [],
+    "settled": false
+  },
+  "401872962": {
+    "id": "401872962",
+    "league": "nfl",
+    "date": "2026-09-28T00:20Z",
+    "home": "DEN",
+    "away": "LAR",
+    "proj_margin": -1.6,
+    "proj_total": 43.0,
+    "home_win_prob": 0.4467,
+    "market": {
+      "home_spread": 2.5,
+      "total": 45.5,
+      "home_ml": 114,
+      "away_ml": -135
+    },
+    "bets": [
+      {
+        "market": "total",
+        "side": "under",
+        "pick": "Under 45.5",
+        "line": 45.5,
+        "price": -110,
+        "edge": 2.5
+      }
+    ],
+    "settled": false
+  },
+  "401872963": {
+    "id": "401872963",
+    "league": "nfl",
+    "date": "2026-09-29T00:15Z",
+    "home": "CHI",
+    "away": "PHI",
+    "proj_margin": 0.0,
+    "proj_total": 43.9,
+    "home_win_prob": 0.4617,
+    "market": {
+      "home_spread": 3.5,
+      "total": 44.5,
+      "home_ml": 154,
+      "away_ml": -185
+    },
+    "bets": [
+      {
+        "market": "spread",
+        "side": "home",
+        "pick": "CHI +3.5",
+        "line": 3.5,
+        "price": -110,
+        "edge": 3.5
+      },
+      {
+        "market": "moneyline",
+        "side": "home",
+        "pick": "CHI ML +154",
+        "line": 154,
+        "price": 154,
+        "edge": 8.4
+      }
+    ],
+    "settled": false
   }
 }
