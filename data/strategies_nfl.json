@@ -2710,6 +2710,55 @@
       "settled": true,
       "home_score": 28,
       "away_score": 6
+    },
+    "401872948": {
+      "game_id": "401872948",
+      "league": "nfl",
+      "season": 2026,
+      "week": 3,
+      "kickoff": "2026-09-25T00:15Z",
+      "locked_at": "2026-09-23T18:19:21+00:00",
+      "home": "GB",
+      "away": "ATL",
+      "home_full": "Green Bay Packers",
+      "away_full": "Atlanta Falcons",
+      "line": {
+        "home_spread": -4.5,
+        "total": 42.5,
+        "home_ml": -258,
+        "away_ml": 210,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 5.1,
+        "proj_total": 43.7,
+        "proj_home_score": 24.4,
+        "proj_away_score": 19.3,
+        "home_win_prob": 0.6781
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "GB",
+          "line": -4.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "GB -4.5",
+          "lean": 0.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "GB",
+          "price": -258,
+          "stake": 100.0,
+          "pick": "GB ML -258"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
