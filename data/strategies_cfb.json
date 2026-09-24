@@ -17429,6 +17429,101 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401862779": {
+      "game_id": "401862779",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-25T20:00Z",
+      "locked_at": "2026-09-24T14:18:44+00:00",
+      "home": "TEM",
+      "away": "ARMY",
+      "home_full": "Temple Owls",
+      "away_full": "Army Black Knights",
+      "line": {
+        "home_spread": 3.0,
+        "total": 47.5,
+        "home_ml": 130,
+        "away_ml": -155,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -6.2,
+        "proj_total": 51.1,
+        "proj_home_score": 22.5,
+        "proj_away_score": 28.6,
+        "home_win_prob": 0.3797
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "ARMY",
+          "line": -3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "ARMY -3",
+          "lean": -3.2
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "ARMY",
+          "price": -155,
+          "stake": 100.0,
+          "pick": "ARMY ML -155"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "ARMY",
+            "pick": "ARMY -3",
+            "line": -3.0,
+            "price": -110,
+            "ev": 0.116,
+            "edge": 3.2,
+            "kelly": 0.0318,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 47.5",
+            "line": 47.5,
+            "price": -110,
+            "ev": 0.119,
+            "edge": 3.6,
+            "kelly": 0.0328,
+            "confidence": "low",
+            "book": null,
+            "stake": 86.52,
+            "bankroll_at_bet": 2637.92
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "ARMY",
+            "pick": "ARMY -3",
+            "line": -3.0,
+            "price": -110,
+            "ev": 0.116,
+            "edge": 3.2,
+            "kelly": 0.0318,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 83.89,
+            "bankroll_at_bet": 2637.92
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
