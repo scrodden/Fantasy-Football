@@ -17646,6 +17646,86 @@
         ]
       },
       "settled": false
+    },
+    "401858461": {
+      "game_id": "401858461",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-26T00:00Z",
+      "locked_at": "2026-09-24T18:21:33+00:00",
+      "home": "IU",
+      "away": "NU",
+      "home_full": "Indiana Hoosiers",
+      "away_full": "Northwestern Wildcats",
+      "line": {
+        "home_spread": -21.0,
+        "total": 49.5,
+        "home_ml": -2100,
+        "away_ml": 1100,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 19.0,
+        "proj_total": 49.6,
+        "proj_home_score": 34.3,
+        "proj_away_score": 15.3,
+        "home_win_prob": 0.9221
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "NU",
+          "line": 21.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "NU +21",
+          "lean": -2.0
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "IU",
+          "price": -2100,
+          "stake": 100.0,
+          "pick": "IU ML -2100"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "NU",
+            "pick": "NU +21",
+            "line": 21.0,
+            "price": -110,
+            "ev": 0.056,
+            "edge": 2.0,
+            "kelly": 0.0153,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "NU",
+            "pick": "NU +21",
+            "line": 21.0,
+            "price": -110,
+            "ev": 0.056,
+            "edge": 2.0,
+            "kelly": 0.0153,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 40.36,
+            "bankroll_at_bet": 2637.92
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
