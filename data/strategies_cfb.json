@@ -17524,6 +17524,128 @@
         ]
       },
       "settled": false
+    },
+    "401858468": {
+      "game_id": "401858468",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-25T23:00Z",
+      "locked_at": "2026-09-24T17:16:52+00:00",
+      "home": "RUTG",
+      "away": "HOW",
+      "home_full": "Rutgers Scarlet Knights",
+      "away_full": "Howard Bison",
+      "line": {
+        "home_spread": -43.5,
+        "total": 55.5,
+        "home_ml": null,
+        "away_ml": null,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 28.3,
+        "proj_total": 57.5,
+        "proj_home_score": 42.9,
+        "proj_away_score": 14.6,
+        "home_win_prob": 0.9828
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "HOW",
+          "line": 43.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "HOW +43.5",
+          "lean": -15.2
+        },
+        "moneyline": null,
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401862778": {
+      "game_id": "401862778",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-25T23:00Z",
+      "locked_at": "2026-09-24T17:16:52+00:00",
+      "home": "UAB",
+      "away": "NAVY",
+      "home_full": "UAB Blazers",
+      "away_full": "Navy Midshipmen",
+      "line": {
+        "home_spread": 7.0,
+        "total": 51.5,
+        "home_ml": 215,
+        "away_ml": -265,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -9.8,
+        "proj_total": 52.5,
+        "proj_home_score": 21.3,
+        "proj_away_score": 31.1,
+        "home_win_prob": 0.2754
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "NAVY",
+          "line": -7.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "NAVY -7",
+          "lean": -2.8
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "NAVY",
+          "price": -265,
+          "stake": 100.0,
+          "pick": "NAVY ML -265"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "NAVY",
+            "pick": "NAVY -7",
+            "line": -7.0,
+            "price": -110,
+            "ev": 0.096,
+            "edge": 2.8,
+            "kelly": 0.0264,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "NAVY",
+            "pick": "NAVY -7",
+            "line": -7.0,
+            "price": -110,
+            "ev": 0.096,
+            "edge": 2.8,
+            "kelly": 0.0264,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 69.64,
+            "bankroll_at_bet": 2637.92
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
