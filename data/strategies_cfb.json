@@ -18591,6 +18591,153 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401858462": {
+      "game_id": "401858462",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-26T17:30Z",
+      "locked_at": "2026-09-25T12:22:11+00:00",
+      "home": "MD",
+      "away": "UCLA",
+      "home_full": "Maryland Terrapins",
+      "away_full": "UCLA Bruins",
+      "line": {
+        "home_spread": 1.5,
+        "total": 56.5,
+        "home_ml": 100,
+        "away_ml": -120,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -0.2,
+        "proj_total": 57.4,
+        "proj_home_score": 28.6,
+        "proj_away_score": 28.8,
+        "home_win_prob": 0.4911
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "MD",
+          "line": 1.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "MD +1.5",
+          "lean": 1.3
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "UCLA",
+          "price": -120,
+          "stake": 100.0,
+          "pick": "UCLA ML -120"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401858467": {
+      "game_id": "401858467",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-26T18:00Z",
+      "locked_at": "2026-09-25T12:22:11+00:00",
+      "home": "PUR",
+      "away": "ND",
+      "home_full": "Purdue Boilermakers",
+      "away_full": "Notre Dame Fighting Irish",
+      "line": {
+        "home_spread": 27.5,
+        "total": 58.5,
+        "home_ml": 1700,
+        "away_ml": -4500,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -25.4,
+        "proj_total": 60.7,
+        "proj_home_score": 17.6,
+        "proj_away_score": 43.0,
+        "home_win_prob": 0.043
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "PUR",
+          "line": 27.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "PUR +27.5",
+          "lean": 2.1
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "ND",
+          "price": -4500,
+          "stake": 100.0,
+          "pick": "ND ML -4500"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401864511": {
+      "game_id": "401864511",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-26T18:00Z",
+      "locked_at": "2026-09-25T12:22:11+00:00",
+      "home": "GAST",
+      "away": "NIU",
+      "home_full": "Georgia State Panthers",
+      "away_full": "Northern Illinois Huskies",
+      "line": {
+        "home_spread": -10.5,
+        "total": 56.5,
+        "home_ml": -395,
+        "away_ml": 310,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 11.2,
+        "proj_total": 56.8,
+        "proj_home_score": 34.0,
+        "proj_away_score": 22.8,
+        "home_win_prob": 0.7859
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "GAST",
+          "line": -10.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "GAST -10.5",
+          "lean": 0.7
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "GAST",
+          "price": -395,
+          "stake": 100.0,
+          "pick": "GAST ML -395"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
