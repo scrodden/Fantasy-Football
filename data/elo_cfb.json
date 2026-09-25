@@ -255,11 +255,11 @@
       "last_date": "2026-09-19T23:00Z"
     },
     "324": {
-      "rating": 1377.1432515141544,
+      "rating": 1333.6466512592947,
       "name": "Coastal",
       "abbr": "CCU",
-      "gp": 3,
-      "last_date": "2026-09-19T15:30Z"
+      "gp": 4,
+      "last_date": "2026-09-24T23:30Z"
     },
     "5": {
       "rating": 1292.7550384283497,
@@ -906,11 +906,11 @@
       "last_date": "2026-09-05T23:00Z"
     },
     "2335": {
-      "rating": 1431.167700812444,
+      "rating": 1474.6643010673038,
       "name": "Liberty",
       "abbr": "LIB",
-      "gp": 3,
-      "last_date": "2026-09-19T20:00Z"
+      "gp": 4,
+      "last_date": "2026-09-24T23:30Z"
     },
     "2097": {
       "rating": 1374.6517126407443,
@@ -1733,9 +1733,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-09-20T03:00Z",
+    "last_game_date": "2026-09-24T23:30Z",
     "season": 2026,
-    "n_games": 2166,
+    "n_games": 2167,
     "signals": {
       "weather": true,
       "travel": true,

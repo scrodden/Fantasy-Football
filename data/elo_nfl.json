@@ -31,18 +31,18 @@
       "last_date": "2026-09-20T17:00Z"
     },
     "9": {
-      "rating": 1546.4797136860682,
+      "rating": 1504.9772177473274,
       "name": "Packers",
       "abbr": "GB",
-      "gp": 3,
-      "last_date": "2026-09-20T17:00Z"
+      "gp": 4,
+      "last_date": "2026-09-25T00:15Z"
     },
     "1": {
-      "rating": 1449.853328745227,
+      "rating": 1491.3558246839677,
       "name": "Falcons",
       "abbr": "ATL",
-      "gp": 3,
-      "last_date": "2026-09-20T17:00Z"
+      "gp": 4,
+      "last_date": "2026-09-25T00:15Z"
     },
     "23": {
       "rating": 1467.3208623854944,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-09-22T00:15Z",
+    "last_game_date": "2026-09-25T00:15Z",
     "season": 2026,
-    "n_games": 627,
+    "n_games": 628,
     "signals": {
       "weather": true,
       "travel": true,

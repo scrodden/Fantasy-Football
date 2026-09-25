@@ -17415,7 +17415,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "CCU +2.5",
-          "lean": 1.3
+          "lean": 1.3,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -17423,12 +17425,16 @@
           "team": "LIB",
           "price": -135,
           "stake": 100.0,
-          "pick": "LIB ML -135"
+          "pick": "LIB ML -135",
+          "result": "win",
+          "pnl": 74.07
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 17,
+      "away_score": 34
     },
     "401862779": {
       "game_id": "401862779",
