@@ -18738,6 +18738,157 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401858237": {
+      "game_id": "401858237",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-26T19:00Z",
+      "locked_at": "2026-09-25T13:19:23+00:00",
+      "home": "FSU",
+      "away": "CARK",
+      "home_full": "Florida State Seminoles",
+      "away_full": "Central Arkansas Bears",
+      "line": {
+        "home_spread": -45.5,
+        "total": 62.5,
+        "home_ml": null,
+        "away_ml": null,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 33.8,
+        "proj_total": 61.8,
+        "proj_home_score": 47.8,
+        "proj_away_score": 14.0,
+        "home_win_prob": 0.9938
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "CARK",
+          "line": 45.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "CARK +45.5",
+          "lean": -11.7
+        },
+        "moneyline": null,
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401864510": {
+      "game_id": "401864510",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-26T19:00Z",
+      "locked_at": "2026-09-25T13:19:23+00:00",
+      "home": "WYO",
+      "away": "HAW",
+      "home_full": "Wyoming Cowboys",
+      "away_full": "Hawai'i Rainbow Warriors",
+      "line": {
+        "home_spread": 2.5,
+        "total": 43.5,
+        "home_ml": 114,
+        "away_ml": -135,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -5.0,
+        "proj_total": 42.6,
+        "proj_home_score": 18.8,
+        "proj_away_score": 23.8,
+        "home_win_prob": 0.4069
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "HAW",
+          "line": -2.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "HAW -2.5",
+          "lean": -2.5
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "HAW",
+          "price": -135,
+          "stake": 100.0,
+          "pick": "HAW ML -135"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "HAW",
+            "pick": "HAW -2.5",
+            "line": -2.5,
+            "price": -110,
+            "ev": 0.081,
+            "edge": 2.5,
+            "kelly": 0.0222,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "HAW",
+            "pick": "HAW ML -135",
+            "line": -135,
+            "price": -135,
+            "ev": 0.032,
+            "edge": 4.2,
+            "kelly": 0.0109,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "HAW",
+            "pick": "HAW -2.5",
+            "line": -2.5,
+            "price": -110,
+            "ev": 0.081,
+            "edge": 2.5,
+            "kelly": 0.0222,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 58.56,
+            "bankroll_at_bet": 2637.92
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "HAW",
+            "pick": "HAW ML -135",
+            "line": -135,
+            "price": -135,
+            "ev": 0.032,
+            "edge": 4.2,
+            "kelly": 0.0109,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 28.75,
+            "bankroll_at_bet": 2637.92
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
