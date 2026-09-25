@@ -21659,6 +21659,228 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401858241": {
+      "game_id": "401858241",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-27T01:00Z",
+      "locked_at": "2026-09-25T19:15:43+00:00",
+      "home": "SMU",
+      "away": "MOST",
+      "home_full": "SMU Mustangs",
+      "away_full": "Missouri State Bears",
+      "line": {
+        "home_spread": -34.5,
+        "total": 59.5,
+        "home_ml": -9000,
+        "away_ml": 2500,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 28.0,
+        "proj_total": 59.7,
+        "proj_home_score": 43.9,
+        "proj_away_score": 15.8,
+        "home_win_prob": 0.9716
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "MOST",
+          "line": 34.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "MOST +34.5",
+          "lean": -6.5
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "SMU",
+          "price": -9000,
+          "stake": 100.0,
+          "pick": "SMU ML -9000"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401860895": {
+      "game_id": "401860895",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-27T01:00Z",
+      "locked_at": "2026-09-25T19:15:43+00:00",
+      "home": "UTEP",
+      "away": "ORST",
+      "home_full": "UTEP Miners",
+      "away_full": "Oregon State Beavers",
+      "line": {
+        "home_spread": 10.5,
+        "total": 56.5,
+        "home_ml": 340,
+        "away_ml": -440,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -7.7,
+        "proj_total": 58.7,
+        "proj_home_score": 25.5,
+        "proj_away_score": 33.2,
+        "home_win_prob": 0.251
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "UTEP",
+          "line": 10.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "UTEP +10.5",
+          "lean": 2.8
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "ORST",
+          "price": -440,
+          "stake": 100.0,
+          "pick": "ORST ML -440"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "UTEP",
+            "pick": "UTEP ML +340",
+            "line": 340,
+            "price": 340,
+            "ev": 0.104,
+            "edge": 3.3,
+            "kelly": 0.0077,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "UTEP",
+            "pick": "UTEP +10.5",
+            "line": 10.5,
+            "price": -110,
+            "ev": 0.096,
+            "edge": 2.8,
+            "kelly": 0.0264,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "UTEP",
+            "pick": "UTEP ML +340",
+            "line": 340,
+            "price": 340,
+            "ev": 0.104,
+            "edge": 3.3,
+            "kelly": 0.0077,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 20.31,
+            "bankroll_at_bet": 2637.92
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "UTEP",
+            "pick": "UTEP +10.5",
+            "line": 10.5,
+            "price": -110,
+            "ev": 0.096,
+            "edge": 2.8,
+            "kelly": 0.0264,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 69.64,
+            "bankroll_at_bet": 2637.92
+          },
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 56.5",
+            "line": 56.5,
+            "price": -110,
+            "ev": 0.056,
+            "edge": 2.2,
+            "kelly": 0.0153,
+            "confidence": "low",
+            "book": null,
+            "stake": 40.36,
+            "bankroll_at_bet": 2637.92
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401866429": {
+      "game_id": "401866429",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-27T01:00Z",
+      "locked_at": "2026-09-25T19:15:43+00:00",
+      "home": "SAC",
+      "away": "MASS",
+      "home_full": "Sacramento State Hornets",
+      "away_full": "Massachusetts Minutemen",
+      "line": {
+        "home_spread": 4.5,
+        "total": 48.5,
+        "home_ml": 160,
+        "away_ml": -192,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -3.3,
+        "proj_total": 50.2,
+        "proj_home_score": 23.5,
+        "proj_away_score": 26.8,
+        "home_win_prob": 0.3886
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "SAC",
+          "line": 4.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "SAC +4.5",
+          "lean": 1.2
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "MASS",
+          "price": -192,
+          "stake": 100.0,
+          "pick": "MASS ML -192"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
