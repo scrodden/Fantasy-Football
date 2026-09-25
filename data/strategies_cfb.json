@@ -21881,6 +21881,55 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401860891": {
+      "game_id": "401860891",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-27T02:00Z",
+      "locked_at": "2026-09-25T20:16:39+00:00",
+      "home": "FRES",
+      "away": "RICE",
+      "home_full": "Fresno State Bulldogs",
+      "away_full": "Rice Owls",
+      "line": {
+        "home_spread": -13.5,
+        "total": 44.5,
+        "home_ml": -535,
+        "away_ml": 400,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 13.8,
+        "proj_total": 43.7,
+        "proj_home_score": 28.7,
+        "proj_away_score": 15.0,
+        "home_win_prob": 0.8306
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "FRES",
+          "line": -13.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "FRES -13.5",
+          "lean": 0.3
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "FRES",
+          "price": -535,
+          "stake": 100.0,
+          "pick": "FRES ML -535"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
