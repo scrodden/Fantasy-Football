@@ -19951,6 +19951,206 @@
         ]
       },
       "settled": false
+    },
+    "401858466": {
+      "game_id": "401858466",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-26T21:00Z",
+      "locked_at": "2026-09-25T15:19:29+00:00",
+      "home": "PSU",
+      "away": "WIS",
+      "home_full": "Penn State Nittany Lions",
+      "away_full": "Wisconsin Badgers",
+      "line": {
+        "home_spread": -10.0,
+        "total": 44.5,
+        "home_ml": -380,
+        "away_ml": 300,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 11.0,
+        "proj_total": 46.3,
+        "proj_home_score": 28.6,
+        "proj_away_score": 17.6,
+        "home_win_prob": 0.781
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "PSU",
+          "line": -10.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "PSU -10",
+          "lean": 1.0
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "PSU",
+          "price": -380,
+          "stake": 100.0,
+          "pick": "PSU ML -380"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401858464": {
+      "game_id": "401858464",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-26T21:00Z",
+      "locked_at": "2026-09-25T15:19:29+00:00",
+      "home": "MSU",
+      "away": "NEB",
+      "home_full": "Michigan State Spartans",
+      "away_full": "Nebraska Cornhuskers",
+      "line": {
+        "home_spread": 5.5,
+        "total": 48.5,
+        "home_ml": 185,
+        "away_ml": -225,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -5.5,
+        "proj_total": 50.5,
+        "proj_home_score": 22.5,
+        "proj_away_score": 28.0,
+        "home_win_prob": 0.3416
+      },
+      "bets": {
+        "spread": null,
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "NEB",
+          "price": -225,
+          "stake": 100.0,
+          "pick": "NEB ML -225"
+        },
+        "value": [],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 48.5",
+            "line": 48.5,
+            "price": -110,
+            "ev": 0.047,
+            "edge": 2.0,
+            "kelly": 0.0128,
+            "confidence": "low",
+            "book": null,
+            "stake": 33.77,
+            "bankroll_at_bet": 2637.92
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401862785": {
+      "game_id": "401862785",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-26T21:00Z",
+      "locked_at": "2026-09-25T15:19:29+00:00",
+      "home": "BGSU",
+      "away": "USF",
+      "home_full": "Bowling Green Falcons",
+      "away_full": "South Florida Bulls",
+      "line": {
+        "home_spread": 17.5,
+        "total": 49.5,
+        "home_ml": 650,
+        "away_ml": -1000,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -19.0,
+        "proj_total": 51.8,
+        "proj_home_score": 16.4,
+        "proj_away_score": 35.4,
+        "home_win_prob": 0.1052
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "USF",
+          "line": -17.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "USF -17.5",
+          "lean": -1.5
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "USF",
+          "price": -1000,
+          "stake": 100.0,
+          "pick": "USF ML -1000"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "USF",
+            "pick": "USF -17.5",
+            "line": -17.5,
+            "price": -110,
+            "ev": 0.031,
+            "edge": 1.5,
+            "kelly": 0.0084,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 49.5",
+            "line": 49.5,
+            "price": -110,
+            "ev": 0.06,
+            "edge": 2.3,
+            "kelly": 0.0166,
+            "confidence": "low",
+            "book": null,
+            "stake": 43.79,
+            "bankroll_at_bet": 2637.92
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "USF",
+            "pick": "USF -17.5",
+            "line": -17.5,
+            "price": -110,
+            "ev": 0.031,
+            "edge": 1.5,
+            "kelly": 0.0084,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 22.16,
+            "bankroll_at_bet": 2637.92
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
