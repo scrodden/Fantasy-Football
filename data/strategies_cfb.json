@@ -18889,6 +18889,1068 @@
         ]
       },
       "settled": false
+    },
+    "401856700": {
+      "game_id": "401856700",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-26T19:30Z",
+      "locked_at": "2026-09-25T14:18:59+00:00",
+      "home": "UGA",
+      "away": "OU",
+      "home_full": "Georgia Bulldogs",
+      "away_full": "Oklahoma Sooners",
+      "line": {
+        "home_spread": -13.5,
+        "total": 44.5,
+        "home_ml": -550,
+        "away_ml": 410,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 13.9,
+        "proj_total": 46.4,
+        "proj_home_score": 30.1,
+        "proj_away_score": 16.2,
+        "home_win_prob": 0.8337
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "UGA",
+          "line": -13.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "UGA -13.5",
+          "lean": 0.4
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "UGA",
+          "price": -550,
+          "stake": 100.0,
+          "pick": "UGA ML -550"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401856699": {
+      "game_id": "401856699",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-26T19:30Z",
+      "locked_at": "2026-09-25T14:18:59+00:00",
+      "home": "FLA",
+      "away": "MISS",
+      "home_full": "Florida Gators",
+      "away_full": "Ole Miss Rebels",
+      "line": {
+        "home_spread": -3.5,
+        "total": 59.5,
+        "home_ml": -166,
+        "away_ml": 140,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 1.9,
+        "proj_total": 62.3,
+        "proj_home_score": 32.1,
+        "proj_away_score": 30.2,
+        "home_win_prob": 0.5845
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "MISS",
+          "line": 3.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "MISS +3.5",
+          "lean": -1.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "FLA",
+          "price": -166,
+          "stake": 100.0,
+          "pick": "FLA ML -166"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "MISS",
+            "pick": "MISS +3.5",
+            "line": 3.5,
+            "price": -110,
+            "ev": 0.036,
+            "edge": 1.6,
+            "kelly": 0.0098,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 59.5",
+            "line": 59.5,
+            "price": -110,
+            "ev": 0.083,
+            "edge": 2.8,
+            "kelly": 0.0229,
+            "confidence": "low",
+            "book": null,
+            "stake": 60.41,
+            "bankroll_at_bet": 2637.92
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "MISS",
+            "pick": "MISS +3.5",
+            "line": 3.5,
+            "price": -110,
+            "ev": 0.036,
+            "edge": 1.6,
+            "kelly": 0.0098,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 25.85,
+            "bankroll_at_bet": 2637.92
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401856816": {
+      "game_id": "401856816",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-26T19:30Z",
+      "locked_at": "2026-09-25T14:18:59+00:00",
+      "home": "ISU",
+      "away": "UTAH",
+      "home_full": "Iowa State Cyclones",
+      "away_full": "Utah Utes",
+      "line": {
+        "home_spread": 7.5,
+        "total": 47.5,
+        "home_ml": 270,
+        "away_ml": -340,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": -7.9,
+        "proj_total": 50.7,
+        "proj_home_score": 21.4,
+        "proj_away_score": 29.3,
+        "home_win_prob": 0.27
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "UTAH",
+          "line": -7.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "UTAH -7.5",
+          "lean": -0.4
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "UTAH",
+          "price": -340,
+          "stake": 100.0,
+          "pick": "UTAH ML -340"
+        },
+        "value": [],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 47.5",
+            "line": 47.5,
+            "price": -110,
+            "ev": 0.101,
+            "edge": 3.2,
+            "kelly": 0.0279,
+            "confidence": "low",
+            "book": null,
+            "stake": 73.6,
+            "bankroll_at_bet": 2637.92
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401858463": {
+      "game_id": "401858463",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-26T19:30Z",
+      "locked_at": "2026-09-25T14:18:59+00:00",
+      "home": "MICH",
+      "away": "IOWA",
+      "home_full": "Michigan Wolverines",
+      "away_full": "Iowa Hawkeyes",
+      "line": {
+        "home_spread": -5.5,
+        "total": 38.5,
+        "home_ml": -218,
+        "away_ml": 180,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 2.9,
+        "proj_total": 41.1,
+        "proj_home_score": 22.0,
+        "proj_away_score": 19.1,
+        "home_win_prob": 0.6291
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "IOWA",
+          "line": 5.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "IOWA +5.5",
+          "lean": -2.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "MICH",
+          "price": -218,
+          "stake": 100.0,
+          "pick": "MICH ML -218"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "IOWA",
+            "pick": "IOWA +5.5",
+            "line": 5.5,
+            "price": -110,
+            "ev": 0.086,
+            "edge": 2.6,
+            "kelly": 0.0236,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "IOWA",
+            "pick": "IOWA ML +180",
+            "line": 180,
+            "price": 180,
+            "ev": 0.039,
+            "edge": 2.8,
+            "kelly": 0.0054,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "IOWA",
+            "pick": "IOWA +5.5",
+            "line": 5.5,
+            "price": -110,
+            "ev": 0.086,
+            "edge": 2.6,
+            "kelly": 0.0236,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 62.25,
+            "bankroll_at_bet": 2637.92
+          },
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 38.5",
+            "line": 38.5,
+            "price": -110,
+            "ev": 0.074,
+            "edge": 2.6,
+            "kelly": 0.0204,
+            "confidence": "low",
+            "book": null,
+            "stake": 53.81,
+            "bankroll_at_bet": 2637.92
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "IOWA",
+            "pick": "IOWA ML +180",
+            "line": 180,
+            "price": 180,
+            "ev": 0.039,
+            "edge": 2.8,
+            "kelly": 0.0054,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 14.24,
+            "bankroll_at_bet": 2637.92
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401856815": {
+      "game_id": "401856815",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-26T19:30Z",
+      "locked_at": "2026-09-25T14:18:59+00:00",
+      "home": "UCF",
+      "away": "TCU",
+      "home_full": "UCF Knights",
+      "away_full": "TCU Horned Frogs",
+      "line": {
+        "home_spread": 3.0,
+        "total": 48.5,
+        "home_ml": 130,
+        "away_ml": -155,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": -2.7,
+        "proj_total": 49.3,
+        "proj_home_score": 23.3,
+        "proj_away_score": 26.0,
+        "home_win_prob": 0.422
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "UCF",
+          "line": 3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "UCF +3",
+          "lean": 0.3
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "TCU",
+          "price": -155,
+          "stake": 100.0,
+          "pick": "TCU ML -155"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401858244": {
+      "game_id": "401858244",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-26T19:30Z",
+      "locked_at": "2026-09-25T14:18:59+00:00",
+      "home": "DUKE",
+      "away": "W&M",
+      "home_full": "Duke Blue Devils",
+      "away_full": "William & Mary Tribe",
+      "line": {
+        "home_spread": -43.5,
+        "total": 62.5,
+        "home_ml": null,
+        "away_ml": null,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 34.9,
+        "proj_total": 60.8,
+        "proj_home_score": 47.8,
+        "proj_away_score": 13.0,
+        "home_win_prob": 0.995
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "W&M",
+          "line": 43.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "W&M +43.5",
+          "lean": -8.6
+        },
+        "moneyline": null,
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401860897": {
+      "game_id": "401860897",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-26T19:30Z",
+      "locked_at": "2026-09-25T14:18:59+00:00",
+      "home": "WMU",
+      "away": "BOIS",
+      "home_full": "Western Michigan Broncos",
+      "away_full": "Boise State Broncos",
+      "line": {
+        "home_spread": 7.0,
+        "total": 49.5,
+        "home_ml": 230,
+        "away_ml": -285,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": -3.3,
+        "proj_total": 50.3,
+        "proj_home_score": 23.5,
+        "proj_away_score": 26.8,
+        "home_win_prob": 0.3474
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "WMU",
+          "line": 7.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "WMU +7",
+          "lean": 3.7
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "BOIS",
+          "price": -285,
+          "stake": 100.0,
+          "pick": "BOIS ML -285"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "WMU",
+            "pick": "WMU ML +230",
+            "line": 230,
+            "price": 230,
+            "ev": 0.146,
+            "edge": 5.7,
+            "kelly": 0.0159,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "WMU",
+            "pick": "WMU +7",
+            "line": 7.0,
+            "price": -110,
+            "ev": 0.141,
+            "edge": 3.7,
+            "kelly": 0.0386,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "WMU",
+            "pick": "WMU ML +230",
+            "line": 230,
+            "price": 230,
+            "ev": 0.146,
+            "edge": 5.7,
+            "kelly": 0.0159,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 41.94,
+            "bankroll_at_bet": 2637.92
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "WMU",
+            "pick": "WMU +7",
+            "line": 7.0,
+            "price": -110,
+            "ev": 0.141,
+            "edge": 3.7,
+            "kelly": 0.0386,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 101.82,
+            "bankroll_at_bet": 2637.92
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401861970": {
+      "game_id": "401861970",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-26T19:30Z",
+      "locked_at": "2026-09-25T14:18:59+00:00",
+      "home": "M-OH",
+      "away": "CONN",
+      "home_full": "Miami (OH) RedHawks",
+      "away_full": "UConn Huskies",
+      "line": {
+        "home_spread": -3.5,
+        "total": 51.5,
+        "home_ml": -180,
+        "away_ml": 150,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 1.6,
+        "proj_total": 55.8,
+        "proj_home_score": 28.7,
+        "proj_away_score": 27.1,
+        "home_win_prob": 0.5889
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "CONN",
+          "line": 3.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "CONN +3.5",
+          "lean": -1.9
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "M-OH",
+          "price": -180,
+          "stake": 100.0,
+          "pick": "M-OH ML -180"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "CONN",
+            "pick": "CONN +3.5",
+            "line": 3.5,
+            "price": -110,
+            "ev": 0.051,
+            "edge": 1.9,
+            "kelly": 0.014,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 51.5",
+            "line": 51.5,
+            "price": -110,
+            "ev": 0.151,
+            "edge": 4.3,
+            "kelly": 0.0415,
+            "confidence": "low",
+            "book": null,
+            "stake": 109.47,
+            "bankroll_at_bet": 2637.92
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "CONN",
+            "pick": "CONN +3.5",
+            "line": 3.5,
+            "price": -110,
+            "ev": 0.051,
+            "edge": 1.9,
+            "kelly": 0.014,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 36.93,
+            "bankroll_at_bet": 2637.92
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401864579": {
+      "game_id": "401864579",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-26T19:30Z",
+      "locked_at": "2026-09-25T14:18:59+00:00",
+      "home": "NMSU",
+      "away": "UNM",
+      "home_full": "New Mexico State Aggies",
+      "away_full": "New Mexico Lobos",
+      "line": {
+        "home_spread": 11.5,
+        "total": 48.5,
+        "home_ml": 350,
+        "away_ml": -455,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": -10.5,
+        "proj_total": 49.4,
+        "proj_home_score": 19.5,
+        "proj_away_score": 29.9,
+        "home_win_prob": 0.2166
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "NMSU",
+          "line": 11.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "NMSU +11.5",
+          "lean": 1.0
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "UNM",
+          "price": -455,
+          "stake": 100.0,
+          "pick": "UNM ML -455"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401866426": {
+      "game_id": "401866426",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-26T19:30Z",
+      "locked_at": "2026-09-25T14:18:59+00:00",
+      "home": "BUFF",
+      "away": "RMU",
+      "home_full": "Buffalo Bulls",
+      "away_full": "Robert Morris Colonials",
+      "line": {
+        "home_spread": -28.5,
+        "total": 45.5,
+        "home_ml": -6500,
+        "away_ml": 2000,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 19.8,
+        "proj_total": 49.3,
+        "proj_home_score": 34.5,
+        "proj_away_score": 14.8,
+        "home_win_prob": 0.9463
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "RMU",
+          "line": 28.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "RMU +28.5",
+          "lean": -8.7
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "BUFF",
+          "price": -6500,
+          "stake": 100.0,
+          "pick": "BUFF ML -6500"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401866428": {
+      "game_id": "401866428",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-26T19:30Z",
+      "locked_at": "2026-09-25T14:18:59+00:00",
+      "home": "OHIO",
+      "away": "STO",
+      "home_full": "Ohio Bobcats",
+      "away_full": "Stonehill Skyhawks",
+      "line": {
+        "home_spread": -33.5,
+        "total": 53.5,
+        "home_ml": -20000,
+        "away_ml": 3500,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 24.1,
+        "proj_total": 56.2,
+        "proj_home_score": 40.1,
+        "proj_away_score": 16.1,
+        "home_win_prob": 0.9699
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "STO",
+          "line": 33.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "STO +33.5",
+          "lean": -9.4
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "OHIO",
+          "price": -20000,
+          "stake": 100.0,
+          "pick": "OHIO ML -20000"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401868188": {
+      "game_id": "401868188",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-26T19:30Z",
+      "locked_at": "2026-09-25T14:18:59+00:00",
+      "home": "MRSH",
+      "away": "GWEB",
+      "home_full": "Marshall Thundering Herd",
+      "away_full": "Gardner-Webb Runnin' Bulldogs",
+      "line": {
+        "home_spread": -23.5,
+        "total": 50.5,
+        "home_ml": -4000,
+        "away_ml": 1600,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 14.1,
+        "proj_total": 52.8,
+        "proj_home_score": 33.5,
+        "proj_away_score": 19.4,
+        "home_win_prob": 0.9128
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "GWEB",
+          "line": 23.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "GWEB +23.5",
+          "lean": -9.4
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "MRSH",
+          "price": -4000,
+          "stake": 100.0,
+          "pick": "MRSH ML -4000"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401856806": {
+      "game_id": "401856806",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-26T20:00Z",
+      "locked_at": "2026-09-25T14:18:59+00:00",
+      "home": "GASO",
+      "away": "HOU",
+      "home_full": "Georgia Southern Eagles",
+      "away_full": "Houston Cougars",
+      "line": {
+        "home_spread": 17.5,
+        "total": 56.5,
+        "home_ml": 675,
+        "away_ml": -1050,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": -14.5,
+        "proj_total": 55.9,
+        "proj_home_score": 20.7,
+        "proj_away_score": 35.2,
+        "home_win_prob": 0.132
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "GASO",
+          "line": 17.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "GASO +17.5",
+          "lean": 3.0
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "HOU",
+          "price": -1050,
+          "stake": 100.0,
+          "pick": "HOU ML -1050"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "GASO",
+            "pick": "GASO +17.5",
+            "line": 17.5,
+            "price": -110,
+            "ev": 0.106,
+            "edge": 3.0,
+            "kelly": 0.0291,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "GASO",
+            "pick": "GASO +17.5",
+            "line": 17.5,
+            "price": -110,
+            "ev": 0.106,
+            "edge": 3.0,
+            "kelly": 0.0291,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 76.76,
+            "bankroll_at_bet": 2637.92
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401862781": {
+      "game_id": "401862781",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-26T20:00Z",
+      "locked_at": "2026-09-25T14:18:59+00:00",
+      "home": "ECU",
+      "away": "NCCU",
+      "home_full": "East Carolina Pirates",
+      "away_full": "North Carolina Central Eagles",
+      "line": {
+        "home_spread": -35.5,
+        "total": 56.5,
+        "home_ml": -20000,
+        "away_ml": 3500,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 25.6,
+        "proj_total": 55.8,
+        "proj_home_score": 40.7,
+        "proj_away_score": 15.1,
+        "home_win_prob": 0.9728
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "NCCU",
+          "line": 35.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "NCCU +35.5",
+          "lean": -9.9
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "ECU",
+          "price": -20000,
+          "stake": 100.0,
+          "pick": "ECU ML -20000"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401856698": {
+      "game_id": "401856698",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-26T20:15Z",
+      "locked_at": "2026-09-25T14:18:59+00:00",
+      "home": "AUB",
+      "away": "VAN",
+      "home_full": "Auburn Tigers",
+      "away_full": "Vanderbilt Commodores",
+      "line": {
+        "home_spread": -9.5,
+        "total": 55.5,
+        "home_ml": -355,
+        "away_ml": 280,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 3.7,
+        "proj_total": 56.4,
+        "proj_home_score": 30.1,
+        "proj_away_score": 26.4,
+        "home_win_prob": 0.6883
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "VAN",
+          "line": 9.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "VAN +9.5",
+          "lean": -5.8
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "AUB",
+          "price": -355,
+          "stake": 100.0,
+          "pick": "AUB ML -355"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "VAN",
+            "pick": "VAN +9.5",
+            "line": 9.5,
+            "price": -110,
+            "ev": 0.242,
+            "edge": 5.8,
+            "kelly": 0.0665,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "VAN",
+            "pick": "VAN ML +280",
+            "line": 280,
+            "price": 280,
+            "ev": 0.184,
+            "edge": 5.9,
+            "kelly": 0.0165,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "VAN",
+            "pick": "VAN +9.5",
+            "line": 9.5,
+            "price": -110,
+            "ev": 0.242,
+            "edge": 5.8,
+            "kelly": 0.0665,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 175.42,
+            "bankroll_at_bet": 2637.92
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "VAN",
+            "pick": "VAN ML +280",
+            "line": 280,
+            "price": 280,
+            "ev": 0.184,
+            "edge": 5.9,
+            "kelly": 0.0165,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 43.53,
+            "bankroll_at_bet": 2637.92
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
