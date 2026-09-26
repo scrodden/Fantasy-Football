@@ -7653,7 +7653,8 @@
         "pick": "ARMY -3",
         "line": -3.0,
         "price": -110,
-        "edge": 3.2
+        "edge": 3.2,
+        "result": "win"
       },
       {
         "market": "total",
@@ -7661,10 +7662,18 @@
         "pick": "Over 48.5",
         "line": 48.5,
         "price": -110,
-        "edge": 3.2
+        "edge": 3.2,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 17,
+    "away_score": 21,
+    "actual_margin": -4,
+    "su_correct": true,
+    "brier": 0.1442,
+    "margin_err": 2.2,
+    "total_err": 13.7
   },
   "401858468": {
     "id": "401858468",

@@ -17470,7 +17470,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "ARMY -3",
-          "lean": -3.2
+          "lean": -3.2,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -17478,7 +17480,9 @@
           "team": "ARMY",
           "price": -155,
           "stake": 100.0,
-          "pick": "ARMY ML -155"
+          "pick": "ARMY ML -155",
+          "result": "win",
+          "pnl": 64.52
         },
         "value": [
           {
@@ -17493,7 +17497,9 @@
             "kelly": 0.0318,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           }
         ],
         "bankroll": [
@@ -17510,7 +17516,9 @@
             "confidence": "low",
             "book": null,
             "stake": 86.52,
-            "bankroll_at_bet": 2637.92
+            "bankroll_at_bet": 2637.92,
+            "result": "loss",
+            "pnl": -86.52
           },
           {
             "market": "spread",
@@ -17525,11 +17533,15 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 83.89,
-            "bankroll_at_bet": 2637.92
+            "bankroll_at_bet": 2637.92,
+            "result": "win",
+            "pnl": 76.26
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 17,
+      "away_score": 21
     },
     "401858468": {
       "game_id": "401858468",
@@ -21925,6 +21937,153 @@
           "price": -535,
           "stake": 100.0,
           "pick": "FRES ML -535"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401858240": {
+      "game_id": "401858240",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-27T02:30Z",
+      "locked_at": "2026-09-25T23:57:08+00:00",
+      "home": "STAN",
+      "away": "GT",
+      "home_full": "Stanford Cardinal",
+      "away_full": "Georgia Tech Yellow Jackets",
+      "line": {
+        "home_spread": 3.5,
+        "total": 48.5,
+        "home_ml": 145,
+        "away_ml": -175,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -3.6,
+        "proj_total": 49.8,
+        "proj_home_score": 23.1,
+        "proj_away_score": 26.7,
+        "home_win_prob": 0.3956
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "GT",
+          "line": -3.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "GT -3.5",
+          "lean": -0.1
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "GT",
+          "price": -175,
+          "stake": 100.0,
+          "pick": "GT ML -175"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401864509": {
+      "game_id": "401864509",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-27T02:30Z",
+      "locked_at": "2026-09-25T23:57:08+00:00",
+      "home": "NEV",
+      "away": "AFA",
+      "home_full": "Nevada Wolf Pack",
+      "away_full": "Air Force Falcons",
+      "line": {
+        "home_spread": 6.0,
+        "total": 50.5,
+        "home_ml": 195,
+        "away_ml": -238,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -6.9,
+        "proj_total": 49.8,
+        "proj_home_score": 21.5,
+        "proj_away_score": 28.4,
+        "home_win_prob": 0.318
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "AFA",
+          "line": -6.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "AFA -6",
+          "lean": -0.9
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "AFA",
+          "price": -238,
+          "stake": 100.0,
+          "pick": "AFA ML -238"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401858470": {
+      "game_id": "401858470",
+      "league": "cfb",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-27T03:00Z",
+      "locked_at": "2026-09-25T23:57:08+00:00",
+      "home": "WASH",
+      "away": "MINN",
+      "home_full": "Washington Huskies",
+      "away_full": "Minnesota Golden Gophers",
+      "line": {
+        "home_spread": -10.5,
+        "total": 45.5,
+        "home_ml": -410,
+        "away_ml": 320,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 9.4,
+        "proj_total": 46.9,
+        "proj_home_score": 28.2,
+        "proj_away_score": 18.7,
+        "home_win_prob": 0.7711
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "MINN",
+          "line": 10.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "MINN +10.5",
+          "lean": -1.1
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "WASH",
+          "price": -410,
+          "stake": 100.0,
+          "pick": "WASH ML -410"
         },
         "value": [],
         "bankroll": []

@@ -374,11 +374,11 @@
       "last_date": "2026-09-20T02:30Z"
     },
     "349": {
-      "rating": 1573.8361462757246,
+      "rating": 1589.9962753742702,
       "name": "Army",
       "abbr": "ARMY",
-      "gp": 2,
-      "last_date": "2026-09-12T16:00Z"
+      "gp": 3,
+      "last_date": "2026-09-25T20:00Z"
     },
     "2329": {
       "rating": 1466.6369998567238,
@@ -395,11 +395,11 @@
       "last_date": "2026-09-19T23:30Z"
     },
     "218": {
-      "rating": 1412.019579994455,
+      "rating": 1395.8594508959093,
       "name": "Temple",
       "abbr": "TEM",
-      "gp": 3,
-      "last_date": "2026-09-19T19:00Z"
+      "gp": 4,
+      "last_date": "2026-09-25T20:00Z"
     },
     "127": {
       "rating": 1534.9490442926594,
@@ -1733,9 +1733,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-09-24T23:30Z",
+    "last_game_date": "2026-09-25T20:00Z",
     "season": 2026,
-    "n_games": 2167,
+    "n_games": 2168,
     "signals": {
       "weather": true,
       "travel": true,
