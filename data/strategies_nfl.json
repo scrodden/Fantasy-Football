@@ -3656,6 +3656,215 @@
         ]
       },
       "settled": false
+    },
+    "401872960": {
+      "game_id": "401872960",
+      "league": "nfl",
+      "season": 2026,
+      "week": 3,
+      "kickoff": "2026-09-27T20:25Z",
+      "locked_at": "2026-09-26T18:27:12+00:00",
+      "home": "DAL",
+      "away": "BAL",
+      "home_full": "Dallas Cowboys",
+      "away_full": "Baltimore Ravens",
+      "line": {
+        "home_spread": 3.0,
+        "total": 53.5,
+        "home_ml": 140,
+        "away_ml": -166,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -2.4,
+        "proj_total": 49.4,
+        "proj_home_score": 23.5,
+        "proj_away_score": 25.9,
+        "home_win_prob": 0.411
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "DAL",
+          "line": 3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "DAL +3",
+          "lean": 0.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "BAL",
+          "price": -166,
+          "stake": 100.0,
+          "pick": "BAL ML -166"
+        },
+        "value": [],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "under",
+            "team": null,
+            "pick": "Under 53.5",
+            "line": 53.5,
+            "price": -110,
+            "ev": 0.182,
+            "edge": 4.1,
+            "kelly": 0.0501,
+            "confidence": "medium",
+            "book": null,
+            "stake": 411.19,
+            "bankroll_at_bet": 8207.36
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401872961": {
+      "game_id": "401872961",
+      "league": "nfl",
+      "season": 2026,
+      "week": 3,
+      "kickoff": "2026-09-27T20:25Z",
+      "locked_at": "2026-09-26T18:27:12+00:00",
+      "home": "NO",
+      "away": "LV",
+      "home_full": "New Orleans Saints",
+      "away_full": "Las Vegas Raiders",
+      "line": {
+        "home_spread": -3.0,
+        "total": 43.5,
+        "home_ml": -185,
+        "away_ml": 154,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 2.7,
+        "proj_total": 42.1,
+        "proj_home_score": 22.4,
+        "proj_away_score": 19.7,
+        "home_win_prob": 0.6038
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "LV",
+          "line": 3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "LV +3",
+          "lean": -0.3
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "NO",
+          "price": -185,
+          "stake": 100.0,
+          "pick": "NO ML -185"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401872962": {
+      "game_id": "401872962",
+      "league": "nfl",
+      "season": 2026,
+      "week": 3,
+      "kickoff": "2026-09-28T00:20Z",
+      "locked_at": "2026-09-26T18:27:12+00:00",
+      "home": "DEN",
+      "away": "LAR",
+      "home_full": "Denver Broncos",
+      "away_full": "Los Angeles Rams",
+      "line": {
+        "home_spread": 2.5,
+        "total": 44.5,
+        "home_ml": 110,
+        "away_ml": -130,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -0.5,
+        "proj_total": 42.0,
+        "proj_home_score": 20.8,
+        "proj_away_score": 21.2,
+        "home_win_prob": 0.474
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "DEN",
+          "line": 2.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "DEN +2.5",
+          "lean": 2.0
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "LAR",
+          "price": -130,
+          "stake": 100.0,
+          "pick": "LAR ML -130"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "DEN",
+            "pick": "DEN +2.5",
+            "line": 2.5,
+            "price": -110,
+            "ev": 0.086,
+            "edge": 2.0,
+            "kelly": 0.0237,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "under",
+            "team": null,
+            "pick": "Under 44.5",
+            "line": 44.5,
+            "price": -110,
+            "ev": 0.095,
+            "edge": 2.5,
+            "kelly": 0.0261,
+            "confidence": "low",
+            "book": null,
+            "stake": 214.21,
+            "bankroll_at_bet": 8207.36
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "DEN",
+            "pick": "DEN +2.5",
+            "line": 2.5,
+            "price": -110,
+            "ev": 0.086,
+            "edge": 2.0,
+            "kelly": 0.0237,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 194.51,
+            "bankroll_at_bet": 8207.36
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
