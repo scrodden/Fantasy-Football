@@ -17577,13 +17577,17 @@
           "price": -110,
           "stake": 100.0,
           "pick": "HOW +43.5",
-          "lean": -15.2
+          "lean": -15.2,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": null,
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 58,
+      "away_score": 7
     },
     "401862778": {
       "game_id": "401862778",
@@ -17619,7 +17623,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "NAVY -7",
-          "lean": -2.8
+          "lean": -2.8,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -17627,7 +17633,9 @@
           "team": "NAVY",
           "price": -265,
           "stake": 100.0,
-          "pick": "NAVY ML -265"
+          "pick": "NAVY ML -265",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [
           {
@@ -17642,7 +17650,9 @@
             "kelly": 0.0264,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           }
         ],
         "bankroll": [
@@ -17659,11 +17669,15 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 69.64,
-            "bankroll_at_bet": 2637.92
+            "bankroll_at_bet": 2637.92,
+            "result": "loss",
+            "pnl": -69.64
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 24,
+      "away_score": 20
     },
     "401858461": {
       "game_id": "401858461",
@@ -17699,7 +17713,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "NU +21",
-          "lean": -2.0
+          "lean": -2.0,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -17707,7 +17723,9 @@
           "team": "IU",
           "price": -2100,
           "stake": 100.0,
-          "pick": "IU ML -2100"
+          "pick": "IU ML -2100",
+          "result": "win",
+          "pnl": 4.76
         },
         "value": [
           {
@@ -17722,7 +17740,9 @@
             "kelly": 0.0153,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           }
         ],
         "bankroll": [
@@ -17739,11 +17759,15 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 40.36,
-            "bankroll_at_bet": 2637.92
+            "bankroll_at_bet": 2637.92,
+            "result": "win",
+            "pnl": 36.69
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 29,
+      "away_score": 23
     },
     "401858234": {
       "game_id": "401858234",
