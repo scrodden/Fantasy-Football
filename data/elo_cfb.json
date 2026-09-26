@@ -465,11 +465,11 @@
       "last_date": "2026-09-19T16:00Z"
     },
     "228": {
-      "rating": 1697.4051423678675,
+      "rating": 1722.330490485584,
       "name": "Clemson",
       "abbr": "CLEM",
-      "gp": 3,
-      "last_date": "2026-09-19T16:00Z"
+      "gp": 4,
+      "last_date": "2026-09-26T02:30Z"
     },
     "277": {
       "rating": 1592.6403738785561,
@@ -864,11 +864,11 @@
       "last_date": "2026-09-12T18:00Z"
     },
     "25": {
-      "rating": 1515.0890054774227,
+      "rating": 1490.1636573597061,
       "name": "California",
       "abbr": "CAL",
-      "gp": 3,
-      "last_date": "2026-09-19T19:30Z"
+      "gp": 4,
+      "last_date": "2026-09-26T02:30Z"
     },
     "302": {
       "rating": 1474.7082286094696,
@@ -1733,9 +1733,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-09-26T00:00Z",
+    "last_game_date": "2026-09-26T02:30Z",
     "season": 2026,
-    "n_games": 2171,
+    "n_games": 2172,
     "signals": {
       "weather": true,
       "travel": true,

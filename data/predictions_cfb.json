@@ -7782,10 +7782,18 @@
         "pick": "CLEM +1.5",
         "line": 1.5,
         "price": -110,
-        "edge": 1.6
+        "edge": 1.6,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 10,
+    "away_score": 24,
+    "actual_margin": -14,
+    "su_correct": true,
+    "brier": 0.2586,
+    "margin_err": 13.9,
+    "total_err": 17.0
   },
   "401856704": {
     "id": "401856704",

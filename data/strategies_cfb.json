@@ -17803,7 +17803,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "CLEM -1.5",
-          "lean": -0.2
+          "lean": -0.2,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -17811,12 +17813,16 @@
           "team": "CLEM",
           "price": -112,
           "stake": 100.0,
-          "pick": "CLEM ML -112"
+          "pick": "CLEM ML -112",
+          "result": "win",
+          "pnl": 89.29
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 10,
+      "away_score": 24
     },
     "401856704": {
       "game_id": "401856704",
