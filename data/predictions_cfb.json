@@ -9876,6 +9876,13 @@
       "away_ml": 275
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 24,
+    "away_score": 27,
+    "actual_margin": -3,
+    "su_correct": false,
+    "brier": 0.5549,
+    "margin_err": 11.4,
+    "total_err": 4.1
   }
 }

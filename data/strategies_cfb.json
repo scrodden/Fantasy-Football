@@ -22625,7 +22625,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "MINN +10.5",
-          "lean": -1.1
+          "lean": -1.1,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -22633,12 +22635,16 @@
           "team": "WASH",
           "price": -410,
           "stake": 100.0,
-          "pick": "WASH ML -410"
+          "pick": "WASH ML -410",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 24,
+      "away_score": 27
     }
   }
 }

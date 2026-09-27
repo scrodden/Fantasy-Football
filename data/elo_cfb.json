@@ -318,11 +318,11 @@
       "last_date": "2026-09-12T23:00Z"
     },
     "135": {
-      "rating": 1601.7062464669907,
+      "rating": 1639.8101033856642,
       "name": "Minnesota",
       "abbr": "MINN",
-      "gp": 3,
-      "last_date": "2026-09-19T16:00Z"
+      "gp": 4,
+      "last_date": "2026-09-27T03:00Z"
     },
     "153": {
       "rating": 1558.868009943051,
@@ -1361,11 +1361,11 @@
       "last_date": "2026-09-26T19:00Z"
     },
     "264": {
-      "rating": 1799.599600189344,
+      "rating": 1761.4957432706706,
       "name": "Washington",
       "abbr": "WASH",
-      "gp": 3,
-      "last_date": "2026-09-19T23:15Z"
+      "gp": 4,
+      "last_date": "2026-09-27T03:00Z"
     },
     "2692": {
       "rating": 1309.6195342933343,
@@ -1733,9 +1733,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-09-27T02:30Z",
+    "last_game_date": "2026-09-27T03:00Z",
     "season": 2026,
-    "n_games": 2236,
+    "n_games": 2237,
     "signals": {
       "weather": true,
       "travel": true,
