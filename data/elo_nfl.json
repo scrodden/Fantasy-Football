@@ -171,11 +171,11 @@
       "last_date": "2026-09-27T17:00Z"
     },
     "7": {
-      "rating": 1548.9841788177987,
+      "rating": 1564.2605378854619,
       "name": "Broncos",
       "abbr": "DEN",
-      "gp": 3,
-      "last_date": "2026-09-20T20:05Z"
+      "gp": 4,
+      "last_date": "2026-09-28T00:20Z"
     },
     "5": {
       "rating": 1410.5594576413594,
@@ -213,11 +213,11 @@
       "last_date": "2026-09-27T17:00Z"
     },
     "14": {
-      "rating": 1613.2670511519266,
+      "rating": 1597.9906920842634,
       "name": "Rams",
       "abbr": "LAR",
-      "gp": 4,
-      "last_date": "2026-09-22T00:15Z"
+      "gp": 5,
+      "last_date": "2026-09-28T00:20Z"
     },
     "25": {
       "rating": 1628.949733824973,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-09-27T20:25Z",
+    "last_game_date": "2026-09-28T00:20Z",
     "season": 2026,
-    "n_games": 641,
+    "n_games": 642,
     "signals": {
       "weather": true,
       "travel": true,

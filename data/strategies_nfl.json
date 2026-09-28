@@ -3931,7 +3931,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "DEN +2.5",
-          "lean": 2.0
+          "lean": 2.0,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -3939,7 +3941,9 @@
           "team": "LAR",
           "price": -130,
           "stake": 100.0,
-          "pick": "LAR ML -130"
+          "pick": "LAR ML -130",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [
           {
@@ -3954,7 +3958,9 @@
             "kelly": 0.0237,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           }
         ],
         "bankroll": [
@@ -3971,7 +3977,9 @@
             "confidence": "low",
             "book": null,
             "stake": 214.21,
-            "bankroll_at_bet": 8207.36
+            "bankroll_at_bet": 8207.36,
+            "result": "loss",
+            "pnl": -214.21
           },
           {
             "market": "spread",
@@ -3986,11 +3994,15 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 194.51,
-            "bankroll_at_bet": 8207.36
+            "bankroll_at_bet": 8207.36,
+            "result": "win",
+            "pnl": 176.83
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 30,
+      "away_score": 26
     },
     "401872963": {
       "game_id": "401872963",
