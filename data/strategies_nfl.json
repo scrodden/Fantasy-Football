@@ -3675,7 +3675,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "SF -8.5",
-          "lean": 1.1
+          "lean": 1.1,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -3683,12 +3685,16 @@
           "team": "SF",
           "price": -455,
           "stake": 100.0,
-          "pick": "SF ML -455"
+          "pick": "SF ML -455",
+          "result": "win",
+          "pnl": 21.98
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 36,
+      "away_score": 30
     },
     "401872959": {
       "game_id": "401872959",
@@ -3724,7 +3730,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "MIN -1.5",
-          "lean": -0.9
+          "lean": -0.9,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -3732,7 +3740,9 @@
           "team": "MIN",
           "price": -120,
           "stake": 100.0,
-          "pick": "MIN ML -120"
+          "pick": "MIN ML -120",
+          "result": "win",
+          "pnl": 83.33
         },
         "value": [],
         "bankroll": [
@@ -3749,11 +3759,15 @@
             "confidence": "low",
             "book": null,
             "stake": 495.72,
-            "bankroll_at_bet": 8207.36
+            "bankroll_at_bet": 8207.36,
+            "result": "win",
+            "pnl": 450.65
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 16,
+      "away_score": 23
     },
     "401872960": {
       "game_id": "401872960",
@@ -3789,7 +3803,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "DAL +3",
-          "lean": 0.6
+          "lean": 0.6,
+          "result": "push",
+          "pnl": 0.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -3797,7 +3813,9 @@
           "team": "BAL",
           "price": -166,
           "stake": 100.0,
-          "pick": "BAL ML -166"
+          "pick": "BAL ML -166",
+          "result": "win",
+          "pnl": 60.24
         },
         "value": [],
         "bankroll": [
@@ -3814,11 +3832,15 @@
             "confidence": "medium",
             "book": null,
             "stake": 411.19,
-            "bankroll_at_bet": 8207.36
+            "bankroll_at_bet": 8207.36,
+            "result": "loss",
+            "pnl": -411.19
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 31,
+      "away_score": 34
     },
     "401872961": {
       "game_id": "401872961",
@@ -3854,7 +3876,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "LV +3",
-          "lean": -0.3
+          "lean": -0.3,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -3862,12 +3886,16 @@
           "team": "NO",
           "price": -185,
           "stake": 100.0,
-          "pick": "NO ML -185"
+          "pick": "NO ML -185",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 27,
+      "away_score": 35
     },
     "401872962": {
       "game_id": "401872962",
