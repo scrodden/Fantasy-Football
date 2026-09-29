@@ -24,11 +24,11 @@
       "last_date": "2026-09-27T20:25Z"
     },
     "21": {
-      "rating": 1537.4565252817558,
+      "rating": 1513.2245111486202,
       "name": "Eagles",
       "abbr": "PHI",
-      "gp": 4,
-      "last_date": "2026-09-20T17:00Z"
+      "gp": 5,
+      "last_date": "2026-09-29T00:15Z"
     },
     "9": {
       "rating": 1504.9772177473274,
@@ -66,11 +66,11 @@
       "last_date": "2026-09-27T20:05Z"
     },
     "3": {
-      "rating": 1524.8178246858738,
+      "rating": 1549.0498388190094,
       "name": "Bears",
       "abbr": "CHI",
-      "gp": 4,
-      "last_date": "2026-09-20T17:00Z"
+      "gp": 5,
+      "last_date": "2026-09-29T00:15Z"
     },
     "10": {
       "rating": 1338.5488076850743,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-09-28T00:20Z",
+    "last_game_date": "2026-09-29T00:15Z",
     "season": 2026,
-    "n_games": 642,
+    "n_games": 643,
     "signals": {
       "weather": true,
       "travel": true,

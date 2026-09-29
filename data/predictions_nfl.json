@@ -1846,7 +1846,8 @@
         "pick": "CHI +3.5",
         "line": 3.5,
         "price": -110,
-        "edge": 3.5
+        "edge": 3.5,
+        "result": "win"
       },
       {
         "market": "moneyline",
@@ -1854,10 +1855,18 @@
         "pick": "CHI ML +154",
         "line": 154,
         "price": 154,
-        "edge": 8.4
+        "edge": 8.4,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 27,
+    "away_score": 7,
+    "actual_margin": 20,
+    "su_correct": false,
+    "brier": 0.2898,
+    "margin_err": 20.0,
+    "total_err": 9.9
   },
   "401872964": {
     "id": "401872964",

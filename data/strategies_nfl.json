@@ -4038,7 +4038,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "CHI +4.5",
-          "lean": 4.2
+          "lean": 4.2,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -4046,7 +4048,9 @@
           "team": "PHI",
           "price": -205,
           "stake": 100.0,
-          "pick": "PHI ML -205"
+          "pick": "PHI ML -205",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [
           {
@@ -4061,7 +4065,9 @@
             "kelly": 0.0623,
             "confidence": "medium",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           },
           {
             "market": "moneyline",
@@ -4075,7 +4081,9 @@
             "kelly": 0.0304,
             "confidence": "high",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 170.0
           }
         ],
         "bankroll": [
@@ -4092,7 +4100,9 @@
             "confidence": "medium",
             "book": "Draft Kings",
             "stake": 511.32,
-            "bankroll_at_bet": 8207.36
+            "bankroll_at_bet": 8207.36,
+            "result": "win",
+            "pnl": 464.84
           },
           {
             "market": "moneyline",
@@ -4107,11 +4117,15 @@
             "confidence": "high",
             "book": "Draft Kings",
             "stake": 249.5,
-            "bankroll_at_bet": 8207.36
+            "bankroll_at_bet": 8207.36,
+            "result": "win",
+            "pnl": 424.15
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 27,
+      "away_score": 7
     }
   }
 }
