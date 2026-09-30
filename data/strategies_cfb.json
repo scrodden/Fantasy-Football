@@ -22645,6 +22645,166 @@
       "settled": true,
       "home_score": 24,
       "away_score": 27
+    },
+    "401871049": {
+      "game_id": "401871049",
+      "league": "cfb",
+      "season": 2026,
+      "week": 5,
+      "kickoff": "2026-10-02T00:00Z",
+      "locked_at": "2026-09-30T19:02:42+00:00",
+      "home": "NMSU",
+      "away": "WKU",
+      "home_full": "New Mexico State Aggies",
+      "away_full": "Western Kentucky Hilltoppers",
+      "line": {
+        "home_spread": -2.5,
+        "total": 57.5,
+        "home_ml": -135,
+        "away_ml": 114,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 0.6,
+        "proj_total": 57.9,
+        "proj_home_score": 29.3,
+        "proj_away_score": 28.6,
+        "home_win_prob": 0.5401
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "WKU",
+          "line": 2.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "WKU +2.5",
+          "lean": -1.9
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "NMSU",
+          "price": -135,
+          "stake": 100.0,
+          "pick": "NMSU ML -135"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "WKU",
+            "pick": "WKU +2.5",
+            "line": 2.5,
+            "price": -110,
+            "ev": 0.051,
+            "edge": 1.9,
+            "kelly": 0.014,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "WKU",
+            "pick": "WKU +2.5",
+            "line": 2.5,
+            "price": -110,
+            "ev": 0.051,
+            "edge": 1.9,
+            "kelly": 0.014,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 28.36,
+            "bankroll_at_bet": 2025.88
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401862786": {
+      "game_id": "401862786",
+      "league": "cfb",
+      "season": 2026,
+      "week": 5,
+      "kickoff": "2026-10-02T01:00Z",
+      "locked_at": "2026-09-30T19:02:42+00:00",
+      "home": "TLSA",
+      "away": "UNT",
+      "home_full": "Tulsa Golden Hurricane",
+      "away_full": "North Texas Mean Green",
+      "line": {
+        "home_spread": -1.5,
+        "total": 57.5,
+        "home_ml": -120,
+        "away_ml": 100,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -1.4,
+        "proj_total": 59.3,
+        "proj_home_score": 28.9,
+        "proj_away_score": 30.4,
+        "home_win_prob": 0.4928
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "UNT",
+          "line": 1.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "UNT +1.5",
+          "lean": -2.9
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "UNT",
+          "price": 100,
+          "stake": 100.0,
+          "pick": "UNT ML +100"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "UNT",
+            "pick": "UNT +1.5",
+            "line": 1.5,
+            "price": -110,
+            "ev": 0.101,
+            "edge": 2.9,
+            "kelly": 0.0277,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "UNT",
+            "pick": "UNT +1.5",
+            "line": 1.5,
+            "price": -110,
+            "ev": 0.101,
+            "edge": 2.9,
+            "kelly": 0.0277,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 56.12,
+            "bankroll_at_bet": 2025.88
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
