@@ -22805,6 +22805,164 @@
         ]
       },
       "settled": false
+    },
+    "401858245": {
+      "game_id": "401858245",
+      "league": "cfb",
+      "season": 2026,
+      "week": 5,
+      "kickoff": "2026-10-02T23:00Z",
+      "locked_at": "2026-10-01T17:01:57+00:00",
+      "home": "VT",
+      "away": "PITT",
+      "home_full": "Virginia Tech Hokies",
+      "away_full": "Pittsburgh Panthers",
+      "line": {
+        "home_spread": -2.5,
+        "total": 54.5,
+        "home_ml": -142,
+        "away_ml": 120,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 2.3,
+        "proj_total": 53.9,
+        "proj_home_score": 28.1,
+        "proj_away_score": 25.8,
+        "home_win_prob": 0.572
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "PITT",
+          "line": 2.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "PITT +2.5",
+          "lean": -0.2
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "VT",
+          "price": -142,
+          "stake": 100.0,
+          "pick": "VT ML -142"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401871050": {
+      "game_id": "401871050",
+      "league": "cfb",
+      "season": 2026,
+      "week": 5,
+      "kickoff": "2026-10-02T23:00Z",
+      "locked_at": "2026-10-01T17:01:57+00:00",
+      "home": "DEL",
+      "away": "LIB",
+      "home_full": "Delaware Blue Hens",
+      "away_full": "Liberty Flames",
+      "line": {
+        "home_spread": 7.0,
+        "total": 49.5,
+        "home_ml": 230,
+        "away_ml": -285,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -4.4,
+        "proj_total": 50.9,
+        "proj_home_score": 23.2,
+        "proj_away_score": 27.7,
+        "home_win_prob": 0.3353
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "DEL",
+          "line": 7.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "DEL +7",
+          "lean": 2.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "LIB",
+          "price": -285,
+          "stake": 100.0,
+          "pick": "LIB ML -285"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "DEL",
+            "pick": "DEL ML +230",
+            "line": 230,
+            "price": 230,
+            "ev": 0.106,
+            "edge": 4.5,
+            "kelly": 0.0116,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "DEL",
+            "pick": "DEL +7",
+            "line": 7.0,
+            "price": -110,
+            "ev": 0.086,
+            "edge": 2.6,
+            "kelly": 0.0236,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "DEL",
+            "pick": "DEL ML +230",
+            "line": 230,
+            "price": 230,
+            "ev": 0.106,
+            "edge": 4.5,
+            "kelly": 0.0116,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 23.5,
+            "bankroll_at_bet": 2025.88
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "DEL",
+            "pick": "DEL +7",
+            "line": 7.0,
+            "price": -110,
+            "ev": 0.086,
+            "edge": 2.6,
+            "kelly": 0.0236,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 47.81,
+            "bankroll_at_bet": 2025.88
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
