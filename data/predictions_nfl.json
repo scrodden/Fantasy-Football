@@ -1890,7 +1890,8 @@
         "pick": "Under 38.5",
         "line": 38.5,
         "price": -110,
-        "edge": 2.7
+        "edge": 2.7,
+        "result": "loss"
       },
       {
         "market": "spread",
@@ -1898,10 +1899,18 @@
         "pick": "CLE +2.5",
         "line": 2.5,
         "price": -110,
-        "edge": 1.5
+        "edge": 1.5,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 27,
+    "away_score": 24,
+    "actual_margin": 3,
+    "su_correct": false,
+    "brier": 0.2978,
+    "margin_err": 4.0,
+    "total_err": 15.2
   },
   "401872965": {
     "id": "401872965",

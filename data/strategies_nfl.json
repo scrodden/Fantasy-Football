@@ -4161,7 +4161,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "CLE +2.5",
-          "lean": 1.5
+          "lean": 1.5,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -4169,7 +4171,9 @@
           "team": "PIT",
           "price": -148,
           "stake": 100.0,
-          "pick": "PIT ML -148"
+          "pick": "PIT ML -148",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [
           {
@@ -4184,7 +4188,9 @@
             "kelly": 0.0147,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           }
         ],
         "bankroll": [
@@ -4201,7 +4207,9 @@
             "confidence": "low",
             "book": null,
             "stake": 197.04,
-            "bankroll_at_bet": 8566.81
+            "bankroll_at_bet": 8566.81,
+            "result": "loss",
+            "pnl": -197.04
           },
           {
             "market": "spread",
@@ -4216,11 +4224,15 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 125.93,
-            "bankroll_at_bet": 8566.81
+            "bankroll_at_bet": 8566.81,
+            "result": "win",
+            "pnl": 114.48
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 27,
+      "away_score": 24
     }
   }
 }

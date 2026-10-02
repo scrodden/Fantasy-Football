@@ -9907,10 +9907,18 @@
         "pick": "Over 53.5",
         "line": 53.5,
         "price": -110,
-        "edge": 2.5
+        "edge": 2.5,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 34,
+    "away_score": 13,
+    "actual_margin": 21,
+    "su_correct": true,
+    "brier": 0.2271,
+    "margin_err": 20.8,
+    "total_err": 9.0
   },
   "401862786": {
     "id": "401862786",
@@ -9934,10 +9942,18 @@
         "pick": "UNT +1.5",
         "line": 1.5,
         "price": -110,
-        "edge": 2.9
+        "edge": 2.9,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 44,
+    "away_score": 45,
+    "actual_margin": -1,
+    "su_correct": true,
+    "brier": 0.2479,
+    "margin_err": 0.4,
+    "total_err": 29.7
   },
   "401858245": {
     "id": "401858245",

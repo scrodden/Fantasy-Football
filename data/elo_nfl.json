@@ -45,11 +45,11 @@
       "last_date": "2026-09-25T00:15Z"
     },
     "23": {
-      "rating": 1481.2485886425643,
+      "rating": 1467.8198193488195,
       "name": "Steelers",
       "abbr": "PIT",
-      "gp": 4,
-      "last_date": "2026-09-27T17:00Z"
+      "gp": 5,
+      "last_date": "2026-10-02T00:15Z"
     },
     "2": {
       "rating": 1658.6173354680195,
@@ -178,11 +178,11 @@
       "last_date": "2026-09-28T00:20Z"
     },
     "5": {
-      "rating": 1410.5594576413594,
+      "rating": 1423.9882269351042,
       "name": "Browns",
       "abbr": "CLE",
-      "gp": 5,
-      "last_date": "2026-09-27T17:00Z"
+      "gp": 6,
+      "last_date": "2026-10-02T00:15Z"
     },
     "6": {
       "rating": 1505.1461052028842,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-09-29T00:15Z",
+    "last_game_date": "2026-10-02T00:15Z",
     "season": 2026,
-    "n_games": 643,
+    "n_games": 644,
     "signals": {
       "weather": true,
       "travel": true,
