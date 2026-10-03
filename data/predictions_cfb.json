@@ -9971,7 +9971,14 @@
       "away_ml": 154
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 33,
+    "away_score": 35,
+    "actual_margin": -2,
+    "su_correct": false,
+    "brier": 0.3738,
+    "margin_err": 5.0,
+    "total_err": 15.0
   },
   "401871050": {
     "id": "401871050",
@@ -9995,7 +10002,8 @@
         "pick": "DEL ML +220",
         "line": 220,
         "price": 220,
-        "edge": 4.0
+        "edge": 4.0,
+        "result": "loss"
       },
       {
         "market": "spread",
@@ -10003,10 +10011,18 @@
         "pick": "DEL +7",
         "line": 7.0,
         "price": -110,
-        "edge": 2.6
+        "edge": 2.6,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 14,
+    "away_score": 30,
+    "actual_margin": -16,
+    "su_correct": true,
+    "brier": 0.1155,
+    "margin_err": 11.6,
+    "total_err": 6.9
   },
   "401858476": {
     "id": "401858476",
@@ -10030,10 +10046,18 @@
         "pick": "Over 45.5",
         "line": 45.5,
         "price": -110,
-        "edge": 2.2
+        "edge": 2.2,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 34,
+    "away_score": 13,
+    "actual_margin": 21,
+    "su_correct": false,
+    "brier": 0.2934,
+    "margin_err": 22.3,
+    "total_err": 0.7
   },
   "401858250": {
     "id": "401858250",

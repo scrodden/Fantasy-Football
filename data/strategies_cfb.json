@@ -22860,7 +22860,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "PITT +2.5",
-          "lean": -0.2
+          "lean": -0.2,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -22868,12 +22870,16 @@
           "team": "VT",
           "price": -142,
           "stake": 100.0,
-          "pick": "VT ML -142"
+          "pick": "VT ML -142",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 33,
+      "away_score": 35
     },
     "401871050": {
       "game_id": "401871050",
@@ -22909,7 +22915,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "DEL +7",
-          "lean": 2.6
+          "lean": 2.6,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -22917,7 +22925,9 @@
           "team": "LIB",
           "price": -285,
           "stake": 100.0,
-          "pick": "LIB ML -285"
+          "pick": "LIB ML -285",
+          "result": "win",
+          "pnl": 35.09
         },
         "value": [
           {
@@ -22932,7 +22942,9 @@
             "kelly": 0.0116,
             "confidence": "medium",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           },
           {
             "market": "spread",
@@ -22946,7 +22958,9 @@
             "kelly": 0.0236,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           }
         ],
         "bankroll": [
@@ -22963,7 +22977,9 @@
             "confidence": "medium",
             "book": "DraftKings",
             "stake": 23.5,
-            "bankroll_at_bet": 2025.88
+            "bankroll_at_bet": 2025.88,
+            "result": "loss",
+            "pnl": -23.5
           },
           {
             "market": "spread",
@@ -22978,11 +22994,15 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 47.81,
-            "bankroll_at_bet": 2025.88
+            "bankroll_at_bet": 2025.88,
+            "result": "loss",
+            "pnl": -47.81
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 14,
+      "away_score": 30
     },
     "401858476": {
       "game_id": "401858476",
@@ -23018,7 +23038,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "NU +3",
-          "lean": 1.4
+          "lean": 1.4,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -23026,7 +23048,9 @@
           "team": "PSU",
           "price": -148,
           "stake": 100.0,
-          "pick": "PSU ML -148"
+          "pick": "PSU ML -148",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [],
         "bankroll": [
@@ -23043,11 +23067,15 @@
             "confidence": "low",
             "book": null,
             "stake": 31.0,
-            "bankroll_at_bet": 2025.88
+            "bankroll_at_bet": 2025.88,
+            "result": "win",
+            "pnl": 28.18
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 34,
+      "away_score": 13
     },
     "401862787": {
       "game_id": "401862787",
