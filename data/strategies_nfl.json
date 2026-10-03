@@ -5007,6 +5007,399 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401872974": {
+      "game_id": "401872974",
+      "league": "nfl",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-10-04T20:05Z",
+      "locked_at": "2026-10-03T17:07:45+00:00",
+      "home": "MIN",
+      "away": "MIA",
+      "home_full": "Minnesota Vikings",
+      "away_full": "Miami Dolphins",
+      "line": {
+        "home_spread": -10.0,
+        "total": 38.5,
+        "home_ml": -520,
+        "away_ml": 390,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 10.1,
+        "proj_total": 34.1,
+        "proj_home_score": 22.1,
+        "proj_away_score": 12.0,
+        "home_win_prob": 0.8077
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "MIN",
+          "line": -10.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "MIN -10",
+          "lean": 0.1
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "MIN",
+          "price": -520,
+          "stake": 100.0,
+          "pick": "MIN ML -520"
+        },
+        "value": [],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "under",
+            "team": null,
+            "pick": "Under 38.5",
+            "line": 38.5,
+            "price": -110,
+            "ev": 0.198,
+            "edge": 4.4,
+            "kelly": 0.0546,
+            "confidence": "medium",
+            "book": null,
+            "stake": 463.24,
+            "bankroll_at_bet": 8484.25
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401872976": {
+      "game_id": "401872976",
+      "league": "nfl",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-10-04T20:25Z",
+      "locked_at": "2026-10-03T17:07:45+00:00",
+      "home": "LV",
+      "away": "KC",
+      "home_full": "Las Vegas Raiders",
+      "away_full": "Kansas City Chiefs",
+      "line": {
+        "home_spread": 4.5,
+        "total": 47.5,
+        "home_ml": 185,
+        "away_ml": -225,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -1.7,
+        "proj_total": 43.1,
+        "proj_home_score": 20.7,
+        "proj_away_score": 22.4,
+        "home_win_prob": 0.4075
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "LV",
+          "line": 4.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "LV +4.5",
+          "lean": 2.8
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "KC",
+          "price": -225,
+          "stake": 100.0,
+          "pick": "KC ML -225"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "LV",
+            "pick": "LV ML +185",
+            "line": 185,
+            "price": 185,
+            "ev": 0.161,
+            "edge": 7.1,
+            "kelly": 0.0218,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "LV",
+            "pick": "LV +4.5",
+            "line": 4.5,
+            "price": -110,
+            "ev": 0.138,
+            "edge": 2.8,
+            "kelly": 0.038,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "under",
+            "team": null,
+            "pick": "Under 47.5",
+            "line": 47.5,
+            "price": -110,
+            "ev": 0.198,
+            "edge": 4.4,
+            "kelly": 0.0546,
+            "confidence": "medium",
+            "book": null,
+            "stake": 463.24,
+            "bankroll_at_bet": 8484.25
+          },
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "LV",
+            "pick": "LV ML +185",
+            "line": 185,
+            "price": 185,
+            "ev": 0.161,
+            "edge": 7.1,
+            "kelly": 0.0218,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 184.96,
+            "bankroll_at_bet": 8484.25
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "LV",
+            "pick": "LV +4.5",
+            "line": 4.5,
+            "price": -110,
+            "ev": 0.138,
+            "edge": 2.8,
+            "kelly": 0.038,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 322.4,
+            "bankroll_at_bet": 8484.25
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401872975": {
+      "game_id": "401872975",
+      "league": "nfl",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-10-04T20:25Z",
+      "locked_at": "2026-10-03T17:07:45+00:00",
+      "home": "SF",
+      "away": "DEN",
+      "home_full": "San Francisco 49ers",
+      "away_full": "Denver Broncos",
+      "line": {
+        "home_spread": -3.0,
+        "total": 47.5,
+        "home_ml": -148,
+        "away_ml": 124,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 4.8,
+        "proj_total": 48.4,
+        "proj_home_score": 26.6,
+        "proj_away_score": 21.8,
+        "home_win_prob": 0.6324
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "SF",
+          "line": -3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "SF -3",
+          "lean": 1.8
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "SF",
+          "price": -148,
+          "stake": 100.0,
+          "pick": "SF ML -148"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "SF",
+            "pick": "SF -3",
+            "line": -3.0,
+            "price": -110,
+            "ev": 0.073,
+            "edge": 1.8,
+            "kelly": 0.0201,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "SF",
+            "pick": "SF ML -148",
+            "line": -148,
+            "price": -148,
+            "ev": 0.06,
+            "edge": 6.0,
+            "kelly": 0.0221,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "SF",
+            "pick": "SF -3",
+            "line": -3.0,
+            "price": -110,
+            "ev": 0.073,
+            "edge": 1.8,
+            "kelly": 0.0201,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 170.53,
+            "bankroll_at_bet": 8484.25
+          },
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "SF",
+            "pick": "SF ML -148",
+            "line": -148,
+            "price": -148,
+            "ev": 0.06,
+            "edge": 6.0,
+            "kelly": 0.0221,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 187.5,
+            "bankroll_at_bet": 8484.25
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401872977": {
+      "game_id": "401872977",
+      "league": "nfl",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-10-04T20:25Z",
+      "locked_at": "2026-10-03T17:07:45+00:00",
+      "home": "SEA",
+      "away": "LAC",
+      "home_full": "Seattle Seahawks",
+      "away_full": "Los Angeles Chargers",
+      "line": {
+        "home_spread": -7.0,
+        "total": 42.5,
+        "home_ml": -375,
+        "away_ml": 295,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 8.6,
+        "proj_total": 38.9,
+        "proj_home_score": 23.8,
+        "proj_away_score": 15.1,
+        "home_win_prob": 0.7685
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "SEA",
+          "line": -7.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "SEA -7",
+          "lean": 1.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "SEA",
+          "price": -375,
+          "stake": 100.0,
+          "pick": "SEA ML -375"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "SEA",
+            "pick": "SEA -7",
+            "line": -7.0,
+            "price": -110,
+            "ev": 0.06,
+            "edge": 1.6,
+            "kelly": 0.0165,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "under",
+            "team": null,
+            "pick": "Under 42.5",
+            "line": 42.5,
+            "price": -110,
+            "ev": 0.155,
+            "edge": 3.6,
+            "kelly": 0.0427,
+            "confidence": "low",
+            "book": null,
+            "stake": 362.28,
+            "bankroll_at_bet": 8484.25
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "SEA",
+            "pick": "SEA -7",
+            "line": -7.0,
+            "price": -110,
+            "ev": 0.06,
+            "edge": 1.6,
+            "kelly": 0.0165,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 139.99,
+            "bankroll_at_bet": 8484.25
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
