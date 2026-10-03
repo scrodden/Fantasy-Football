@@ -5400,6 +5400,130 @@
         ]
       },
       "settled": false
+    },
+    "401872978": {
+      "game_id": "401872978",
+      "league": "nfl",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-10-05T00:20Z",
+      "locked_at": "2026-10-03T20:51:29+00:00",
+      "home": "CAR",
+      "away": "DET",
+      "home_full": "Carolina Panthers",
+      "away_full": "Detroit Lions",
+      "line": {
+        "home_spread": 3.5,
+        "total": 50.5,
+        "home_ml": 150,
+        "away_ml": -180,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": -1.6,
+        "proj_total": 53.2,
+        "proj_home_score": 25.8,
+        "proj_away_score": 27.4,
+        "home_win_prob": 0.4258
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "CAR",
+          "line": 3.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "CAR +3.5",
+          "lean": 1.9
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "DET",
+          "price": -180,
+          "stake": 100.0,
+          "pick": "DET ML -180"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "CAR",
+            "pick": "CAR +3.5",
+            "line": 3.5,
+            "price": -110,
+            "ev": 0.08,
+            "edge": 1.9,
+            "kelly": 0.0219,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          },
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "CAR",
+            "pick": "CAR ML +150",
+            "line": 150,
+            "price": 150,
+            "ev": 0.065,
+            "edge": 4.2,
+            "kelly": 0.0108,
+            "confidence": "medium",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 50.5",
+            "line": 50.5,
+            "price": -110,
+            "ev": 0.106,
+            "edge": 2.7,
+            "kelly": 0.0291,
+            "confidence": "low",
+            "book": null,
+            "stake": 246.89,
+            "bankroll_at_bet": 8484.25
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "CAR",
+            "pick": "CAR +3.5",
+            "line": 3.5,
+            "price": -110,
+            "ev": 0.08,
+            "edge": 1.9,
+            "kelly": 0.0219,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 185.81,
+            "bankroll_at_bet": 8484.25
+          },
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "CAR",
+            "pick": "CAR ML +150",
+            "line": 150,
+            "price": 150,
+            "ev": 0.065,
+            "edge": 4.2,
+            "kelly": 0.0108,
+            "confidence": "medium",
+            "book": "Draft Kings",
+            "stake": 91.63,
+            "bankroll_at_bet": 8484.25
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
