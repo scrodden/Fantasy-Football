@@ -94,11 +94,11 @@
       "last_date": "2026-09-27T17:00Z"
     },
     "11": {
-      "rating": 1419.9933449110263,
+      "rating": 1448.126246516773,
       "name": "Colts",
       "abbr": "IND",
-      "gp": 4,
-      "last_date": "2026-09-27T17:00Z"
+      "gp": 5,
+      "last_date": "2026-10-04T13:30Z"
     },
     "34": {
       "rating": 1520.5305262441236,
@@ -199,11 +199,11 @@
       "last_date": "2026-09-27T20:05Z"
     },
     "28": {
-      "rating": 1444.20601009222,
+      "rating": 1416.073108486473,
       "name": "Commanders",
       "abbr": "WSH",
-      "gp": 4,
-      "last_date": "2026-09-27T17:00Z"
+      "gp": 5,
+      "last_date": "2026-10-04T13:30Z"
     },
     "8": {
       "rating": 1555.968584268105,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-10-02T00:15Z",
+    "last_game_date": "2026-10-04T13:30Z",
     "season": 2026,
-    "n_games": 644,
+    "n_games": 645,
     "signals": {
       "weather": true,
       "travel": true,

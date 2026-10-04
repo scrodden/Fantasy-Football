@@ -1934,7 +1934,8 @@
         "pick": "Over 47.5",
         "line": 47.5,
         "price": -110,
-        "edge": 4.5
+        "edge": 4.5,
+        "result": "loss"
       },
       {
         "market": "spread",
@@ -1942,7 +1943,8 @@
         "pick": "WSH +3.5",
         "line": 3.5,
         "price": -110,
-        "edge": 3.2
+        "edge": 3.2,
+        "result": "loss"
       },
       {
         "market": "moneyline",
@@ -1950,10 +1952,18 @@
         "pick": "WSH ML +154",
         "line": 154,
         "price": 154,
-        "edge": 7.6
+        "edge": 7.6,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 13,
+    "away_score": 30,
+    "actual_margin": -17,
+    "su_correct": true,
+    "brier": 0.2059,
+    "margin_err": 16.7,
+    "total_err": 9.0
   },
   "401872971": {
     "id": "401872971",
