@@ -1,0 +1,8701 @@
+{
+ "us-1000184": {
+  "cik": 1000184,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "sap.com": 39
+   },
+   "ir_urls": {
+    "https://www.sap.com/investor": 8,
+    "https://www.sap.com/investors/en/financial-documents-and-events/reporting-framework.html": 3,
+    "https://www.sap.com/investors/performance-measures": 1,
+    "https://www.sap.com/investors/sap-2026-q1-statement": 1,
+    "https://www.sap.com/investors/sap-2026-q2-statement": 1
+   }
+  },
+  "hints_mined": "2026-10-05T15:55:06Z",
+  "id": "us-1000184",
+  "industry": "Services-Prepackaged Software",
+  "listed": true,
+  "name": "Sap SE",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "tickers": [
+   "SAP"
+  ]
+ },
+ "us-1000275": {
+  "cik": 1000275,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "bankingonclimatechaos.org": 1,
+    "broadridge.com": 1,
+    "computershare.com": 4,
+    "edelman.ca": 1,
+    "envisionreports.com": 3,
+    "imf.org": 1,
+    "investorcentre.com": 3,
+    "investorvote.com": 3,
+    "oecd.org": 1,
+    "otpp.com": 1,
+    "parl.ca": 2,
+    "proxyvote.com": 4,
+    "qc.ca": 1,
+    "radio-canada.ca": 1,
+    "rbc.com": 7,
+    "rbccm.com": 1,
+    "sedarplus.com": 7,
+    "theglobeandmail.com": 1
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:55:08Z",
+  "id": "us-1000275",
+  "industry": "Commercial Banks, NEC",
+  "listed": true,
+  "name": "Royal Bank Of Canada",
+  "sector": "Financials",
+  "sic": "6029",
+  "tickers": [
+   "RY"
+  ]
+ },
+ "us-1000697": {
+  "cik": 1000697,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "waters.com": 9
+   },
+   "ir_urls": {
+    "https://ir.waters.com": 1
+   }
+  },
+  "hints_mined": "2026-10-05T15:55:10Z",
+  "id": "us-1000697",
+  "industry": "Laboratory Analytical Instruments",
+  "listed": true,
+  "name": "Waters Corp",
+  "sector": "Information Technology",
+  "sic": "3826",
+  "tickers": [
+   "WAT"
+  ]
+ },
+ "us-1001085": {
+  "cik": 1001085,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "brookfield.com": 28,
+    "media-server.com": 1,
+    "sedarplus.ca": 2,
+    "tmx.com": 1,
+    "tsxtrust.com": 1
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:55:12Z",
+  "id": "us-1001085",
+  "industry": "Opeators of  Nonresidential Buildings",
+  "listed": true,
+  "name": "Brookfield Corp",
+  "sector": "Real Estate",
+  "sic": "6512",
+  "tickers": [
+   "BN",
+   "BNH",
+   "BNJ"
+  ]
+ },
+ "us-1001838": {
+  "cik": 1001838,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:55:12Z",
+  "id": "us-1001838",
+  "industry": "Metal Mining",
+  "listed": true,
+  "name": "Southern Copper Corp/",
+  "sector": "Materials",
+  "sic": "1000",
+  "tickers": [
+   "SCCO"
+  ]
+ },
+ "us-1002047": {
+  "cik": 1002047,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "netapp.com": 20
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:55:14Z",
+  "id": "us-1002047",
+  "industry": "Computer Storage Devices",
+  "listed": true,
+  "name": "NetApp, Inc.",
+  "sector": "Information Technology",
+  "sic": "3572",
+  "tickers": [
+   "NTAP"
+  ]
+ },
+ "us-1002242": {
+  "cik": 1002242,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:55:15Z",
+  "id": "us-1002242",
+  "industry": "Crude Petroleum & Natural Gas",
+  "listed": true,
+  "name": "Eni Spa",
+  "sector": "Energy",
+  "sic": "1311",
+  "tickers": [
+   "E"
+  ]
+ },
+ "us-1004315": {
+  "cik": 1004315,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "nationalgrid.com": 1
+   },
+   "ir_urls": {
+    "https://www.nationalgrid.com/investors/events/results-centre": 1
+   }
+  },
+  "hints_mined": "2026-10-05T15:55:16Z",
+  "id": "us-1004315",
+  "industry": "Natural Gas Transmission",
+  "listed": true,
+  "name": "National Grid PLC",
+  "sector": "Utilities",
+  "sic": "4922",
+  "tickers": [
+   "NGG"
+  ]
+ },
+ "us-1004980": {
+  "cik": 1004980,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "pge-corp.com": 4,
+    "pgecorp.com": 32
+   },
+   "ir_urls": {
+    "http://investor.pgecorp.com": 8,
+    "http://investor.pgecorp.com/financials/quarterly-earnings-reports/default.aspx": 4,
+    "http://investor.pgecorp.com/news-events/events-and-presentations/default.aspx": 8
+   }
+  },
+  "hints_mined": "2026-10-05T15:55:17Z",
+  "id": "us-1004980",
+  "industry": "Electric & Other Services Combined",
+  "listed": true,
+  "name": "PG&E Corp",
+  "sector": "Utilities",
+  "sic": "4931",
+  "tickers": [
+   "PCG",
+   "PCG-PE",
+   "PCG-PD",
+   "PCG-PC",
+   "PCG-PH",
+   "PCG-PG",
+   "PCG-PI",
+   "PCG-PA",
+   "PCG-PB",
+   "PCG-PX"
+  ]
+ },
+ "us-100517": {
+  "cik": 100517,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "united.com": 16
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:55:19Z",
+  "id": "us-100517",
+  "industry": "Air Transportation, Scheduled",
+  "listed": true,
+  "name": "United Airlines Holdings, Inc.",
+  "sector": "Industrials",
+  "sic": "4512",
+  "tickers": [
+   "UAL"
+  ]
+ },
+ "us-100885": {
+  "cik": 100885,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "unionpacific.com": 2,
+    "up.com": 17
+   },
+   "ir_urls": {
+    "https://investor.unionpacific.com/financials/sec-filings": 2,
+    "https://www.up.com/investor": 4
+   }
+  },
+  "hints_mined": "2026-10-05T15:55:20Z",
+  "id": "us-100885",
+  "industry": "Railroads, Line-Haul Operating",
+  "listed": true,
+  "name": "Union Pacific Corp",
+  "sector": "Industrials",
+  "sic": "4011",
+  "tickers": [
+   "UNP"
+  ]
+ },
+ "us-1009001": {
+  "cik": 1009001,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "cameco.com": 7,
+    "computershare.com": 1,
+    "investorvote.com": 1,
+    "kingsdaleadvisors.com": 1,
+    "proxyvote.com": 1,
+    "sedarplus.ca": 1,
+    "sedarplus.com": 1
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:55:21Z",
+  "id": "us-1009001",
+  "industry": "Miscellaneous Metal Ores",
+  "listed": true,
+  "name": "Cameco Corp",
+  "sector": "Materials",
+  "sic": "1090",
+  "tickers": [
+   "CCJ"
+  ]
+ },
+ "us-1017413": {
+  "cik": 1017413,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "cnrl.com": 12,
+    "sedarplus.ca": 4
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:55:23Z",
+  "id": "us-1017413",
+  "industry": "Crude Petroleum & Natural Gas",
+  "listed": true,
+  "name": "Canadian Natural Resources Ltd",
+  "sector": "Energy",
+  "sic": "1311",
+  "tickers": [
+   "CNQ"
+  ]
+ },
+ "us-101829": {
+  "cik": 101829,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "rtx.com": 4
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:55:24Z",
+  "id": "us-101829",
+  "industry": "Aircraft Engines & Engine Parts",
+  "listed": true,
+  "name": "RTX Corp",
+  "sector": "Industrials",
+  "sic": "3724",
+  "tickers": [
+   "RTX"
+  ]
+ },
+ "us-1018724": {
+  "cik": 1018724,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "id": "us-1018724",
+  "industry": "Retail-Catalog & Mail-Order Houses",
+  "ir_source": "override",
+  "ir_url": "https://ir.aboutamazon.com",
+  "listed": true,
+  "name": "Amazon Com Inc",
+  "sector": "Consumer Discretionary",
+  "sic": "5961",
+  "tickers": [
+   "AMZN"
+  ],
+  "website": "aboutamazon.com"
+ },
+ "us-1022837": {
+  "cik": 1022837,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:55:25Z",
+  "id": "us-1022837",
+  "industry": "Commercial Banks, NEC",
+  "listed": true,
+  "name": "Sumitomo Mitsui Financial Group, Inc.",
+  "sector": "Financials",
+  "sic": "6029",
+  "tickers": [
+   "SMFG"
+  ]
+ },
+ "us-1024478": {
+  "cik": 1024478,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "rockwellautomation.com": 8
+   },
+   "ir_urls": {
+    "https://ir.rockwellautomation.com/investors": 1
+   }
+  },
+  "hints_mined": "2026-10-05T15:55:26Z",
+  "id": "us-1024478",
+  "industry": "Measuring & Controlling Devices, NEC",
+  "listed": true,
+  "name": "Rockwell Automation, Inc",
+  "sector": "Information Technology",
+  "sic": "3829",
+  "tickers": [
+   "ROK"
+  ]
+ },
+ "us-1030894": {
+  "cik": 1030894,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "celestica.com": 20,
+    "sedarplus.ca": 8
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:55:27Z",
+  "id": "us-1030894",
+  "industry": "Printed Circuit Boards",
+  "listed": true,
+  "name": "Celestica Inc",
+  "sector": "Information Technology",
+  "sic": "3672",
+  "tickers": [
+   "CLS"
+  ]
+ },
+ "us-1032208": {
+  "cik": 1032208,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "sempra.com": 12
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:55:28Z",
+  "id": "us-1032208",
+  "industry": "Gas & Other Services Combined",
+  "listed": true,
+  "name": "Sempra",
+  "sector": "Utilities",
+  "sic": "4932",
+  "tickers": [
+   "SRE",
+   "SREA"
+  ]
+ },
+ "us-1033767": {
+  "cik": 1033767,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:55:29Z",
+  "id": "us-1033767",
+  "industry": "Semiconductors & Related Devices",
+  "listed": true,
+  "name": "United Microelectronics Corp",
+  "sector": "Information Technology",
+  "sic": "3674",
+  "tickers": [
+   "UMC"
+  ]
+ },
+ "us-1035002": {
+  "cik": 1035002,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:55:29Z",
+  "id": "us-1035002",
+  "industry": "Petroleum Refining",
+  "listed": true,
+  "name": "Valero Energy Corp",
+  "sector": "Energy",
+  "sic": "2911",
+  "tickers": [
+   "VLO"
+  ]
+ },
+ "us-1035267": {
+  "cik": 1035267,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "intuitive.com": 14
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:55:30Z",
+  "id": "us-1035267",
+  "industry": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+  "listed": true,
+  "name": "Intuitive Surgical Inc",
+  "sector": "Health Care",
+  "sic": "3842",
+  "tickers": [
+   "ISRG"
+  ]
+ },
+ "us-1035983": {
+  "cik": 1035983,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "comfortsystemsusa.com": 13,
+    "media-server.com": 3
+   },
+   "ir_urls": {
+    "https://investors.comfortsystemsusa.com": 1
+   }
+  },
+  "hints_mined": "2026-10-05T15:55:31Z",
+  "id": "us-1035983",
+  "industry": "Electrical Work",
+  "listed": true,
+  "name": "Comfort Systems USA Inc",
+  "sector": "Industrials",
+  "sic": "1731",
+  "tickers": [
+   "FIX"
+  ]
+ },
+ "us-1037868": {
+  "cik": 1037868,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "ametek.com": 12
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:55:32Z",
+  "id": "us-1037868",
+  "industry": "Industrial Instruments For Measurement, Display, and Control",
+  "listed": true,
+  "name": "Ametek Inc/",
+  "sector": "Information Technology",
+  "sic": "3823",
+  "tickers": [
+   "AME"
+  ]
+ },
+ "us-1039684": {
+  "cik": 1039684,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "apollo.com": 2,
+    "oneok.com": 31
+   },
+   "ir_urls": {
+    "https://ir.oneok.com/financial-information/financial-": 1,
+    "https://ir.oneok.com/financial-information/financial-reports": 3,
+    "https://ir.oneok.com/news-and-events/events-and-presentations": 2
+   }
+  },
+  "hints_mined": "2026-10-05T15:55:33Z",
+  "id": "us-1039684",
+  "industry": "Natural Gas Transmisison & Distribution",
+  "listed": true,
+  "name": "Oneok Inc",
+  "sector": "Utilities",
+  "sic": "4923",
+  "tickers": [
+   "OKE"
+  ]
+ },
+ "us-1039765": {
+  "cik": 1039765,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "ing.com": 25
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:55:35Z",
+  "id": "us-1039765",
+  "industry": "Commercial Banks, NEC",
+  "listed": true,
+  "name": "Ing Groep NV",
+  "sector": "Financials",
+  "sic": "6029",
+  "tickers": [
+   "ING"
+  ]
+ },
+ "us-1041061": {
+  "cik": 1041061,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {},
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:55:36Z",
+  "id": "us-1041061",
+  "industry": "Retail-Eating  Places",
+  "listed": true,
+  "name": "Yum Brands Inc",
+  "sector": "Consumer Discretionary",
+  "sic": "5812",
+  "tickers": [
+   "YUM"
+  ]
+ },
+ "us-104169": {
+  "cik": 104169,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints_mined": "2026-10-05T15:55:36Z",
+  "id": "us-104169",
+  "industry": "Retail-Variety Stores",
+  "listed": true,
+  "name": "Walmart Inc.",
+  "sector": "Consumer Discretionary",
+  "sic": "5331",
+  "tickers": [
+   "WMT"
+  ]
+ },
+ "us-1045520": {
+  "cik": 1045520,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "cibc.com": 58,
+    "mediaroom.com": 2,
+    "sedarplus.com": 12,
+    "tmx.com": 6
+   },
+   "ir_urls": {
+    "https://www.cibc.com/ca/investor-relations/quarterly-results.html": 6
+   }
+  },
+  "hints_mined": "2026-10-05T15:55:44Z",
+  "id": "us-1045520",
+  "industry": "Commercial Banks, NEC",
+  "listed": true,
+  "name": "Canadian Imperial Bank Of Commerce",
+  "sector": "Financials",
+  "sic": "6029",
+  "tickers": [
+   "CM"
+  ]
+ },
+ "us-1045609": {
+  "cik": 1045609,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "prologis.com": 12
+   },
+   "ir_urls": {
+    "https://ir.prologis.com": 4
+   }
+  },
+  "hints_mined": "2026-10-05T15:55:46Z",
+  "id": "us-1045609",
+  "industry": "Real Estate Investment Trusts",
+  "listed": true,
+  "name": "Prologis, Inc.",
+  "sector": "Real Estate",
+  "sic": "6798",
+  "tickers": [
+   "PLD"
+  ]
+ },
+ "us-1045810": {
+  "cik": 1045810,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "nvidia.com": 20
+   },
+   "ir_urls": {
+    "https://investor.nvidia.com": 10
+   }
+  },
+  "hints_mined": "2026-10-05T15:55:47Z",
+  "id": "us-1045810",
+  "industry": "Semiconductors & Related Devices",
+  "listed": true,
+  "name": "Nvidia Corp",
+  "sector": "Information Technology",
+  "sic": "3674",
+  "tickers": [
+   "NVDA"
+  ]
+ },
+ "us-1047862": {
+  "cik": 1047862,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:55:47Z",
+  "id": "us-1047862",
+  "industry": "Electric & Other Services Combined",
+  "listed": true,
+  "name": "Consolidated Edison Inc",
+  "sector": "Utilities",
+  "sic": "4931",
+  "tickers": [
+   "ED"
+  ]
+ },
+ "us-1048286": {
+  "cik": 1048286,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "marriott.com": 28,
+    "marriottnewscenter.com": 8
+   },
+   "ir_urls": {
+    "https://www.marriott.com/investor": 8
+   }
+  },
+  "hints_mined": "2026-10-05T15:55:49Z",
+  "id": "us-1048286",
+  "industry": "Hotels & Motels",
+  "listed": true,
+  "name": "Marriott International Inc",
+  "sector": "Consumer Discretionary",
+  "sic": "7011",
+  "tickers": [
+   "MAR"
+  ]
+ },
+ "us-1048911": {
+  "cik": 1048911,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "fedex.com": 6
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:55:50Z",
+  "id": "us-1048911",
+  "industry": "Air Courier Services",
+  "listed": true,
+  "name": "Fedex Corp",
+  "sector": "Industrials",
+  "sic": "4513",
+  "tickers": [
+   "FDX"
+  ]
+ },
+ "us-1050446": {
+  "cik": 1050446,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints_mined": "2026-10-05T15:55:50Z",
+  "id": "us-1050446",
+  "industry": "Finance Services",
+  "listed": true,
+  "name": "Strategy Inc",
+  "sector": "Financials",
+  "sic": "6199",
+  "tickers": [
+   "MSTR",
+   "STRC",
+   "STRD",
+   "STRF",
+   "STRK"
+  ]
+ },
+ "us-1050915": {
+  "cik": 1050915,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "quantaservices.com": 20
+   },
+   "ir_urls": {
+    "http://investors.quantaservices.com": 8
+   }
+  },
+  "hints_mined": "2026-10-05T15:55:51Z",
+  "id": "us-1050915",
+  "industry": "Electrical Work",
+  "listed": true,
+  "name": "Quanta Services, Inc.",
+  "sector": "Industrials",
+  "sic": "1731",
+  "tickers": [
+   "PWR"
+  ]
+ },
+ "us-1053507": {
+  "cik": 1053507,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "americantower.com": 12
+   },
+   "ir_urls": {
+    "https://www.americantower.com/investor-relations/webcasts": 4
+   }
+  },
+  "hints_mined": "2026-10-05T15:55:53Z",
+  "id": "us-1053507",
+  "industry": "Real Estate Investment Trusts",
+  "listed": true,
+  "name": "American Tower Corp",
+  "sector": "Real Estate",
+  "sic": "6798",
+  "tickers": [
+   "AMT"
+  ]
+ },
+ "us-1058090": {
+  "cik": 1058090,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "chipotle.com": 11
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:55:53Z",
+  "id": "us-1058090",
+  "industry": "Retail-Eating  Places",
+  "listed": true,
+  "name": "Chipotle Mexican Grill Inc",
+  "sector": "Consumer Discretionary",
+  "sic": "5812",
+  "tickers": [
+   "CMG"
+  ]
+ },
+ "us-1059556": {
+  "cik": 1059556,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {},
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:55:55Z",
+  "id": "us-1059556",
+  "industry": "Services-Consumer Credit Reporting, Collection Agencies",
+  "listed": true,
+  "name": "Moodys Corp",
+  "sector": "Industrials",
+  "sic": "7320",
+  "tickers": [
+   "MCO"
+  ]
+ },
+ "us-1060391": {
+  "cik": 1060391,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:55:55Z",
+  "id": "us-1060391",
+  "industry": "Refuse Systems",
+  "listed": true,
+  "name": "Republic Services, Inc.",
+  "sector": "Industrials",
+  "sic": "4953",
+  "tickers": [
+   "RSG"
+  ]
+ },
+ "us-106040": {
+  "cik": 106040,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints_mined": "2026-10-05T15:55:56Z",
+  "id": "us-106040",
+  "industry": "Computer Storage Devices",
+  "listed": true,
+  "name": "Western Digital Corp",
+  "sector": "Information Technology",
+  "sic": "3572",
+  "tickers": [
+   "WDC"
+  ]
+ },
+ "us-1061219": {
+  "cik": 1061219,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "enterpriseproducts.com": 5
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:55:57Z",
+  "id": "us-1061219",
+  "industry": "Natural Gas Transmission",
+  "listed": true,
+  "name": "Enterprise Products Partners L.P.",
+  "sector": "Utilities",
+  "sic": "4922",
+  "tickers": [
+   "EPD"
+  ]
+ },
+ "us-1061736": {
+  "cik": 1061736,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "bmv.com.mx": 1,
+    "coca-colafemsa.com": 2,
+    "femsa.com.mx": 2,
+    "kof.com": 5
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:55:58Z",
+  "id": "us-1061736",
+  "industry": "Bottled & Canned Soft Drinks & Carbonated Waters",
+  "listed": true,
+  "name": "Mexican Economic Development Inc",
+  "sector": "Consumer Staples",
+  "sic": "2086",
+  "tickers": [
+   "FMX"
+  ]
+ },
+ "us-1063761": {
+  "cik": 1063761,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "simon.com": 4
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:56:03Z",
+  "id": "us-1063761",
+  "industry": "Real Estate Investment Trusts",
+  "listed": true,
+  "name": "Simon Property Group Inc.",
+  "sector": "Real Estate",
+  "sic": "6798",
+  "tickers": [
+   "SPG",
+   "SPG-PJ"
+  ]
+ },
+ "us-1065088": {
+  "cik": 1065088,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "ebay.com": 8,
+    "ebayinc.com": 29
+   },
+   "ir_urls": {
+    "https://investors.ebayinc.com": 20
+   }
+  },
+  "hints_mined": "2026-10-05T15:56:04Z",
+  "id": "us-1065088",
+  "industry": "Services-Business Services, NEC",
+  "listed": true,
+  "name": "Ebay Inc",
+  "sector": "Industrials",
+  "sic": "7389",
+  "tickers": [
+   "EBAY"
+  ]
+ },
+ "us-1065280": {
+  "cik": 1065280,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "netflix.net": 2,
+    "wbd.com": 3
+   },
+   "ir_urls": {
+    "https://ir.netflix.net": 1,
+    "https://ir.netflix.net/home/default.aspx": 1,
+    "https://ir.wbd.com": 1
+   }
+  },
+  "hints_mined": "2026-10-05T15:56:05Z",
+  "id": "us-1065280",
+  "industry": "Services-Video Tape Rental",
+  "listed": true,
+  "name": "Netflix Inc",
+  "sector": "Communication Services",
+  "sic": "7841",
+  "tickers": [
+   "NFLX"
+  ]
+ },
+ "us-1067491": {
+  "cik": 1067491,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {},
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:56:06Z",
+  "id": "us-1067491",
+  "industry": "Services-Computer Programming Services",
+  "listed": true,
+  "name": "Infosys Ltd",
+  "sector": "Information Technology",
+  "sic": "7371",
+  "tickers": [
+   "INFY"
+  ]
+ },
+ "us-1067701": {
+  "cik": 1067701,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "ur.com": 4
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:56:08Z",
+  "id": "us-1067701",
+  "industry": "Services-Equipment Rental & Leasing, NEC",
+  "listed": true,
+  "name": "United Rentals, Inc.",
+  "sector": "Industrials",
+  "sic": "7359",
+  "tickers": [
+   "URI"
+  ]
+ },
+ "us-1067983": {
+  "cik": 1067983,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:56:08Z",
+  "id": "us-1067983",
+  "industry": "Fire, Marine & Casualty Insurance",
+  "listed": true,
+  "name": "Berkshire Hathaway Inc",
+  "sector": "Financials",
+  "sic": "6331",
+  "tickers": [
+   "BRK-B",
+   "BRK-A"
+  ]
+ },
+ "us-1070304": {
+  "cik": 1070304,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:56:09Z",
+  "id": "us-1070304",
+  "industry": "Miscellaneous Business Credit Institution",
+  "listed": true,
+  "name": "Orix Corp",
+  "sector": "Financials",
+  "sic": "6159",
+  "tickers": [
+   "IX"
+  ]
+ },
+ "us-107263": {
+  "cik": 107263,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "media-server.com": 3,
+    "williams.com": 19
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:56:10Z",
+  "id": "us-107263",
+  "industry": "Natural Gas Transmission",
+  "listed": true,
+  "name": "Williams Companies, Inc.",
+  "sector": "Utilities",
+  "sic": "4922",
+  "tickers": [
+   "WMB"
+  ]
+ },
+ "us-1075124": {
+  "cik": 1075124,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "404media.co": 3,
+    "biometricupdate.com": 1,
+    "business-humanrights.org": 1,
+    "computershare.com": 2,
+    "fedscoop.com": 1,
+    "investorcentre.com": 1,
+    "justia.com": 1,
+    "migrationpolicy.org": 1,
+    "nytimes.com": 2,
+    "oaklandprivacy.org": 1,
+    "proxyvote.com": 1,
+    "reuters.com": 4,
+    "riskandinsurance.com": 1,
+    "sedarplus.ca": 4,
+    "sedi.ca": 1,
+    "ssrn.com": 1,
+    "thomsonreuters.com": 31,
+    "trust.org": 1
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:56:14Z",
+  "id": "us-1075124",
+  "industry": "Miscellaneous Publishing",
+  "listed": true,
+  "name": "Thomson Reuters Corp",
+  "sector": "Communication Services",
+  "sic": "2741",
+  "tickers": [
+   "TRI"
+  ]
+ },
+ "us-1075531": {
+  "cik": 1075531,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints_mined": "2026-10-05T15:56:15Z",
+  "id": "us-1075531",
+  "industry": "Transportation Services",
+  "listed": true,
+  "name": "Booking Holdings Inc.",
+  "sector": "Industrials",
+  "sic": "4700",
+  "tickers": [
+   "BKNG"
+  ]
+ },
+ "us-10795": {
+  "cik": 10795,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "bd.com": 22
+   },
+   "ir_urls": {
+    "https://www.bd.com/investors": 12
+   }
+  },
+  "hints_mined": "2026-10-05T15:56:16Z",
+  "id": "us-10795",
+  "industry": "Surgical & Medical Instruments & Apparatus",
+  "listed": true,
+  "name": "Becton Dickinson & Co",
+  "sector": "Health Care",
+  "sic": "3841",
+  "tickers": [
+   "BDX"
+  ]
+ },
+ "us-1086888": {
+  "cik": 1086888,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "manulife.com": 11,
+    "meetingdocuments.com": 2,
+    "proxyvote.com": 1,
+    "sedarplus.ca": 3,
+    "tmx.com": 1,
+    "tsxtrust.com": 1
+   },
+   "ir_urls": {
+    "https://www.manulife.com/ca/en/about-us/investors": 1,
+    "https://www.manulife.com/ca/en/about-us/investors/results-and-reports": 1,
+    "https://www.manulife.com/en/investors/results-and-reports": 1
+   }
+  },
+  "hints_mined": "2026-10-05T15:56:19Z",
+  "id": "us-1086888",
+  "industry": "Life Insurance",
+  "listed": true,
+  "name": "Manulife Financial Corp",
+  "sector": "Financials",
+  "sic": "6311",
+  "tickers": [
+   "MFC"
+  ]
+ },
+ "us-1089113": {
+  "cik": 1089113,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:56:20Z",
+  "id": "us-1089113",
+  "industry": "Savings Institution, Federally Chartered",
+  "listed": true,
+  "name": "HSBC Holdings PLC",
+  "sector": "Financials",
+  "sic": "6035",
+  "tickers": [
+   "HSBC"
+  ]
+ },
+ "us-1090012": {
+  "cik": 1090012,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "coterra.com": 2,
+    "devonenergy.com": 13,
+    "dvn.com": 3
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:56:20Z",
+  "id": "us-1090012",
+  "industry": "Crude Petroleum & Natural Gas",
+  "listed": true,
+  "name": "Devon Energy Corp",
+  "sector": "Energy",
+  "sic": "1311",
+  "tickers": [
+   "DVN"
+  ]
+ },
+ "us-1090727": {
+  "cik": 1090727,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "ups.com": 24
+   },
+   "ir_urls": {
+    "https://www.investors.ups.com": 12
+   }
+  },
+  "hints_mined": "2026-10-05T15:56:21Z",
+  "id": "us-1090727",
+  "industry": "Trucking & Courier Services (No Air)",
+  "listed": true,
+  "name": "United Parcel Service Inc",
+  "sector": "Industrials",
+  "sic": "4210",
+  "tickers": [
+   "UPS"
+  ]
+ },
+ "us-1090872": {
+  "cik": 1090872,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "agilent.com": 15
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:56:23Z",
+  "id": "us-1090872",
+  "industry": "Laboratory Analytical Instruments",
+  "listed": true,
+  "name": "Agilent Technologies, Inc.",
+  "sector": "Information Technology",
+  "sic": "3826",
+  "tickers": [
+   "A"
+  ]
+ },
+ "us-109198": {
+  "cik": 109198,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {},
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:56:24Z",
+  "id": "us-109198",
+  "industry": "Retail-Family Clothing Stores",
+  "listed": true,
+  "name": "TJX Companies Inc",
+  "sector": "Consumer Discretionary",
+  "sic": "5651",
+  "tickers": [
+   "TJX"
+  ]
+ },
+ "us-1094517": {
+  "cik": 1094517,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:56:24Z",
+  "id": "us-1094517",
+  "industry": "Motor Vehicles & Passenger Car Bodies",
+  "listed": true,
+  "name": "Toyota Motor Corp/",
+  "sector": "Consumer Discretionary",
+  "sic": "3711",
+  "tickers": [
+   "TM"
+  ]
+ },
+ "us-1097362": {
+  "cik": 1097362,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "newswire.ca": 1,
+    "sedarplus.ca": 4,
+    "sunlife.com": 16
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:56:25Z",
+  "id": "us-1097362",
+  "industry": "Life Insurance",
+  "listed": true,
+  "name": "Sun Life Financial Inc",
+  "sector": "Financials",
+  "sic": "6311",
+  "tickers": [
+   "SLF"
+  ]
+ },
+ "us-1099219": {
+  "cik": 1099219,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "metlife.com": 19
+   },
+   "ir_urls": {
+    "https://investor.metlife.com": 9
+   }
+  },
+  "hints_mined": "2026-10-05T15:56:27Z",
+  "id": "us-1099219",
+  "industry": "Life Insurance",
+  "listed": true,
+  "name": "Metlife Inc",
+  "sector": "Financials",
+  "sic": "6311",
+  "tickers": [
+   "MET",
+   "MET-PA",
+   "MET-PE",
+   "MET-PF"
+  ]
+ },
+ "us-1099590": {
+  "cik": 1099590,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "mercadolibre.com": 16
+   },
+   "ir_urls": {
+    "http://investor.mercadolibre.com": 8
+   }
+  },
+  "hints_mined": "2026-10-05T15:56:29Z",
+  "id": "us-1099590",
+  "industry": "Services-Business Services, NEC",
+  "listed": true,
+  "name": "Mercadolibre Inc",
+  "sector": "Industrials",
+  "sic": "7389",
+  "tickers": [
+   "MELI"
+  ]
+ },
+ "us-1099800": {
+  "cik": 1099800,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "edwards.com": 18
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:56:30Z",
+  "id": "us-1099800",
+  "industry": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+  "listed": true,
+  "name": "Edwards Lifesciences Corp",
+  "sector": "Health Care",
+  "sic": "3842",
+  "tickers": [
+   "EW"
+  ]
+ },
+ "us-1101239": {
+  "cik": 1101239,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "equinix.com": 20
+   },
+   "ir_urls": {
+    "https://www.equinix.com/investors": 12
+   }
+  },
+  "hints_mined": "2026-10-05T15:56:32Z",
+  "id": "us-1101239",
+  "industry": "Real Estate Investment Trusts",
+  "listed": true,
+  "name": "Equinix Inc",
+  "sector": "Real Estate",
+  "sic": "6798",
+  "tickers": [
+   "EQIX"
+  ]
+ },
+ "us-1103838": {
+  "cik": 1103838,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:56:32Z",
+  "id": "us-1103838",
+  "industry": "Commercial Banks, NEC",
+  "listed": true,
+  "name": "Icici Bank Ltd",
+  "sector": "Financials",
+  "sic": "6029",
+  "tickers": [
+   "IBN"
+  ]
+ },
+ "us-1103982": {
+  "cik": 1103982,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "mdlz.com": 8,
+    "mondelezinternational.com": 8
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:56:34Z",
+  "id": "us-1103982",
+  "industry": "Food and Kindred Products",
+  "listed": true,
+  "name": "Mondelez International, Inc.",
+  "sector": "Consumer Staples",
+  "sic": "2000",
+  "tickers": [
+   "MDLZ"
+  ]
+ },
+ "us-1108524": {
+  "cik": 1108524,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "salesforce.com": 42
+   },
+   "ir_urls": {
+    "https://www.salesforce.com/investor": 12
+   }
+  },
+  "hints_mined": "2026-10-05T15:56:35Z",
+  "id": "us-1108524",
+  "industry": "Services-Prepackaged Software",
+  "listed": true,
+  "name": "Salesforce, Inc.",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "tickers": [
+   "CRM"
+  ]
+ },
+ "us-1109357": {
+  "cik": 1109357,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "exeloncorp.com": 9
+   },
+   "ir_urls": {
+    "https://investors.exeloncorp.com": 5
+   }
+  },
+  "hints_mined": "2026-10-05T15:56:37Z",
+  "id": "us-1109357",
+  "industry": "Electric & Other Services Combined",
+  "listed": true,
+  "name": "Exelon Corp",
+  "sector": "Utilities",
+  "sic": "4931",
+  "tickers": [
+   "EXC"
+  ]
+ },
+ "us-1110646": {
+  "cik": 1110646,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "hkexnews.hk": 2,
+    "netease.com": 7
+   },
+   "ir_urls": {
+    "http://ir.netease.com": 5
+   }
+  },
+  "hints_mined": "2026-10-05T15:56:39Z",
+  "id": "us-1110646",
+  "industry": "Services-Prepackaged Software",
+  "listed": true,
+  "name": "NetEase, Inc.",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "tickers": [
+   "NTES"
+  ]
+ },
+ "us-1110803": {
+  "cik": 1110803,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "illumina.com": 12,
+    "open-exchange.net": 3
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:56:40Z",
+  "id": "us-1110803",
+  "industry": "Laboratory Analytical Instruments",
+  "listed": true,
+  "name": "Illumina, Inc.",
+  "sector": "Information Technology",
+  "sic": "3826",
+  "tickers": [
+   "ILMN"
+  ]
+ },
+ "us-1114448": {
+  "cik": 1114448,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "novartis.com": 16
+   },
+   "ir_urls": {
+    "https://www.novartis.com/investors/event-calendar": 6
+   }
+  },
+  "hints_mined": "2026-10-05T15:56:42Z",
+  "id": "us-1114448",
+  "industry": "Pharmaceutical Preparations",
+  "listed": true,
+  "name": "Novartis AG",
+  "sector": "Health Care",
+  "sic": "2834",
+  "tickers": [
+   "NVS"
+  ]
+ },
+ "us-1119639": {
+  "cik": 1119639,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:56:43Z",
+  "id": "us-1119639",
+  "industry": "Crude Petroleum & Natural Gas",
+  "listed": true,
+  "name": "Petrobras - Petroleo Brasileiro SA",
+  "sector": "Energy",
+  "sic": "1311",
+  "tickers": [
+   "PBR",
+   "PBR-A"
+  ]
+ },
+ "us-1120193": {
+  "cik": 1120193,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {},
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:56:44Z",
+  "id": "us-1120193",
+  "industry": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+  "listed": true,
+  "name": "Nasdaq, Inc.",
+  "sector": "Financials",
+  "sic": "6200",
+  "tickers": [
+   "NDAQ"
+  ]
+ },
+ "us-1121404": {
+  "cik": 1121404,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "regeneron.com": 14,
+    "sanofi.com": 75,
+    "time.com": 1
+   },
+   "ir_urls": {
+    "https://investor.regeneron.com": 2,
+    "https://investor.regeneron.com/events-and-presentations": 2,
+    "https://www.sanofi.com/en/investors/news-events/upcoming-events": 2
+   }
+  },
+  "hints_mined": "2026-10-05T15:56:45Z",
+  "id": "us-1121404",
+  "industry": "Pharmaceutical Preparations",
+  "listed": true,
+  "name": "Sanofi",
+  "sector": "Health Care",
+  "sic": "2834",
+  "tickers": [
+   "SNY"
+  ]
+ },
+ "us-1121788": {
+  "cik": 1121788,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "garmin.com": 20
+   },
+   "ir_urls": {
+    "https://investors.garmin.com/financials/sec-filings/default.aspx": 1,
+    "https://investors.garmin.com/news-and-events/default.aspx": 1,
+    "https://www.garmin.com/en-US/investors/events": 3,
+    "https://www.garmin.com/en-US/investors/sec": 3
+   }
+  },
+  "hints_mined": "2026-10-05T15:56:47Z",
+  "id": "us-1121788",
+  "industry": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
+  "listed": true,
+  "name": "Garmin Ltd",
+  "sector": "Information Technology",
+  "sic": "3812",
+  "tickers": [
+   "GRMN"
+  ]
+ },
+ "us-1122411": {
+  "cik": 1122411,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:56:47Z",
+  "id": "us-1122411",
+  "industry": "Semiconductors & Related Devices",
+  "listed": true,
+  "name": "ASE Technology Holding Co., Ltd.",
+  "sector": "Information Technology",
+  "sic": "3674",
+  "tickers": [
+   "ASX"
+  ]
+ },
+ "us-1129137": {
+  "cik": 1129137,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:56:48Z",
+  "id": "us-1129137",
+  "industry": "Telephone Communications (No Radiotelephone)",
+  "listed": true,
+  "name": "America Movil Sab De CV/",
+  "sector": "Communication Services",
+  "sic": "4813",
+  "tickers": [
+   "AMX"
+  ]
+ },
+ "us-1131399": {
+  "cik": 1131399,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:56:48Z",
+  "id": "us-1131399",
+  "industry": "Pharmaceutical Preparations",
+  "listed": true,
+  "name": "GSK plc",
+  "sector": "Health Care",
+  "sic": "2834",
+  "tickers": [
+   "GSK"
+  ]
+ },
+ "us-1132597": {
+  "cik": 1132597,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:56:49Z",
+  "id": "us-1132597",
+  "industry": "State Commercial Banks",
+  "listed": true,
+  "name": "Itau Unibanco Holding S.A.",
+  "sector": "Financials",
+  "sic": "6022",
+  "tickers": [
+   "ITUB"
+  ]
+ },
+ "us-1133421": {
+  "cik": 1133421,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "ngc.com": 8,
+    "northropgrumman.com": 4
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:56:50Z",
+  "id": "us-1133421",
+  "industry": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
+  "listed": true,
+  "name": "Northrop Grumman Corp",
+  "sector": "Information Technology",
+  "sic": "3812",
+  "tickers": [
+   "NOC"
+  ]
+ },
+ "us-1137774": {
+  "cik": 1137774,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "prudential.com": 2
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:56:51Z",
+  "id": "us-1137774",
+  "industry": "Life Insurance",
+  "listed": true,
+  "name": "Prudential Financial Inc",
+  "sector": "Financials",
+  "sic": "6311",
+  "tickers": [
+   "PRU",
+   "PFH",
+   "PRH",
+   "PRS"
+  ]
+ },
+ "us-1137789": {
+  "cik": 1137789,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "seagate.com": 12
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:56:52Z",
+  "id": "us-1137789",
+  "industry": "Computer Storage Devices",
+  "listed": true,
+  "name": "Seagate Technology Holdings plc",
+  "sector": "Information Technology",
+  "sic": "3572",
+  "tickers": [
+   "STX"
+  ]
+ },
+ "us-1138118": {
+  "cik": 1138118,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "cbre.com": 28
+   },
+   "ir_urls": {
+    "https://ir.cbre.com": 8
+   }
+  },
+  "hints_mined": "2026-10-05T15:56:54Z",
+  "id": "us-1138118",
+  "industry": "Real Estate",
+  "listed": true,
+  "name": "Cbre Group, Inc.",
+  "sector": "Real Estate",
+  "sic": "6500",
+  "tickers": [
+   "CBRE"
+  ]
+ },
+ "us-1140625": {
+  "cik": 1140625,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:56:54Z",
+  "id": "us-1140625",
+  "industry": "Petroleum Refining",
+  "listed": true,
+  "name": "Equinor ASA",
+  "sector": "Energy",
+  "sic": "2911",
+  "tickers": [
+   "EQNR"
+  ]
+ },
+ "us-1140859": {
+  "cik": 1140859,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "cencora.com": 4
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:56:55Z",
+  "id": "us-1140859",
+  "industry": "Wholesale-Drugs, Proprietaries & Druggists' Sundries",
+  "listed": true,
+  "name": "Cencora, Inc.",
+  "sector": "Health Care",
+  "sic": "5122",
+  "tickers": [
+   "COR"
+  ]
+ },
+ "us-1141391": {
+  "cik": 1141391,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "mastercard.com": 12
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:56:56Z",
+  "id": "us-1141391",
+  "industry": "Services-Business Services, NEC",
+  "listed": true,
+  "name": "Mastercard Inc",
+  "sector": "Industrials",
+  "sic": "7389",
+  "tickers": [
+   "MA"
+  ]
+ },
+ "us-1144967": {
+  "cik": 1144967,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:56:56Z",
+  "id": "us-1144967",
+  "industry": "Commercial Banks, NEC",
+  "listed": true,
+  "name": "HDFC Bank Ltd",
+  "sector": "Financials",
+  "sic": "6029",
+  "tickers": [
+   "HDB"
+  ]
+ },
+ "us-1156039": {
+  "cik": 1156039,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "elevancehealth.com": 16
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:56:58Z",
+  "id": "us-1156039",
+  "industry": "Hospital & Medical Service Plans",
+  "listed": true,
+  "name": "Elevance Health, Inc.",
+  "sector": "Financials",
+  "sic": "6324",
+  "tickers": [
+   "ELV"
+  ]
+ },
+ "us-1156375": {
+  "cik": 1156375,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "cmegroup.com": 13
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:56:59Z",
+  "id": "us-1156375",
+  "industry": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+  "listed": true,
+  "name": "Cme Group Inc.",
+  "sector": "Financials",
+  "sic": "6200",
+  "tickers": [
+   "CME"
+  ]
+ },
+ "us-1159508": {
+  "cik": 1159508,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "db.com": 7
+   },
+   "ir_urls": {
+    "https://investor-relations.db.com": 1,
+    "https://www.db.com/ir": 1
+   }
+  },
+  "hints_mined": "2026-10-05T15:57:00Z",
+  "id": "us-1159508",
+  "industry": "State Commercial Banks",
+  "listed": true,
+  "name": "Deutsche Bank Aktiengesellschaft",
+  "sector": "Financials",
+  "sic": "6022",
+  "tickers": [
+   "DB",
+   "DGP",
+   "DGZ",
+   "DZZ"
+  ]
+ },
+ "us-1160106": {
+  "cik": 1160106,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:57:01Z",
+  "id": "us-1160106",
+  "industry": "Commercial Banks, NEC",
+  "listed": true,
+  "name": "Lloyds Banking Group plc",
+  "sector": "Financials",
+  "sic": "6029",
+  "tickers": [
+   "LYG"
+  ]
+ },
+ "us-1160330": {
+  "cik": 1160330,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:57:02Z",
+  "id": "us-1160330",
+  "industry": "State Commercial Banks",
+  "listed": true,
+  "name": "Bank Bradesco",
+  "sector": "Financials",
+  "sic": "6022",
+  "tickers": [
+   "BBD",
+   "BBDO"
+  ]
+ },
+ "us-1163165": {
+  "cik": 1163165,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:57:02Z",
+  "id": "us-1163165",
+  "industry": "Petroleum Refining",
+  "listed": true,
+  "name": "Conocophillips",
+  "sector": "Energy",
+  "sic": "2911",
+  "tickers": [
+   "COP"
+  ]
+ },
+ "us-1164727": {
+  "cik": 1164727,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "newmont.com": 24
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:57:05Z",
+  "id": "us-1164727",
+  "industry": "Gold and Silver Ores",
+  "listed": true,
+  "name": "Newmont Corp",
+  "sector": "Materials",
+  "sic": "1040",
+  "tickers": [
+   "NEM"
+  ]
+ },
+ "us-1166691": {
+  "cik": 1166691,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "cmcsa.com": 1,
+    "comcast.com": 4,
+    "comcastcorporation.com": 1
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:57:06Z",
+  "id": "us-1166691",
+  "industry": "Cable & Other Pay Television Services",
+  "listed": true,
+  "name": "Comcast Corp",
+  "sector": "Communication Services",
+  "sic": "4841",
+  "tickers": [
+   "CMCSA",
+   "CCZ"
+  ]
+ },
+ "us-1176948": {
+  "cik": 1176948,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "ares.com": 5,
+    "aresmgmt.com": 15
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:57:07Z",
+  "id": "us-1176948",
+  "industry": "Investment Advice",
+  "listed": true,
+  "name": "Ares Management Corp",
+  "sector": "Financials",
+  "sic": "6282",
+  "tickers": [
+   "ARES",
+   "ARES-PB"
+  ]
+ },
+ "us-1243429": {
+  "cik": 1243429,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "arcelormittal.com": 12,
+    "media-server.com": 4
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:57:08Z",
+  "id": "us-1243429",
+  "industry": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
+  "listed": true,
+  "name": "ArcelorMittal",
+  "sector": "Materials",
+  "sic": "3312",
+  "tickers": [
+   "MT"
+  ]
+ },
+ "us-1260221": {
+  "cik": 1260221,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "media-server.com": 4,
+    "transdigm.com": 8
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:57:10Z",
+  "id": "us-1260221",
+  "industry": "Aircraft Parts & Auxiliary Equipment, NEC",
+  "listed": true,
+  "name": "TransDigm Group Inc",
+  "sector": "Industrials",
+  "sic": "3728",
+  "tickers": [
+   "TDG"
+  ]
+ },
+ "us-1262039": {
+  "cik": 1262039,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "fortinet.com": 28
+   },
+   "ir_urls": {
+    "https://investor.fortinet.com": 4,
+    "https://investor.fortinet.com/events-and-presentations": 8
+   }
+  },
+  "hints_mined": "2026-10-05T15:57:11Z",
+  "id": "us-1262039",
+  "industry": "Computer Peripheral Equipment, NEC",
+  "listed": true,
+  "name": "Fortinet, Inc.",
+  "sector": "Information Technology",
+  "sic": "3577",
+  "tickers": [
+   "FTNT"
+  ]
+ },
+ "us-1263043": {
+  "cik": 1263043,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:57:12Z",
+  "id": "us-1263043",
+  "industry": "National Commercial Banks",
+  "listed": true,
+  "name": "Shinhan Financial Group Co Ltd",
+  "sector": "Financials",
+  "sic": "6021",
+  "tickers": [
+   "SHG"
+  ]
+ },
+ "us-1276187": {
+  "cik": 1276187,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "energytransfer.com": 12,
+    "sunocolp.com": 7,
+    "usacompression.com": 4
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:57:13Z",
+  "id": "us-1276187",
+  "industry": "Natural Gas Transmission",
+  "listed": true,
+  "name": "Energy Transfer LP",
+  "sector": "Utilities",
+  "sic": "4922",
+  "tickers": [
+   "ET",
+   "ET-PI"
+  ]
+ },
+ "us-1280452": {
+  "cik": 1280452,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "monolithicpower.com": 3,
+    "zoom.us": 2
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:57:14Z",
+  "id": "us-1280452",
+  "industry": "Semiconductors & Related Devices",
+  "listed": true,
+  "name": "Monolithic Power Systems, Inc.",
+  "sector": "Information Technology",
+  "sic": "3674",
+  "tickers": [
+   "MPWR"
+  ]
+ },
+ "us-1283699": {
+  "cik": 1283699,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "t-mobile.com": 27
+   },
+   "ir_urls": {
+    "https://investor.t-mobile.com": 11
+   }
+  },
+  "hints_mined": "2026-10-05T15:57:15Z",
+  "id": "us-1283699",
+  "industry": "Radiotelephone Communications",
+  "listed": true,
+  "name": "T-Mobile US, Inc.",
+  "sector": "Communication Services",
+  "sic": "4812",
+  "tickers": [
+   "TMUS",
+   "TMUSI",
+   "TMUSL",
+   "TMUSZ"
+  ]
+ },
+ "us-12927": {
+  "cik": 12927,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:57:15Z",
+  "id": "us-12927",
+  "industry": "Aircraft",
+  "listed": true,
+  "name": "Boeing Co",
+  "sector": "Industrials",
+  "sic": "3721",
+  "tickers": [
+   "BA",
+   "BA-PA"
+  ]
+ },
+ "us-1297996": {
+  "cik": 1297996,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "digitalrealty.com": 13
+   },
+   "ir_urls": {
+    "https://investor.digitalrealty.com": 12
+   }
+  },
+  "hints_mined": "2026-10-05T15:57:20Z",
+  "id": "us-1297996",
+  "industry": "Real Estate Investment Trusts",
+  "listed": true,
+  "name": "Digital Realty Trust, Inc.",
+  "sector": "Real Estate",
+  "sic": "6798",
+  "tickers": [
+   "DLR",
+   "DLR-PK",
+   "DLR-PJ",
+   "DLR-PL"
+  ]
+ },
+ "us-1303523": {
+  "cik": 1303523,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "asmokelessworld.com": 4,
+    "bat.com": 33,
+    "citi.com": 1,
+    "computershare.co.za": 1,
+    "computershare.com": 2,
+    "investorcentre.co.uk": 1,
+    "shareholders-online.com": 1,
+    "team365.co.uk": 1
+   },
+   "ir_urls": {
+    "https://www.bat.com/ir": 4,
+    "https://www.computershare.com/uk/investor/bri": 1
+   }
+  },
+  "hints_mined": "2026-10-05T15:57:21Z",
+  "id": "us-1303523",
+  "industry": "Cigarettes",
+  "listed": true,
+  "name": "British American Tobacco p.l.c.",
+  "sector": "Consumer Staples",
+  "sic": "2111",
+  "tickers": [
+   "BTI"
+  ]
+ },
+ "us-1306965": {
+  "cik": 1306965,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "equiniti.com": 1
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:57:22Z",
+  "id": "us-1306965",
+  "industry": "Crude Petroleum & Natural Gas",
+  "listed": true,
+  "name": "Shell plc",
+  "sector": "Energy",
+  "sic": "1311",
+  "tickers": [
+   "SHEL"
+  ]
+ },
+ "us-1318220": {
+  "cik": 1318220,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "wasteconnections.com": 8
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:57:23Z",
+  "id": "us-1318220",
+  "industry": "Refuse Systems",
+  "listed": true,
+  "name": "Waste Connections, Inc.",
+  "sector": "Industrials",
+  "sic": "4953",
+  "tickers": [
+   "WCN"
+  ]
+ },
+ "us-1318605": {
+  "cik": 1318605,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "tesla.com": 12
+   },
+   "ir_urls": {
+    "https://ir.tesla.com": 9
+   }
+  },
+  "hints_mined": "2026-10-05T15:57:24Z",
+  "id": "us-1318605",
+  "industry": "Motor Vehicles & Passenger Car Bodies",
+  "listed": true,
+  "name": "Tesla, Inc.",
+  "sector": "Consumer Discretionary",
+  "sic": "3711",
+  "tickers": [
+   "TSLA"
+  ]
+ },
+ "us-1321655": {
+  "cik": 1321655,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "palantir.com": 28,
+    "palantir.events": 4
+   },
+   "ir_urls": {
+    "https://investors.palantir.com": 12
+   }
+  },
+  "hints_mined": "2026-10-05T15:57:25Z",
+  "id": "us-1321655",
+  "industry": "Services-Prepackaged Software",
+  "listed": true,
+  "name": "Palantir Technologies Inc.",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "tickers": [
+   "PLTR"
+  ]
+ },
+ "us-1323404": {
+  "cik": 1323404,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "newswire.ca": 3,
+    "sedarplus.ca": 4,
+    "wheatonpm.com": 10
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:57:27Z",
+  "id": "us-1323404",
+  "industry": "Gold and Silver Ores",
+  "listed": true,
+  "name": "Wheaton Precious Metals Corp.",
+  "sector": "Materials",
+  "sic": "1040",
+  "tickers": [
+   "WPM"
+  ]
+ },
+ "us-1326160": {
+  "cik": 1326160,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:57:27Z",
+  "id": "us-1326160",
+  "industry": "Electric & Other Services Combined",
+  "listed": true,
+  "name": "Duke Energy Corp",
+  "sector": "Utilities",
+  "sic": "4931",
+  "tickers": [
+   "DUK",
+   "DUKB",
+   "DUK-PA",
+   "DUKU"
+  ]
+ },
+ "us-1326801": {
+  "cik": 1326801,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "id": "us-1326801",
+  "industry": "Services-Computer Programming, Data Processing, Etc.",
+  "ir_source": "override",
+  "ir_url": "https://investor.atmeta.com",
+  "listed": true,
+  "name": "Meta Platforms, Inc.",
+  "sector": "Communication Services",
+  "sic": "7370",
+  "tickers": [
+   "META"
+  ],
+  "website": "meta.com"
+ },
+ "us-1327567": {
+  "cik": 1327567,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "paloaltonetworks.com": 15
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:57:28Z",
+  "id": "us-1327567",
+  "industry": "Computer Peripheral Equipment, NEC",
+  "listed": true,
+  "name": "Palo Alto Networks Inc",
+  "sector": "Information Technology",
+  "sic": "3577",
+  "tickers": [
+   "PANW"
+  ]
+ },
+ "us-1327811": {
+  "cik": 1327811,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "workday.com": 10
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:57:30Z",
+  "id": "us-1327811",
+  "industry": "Services-Computer Processing & Data Preparation",
+  "listed": true,
+  "name": "Workday, Inc.",
+  "sector": "Information Technology",
+  "sic": "7374",
+  "tickers": [
+   "WDAY"
+  ]
+ },
+ "us-1335258": {
+  "cik": 1335258,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "livenation.com": 6,
+    "livenationentertainment.com": 4
+   },
+   "ir_urls": {
+    "https://investors.livenationentertainment.com/financial-information/financial-results": 4
+   }
+  },
+  "hints_mined": "2026-10-05T15:57:31Z",
+  "id": "us-1335258",
+  "industry": "Services-Amusement & Recreation Services",
+  "listed": true,
+  "name": "Live Nation Entertainment, Inc.",
+  "sector": "Consumer Discretionary",
+  "sic": "7900",
+  "tickers": [
+   "LYV"
+  ]
+ },
+ "us-1335730": {
+  "cik": 1335730,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:57:31Z",
+  "id": "us-1335730",
+  "industry": "National Commercial Banks",
+  "listed": true,
+  "name": "Mizuho Financial Group Inc",
+  "sector": "Financials",
+  "sic": "6021",
+  "tickers": [
+   "MFG"
+  ]
+ },
+ "us-1341439": {
+  "cik": 1341439,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "oracle.com": 34
+   },
+   "ir_urls": {
+    "https://www.oracle.com/investor": 10
+   }
+  },
+  "hints_mined": "2026-10-05T15:57:33Z",
+  "id": "us-1341439",
+  "industry": "Services-Prepackaged Software",
+  "listed": true,
+  "name": "Oracle Corp",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "tickers": [
+   "ORCL",
+   "ORCL-PD"
+  ]
+ },
+ "us-1373715": {
+  "cik": 1373715,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "forrester.com": 3,
+    "servicenow.com": 21
+   },
+   "ir_urls": {
+    "https://investors.servicenow.com": 9
+   }
+  },
+  "hints_mined": "2026-10-05T15:57:34Z",
+  "id": "us-1373715",
+  "industry": "Services-Prepackaged Software",
+  "listed": true,
+  "name": "ServiceNow, Inc.",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "tickers": [
+   "NOW"
+  ]
+ },
+ "us-1381197": {
+  "cik": 1381197,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "ibkr.com": 8,
+    "interactivebrokers.com": 4,
+    "media-server.com": 4
+   },
+   "ir_urls": {
+    "https://www.interactivebrokers.com/ir": 4
+   }
+  },
+  "hints_mined": "2026-10-05T15:57:36Z",
+  "id": "us-1381197",
+  "industry": "Security Brokers, Dealers & Flotation Companies",
+  "listed": true,
+  "name": "Interactive Brokers Group, Inc.",
+  "sector": "Financials",
+  "sic": "6211",
+  "tickers": [
+   "IBKR"
+  ]
+ },
+ "us-1385157": {
+  "cik": 1385157,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "te.com": 12
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:57:38Z",
+  "id": "us-1385157",
+  "industry": "Wholesale-Electronic Parts & Equipment, NEC",
+  "listed": true,
+  "name": "TE Connectivity plc",
+  "sector": "Industrials",
+  "sic": "5065",
+  "tickers": [
+   "TEL"
+  ]
+ },
+ "us-1389170": {
+  "cik": 1389170,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "targaresources.com": 20
+   },
+   "ir_urls": {
+    "https://www.targaresources.com/investors/events": 8
+   }
+  },
+  "hints_mined": "2026-10-05T15:57:40Z",
+  "id": "us-1389170",
+  "industry": "Natural Gas Transmission",
+  "listed": true,
+  "name": "Targa Resources Corp.",
+  "sector": "Utilities",
+  "sic": "4922",
+  "tickers": [
+   "TRGP"
+  ]
+ },
+ "us-1390777": {
+  "cik": 1390777,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "bny.com": 20
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:57:42Z",
+  "id": "us-1390777",
+  "industry": "State Commercial Banks",
+  "listed": true,
+  "name": "Bank of New York Mellon Corp",
+  "sector": "Financials",
+  "sic": "6022",
+  "tickers": [
+   "BNY",
+   "BNY-PK"
+  ]
+ },
+ "us-1393052": {
+  "cik": 1393052,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "registrations.events": 1,
+    "veeva.com": 10
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:57:43Z",
+  "id": "us-1393052",
+  "industry": "Services-Prepackaged Software",
+  "listed": true,
+  "name": "Veeva Systems Inc",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "tickers": [
+   "VEEV"
+  ]
+ },
+ "us-1393311": {
+  "cik": 1393311,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "kekstcnc.com": 2,
+    "nsareit.net": 3,
+    "nsastorage.com": 3,
+    "publicstorage.com": 18
+   },
+   "ir_urls": {
+    "https://investors.publicstorage.com/financial-reports/sec-filings": 2,
+    "https://ir.nsastorage.com/sec-filings/all-sec-filings": 2
+   }
+  },
+  "hints_mined": "2026-10-05T15:57:44Z",
+  "id": "us-1393311",
+  "industry": "Real Estate Investment Trusts",
+  "listed": true,
+  "name": "Public Storage",
+  "sector": "Real Estate",
+  "sic": "6798",
+  "tickers": [
+   "PSA",
+   "PSA-PH",
+   "PSA-PU",
+   "PSA-PF",
+   "PSA-PG",
+   "PSA-PI",
+   "PSA-PJ",
+   "PSA-PK",
+   "PSA-PL",
+   "PSA-PM",
+   "PSA-PN",
+   "PSA-PO",
+   "PSA-PP",
+   "PSA-PQ",
+   "PSA-PR",
+   "PSA-PS",
+   "PSA-PT"
+  ]
+ },
+ "us-1393818": {
+  "cik": 1393818,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "blackstone.com": 24
+   },
+   "ir_urls": {
+    "https://ir.blackstone.com": 4
+   }
+  },
+  "hints_mined": "2026-10-05T15:57:49Z",
+  "id": "us-1393818",
+  "industry": "Investment Advice",
+  "listed": true,
+  "name": "Blackstone Inc.",
+  "sector": "Financials",
+  "sic": "6282",
+  "tickers": [
+   "BX"
+  ]
+ },
+ "us-1395064": {
+  "cik": 1395064,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "clinicaltrials.gov": 8,
+    "nih.gov": 1,
+    "takeda.com": 5
+   },
+   "ir_urls": {
+    "https://assets-dam.takeda.com/image/upload/v1753839858/Global/Investor/Financial-": 1,
+    "https://www.takeda.com/investors/sec-filings-and-security-": 1
+   }
+  },
+  "hints_mined": "2026-10-05T15:57:50Z",
+  "id": "us-1395064",
+  "industry": "Pharmaceutical Preparations",
+  "listed": true,
+  "name": "Takeda Pharmaceutical Co Ltd",
+  "sector": "Health Care",
+  "sic": "2834",
+  "tickers": [
+   "TAK"
+  ]
+ },
+ "us-1403161": {
+  "cik": 1403161,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "visa.com": 8
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:57:51Z",
+  "id": "us-1403161",
+  "industry": "Services-Business Services, NEC",
+  "listed": true,
+  "name": "Visa Inc.",
+  "sector": "Industrials",
+  "sic": "7389",
+  "tickers": [
+   "V"
+  ]
+ },
+ "us-1404912": {
+  "cik": 1404912,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:57:51Z",
+  "id": "us-1404912",
+  "industry": "Investment Advice",
+  "listed": true,
+  "name": "KKR & Co. Inc.",
+  "sector": "Financials",
+  "sic": "6282",
+  "tickers": [
+   "KKR",
+   "KKR-PD",
+   "KKRS",
+   "KKRT"
+  ]
+ },
+ "us-1408198": {
+  "cik": 1408198,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "msci.com": 28
+   },
+   "ir_urls": {
+    "http://ir.msci.com": 3,
+    "http://ir.msci.com/email-alerts": 4,
+    "https://ir.msci.com": 1,
+    "https://ir.msci.com/events-and-presentations": 4
+   }
+  },
+  "hints_mined": "2026-10-05T15:57:53Z",
+  "id": "us-1408198",
+  "industry": "Services-Business Services, NEC",
+  "listed": true,
+  "name": "Msci Inc.",
+  "sector": "Industrials",
+  "sic": "7389",
+  "tickers": [
+   "MSCI"
+  ]
+ },
+ "us-1413329": {
+  "cik": 1413329,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "pmi.com": 18,
+    "pmiscience.com": 5
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:57:54Z",
+  "id": "us-1413329",
+  "industry": "Cigarettes",
+  "listed": true,
+  "name": "Philip Morris International Inc.",
+  "sector": "Consumer Staples",
+  "sic": "2111",
+  "tickers": [
+   "PM"
+  ]
+ },
+ "us-1413447": {
+  "cik": 1413447,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "nxp.com": 24
+   },
+   "ir_urls": {
+    "https://investors.nxp.com": 4,
+    "https://www.nxp.com/investor": 4
+   }
+  },
+  "hints_mined": "2026-10-05T15:57:55Z",
+  "id": "us-1413447",
+  "industry": "Semiconductors & Related Devices",
+  "listed": true,
+  "name": "NXP Semiconductors N.V.",
+  "sector": "Information Technology",
+  "sic": "3674",
+  "tickers": [
+   "NXPI"
+  ]
+ },
+ "us-1418135": {
+  "cik": 1418135,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "h-advisors.global": 2,
+    "kdrp.com": 1,
+    "keurigdrpepper.com": 2
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:57:56Z",
+  "id": "us-1418135",
+  "industry": "Beverages",
+  "listed": true,
+  "name": "Keurig Dr Pepper Inc.",
+  "sector": "Consumer Staples",
+  "sic": "2080",
+  "tickers": [
+   "KDP"
+  ]
+ },
+ "us-14272": {
+  "cik": 14272,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "bms.com": 32
+   },
+   "ir_urls": {
+    "http://investor.bms.com": 12
+   }
+  },
+  "hints_mined": "2026-10-05T15:57:57Z",
+  "id": "us-14272",
+  "industry": "Pharmaceutical Preparations",
+  "listed": true,
+  "name": "Bristol Myers Squibb Co",
+  "sector": "Health Care",
+  "sic": "2834",
+  "tickers": [
+   "BMY",
+   "CELG-RI"
+  ]
+ },
+ "us-1437107": {
+  "cik": 1437107,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "paramount.com": 2,
+    "wbd.com": 30
+   },
+   "ir_urls": {
+    "https://ir.paramount.com/sec-filings/paramount": 2,
+    "https://ir.wbd.com": 9
+   }
+  },
+  "hints_mined": "2026-10-05T15:57:58Z",
+  "id": "us-1437107",
+  "industry": "Cable & Other Pay Television Services",
+  "listed": true,
+  "name": "Warner Bros. Discovery, Inc.",
+  "sector": "Communication Services",
+  "sic": "4841",
+  "tickers": [
+   "WBD"
+  ]
+ },
+ "us-1445930": {
+  "cik": 1445930,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:57:59Z",
+  "id": "us-1445930",
+  "industry": "Commercial Banks, NEC",
+  "listed": true,
+  "name": "KB Financial Group Inc.",
+  "sector": "Financials",
+  "sic": "6029",
+  "tickers": [
+   "KB"
+  ]
+ },
+ "us-1447669": {
+  "cik": 1447669,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "twilio.com": 12
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:58:00Z",
+  "id": "us-1447669",
+  "industry": "Services-Prepackaged Software",
+  "listed": true,
+  "name": "Twilio Inc",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "tickers": [
+   "TWLO"
+  ]
+ },
+ "us-1456346": {
+  "cik": 1456346,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "computershare.com": 1,
+    "envisionreports.com": 1,
+    "franco-nevada.com": 23,
+    "investorcentre.com": 2,
+    "proxyvote.com": 1,
+    "sedarplus.com": 13
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:58:03Z",
+  "id": "us-1456346",
+  "industry": "Gold and Silver Ores",
+  "listed": true,
+  "name": "Franco Nevada Corp",
+  "sector": "Materials",
+  "sic": "1040",
+  "tickers": [
+   "FNV"
+  ]
+ },
+ "us-1466258": {
+  "cik": 1466258,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:58:04Z",
+  "id": "us-1466258",
+  "industry": "Auto Controls For Regulating Residential & Comml Environments",
+  "listed": true,
+  "name": "Trane Technologies plc",
+  "sector": "Information Technology",
+  "sic": "3822",
+  "tickers": [
+   "TT"
+  ]
+ },
+ "us-1467373": {
+  "cik": 1467373,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "accenture.com": 10
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:58:05Z",
+  "id": "us-1467373",
+  "industry": "Services-Business Services, NEC",
+  "listed": true,
+  "name": "Accenture plc",
+  "sector": "Industrials",
+  "sic": "7389",
+  "tickers": [
+   "ACN"
+  ]
+ },
+ "us-1467858": {
+  "cik": 1467858,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:58:06Z",
+  "id": "us-1467858",
+  "industry": "Motor Vehicles & Passenger Car Bodies",
+  "listed": true,
+  "name": "General Motors Co",
+  "sector": "Consumer Discretionary",
+  "sic": "3711",
+  "tickers": [
+   "GM"
+  ]
+ },
+ "us-1468522": {
+  "cik": 1468522,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "computershare.com": 4,
+    "ferrovial.com": 23,
+    "ing.com": 2,
+    "ingwb.com": 5
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:58:07Z",
+  "id": "us-1468522",
+  "industry": "Heavy Construction Other Than Bldg Const - Contractors",
+  "listed": true,
+  "name": "Ferrovial N.V.",
+  "sector": "Industrials",
+  "sic": "1600",
+  "tickers": [
+   "FER"
+  ]
+ },
+ "us-1471055": {
+  "cik": 1471055,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:58:07Z",
+  "id": "us-1471055",
+  "industry": "Commercial Banks, NEC",
+  "listed": true,
+  "name": "Banco Santander (Brasil) S.A.",
+  "sector": "Financials",
+  "sic": "6029",
+  "tickers": [
+   "BSBR"
+  ]
+ },
+ "us-1474432": {
+  "cik": 1474432,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "everpuredata.com": 12
+   },
+   "ir_urls": {
+    "https://www.investors.everpuredata.com": 2
+   }
+  },
+  "hints_mined": "2026-10-05T15:58:08Z",
+  "id": "us-1474432",
+  "industry": "Computer Storage Devices",
+  "listed": true,
+  "name": "Everpure, Inc.",
+  "sector": "Information Technology",
+  "sic": "3572",
+  "tickers": [
+   "P"
+  ]
+ },
+ "us-1475260": {
+  "cik": 1475260,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {},
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:58:09Z",
+  "id": "us-1475260",
+  "industry": "Crude Petroleum & Natural Gas",
+  "listed": true,
+  "name": "Cenovus Energy Inc.",
+  "sector": "Energy",
+  "sic": "1311",
+  "tickers": [
+   "CVE"
+  ]
+ },
+ "us-1477333": {
+  "cik": 1477333,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "cloudflare.com": 10,
+    "cloudflare.net": 8
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:58:10Z",
+  "id": "us-1477333",
+  "industry": "Services-Prepackaged Software",
+  "listed": true,
+  "name": "Cloudflare, Inc.",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "tickers": [
+   "NET"
+  ]
+ },
+ "us-1478242": {
+  "cik": 1478242,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "iqvia.com": 12
+   },
+   "ir_urls": {
+    "http://ir.iqvia.com": 4
+   }
+  },
+  "hints_mined": "2026-10-05T15:58:11Z",
+  "id": "us-1478242",
+  "industry": "Services-Commercial Physical & Biological Research",
+  "listed": true,
+  "name": "Iqvia Holdings Inc.",
+  "sector": "Health Care",
+  "sic": "8731",
+  "tickers": [
+   "IQV"
+  ]
+ },
+ "us-1506307": {
+  "cik": 1506307,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "kindermorgan.com": 17
+   },
+   "ir_urls": {
+    "https://ir.kindermorgan.com/events-and-presentations/default.aspx": 1
+   }
+  },
+  "hints_mined": "2026-10-05T15:58:13Z",
+  "id": "us-1506307",
+  "industry": "Natural Gas Transmission",
+  "listed": true,
+  "name": "Kinder Morgan, Inc.",
+  "sector": "Utilities",
+  "sic": "4922",
+  "tickers": [
+   "KMI",
+   "EP-PC"
+  ]
+ },
+ "us-1510295": {
+  "cik": 1510295,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "marathonpetroleum.com": 24,
+    "mplx.com": 4
+   },
+   "ir_urls": {
+    "http://ir.mplx.com": 4,
+    "https://www.marathonpetroleum.com/Investors": 8,
+    "https://www.marathonpetroleum.com/Investors/Investor-Market-Data": 4
+   }
+  },
+  "hints_mined": "2026-10-05T15:58:14Z",
+  "id": "us-1510295",
+  "industry": "Petroleum Refining",
+  "listed": true,
+  "name": "Marathon Petroleum Corp",
+  "sector": "Energy",
+  "sic": "2911",
+  "tickers": [
+   "MPC"
+  ]
+ },
+ "us-1511737": {
+  "cik": 1511737,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:58:15Z",
+  "id": "us-1511737",
+  "industry": "Radio & Tv Broadcasting & Communications Equipment",
+  "listed": true,
+  "name": "Ubiquiti Inc.",
+  "sector": "Information Technology",
+  "sic": "3663",
+  "tickers": [
+   "UI"
+  ]
+ },
+ "us-1512673": {
+  "cik": 1512673,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "block.xyz": 8
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:58:19Z",
+  "id": "us-1512673",
+  "industry": "Services-Prepackaged Software",
+  "listed": true,
+  "name": "Block, Inc.",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "tickers": [
+   "XYZ"
+  ]
+ },
+ "us-1513845": {
+  "cik": 1513845,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "nebi-us.com": 2,
+    "nebius.com": 14
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:58:20Z",
+  "id": "us-1513845",
+  "industry": "Services-Computer Programming, Data Processing, Etc.",
+  "listed": true,
+  "name": "Nebius Group N.V.",
+  "sector": "Information Technology",
+  "sic": "7370",
+  "tickers": [
+   "NBIS"
+  ]
+ },
+ "us-1534701": {
+  "cik": 1534701,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "p66.com": 8
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:58:21Z",
+  "id": "us-1534701",
+  "industry": "Petroleum Refining",
+  "listed": true,
+  "name": "Phillips 66",
+  "sector": "Energy",
+  "sic": "2911",
+  "tickers": [
+   "PSX"
+  ]
+ },
+ "us-1535527": {
+  "cik": 1535527,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "crowdstrike.com": 10
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:58:23Z",
+  "id": "us-1535527",
+  "industry": "Services-Prepackaged Software",
+  "listed": true,
+  "name": "CrowdStrike Holdings, Inc.",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "tickers": [
+   "CRWD"
+  ]
+ },
+ "us-1539838": {
+  "cik": 1539838,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "diamondbackenergy.com": 16
+   },
+   "ir_urls": {
+    "https://www.diamondbackenergy.com/investors": 4
+   }
+  },
+  "hints_mined": "2026-10-05T15:58:24Z",
+  "id": "us-1539838",
+  "industry": "Crude Petroleum & Natural Gas",
+  "listed": true,
+  "name": "Diamondback Energy, Inc.",
+  "sector": "Energy",
+  "sic": "1311",
+  "tickers": [
+   "FANG"
+  ]
+ },
+ "us-1543151": {
+  "cik": 1543151,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "delivering-value.com": 1,
+    "deliveryhero.com": 3,
+    "fgsglobal.com": 1,
+    "uber.com": 17
+   },
+   "ir_urls": {
+    "https://investor.uber.com": 6
+   }
+  },
+  "hints_mined": "2026-10-05T15:58:26Z",
+  "id": "us-1543151",
+  "industry": "Services-Business Services, NEC",
+  "listed": true,
+  "name": "Uber Technologies, Inc",
+  "sector": "Industrials",
+  "sic": "7389",
+  "tickers": [
+   "UBER"
+  ]
+ },
+ "us-1551152": {
+  "cik": 1551152,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "1abmedia.com": 1,
+    "abbvie.com": 8,
+    "apogeetherapeutics.com": 4
+   },
+   "ir_urls": {
+    "https://investors.abbvie.com": 1,
+    "https://investors.apogeetherapeutics.com": 2
+   }
+  },
+  "hints_mined": "2026-10-05T15:58:26Z",
+  "id": "us-1551152",
+  "industry": "Pharmaceutical Preparations",
+  "listed": true,
+  "name": "AbbVie Inc.",
+  "sector": "Health Care",
+  "sic": "2834",
+  "tickers": [
+   "ABBV"
+  ]
+ },
+ "us-1551182": {
+  "cik": 1551182,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "eaton.com": 12
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:58:27Z",
+  "id": "us-1551182",
+  "industry": "Misc Industrial & Commercial Machinery & Equipment",
+  "listed": true,
+  "name": "Eaton Corp plc",
+  "sector": "Industrials",
+  "sic": "3590",
+  "tickers": [
+   "ETN"
+  ]
+ },
+ "us-1552000": {
+  "cik": 1552000,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "marathonpetroleum.com": 4,
+    "mplx.com": 16
+   },
+   "ir_urls": {
+    "http://ir.mplx.com": 4,
+    "https://www.marathonpetroleum.com/Investors": 4
+   }
+  },
+  "hints_mined": "2026-10-05T15:58:29Z",
+  "id": "us-1552000",
+  "industry": "Pipe Lines (No Natural Gas)",
+  "listed": true,
+  "name": "MPLX LP",
+  "sector": "Industrials",
+  "sic": "4610",
+  "tickers": [
+   "MPLX"
+  ]
+ },
+ "us-1559720": {
+  "cik": 1559720,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "airbnb.com": 12,
+    "registrations.events": 4
+   },
+   "ir_urls": {
+    "https://investors.airbnb.com": 4
+   }
+  },
+  "hints_mined": "2026-10-05T15:58:29Z",
+  "id": "us-1559720",
+  "industry": "Services-To Dwellings & Other Buildings",
+  "listed": true,
+  "name": "Airbnb, Inc.",
+  "sector": "Industrials",
+  "sic": "7340",
+  "tickers": [
+   "ABNB"
+  ]
+ },
+ "us-1561550": {
+  "cik": 1561550,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "datadoghq.com": 14
+   },
+   "ir_urls": {
+    "https://investors.datadoghq.com": 5
+   }
+  },
+  "hints_mined": "2026-10-05T15:58:30Z",
+  "id": "us-1561550",
+  "industry": "Services-Prepackaged Software",
+  "listed": true,
+  "name": "Datadog, Inc.",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "tickers": [
+   "DDOG"
+  ]
+ },
+ "us-1565025": {
+  "cik": 1565025,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:58:31Z",
+  "id": "us-1565025",
+  "industry": "Beverages",
+  "listed": true,
+  "name": "Ambev S.A.",
+  "sector": "Consumer Staples",
+  "sic": "2080",
+  "tickers": [
+   "ABEV"
+  ]
+ },
+ "us-1571949": {
+  "cik": 1571949,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "ice.com": 20,
+    "intercontinentalexchange.com": 1,
+    "marketaxess.com": 3,
+    "theice.com": 7
+   },
+   "ir_urls": {
+    "https://ir.theice.com/investor-resources/supplemental-information/default.aspx": 3,
+    "https://www.ir.theice.com": 3
+   }
+  },
+  "hints_mined": "2026-10-05T15:58:32Z",
+  "id": "us-1571949",
+  "industry": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+  "listed": true,
+  "name": "Intercontinental Exchange, Inc.",
+  "sector": "Financials",
+  "sic": "6200",
+  "tickers": [
+   "ICE"
+  ]
+ },
+ "us-1571996": {
+  "cik": 1571996,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:58:32Z",
+  "id": "us-1571996",
+  "industry": "Electronic Computers",
+  "listed": true,
+  "name": "Dell Technologies Inc.",
+  "sector": "Information Technology",
+  "sic": "3571",
+  "tickers": [
+   "DELL"
+  ]
+ },
+ "us-1577552": {
+  "cik": 1577552,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "alibaba-inc.com": 10,
+    "alibabagroup.com": 8,
+    "c-conf.com": 6,
+    "computershare.com": 2
+   },
+   "ir_urls": {
+    "https://www.alibabagroup.com/en/ir/agm": 1,
+    "https://www.alibabagroup.com/en/ir/earnings": 3,
+    "https://www.alibabagroup.com/en/ir/home": 4
+   }
+  },
+  "hints_mined": "2026-10-05T15:58:33Z",
+  "id": "us-1577552",
+  "industry": "Services-Business Services, NEC",
+  "listed": true,
+  "name": "Alibaba Group Holding Ltd",
+  "sector": "Industrials",
+  "sic": "7389",
+  "tickers": [
+   "BABA"
+  ]
+ },
+ "us-1585689": {
+  "cik": 1585689,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "hilton.com": 8
+   },
+   "ir_urls": {
+    "https://ir.hilton.com/events-and-presentations": 4,
+    "https://ir.hilton.com/financial-reporting": 4
+   }
+  },
+  "hints_mined": "2026-10-05T15:58:35Z",
+  "id": "us-1585689",
+  "industry": "Hotels & Motels",
+  "listed": true,
+  "name": "Hilton Worldwide Holdings Inc.",
+  "sector": "Consumer Discretionary",
+  "sic": "7011",
+  "tickers": [
+   "HLT"
+  ]
+ },
+ "us-1594805": {
+  "cik": 1594805,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "canada.ca": 1,
+    "ebayinc.com": 1,
+    "nist.gov": 3,
+    "ohchr.org": 1,
+    "proxyvote.com": 7,
+    "pwc.com": 2,
+    "sedarplus.ca": 13,
+    "shopify.com": 25
+   },
+   "ir_urls": {
+    "https://www.shopify.com/investors": 2,
+    "https://www.shopify.com/investors/events": 3
+   }
+  },
+  "hints_mined": "2026-10-05T15:58:36Z",
+  "id": "us-1594805",
+  "industry": "Services-Prepackaged Software",
+  "listed": true,
+  "name": "Shopify Inc.",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "tickers": [
+   "SHOP"
+  ]
+ },
+ "us-1596532": {
+  "cik": 1596532,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "arista.com": 22
+   },
+   "ir_urls": {
+    "https://investors.arista.com": 9
+   }
+  },
+  "hints_mined": "2026-10-05T15:58:37Z",
+  "id": "us-1596532",
+  "industry": "Computer Communications Equipment",
+  "listed": true,
+  "name": "Arista Networks, Inc.",
+  "sector": "Information Technology",
+  "sic": "3576",
+  "tickers": [
+   "ANET"
+  ]
+ },
+ "us-1601046": {
+  "cik": 1601046,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "keysight.com": 16
+   },
+   "ir_urls": {
+    "https://www.investor.keysight.com": 4
+   }
+  },
+  "hints_mined": "2026-10-05T15:58:38Z",
+  "id": "us-1601046",
+  "industry": "Industrial Instruments For Measurement, Display, and Control",
+  "listed": true,
+  "name": "Keysight Technologies, Inc.",
+  "sector": "Information Technology",
+  "sic": "3823",
+  "tickers": [
+   "KEYS"
+  ]
+ },
+ "us-1604821": {
+  "cik": 1604821,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "natera.com": 13
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:58:39Z",
+  "id": "us-1604821",
+  "industry": "Services-Medical Laboratories",
+  "listed": true,
+  "name": "Natera, Inc.",
+  "sector": "Health Care",
+  "sic": "8071",
+  "tickers": [
+   "NTRA"
+  ]
+ },
+ "us-1610520": {
+  "cik": 1610520,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:58:40Z",
+  "id": "us-1610520",
+  "industry": "National Commercial Banks",
+  "listed": true,
+  "name": "UBS Group AG",
+  "sector": "Financials",
+  "sic": "6021",
+  "tickers": [
+   "UBS"
+  ]
+ },
+ "us-1613103": {
+  "cik": 1613103,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "medtronic.com": 5
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:58:41Z",
+  "id": "us-1613103",
+  "industry": "Electromedical & Electrotherapeutic Apparatus",
+  "listed": true,
+  "name": "Medtronic plc",
+  "sector": "Health Care",
+  "sic": "3845",
+  "tickers": [
+   "MDT"
+  ]
+ },
+ "us-1628171": {
+  "cik": 1628171,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "revmed.com": 16
+   },
+   "ir_urls": {
+    "https://ir.revmed.com/events-and-presentations": 4
+   }
+  },
+  "hints_mined": "2026-10-05T15:58:42Z",
+  "id": "us-1628171",
+  "industry": "Biological Products, (No Diagnostic Substances)",
+  "listed": true,
+  "name": "Revolution Medicines, Inc.",
+  "sector": "Health Care",
+  "sic": "2836",
+  "tickers": [
+   "RVMD",
+   "RVMDW"
+  ]
+ },
+ "us-1633917": {
+  "cik": 1633917,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "paypal-corp.com": 4,
+    "paypal.com": 8,
+    "pypl.com": 16
+   },
+   "ir_urls": {
+    "https://investor.pypl.com": 12
+   }
+  },
+  "hints_mined": "2026-10-05T15:58:44Z",
+  "id": "us-1633917",
+  "industry": "Services-Business Services, NEC",
+  "listed": true,
+  "name": "PayPal Holdings, Inc.",
+  "sector": "Industrials",
+  "sic": "7389",
+  "tickers": [
+   "PYPL"
+  ]
+ },
+ "us-1633978": {
+  "cik": 1633978,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "lumentum.com": 24
+   },
+   "ir_urls": {
+    "http://investor.lumentum.com": 12
+   }
+  },
+  "hints_mined": "2026-10-05T15:58:45Z",
+  "id": "us-1633978",
+  "industry": "Communications Equipment, NEC",
+  "listed": true,
+  "name": "Lumentum Holdings Inc.",
+  "sector": "Information Technology",
+  "sic": "3669",
+  "tickers": [
+   "LITE"
+  ]
+ },
+ "us-1639920": {
+  "cik": 1639920,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "registrations.events": 3
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:58:45Z",
+  "id": "us-1639920",
+  "industry": "Radio Broadcasting Stations",
+  "listed": true,
+  "name": "Spotify Technology S.A.",
+  "sector": "Communication Services",
+  "sic": "4832",
+  "tickers": [
+   "SPOT"
+  ]
+ },
+ "us-1640147": {
+  "cik": 1640147,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "snowflake.com": 20
+   },
+   "ir_urls": {
+    "https://investors.snowflake.com": 10
+   }
+  },
+  "hints_mined": "2026-10-05T15:58:47Z",
+  "id": "us-1640147",
+  "industry": "Services-Prepackaged Software",
+  "listed": true,
+  "name": "Snowflake Inc.",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "tickers": [
+   "SNOW"
+  ]
+ },
+ "us-1645590": {
+  "cik": 1645590,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "hpe.com": 8
+   },
+   "ir_urls": {
+    "https://www.hpe.com/investor/SAM2025": 2
+   }
+  },
+  "hints_mined": "2026-10-05T15:58:47Z",
+  "id": "us-1645590",
+  "industry": "Computer & office Equipment",
+  "listed": true,
+  "name": "Hewlett Packard Enterprise Co",
+  "sector": "Information Technology",
+  "sic": "3570",
+  "tickers": [
+   "HPE",
+   "HPE-PC"
+  ]
+ },
+ "us-1648416": {
+  "cik": 1648416,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "ferrari.com": 12
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:58:48Z",
+  "id": "us-1648416",
+  "industry": "Motor Vehicles & Passenger Car Bodies",
+  "listed": true,
+  "name": "Ferrari N.V.",
+  "sector": "Consumer Discretionary",
+  "sic": "3711",
+  "tickers": [
+   "RACE"
+  ]
+ },
+ "us-1650107": {
+  "cik": 1650107,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints_mined": "2026-10-05T15:58:48Z",
+  "id": "us-1650107",
+  "industry": "Bottled & Canned Soft Drinks & Carbonated Waters",
+  "listed": true,
+  "name": "COCA-COLA Europacific Partners plc",
+  "sector": "Consumer Staples",
+  "sic": "2086",
+  "tickers": [
+   "CCEP"
+  ]
+ },
+ "us-1650372": {
+  "cik": 1650372,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "atlassian.com": 28,
+    "forrester.com": 2
+   },
+   "ir_urls": {
+    "https://investors.atlassian.com": 20
+   }
+  },
+  "hints_mined": "2026-10-05T15:58:49Z",
+  "id": "us-1650372",
+  "industry": "Services-Prepackaged Software",
+  "listed": true,
+  "name": "Atlassian Corp",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "tickers": [
+   "TEAM"
+  ]
+ },
+ "us-1651308": {
+  "cik": 1651308,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "beonemed.com": 8,
+    "beonemedicines.com": 8
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:58:50Z",
+  "id": "us-1651308",
+  "industry": "Pharmaceutical Preparations",
+  "listed": true,
+  "name": "BeOne Medicines Ltd.",
+  "sector": "Health Care",
+  "sic": "2834",
+  "tickers": [
+   "ONC"
+  ]
+ },
+ "us-1652044": {
+  "cik": 1652044,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "id": "us-1652044",
+  "industry": "Services-Computer Programming, Data Processing, Etc.",
+  "ir_source": "override",
+  "ir_url": "https://abc.xyz/investor/",
+  "listed": true,
+  "name": "Alphabet Inc.",
+  "sector": "Communication Services",
+  "sic": "7370",
+  "tickers": [
+   "GOOGL",
+   "GOOG",
+   "GOOGM",
+   "GOOGN"
+  ],
+  "website": "abc.xyz"
+ },
+ "us-1660134": {
+  "cik": 1660134,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "okta.com": 10
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:58:51Z",
+  "id": "us-1660134",
+  "industry": "Services-Prepackaged Software",
+  "listed": true,
+  "name": "Okta, Inc.",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "tickers": [
+   "OKTA"
+  ]
+ },
+ "us-1664703": {
+  "cik": 1664703,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "bloomenergy.com": 13
+   },
+   "ir_urls": {
+    "https://investor.bloomenergy.com": 4
+   }
+  },
+  "hints_mined": "2026-10-05T15:58:52Z",
+  "id": "us-1664703",
+  "industry": "Electrical Industrial Apparatus",
+  "listed": true,
+  "name": "Bloom Energy Corp",
+  "sector": "Industrials",
+  "sic": "3620",
+  "tickers": [
+   "BE"
+  ]
+ },
+ "us-1668717": {
+  "cik": 1668717,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "ab-inbev.com": 24
+   },
+   "ir_urls": {
+    "https://www.ab-inbev.com/investors/share-information/return-of-capital-program": 1
+   }
+  },
+  "hints_mined": "2026-10-05T15:58:55Z",
+  "id": "us-1668717",
+  "industry": "Malt Beverages",
+  "listed": true,
+  "name": "Anheuser-Busch InBev SA",
+  "sector": "Consumer Staples",
+  "sic": "2082",
+  "tickers": [
+   "BUD"
+  ]
+ },
+ "us-1674101": {
+  "cik": 1674101,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "ruderfinn.com": 4,
+    "vertiv.com": 4
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:58:56Z",
+  "id": "us-1674101",
+  "industry": "Electronic Components, NEC",
+  "listed": true,
+  "name": "Vertiv Holdings Co",
+  "sector": "Information Technology",
+  "sic": "3679",
+  "tickers": [
+   "VRT"
+  ]
+ },
+ "us-1679788": {
+  "cik": 1679788,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {},
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:58:58Z",
+  "id": "us-1679788",
+  "industry": "Finance Services",
+  "listed": true,
+  "name": "Coinbase Global, Inc.",
+  "sector": "Financials",
+  "sic": "6199",
+  "tickers": [
+   "COIN"
+  ]
+ },
+ "us-1682852": {
+  "cik": 1682852,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "media-server.com": 3,
+    "modernatx.com": 11
+   },
+   "ir_urls": {
+    "https://investors.modernatx.com": 3
+   }
+  },
+  "hints_mined": "2026-10-05T15:58:59Z",
+  "id": "us-1682852",
+  "industry": "Biological Products, (No Diagnostic Substances)",
+  "listed": true,
+  "name": "Moderna, Inc.",
+  "sector": "Health Care",
+  "sic": "2836",
+  "tickers": [
+   "MRNA"
+  ]
+ },
+ "us-16868": {
+  "cik": 16868,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "centredesinvestisseurs.com": 1,
+    "cn.ca": 40,
+    "computershare.com": 5,
+    "copperskyproductions.com": 3,
+    "envisionreports.com": 2,
+    "investorcentre.com": 3,
+    "investorvote.com": 2,
+    "lumiglobal.com": 1,
+    "proxyvote.com": 2,
+    "sedarplus.ca": 16,
+    "sodali.com": 1
+   },
+   "ir_urls": {
+    "https://www.cn.ca/en/investors": 3,
+    "https://www.cn.ca/en/investors/regulatory-filings": 1
+   }
+  },
+  "hints_mined": "2026-10-05T15:59:24Z",
+  "id": "us-16868",
+  "industry": "Railroads, Line-Haul Operating",
+  "listed": true,
+  "name": "Canadian National Railway Co",
+  "sector": "Industrials",
+  "sic": "4011",
+  "tickers": [
+   "CNI"
+  ]
+ },
+ "us-16875": {
+  "cik": 16875,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "ccib.ca": 1,
+    "computershare.com": 5,
+    "constantcontactpages.com": 1,
+    "cpkcr.com": 13,
+    "envisionreports.com": 2,
+    "investorcentre.com": 4,
+    "investorvote.com": 2,
+    "kingsdaleadvisors.com": 6,
+    "lumiconnect.com": 1,
+    "lumiglobal.com": 1,
+    "orangeshirtday.org": 1,
+    "proxyvote.com": 1,
+    "scotiabank.com": 1,
+    "sedarplus.ca": 13
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:59:27Z",
+  "id": "us-16875",
+  "industry": "Railroads, Line-Haul Operating",
+  "listed": true,
+  "name": "Canadian Pacific Kansas City Ltd",
+  "sector": "Industrials",
+  "sic": "4011",
+  "tickers": [
+   "CP"
+  ]
+ },
+ "us-1690820": {
+  "cik": 1690820,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "carvana.com": 6
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:59:28Z",
+  "id": "us-1690820",
+  "industry": "Retail-Auto Dealers & Gasoline Stations",
+  "listed": true,
+  "name": "Carvana Co.",
+  "sector": "Consumer Discretionary",
+  "sic": "5500",
+  "tickers": [
+   "CVNA"
+  ]
+ },
+ "us-1691493": {
+  "cik": 1691493,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T15:59:28Z",
+  "id": "us-1691493",
+  "industry": "Finance Services",
+  "listed": true,
+  "name": "Nu Holdings Ltd.",
+  "sector": "Financials",
+  "sic": "6199",
+  "tickers": [
+   "NU"
+  ]
+ },
+ "us-1692819": {
+  "cik": 1692819,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "vistracorp.com": 15
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:59:30Z",
+  "id": "us-1692819",
+  "industry": "Electric Services",
+  "listed": true,
+  "name": "Vistra Corp.",
+  "sector": "Utilities",
+  "sic": "4911",
+  "tickers": [
+   "VST"
+  ]
+ },
+ "us-1697862": {
+  "cik": 1697862,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "argenx.com": 13,
+    "fortebiorx.com": 1
+   },
+   "ir_urls": {
+    "https://argenx.com/investors/sec-filings": 1,
+    "https://www.fortebiorx.com/investor-relations/sec-filings/default.aspx": 1
+   }
+  },
+  "hints_mined": "2026-10-05T15:59:31Z",
+  "id": "us-1697862",
+  "industry": "Biological Products, (No Diagnostic Substances)",
+  "listed": true,
+  "name": "Argenx SE",
+  "sector": "Health Care",
+  "sic": "2836",
+  "tickers": [
+   "ARGX"
+  ]
+ },
+ "us-1701605": {
+  "cik": 1701605,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "bakerhughes.com": 12
+   },
+   "ir_urls": {
+    "https://investors.bakerhughes.com": 2,
+    "https://www.investors.bakerhughes.com": 2
+   }
+  },
+  "hints_mined": "2026-10-05T15:59:32Z",
+  "id": "us-1701605",
+  "industry": "Oil & Gas Field Machinery & Equipment",
+  "listed": true,
+  "name": "Baker Hughes Co",
+  "sector": "Industrials",
+  "sic": "3533",
+  "tickers": [
+   "BKR"
+  ]
+ },
+ "us-1703399": {
+  "cik": 1703399,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "sea.com": 12
+   },
+   "ir_urls": {
+    "https://www.sea.com/investor/home": 4
+   }
+  },
+  "hints_mined": "2026-10-05T15:59:34Z",
+  "id": "us-1703399",
+  "industry": "Services-Miscellaneous Business Services",
+  "listed": true,
+  "name": "Sea Ltd",
+  "sector": "Industrials",
+  "sic": "7380",
+  "tickers": [
+   "SE"
+  ]
+ },
+ "us-1707925": {
+  "cik": 1707925,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "linde.com": 8
+   },
+   "ir_urls": {
+    "https://www.linde.com/investors/financial-reports": 4
+   }
+  },
+  "hints_mined": "2026-10-05T15:59:36Z",
+  "id": "us-1707925",
+  "industry": "Industrial Inorganic Chemicals",
+  "listed": true,
+  "name": "Linde PLC",
+  "sector": "Materials",
+  "sic": "2810",
+  "tickers": [
+   "LIN"
+  ]
+ },
+ "us-1730168": {
+  "cik": 1730168,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints_mined": "2026-10-05T15:59:36Z",
+  "id": "us-1730168",
+  "industry": "Semiconductors & Related Devices",
+  "listed": true,
+  "name": "Broadcom Inc.",
+  "sector": "Information Technology",
+  "sic": "3674",
+  "tickers": [
+   "AVGO"
+  ]
+ },
+ "us-1736297": {
+  "cik": 1736297,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "asteralabs.com": 12
+   },
+   "ir_urls": {
+    "https://ir.asteralabs.com": 4
+   }
+  },
+  "hints_mined": "2026-10-05T15:59:37Z",
+  "id": "us-1736297",
+  "industry": "Semiconductors & Related Devices",
+  "listed": true,
+  "name": "Astera Labs, Inc.",
+  "sector": "Information Technology",
+  "sic": "3674",
+  "tickers": [
+   "ALAB"
+  ]
+ },
+ "us-1737806": {
+  "cik": 1737806,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "pddholdings.com": 13
+   },
+   "ir_urls": {
+    "https://investor.pddholdings.com": 1,
+    "https://investor.pddholdings.com/investor-events": 4
+   }
+  },
+  "hints_mined": "2026-10-05T15:59:38Z",
+  "id": "us-1737806",
+  "industry": "Services-Business Services, NEC",
+  "listed": true,
+  "name": "PDD Holdings Inc.",
+  "sector": "Industrials",
+  "sic": "7389",
+  "tickers": [
+   "PDD"
+  ]
+ },
+ "us-1739940": {
+  "cik": 1739940,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "evernorth.com": 2,
+    "thecignagroup.com": 4,
+    "thecignagroupinvestorday.com": 4
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:59:39Z",
+  "id": "us-1739940",
+  "industry": "Hospital & Medical Service Plans",
+  "listed": true,
+  "name": "Cigna Group",
+  "sector": "Financials",
+  "sic": "6324",
+  "tickers": [
+   "CI"
+  ]
+ },
+ "us-1744489": {
+  "cik": 1744489,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "disney.com": 8
+   },
+   "ir_urls": {
+    "https://www.disney.com/investors": 8
+   }
+  },
+  "hints_mined": "2026-10-05T15:59:40Z",
+  "id": "us-1744489",
+  "industry": "Services-Miscellaneous Amusement & Recreation",
+  "listed": true,
+  "name": "Walt Disney Co",
+  "sector": "Consumer Discretionary",
+  "sic": "7990",
+  "tickers": [
+   "DIS"
+  ]
+ },
+ "us-1745201": {
+  "cik": 1745201,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "viking.com": 12
+   },
+   "ir_urls": {
+    "https://ir.viking.com": 4
+   }
+  },
+  "hints_mined": "2026-10-05T15:59:43Z",
+  "id": "us-1745201",
+  "industry": "Water Transportation",
+  "listed": true,
+  "name": "Viking Holdings Ltd",
+  "sector": "Industrials",
+  "sic": "4400",
+  "tickers": [
+   "VIK"
+  ]
+ },
+ "us-1751008": {
+  "cik": 1751008,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "applovin.com": 16
+   },
+   "ir_urls": {
+    "https://investors.applovin.com": 4
+   }
+  },
+  "hints_mined": "2026-10-05T15:59:44Z",
+  "id": "us-1751008",
+  "industry": "Services-Computer Programming, Data Processing, Etc.",
+  "listed": true,
+  "name": "AppLovin Corp",
+  "sector": "Information Technology",
+  "sic": "7370",
+  "tickers": [
+   "APP"
+  ]
+ },
+ "us-1769628": {
+  "cik": 1769628,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "coreweave.com": 24
+   },
+   "ir_urls": {
+    "https://investors.coreweave.com": 8
+   }
+  },
+  "hints_mined": "2026-10-05T15:59:47Z",
+  "id": "us-1769628",
+  "industry": "Services-Prepackaged Software",
+  "listed": true,
+  "name": "CoreWeave, Inc.",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "tickers": [
+   "CRWV"
+  ]
+ },
+ "us-1783180": {
+  "cik": 1783180,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "carrier.com": 14
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:59:48Z",
+  "id": "us-1783180",
+  "industry": "Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip",
+  "listed": true,
+  "name": "Carrier Global Corp",
+  "sector": "Industrials",
+  "sic": "3585",
+  "tickers": [
+   "CARR"
+  ]
+ },
+ "us-1783879": {
+  "cik": 1783879,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints_mined": "2026-10-05T15:59:49Z",
+  "id": "us-1783879",
+  "industry": "Security Brokers, Dealers & Flotation Companies",
+  "listed": true,
+  "name": "Robinhood Markets, Inc.",
+  "sector": "Financials",
+  "sic": "6211",
+  "tickers": [
+   "HOOD"
+  ]
+ },
+ "us-1792789": {
+  "cik": 1792789,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "doordash.com": 13
+   },
+   "ir_urls": {
+    "http://ir.doordash.com": 1,
+    "https://ir.doordash.com": 4
+   }
+  },
+  "hints_mined": "2026-10-05T15:59:50Z",
+  "id": "us-1792789",
+  "industry": "Services-Business Services, NEC",
+  "listed": true,
+  "name": "DoorDash, Inc.",
+  "sector": "Industrials",
+  "sic": "7389",
+  "tickers": [
+   "DASH"
+  ]
+ },
+ "us-1800": {
+  "cik": 1800,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "abbott.com": 3,
+    "abbottinvestor.com": 4,
+    "collectedstrategies.com": 1,
+    "exactsciences.com": 3
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:59:51Z",
+  "id": "us-1800",
+  "industry": "Pharmaceutical Preparations",
+  "listed": true,
+  "name": "Abbott Laboratories",
+  "sector": "Health Care",
+  "sic": "2834",
+  "tickers": [
+   "ABT"
+  ]
+ },
+ "us-1807794": {
+  "cik": 1807794,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "credosemi.com": 18
+   },
+   "ir_urls": {
+    "http://investors.credosemi.com": 10
+   }
+  },
+  "hints_mined": "2026-10-05T15:59:52Z",
+  "id": "us-1807794",
+  "industry": "Semiconductors & Related Devices",
+  "listed": true,
+  "name": "Credo Technology Group Holding Ltd",
+  "sector": "Information Technology",
+  "sic": "3674",
+  "tickers": [
+   "CRDO"
+  ]
+ },
+ "us-1819994": {
+  "cik": 1819994,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "rocketlabcorp.com": 11,
+    "rocketlabusa.com": 43
+   },
+   "ir_urls": {
+    "https://investors.rocketlabcorp.com": 4,
+    "https://www.investors.rocketlabcorp.com": 4
+   }
+  },
+  "hints_mined": "2026-10-05T15:59:53Z",
+  "id": "us-1819994",
+  "industry": "Guided Missiles & Space Vehicles & Parts",
+  "listed": true,
+  "name": "Rocket Lab Corp",
+  "sector": "Industrials",
+  "sic": "3760",
+  "tickers": [
+   "RKLB"
+  ]
+ },
+ "us-18230": {
+  "cik": 18230,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "cat.com": 8,
+    "caterpillar.com": 17
+   },
+   "ir_urls": {
+    "https://investors.caterpillar.com/events-presentations/default.aspx": 4,
+    "https://investors.caterpillar.com/financials/quarterly-results/default.aspx": 4,
+    "https://investors.caterpillar.com/overview/default.aspx": 8
+   }
+  },
+  "hints_mined": "2026-10-05T15:59:55Z",
+  "id": "us-18230",
+  "industry": "Construction Machinery & Equip",
+  "listed": true,
+  "name": "Caterpillar Inc",
+  "sector": "Industrials",
+  "sic": "3531",
+  "tickers": [
+   "CAT"
+  ]
+ },
+ "us-1835632": {
+  "cik": 1835632,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "celestial.ai": 1,
+    "marvell.com": 11
+   },
+   "ir_urls": {
+    "http://investor.marvell.com": 5
+   }
+  },
+  "hints_mined": "2026-10-05T15:59:56Z",
+  "id": "us-1835632",
+  "industry": "Semiconductors & Related Devices",
+  "listed": true,
+  "name": "Marvell Technology, Inc.",
+  "sector": "Information Technology",
+  "sic": "3674",
+  "tickers": [
+   "MRVL"
+  ]
+ },
+ "us-1858681": {
+  "cik": 1858681,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "apollo.com": 12
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T15:59:57Z",
+  "id": "us-1858681",
+  "industry": "Investment Advice",
+  "listed": true,
+  "name": "Apollo Global Management, Inc.",
+  "sector": "Financials",
+  "sic": "6282",
+  "tickers": [
+   "APO",
+   "APOS"
+  ]
+ },
+ "us-1868275": {
+  "cik": 1868275,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "constellationenergy.com": 3
+   },
+   "ir_urls": {
+    "https://investors.constellationenergy.com": 3
+   }
+  },
+  "hints_mined": "2026-10-05T15:59:58Z",
+  "id": "us-1868275",
+  "industry": "Electric Services",
+  "listed": true,
+  "name": "Constellation Energy Corp",
+  "sector": "Utilities",
+  "sic": "4911",
+  "tickers": [
+   "CEG"
+  ]
+ },
+ "us-1900304": {
+  "cik": 1900304,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "haleon.com": 6,
+    "shareview.co.uk": 1
+   },
+   "ir_urls": {
+    "https://www.haleon.com/investors": 2
+   }
+  },
+  "hints_mined": "2026-10-05T16:00:00Z",
+  "id": "us-1900304",
+  "industry": "Perfumes, Cosmetics & Other Toilet Preparations",
+  "listed": true,
+  "name": "Haleon plc",
+  "sector": "Consumer Staples",
+  "sic": "2844",
+  "tickers": [
+   "HLN"
+  ]
+ },
+ "us-1937926": {
+  "cik": 1937926,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "brookfield.com": 28,
+    "media-server.com": 2
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:00:01Z",
+  "id": "us-1937926",
+  "industry": "Investment Advice",
+  "listed": true,
+  "name": "Brookfield Asset Management Ltd.",
+  "sector": "Financials",
+  "sic": "6282",
+  "tickers": [
+   "BAM"
+  ]
+ },
+ "us-19617": {
+  "cik": 19617,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "jpmorganchase.com": 20
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:00:05Z",
+  "id": "us-19617",
+  "industry": "National Commercial Banks",
+  "listed": true,
+  "name": "Jpmorgan Chase & Co",
+  "sector": "Financials",
+  "sic": "6021",
+  "tickers": [
+   "JPM",
+   "JPM-PC",
+   "AMJB",
+   "JPM-PD",
+   "JPM-PJ",
+   "JPM-PK",
+   "JPM-PL",
+   "JPM-PM",
+   "VYLD"
+  ]
+ },
+ "us-1973239": {
+  "cik": 1973239,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "arm.com": 12
+   },
+   "ir_urls": {
+    "https://investors.arm.com/financials/quarterly-annual-results": 4
+   }
+  },
+  "hints_mined": "2026-10-05T16:00:06Z",
+  "id": "us-1973239",
+  "industry": "Semiconductors & Related Devices",
+  "listed": true,
+  "name": "Arm Holdings PLC",
+  "sector": "Information Technology",
+  "sic": "3674",
+  "tickers": [
+   "ARM"
+  ]
+ },
+ "us-1973832": {
+  "cik": 1973832,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "adobe.com": 2,
+    "iec.ch": 4,
+    "n.iw": 1
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:00:07Z",
+  "id": "us-1973832",
+  "industry": "Gold and Silver Ores",
+  "listed": true,
+  "name": "AngloGold Ashanti PLC",
+  "sector": "Materials",
+  "sic": "1040",
+  "tickers": [
+   "AU"
+  ]
+ },
+ "us-1996810": {
+  "cik": 1996810,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "gevernova.com": 24
+   },
+   "ir_urls": {
+    "https://www.gevernova.com/investors": 12,
+    "https://www.gevernova.com/investors/fls": 4
+   }
+  },
+  "hints_mined": "2026-10-05T16:00:10Z",
+  "id": "us-1996810",
+  "industry": "Electronic & Other Electrical Equipment (No Computer Equip)",
+  "listed": true,
+  "name": "GE Vernova Inc.",
+  "sector": "Industrials",
+  "sic": "3600",
+  "tickers": [
+   "GEV"
+  ]
+ },
+ "us-200406": {
+  "cik": 200406,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:00:24Z",
+  "id": "us-200406",
+  "industry": "Pharmaceutical Preparations",
+  "listed": true,
+  "name": "Johnson & Johnson",
+  "sector": "Health Care",
+  "sic": "2834",
+  "tickers": [
+   "JNJ"
+  ]
+ },
+ "us-2011641": {
+  "cik": 2011641,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "fergusonpressroom.com": 1
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:00:26Z",
+  "id": "us-2011641",
+  "industry": "Wholesale-Hardware & Plumbing & Heating Equipment & Supplies",
+  "listed": true,
+  "name": "Ferguson Enterprises Inc.",
+  "sector": "Industrials",
+  "sic": "5070",
+  "tickers": [
+   "FERG"
+  ]
+ },
+ "us-2012383": {
+  "cik": 2012383,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "blackrock.com": 16
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:00:30Z",
+  "id": "us-2012383",
+  "industry": "Security Brokers, Dealers & Flotation Companies",
+  "listed": true,
+  "name": "BlackRock, Inc.",
+  "sector": "Financials",
+  "sic": "6211",
+  "tickers": [
+   "BLK"
+  ]
+ },
+ "us-202058": {
+  "cik": 202058,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:00:30Z",
+  "id": "us-202058",
+  "industry": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
+  "listed": true,
+  "name": "L3harris Technologies, Inc.",
+  "sector": "Information Technology",
+  "sic": "3812",
+  "tickers": [
+   "LHX"
+  ]
+ },
+ "us-2021728": {
+  "cik": 2021728,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "cerebras.ai": 6
+   },
+   "ir_urls": {
+    "https://investors.cerebras.ai": 2
+   }
+  },
+  "hints_mined": "2026-10-05T16:00:31Z",
+  "id": "us-2021728",
+  "industry": "Semiconductors & Related Devices",
+  "listed": true,
+  "name": "Cerebras Systems Inc.",
+  "sector": "Information Technology",
+  "sic": "3674",
+  "tickers": [
+   "CBRS"
+  ]
+ },
+ "us-2023554": {
+  "cik": 2023554,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "sandisk.com": 16
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:00:33Z",
+  "id": "us-2023554",
+  "industry": "Computer Storage Devices",
+  "listed": true,
+  "name": "Sandisk Corp",
+  "sector": "Information Technology",
+  "sic": "3572",
+  "tickers": [
+   "SNDK"
+  ]
+ },
+ "us-2046386": {
+  "cik": 2046386,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "medline.com": 9
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:00:34Z",
+  "id": "us-2046386",
+  "industry": "Surgical & Medical Instruments & Apparatus",
+  "listed": true,
+  "name": "Medline Inc.",
+  "sector": "Health Care",
+  "sic": "3841",
+  "tickers": [
+   "MDLN"
+  ]
+ },
+ "us-2089271": {
+  "cik": 2089271,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "honeywellaerospace.com": 1,
+    "honeywellaerospace.us": 2
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:00:35Z",
+  "id": "us-2089271",
+  "industry": "Aircraft Engines & Engine Parts",
+  "listed": true,
+  "name": "Honeywell Aerospace Inc.",
+  "sector": "Industrials",
+  "sic": "3724",
+  "tickers": [
+   "HONA"
+  ]
+ },
+ "us-2115436": {
+  "cik": 2115436,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "exxonmobil.com": 1
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:00:36Z",
+  "id": "us-2115436",
+  "industry": "Petroleum Refining",
+  "listed": true,
+  "name": "ExxonMobil Holdings Corp",
+  "sector": "Energy",
+  "sic": "2911",
+  "tickers": [
+   "XOM"
+  ]
+ },
+ "us-2128626": {
+  "cik": 2128626,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:00:36Z",
+  "id": "us-2128626",
+  "industry": "Agricultural Production-Crops",
+  "listed": true,
+  "name": "Vylor Inc.",
+  "sector": "Consumer Staples",
+  "sic": "0100",
+  "tickers": [
+   "VYLR"
+  ]
+ },
+ "us-21344": {
+  "cik": 21344,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "coca-cola.com": 8,
+    "coca-colacompany.com": 8
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:00:38Z",
+  "id": "us-21344",
+  "industry": "Beverages",
+  "listed": true,
+  "name": "Coca Cola Co",
+  "sector": "Consumer Staples",
+  "sic": "2080",
+  "tickers": [
+   "KO"
+  ]
+ },
+ "us-21665": {
+  "cik": 21665,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "colgatepalmolive.com": 16,
+    "colpal.com": 8
+   },
+   "ir_urls": {
+    "https://investor.colgatepalmolive.com/events-and-presentations": 4
+   }
+  },
+  "hints_mined": "2026-10-05T16:00:40Z",
+  "id": "us-21665",
+  "industry": "Perfumes, Cosmetics & Other Toilet Preparations",
+  "listed": true,
+  "name": "Colgate Palmolive Co",
+  "sector": "Consumer Staples",
+  "sic": "2844",
+  "tickers": [
+   "CL"
+  ]
+ },
+ "us-217410": {
+  "cik": 217410,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "fca.org.uk": 1,
+    "teneo.com": 1,
+    "unilever.com": 5
+   },
+   "ir_urls": {
+    "https://www.unilever.com/investor-relations/results-and-presentations/latest-results": 2
+   }
+  },
+  "hints_mined": "2026-10-05T16:00:40Z",
+  "id": "us-217410",
+  "industry": "Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",
+  "listed": true,
+  "name": "Unilever PLC",
+  "sector": "Consumer Staples",
+  "sic": "2840",
+  "tickers": [
+   "UL"
+  ]
+ },
+ "us-24741": {
+  "cik": 24741,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "corning.com": 16
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:00:41Z",
+  "id": "us-24741",
+  "industry": "Drawing & Insulating of  Nonferrous Wire",
+  "listed": true,
+  "name": "Corning Inc",
+  "sector": "Materials",
+  "sic": "3357",
+  "tickers": [
+   "GLW"
+  ]
+ },
+ "us-2488": {
+  "cik": 2488,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints_mined": "2026-10-05T16:00:42Z",
+  "id": "us-2488",
+  "industry": "Semiconductors & Related Devices",
+  "listed": true,
+  "name": "Advanced Micro Devices Inc",
+  "sector": "Information Technology",
+  "sic": "3674",
+  "tickers": [
+   "AMD"
+  ]
+ },
+ "us-26172": {
+  "cik": 26172,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "cummins.com": 12
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:00:44Z",
+  "id": "us-26172",
+  "industry": "Engines & Turbines",
+  "listed": true,
+  "name": "Cummins Inc",
+  "sector": "Industrials",
+  "sic": "3510",
+  "tickers": [
+   "CMI"
+  ]
+ },
+ "us-27419": {
+  "cik": 27419,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "target.com": 3
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:00:46Z",
+  "id": "us-27419",
+  "industry": "Retail-Variety Stores",
+  "listed": true,
+  "name": "Target Corp",
+  "sector": "Consumer Discretionary",
+  "sic": "5331",
+  "tickers": [
+   "TGT"
+  ]
+ },
+ "us-277135": {
+  "cik": 277135,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "grainger.com": 16
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:00:47Z",
+  "id": "us-277135",
+  "industry": "Wholesale-Durable Goods",
+  "listed": true,
+  "name": "W.W. Grainger, Inc.",
+  "sector": "Industrials",
+  "sic": "5000",
+  "tickers": [
+   "GWW"
+  ]
+ },
+ "us-277948": {
+  "cik": 277948,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "csx.com": 10
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:00:51Z",
+  "id": "us-277948",
+  "industry": "Railroads, Line-Haul Operating",
+  "listed": true,
+  "name": "CSX Corp",
+  "sector": "Industrials",
+  "sic": "4011",
+  "tickers": [
+   "CSX"
+  ]
+ },
+ "us-27904": {
+  "cik": 27904,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:00:51Z",
+  "id": "us-27904",
+  "industry": "Air Transportation, Scheduled",
+  "listed": true,
+  "name": "Delta Air Lines, Inc.",
+  "sector": "Industrials",
+  "sic": "4512",
+  "tickers": [
+   "DAL"
+  ]
+ },
+ "us-2809": {
+  "cik": 2809,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "agnicoeagle.com": 8,
+    "computershare.com": 2,
+    "investorcentre.com": 2,
+    "laurelhill.com": 1,
+    "sedarplus.ca": 4
+   },
+   "ir_urls": {
+    "https://www.computershare.com/investor": 2
+   }
+  },
+  "hints_mined": "2026-10-05T16:00:53Z",
+  "id": "us-2809",
+  "industry": "Gold and Silver Ores",
+  "listed": true,
+  "name": "Agnico Eagle Mines Ltd",
+  "sector": "Materials",
+  "sic": "1040",
+  "tickers": [
+   "AEM"
+  ]
+ },
+ "us-2969": {
+  "cik": 2969,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:00:54Z",
+  "id": "us-2969",
+  "industry": "Industrial Inorganic Chemicals",
+  "listed": true,
+  "name": "Air Products & Chemicals, Inc.",
+  "sector": "Materials",
+  "sic": "2810",
+  "tickers": [
+   "APD"
+  ]
+ },
+ "us-310158": {
+  "cik": 310158,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "msd.com": 8
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:00:55Z",
+  "id": "us-310158",
+  "industry": "Pharmaceutical Preparations",
+  "listed": true,
+  "name": "Merck & Co., Inc.",
+  "sector": "Health Care",
+  "sic": "2834",
+  "tickers": [
+   "MRK"
+  ]
+ },
+ "us-310764": {
+  "cik": 310764,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "open-exchange.net": 2,
+    "stryker.com": 16
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:00:59Z",
+  "id": "us-310764",
+  "industry": "Surgical & Medical Instruments & Apparatus",
+  "listed": true,
+  "name": "Stryker Corp",
+  "sector": "Health Care",
+  "sic": "3841",
+  "tickers": [
+   "SYK"
+  ]
+ },
+ "us-311337": {
+  "cik": 311337,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "suncor.com": 12
+   },
+   "ir_urls": {
+    "https://www.suncor.com/en-ca/investors/events-and-presentations": 2
+   }
+  },
+  "hints_mined": "2026-10-05T16:01:01Z",
+  "id": "us-311337",
+  "industry": "Petroleum Refining",
+  "listed": true,
+  "name": "Suncor Energy Inc",
+  "sector": "Energy",
+  "sic": "2911",
+  "tickers": [
+   "SU"
+  ]
+ },
+ "us-312069": {
+  "cik": 312069,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:01:01Z",
+  "id": "us-312069",
+  "industry": "Commercial Banks, NEC",
+  "listed": true,
+  "name": "Barclays PLC",
+  "sector": "Financials",
+  "sic": "6029",
+  "tickers": [
+   "BCS"
+  ]
+ },
+ "us-313616": {
+  "cik": 313616,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "danaher.com": 20
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:01:09Z",
+  "id": "us-313616",
+  "industry": "Industrial Instruments For Measurement, Display, and Control",
+  "listed": true,
+  "name": "Danaher Corp",
+  "sector": "Information Technology",
+  "sic": "3823",
+  "tickers": [
+   "DHR"
+  ]
+ },
+ "us-313807": {
+  "cik": 313807,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:01:09Z",
+  "id": "us-313807",
+  "industry": "Petroleum Refining",
+  "listed": true,
+  "name": "BP PLC",
+  "sector": "Energy",
+  "sic": "2911",
+  "tickers": [
+   "BP"
+  ]
+ },
+ "us-313838": {
+  "cik": 313838,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:01:10Z",
+  "id": "us-313838",
+  "industry": "Household Audio & Video Equipment",
+  "listed": true,
+  "name": "Sony Group Corp",
+  "sector": "Consumer Discretionary",
+  "sic": "3651",
+  "tickers": [
+   "SONY"
+  ]
+ },
+ "us-31462": {
+  "cik": 31462,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "coolitsystems.com": 1,
+    "ecolab.com": 9
+   },
+   "ir_urls": {
+    "https://www.ecolab.com/investor": 4
+   }
+  },
+  "hints_mined": "2026-10-05T16:01:12Z",
+  "id": "us-31462",
+  "industry": "Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",
+  "listed": true,
+  "name": "Ecolab Inc.",
+  "sector": "Consumer Staples",
+  "sic": "2840",
+  "tickers": [
+   "ECL"
+  ]
+ },
+ "us-315189": {
+  "cik": 315189,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {},
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:01:13Z",
+  "id": "us-315189",
+  "industry": "Farm Machinery & Equipment",
+  "listed": true,
+  "name": "Deere & Co",
+  "sector": "Industrials",
+  "sic": "3523",
+  "tickers": [
+   "DE"
+  ]
+ },
+ "us-315293": {
+  "cik": 315293,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "aon.com": 11,
+    "usi.com": 4
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:01:14Z",
+  "id": "us-315293",
+  "industry": "Insurance Agents, Brokers & Service",
+  "listed": true,
+  "name": "Aon plc",
+  "sector": "Financials",
+  "sic": "6411",
+  "tickers": [
+   "AON"
+  ]
+ },
+ "us-316709": {
+  "cik": 316709,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "aboutschwab.com": 14,
+    "forbes.com": 1,
+    "forgeglobal.com": 2,
+    "schwab.com": 9,
+    "schwabevents.com": 1,
+    "sipc.org": 4,
+    "stockbrokers.com": 1,
+    "usnews.com": 1
+   },
+   "ir_urls": {
+    "https://www.aboutschwab.com/investor-relations": 1
+   }
+  },
+  "hints_mined": "2026-10-05T16:01:17Z",
+  "id": "us-316709",
+  "industry": "Security Brokers, Dealers & Flotation Companies",
+  "listed": true,
+  "name": "Schwab Charles Corp",
+  "sector": "Financials",
+  "sic": "6211",
+  "tickers": [
+   "SCHW",
+   "SCHW-PD",
+   "SCHW-PJ"
+  ]
+ },
+ "us-318154": {
+  "cik": 318154,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints_mined": "2026-10-05T16:01:17Z",
+  "id": "us-318154",
+  "industry": "Biological Products, (No Diagnostic Substances)",
+  "listed": true,
+  "name": "Amgen Inc",
+  "sector": "Health Care",
+  "sic": "2836",
+  "tickers": [
+   "AMGN"
+  ]
+ },
+ "us-319201": {
+  "cik": 319201,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "kla.com": 14
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:01:18Z",
+  "id": "us-319201",
+  "industry": "Optical Instruments & Lenses",
+  "listed": true,
+  "name": "Kla Corp",
+  "sector": "Information Technology",
+  "sic": "3827",
+  "tickers": [
+   "KLAC"
+  ]
+ },
+ "us-320187": {
+  "cik": 320187,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:01:18Z",
+  "id": "us-320187",
+  "industry": "Rubber & Plastics Footwear",
+  "listed": true,
+  "name": "Nike, Inc.",
+  "sector": "Materials",
+  "sic": "3021",
+  "tickers": [
+   "NKE"
+  ]
+ },
+ "us-320193": {
+  "cik": 320193,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "apple.com": 16
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:01:19Z",
+  "id": "us-320193",
+  "industry": "Electronic Computers",
+  "listed": true,
+  "name": "Apple Inc.",
+  "sector": "Information Technology",
+  "sic": "3571",
+  "tickers": [
+   "AAPL"
+  ]
+ },
+ "us-32604": {
+  "cik": 32604,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "emerson.com": 9
+   },
+   "ir_urls": {
+    "https://ir.emerson.com": 9
+   }
+  },
+  "hints_mined": "2026-10-05T16:01:21Z",
+  "id": "us-32604",
+  "industry": "Electronic & Other Electrical Equipment (No Computer Equip)",
+  "listed": true,
+  "name": "Emerson Electric Co",
+  "sector": "Industrials",
+  "sic": "3600",
+  "tickers": [
+   "EMR"
+  ]
+ },
+ "us-353278": {
+  "cik": 353278,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:01:22Z",
+  "id": "us-353278",
+  "industry": "Pharmaceutical Preparations",
+  "listed": true,
+  "name": "Novo Nordisk A S",
+  "sector": "Health Care",
+  "sic": "2834",
+  "tickers": [
+   "NVO"
+  ]
+ },
+ "us-354190": {
+  "cik": 354190,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "ajg.com": 4
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:01:24Z",
+  "id": "us-354190",
+  "industry": "Insurance Agents, Brokers & Service",
+  "listed": true,
+  "name": "Arthur J. Gallagher & Co.",
+  "sector": "Financials",
+  "sic": "6411",
+  "tickers": [
+   "AJG"
+  ]
+ },
+ "us-354950": {
+  "cik": 354950,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "homedepot.com": 8
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:01:26Z",
+  "id": "us-354950",
+  "industry": "Retail-Lumber & Other Building Materials Dealers",
+  "listed": true,
+  "name": "Home Depot, Inc.",
+  "sector": "Consumer Discretionary",
+  "sic": "5211",
+  "tickers": [
+   "HD"
+  ]
+ },
+ "us-35527": {
+  "cik": 35527,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "53.com": 8
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:01:29Z",
+  "id": "us-35527",
+  "industry": "State Commercial Banks",
+  "listed": true,
+  "name": "Fifth Third Bancorp",
+  "sector": "Financials",
+  "sic": "6022",
+  "tickers": [
+   "FITB",
+   "FITB-PA",
+   "FITB-PI",
+   "FITB-PK",
+   "FITB-PM"
+  ]
+ },
+ "us-3570": {
+  "cik": 3570,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "cheniere.com": 8
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:01:33Z",
+  "id": "us-3570",
+  "industry": "Natural Gas Distribution",
+  "listed": true,
+  "name": "Cheniere Energy, Inc.",
+  "sector": "Utilities",
+  "sic": "4924",
+  "tickers": [
+   "LNG"
+  ]
+ },
+ "us-36104": {
+  "cik": 36104,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "usbank.com": 8
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:01:35Z",
+  "id": "us-36104",
+  "industry": "National Commercial Banks",
+  "listed": true,
+  "name": "US Bancorp \\de\\",
+  "sector": "Financials",
+  "sic": "6021",
+  "tickers": [
+   "USB",
+   "USB-PA",
+   "USB-PH",
+   "USB-PP",
+   "USB-PQ",
+   "USB-PR",
+   "USB-PS"
+  ]
+ },
+ "us-37996": {
+  "cik": 37996,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "ford.co": 1,
+    "ford.com": 15,
+    "ford.to": 8
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:01:38Z",
+  "id": "us-37996",
+  "industry": "Motor Vehicles & Passenger Car Bodies",
+  "listed": true,
+  "name": "Ford Motor Co",
+  "sector": "Consumer Discretionary",
+  "sic": "3711",
+  "tickers": [
+   "F",
+   "F-PB",
+   "F-PC",
+   "F-PD"
+  ]
+ },
+ "us-40533": {
+  "cik": 40533,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "gd.com": 13,
+    "generaldynamics.com": 4
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:01:39Z",
+  "id": "us-40533",
+  "industry": "Ship & Boat Building & Repairing",
+  "listed": true,
+  "name": "General Dynamics Corp",
+  "sector": "Industrials",
+  "sic": "3730",
+  "tickers": [
+   "GD"
+  ]
+ },
+ "us-40545": {
+  "cik": 40545,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "geaerospace.com": 24
+   },
+   "ir_urls": {
+    "https://www.geaerospace.com/investor-relations": 12
+   }
+  },
+  "hints_mined": "2026-10-05T16:01:41Z",
+  "id": "us-40545",
+  "industry": "Electronic & Other Electrical Equipment (No Computer Equip)",
+  "listed": true,
+  "name": "General Electric Co",
+  "sector": "Industrials",
+  "sic": "3600",
+  "tickers": [
+   "GE"
+  ]
+ },
+ "us-4281": {
+  "cik": 4281,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "howmet.com": 20
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:01:43Z",
+  "id": "us-4281",
+  "industry": "Rolling Drawing & Extruding of  Nonferrous Metals",
+  "listed": true,
+  "name": "Howmet Aerospace Inc.",
+  "sector": "Materials",
+  "sic": "3350",
+  "tickers": [
+   "HWM"
+  ]
+ },
+ "us-46619": {
+  "cik": 46619,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:01:44Z",
+  "id": "us-46619",
+  "industry": "Aircraft Engines & Engine Parts",
+  "listed": true,
+  "name": "Heico Corp",
+  "sector": "Industrials",
+  "sic": "3724",
+  "tickers": [
+   "HEI",
+   "HEI-A"
+  ]
+ },
+ "us-4904": {
+  "cik": 4904,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "aep.com": 16
+   },
+   "ir_urls": {
+    "https://www.aep.com/investors": 8
+   }
+  },
+  "hints_mined": "2026-10-05T16:01:47Z",
+  "id": "us-4904",
+  "industry": "Electric Services",
+  "listed": true,
+  "name": "American Electric Power Co Inc",
+  "sector": "Utilities",
+  "sic": "4911",
+  "tickers": [
+   "AEP"
+  ]
+ },
+ "us-49071": {
+  "cik": 49071,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "humana.com": 13,
+    "media-server.com": 3
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:01:49Z",
+  "id": "us-49071",
+  "industry": "Hospital & Medical Service Plans",
+  "listed": true,
+  "name": "Humana Inc",
+  "sector": "Financials",
+  "sic": "6324",
+  "tickers": [
+   "HUM"
+  ]
+ },
+ "us-4962": {
+  "cik": 4962,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:01:50Z",
+  "id": "us-4962",
+  "industry": "Finance Services",
+  "listed": true,
+  "name": "American Express Co",
+  "sector": "Financials",
+  "sic": "6199",
+  "tickers": [
+   "AXP"
+  ]
+ },
+ "us-4977": {
+  "cik": 4977,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "aflac.com": 8
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:01:51Z",
+  "id": "us-4977",
+  "industry": "Accident & Health Insurance",
+  "listed": true,
+  "name": "Aflac Inc",
+  "sector": "Financials",
+  "sic": "6321",
+  "tickers": [
+   "AFL"
+  ]
+ },
+ "us-49826": {
+  "cik": 49826,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:01:52Z",
+  "id": "us-49826",
+  "industry": "General Industrial Machinery & Equipment",
+  "listed": true,
+  "name": "Illinois Tool Works Inc",
+  "sector": "Industrials",
+  "sic": "3560",
+  "tickers": [
+   "ITW"
+  ]
+ },
+ "us-50863": {
+  "cik": 50863,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "intc.com": 4,
+    "intel.com": 11
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:01:53Z",
+  "id": "us-50863",
+  "industry": "Semiconductors & Related Devices",
+  "listed": true,
+  "name": "Intel Corp",
+  "sector": "Information Technology",
+  "sic": "3674",
+  "tickers": [
+   "INTC"
+  ]
+ },
+ "us-51143": {
+  "cik": 51143,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "ibm.com": 12
+   },
+   "ir_urls": {
+    "https://www.ibm.com/investor/events/earnings-1q26": 1,
+    "https://www.ibm.com/investor/events/earnings-2q26": 2,
+    "https://www.ibm.com/investor/events/earnings-4q25": 1
+   }
+  },
+  "hints_mined": "2026-10-05T16:01:55Z",
+  "id": "us-51143",
+  "industry": "Computer & office Equipment",
+  "listed": true,
+  "name": "International Business Machines Corp",
+  "sector": "Information Technology",
+  "sic": "3570",
+  "tickers": [
+   "IBM"
+  ]
+ },
+ "us-5272": {
+  "cik": 5272,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "aig.com": 23
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:01:57Z",
+  "id": "us-5272",
+  "industry": "Fire, Marine & Casualty Insurance",
+  "listed": true,
+  "name": "American International Group, Inc.",
+  "sector": "Financials",
+  "sic": "6331",
+  "tickers": [
+   "AIG"
+  ]
+ },
+ "us-59478": {
+  "cik": 59478,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "lilly.com": 8
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:01:58Z",
+  "id": "us-59478",
+  "industry": "Pharmaceutical Preparations",
+  "listed": true,
+  "name": "ELI Lilly & Co",
+  "sector": "Health Care",
+  "sic": "2834",
+  "tickers": [
+   "LLY"
+  ]
+ },
+ "us-60667": {
+  "cik": 60667,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "lowes.com": 8
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:02:00Z",
+  "id": "us-60667",
+  "industry": "Retail-Lumber & Other Building Materials Dealers",
+  "listed": true,
+  "name": "Lowes Companies Inc",
+  "sector": "Consumer Discretionary",
+  "sic": "5211",
+  "tickers": [
+   "LOW"
+  ]
+ },
+ "us-62709": {
+  "cik": 62709,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "marsh.com": 3,
+    "marshmclennan.com": 1
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:02:01Z",
+  "id": "us-62709",
+  "industry": "Insurance Agents, Brokers & Service",
+  "listed": true,
+  "name": "Marsh & Mclennan Companies, Inc.",
+  "sector": "Financials",
+  "sic": "6411",
+  "tickers": [
+   "MRSH"
+  ]
+ },
+ "us-6281": {
+  "cik": 6281,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "analog.com": 8
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:02:03Z",
+  "id": "us-6281",
+  "industry": "Semiconductors & Related Devices",
+  "listed": true,
+  "name": "Analog Devices Inc",
+  "sector": "Information Technology",
+  "sic": "3674",
+  "tickers": [
+   "ADI"
+  ]
+ },
+ "us-63908": {
+  "cik": 63908,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "mcd.com": 10,
+    "mcdonalds.com": 10
+   },
+   "ir_urls": {
+    "https://www.investor.mcdonalds.com": 10
+   }
+  },
+  "hints_mined": "2026-10-05T16:02:05Z",
+  "id": "us-63908",
+  "industry": "Retail-Eating  Places",
+  "listed": true,
+  "name": "Mcdonalds Corp",
+  "sector": "Consumer Discretionary",
+  "sic": "5812",
+  "tickers": [
+   "MCD"
+  ]
+ },
+ "us-64040": {
+  "cik": 64040,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "spglobal.com": 32
+   },
+   "ir_urls": {
+    "http://investor.spglobal.com": 4,
+    "http://investor.spglobal.com/Quarterly-Earnings": 11
+   }
+  },
+  "hints_mined": "2026-10-05T16:02:07Z",
+  "id": "us-64040",
+  "industry": "Services-Consumer Credit Reporting, Collection Agencies",
+  "listed": true,
+  "name": "S&P Global Inc.",
+  "sector": "Industrials",
+  "sic": "7320",
+  "tickers": [
+   "SPGI"
+  ]
+ },
+ "us-64803": {
+  "cik": 64803,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "cvshealth.com": 5
+   },
+   "ir_urls": {
+    "http://investors.cvshealth.com": 3
+   }
+  },
+  "hints_mined": "2026-10-05T16:02:09Z",
+  "id": "us-64803",
+  "industry": "Retail-Drug Stores and Proprietary Stores",
+  "listed": true,
+  "name": "CVS Health Corp",
+  "sector": "Consumer Staples",
+  "sic": "5912",
+  "tickers": [
+   "CVS"
+  ]
+ },
+ "us-65984": {
+  "cik": 65984,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:02:09Z",
+  "id": "us-65984",
+  "industry": "Electric Services",
+  "listed": true,
+  "name": "Entergy Corp",
+  "sector": "Utilities",
+  "sic": "4911",
+  "tickers": [
+   "ETR"
+  ]
+ },
+ "us-66740": {
+  "cik": 66740,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "3m.com": 8,
+    "mmm.com": 4
+   },
+   "ir_urls": {
+    "https://investors.3m.com": 4,
+    "https://investors.3m.com/financials/quarterly-earnings": 4
+   }
+  },
+  "hints_mined": "2026-10-05T16:02:11Z",
+  "id": "us-66740",
+  "industry": "Surgical & Medical Instruments & Apparatus",
+  "listed": true,
+  "name": "3M Co",
+  "sector": "Health Care",
+  "sic": "3841",
+  "tickers": [
+   "MMM"
+  ]
+ },
+ "us-67088": {
+  "cik": 67088,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:02:12Z",
+  "id": "us-67088",
+  "industry": "Commercial Banks, NEC",
+  "listed": true,
+  "name": "Mitsubishi Ufj Financial Group Inc",
+  "sector": "Financials",
+  "sic": "6029",
+  "tickers": [
+   "MUFG"
+  ]
+ },
+ "us-68505": {
+  "cik": 68505,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "motorolasolutions.com": 21
+   },
+   "ir_urls": {
+    "https://www.motorolasolutions.com/investor": 1,
+    "https://www.motorolasolutions.com/investors": 8
+   }
+  },
+  "hints_mined": "2026-10-05T16:02:16Z",
+  "id": "us-68505",
+  "industry": "Radio & Tv Broadcasting & Communications Equipment",
+  "listed": true,
+  "name": "Motorola Solutions, Inc.",
+  "sector": "Information Technology",
+  "sic": "3663",
+  "tickers": [
+   "MSI"
+  ]
+ },
+ "us-6951": {
+  "cik": 6951,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "amat.com": 8,
+    "appliedmaterials.com": 8
+   },
+   "ir_urls": {
+    "https://ir.appliedmaterials.com": 4
+   }
+  },
+  "hints_mined": "2026-10-05T16:02:20Z",
+  "id": "us-6951",
+  "industry": "Semiconductors & Related Devices",
+  "listed": true,
+  "name": "Applied Materials Inc",
+  "sector": "Information Technology",
+  "sic": "3674",
+  "tickers": [
+   "AMAT"
+  ]
+ },
+ "us-702165": {
+  "cik": 702165,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:02:21Z",
+  "id": "us-702165",
+  "industry": "Railroads, Line-Haul Operating",
+  "listed": true,
+  "name": "Norfolk Southern Corp",
+  "sector": "Industrials",
+  "sic": "4011",
+  "tickers": [
+   "NSC"
+  ]
+ },
+ "us-707549": {
+  "cik": 707549,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints_mined": "2026-10-05T16:02:21Z",
+  "id": "us-707549",
+  "industry": "Special Industry Machinery, NEC",
+  "listed": true,
+  "name": "Lam Research Corp",
+  "sector": "Industrials",
+  "sic": "3559",
+  "tickers": [
+   "LRCX"
+  ]
+ },
+ "us-7084": {
+  "cik": 7084,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "adm.com": 20
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:02:23Z",
+  "id": "us-7084",
+  "industry": "Fats & Oils",
+  "listed": true,
+  "name": "Archer-Daniels-Midland Co",
+  "sector": "Consumer Staples",
+  "sic": "2070",
+  "tickers": [
+   "ADM"
+  ]
+ },
+ "us-70858": {
+  "cik": 70858,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:02:23Z",
+  "id": "us-70858",
+  "industry": "National Commercial Banks",
+  "listed": true,
+  "name": "Bank Of America Corp",
+  "sector": "Financials",
+  "sic": "6021",
+  "tickers": [
+   "BAC",
+   "BML-PG",
+   "BML-PL",
+   "BAC-PB",
+   "BAC-PK",
+   "BAC-PE",
+   "BAC-PL",
+   "BAC-PM",
+   "BAC-PN",
+   "BAC-PO",
+   "BAC-PP",
+   "BAC-PQ",
+   "BAC-PS",
+   "BML-PH",
+   "BML-PJ",
+   "MER-PK"
+  ]
+ },
+ "us-713676": {
+  "cik": 713676,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "pnc.com": 24
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:02:26Z",
+  "id": "us-713676",
+  "industry": "National Commercial Banks",
+  "listed": true,
+  "name": "PNC Financial Services Group, Inc.",
+  "sector": "Financials",
+  "sic": "6021",
+  "tickers": [
+   "PNC"
+  ]
+ },
+ "us-715153": {
+  "cik": 715153,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:02:26Z",
+  "id": "us-715153",
+  "industry": "Motor Vehicles & Passenger Car Bodies",
+  "listed": true,
+  "name": "Honda Motor Co Ltd",
+  "sector": "Consumer Discretionary",
+  "sic": "3711",
+  "tickers": [
+   "HMC"
+  ]
+ },
+ "us-715957": {
+  "cik": 715957,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "dominionenergy.com": 10,
+    "fpl.com": 1,
+    "nexteraenergy.com": 5,
+    "nexteraenergyresources.com": 1
+   },
+   "ir_urls": {
+    "http://investors.dominionenergy.com": 1,
+    "http://www.investor.nexteraenergy.com": 1
+   }
+  },
+  "hints_mined": "2026-10-05T16:02:28Z",
+  "id": "us-715957",
+  "industry": "Electric Services",
+  "listed": true,
+  "name": "Dominion Energy, Inc",
+  "sector": "Utilities",
+  "sic": "4911",
+  "tickers": [
+   "D"
+  ]
+ },
+ "us-721371": {
+  "cik": 721371,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "cardinalhealth.com": 8
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:02:31Z",
+  "id": "us-721371",
+  "industry": "Wholesale-Drugs, Proprietaries & Druggists' Sundries",
+  "listed": true,
+  "name": "Cardinal Health Inc",
+  "sector": "Health Care",
+  "sic": "5122",
+  "tickers": [
+   "CAH"
+  ]
+ },
+ "us-723125": {
+  "cik": 723125,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "micron.com": 10
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:02:32Z",
+  "id": "us-723125",
+  "industry": "Semiconductors & Related Devices",
+  "listed": true,
+  "name": "Micron Technology Inc",
+  "sector": "Information Technology",
+  "sic": "3674",
+  "tickers": [
+   "MU"
+  ]
+ },
+ "us-723254": {
+  "cik": 723254,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "cintas.com": 6,
+    "cintasunifirst.com": 1,
+    "fgsglobal.com": 1,
+    "joelefrank.com": 1,
+    "unifirst.com": 1
+   },
+   "ir_urls": {
+    "https://www.cintas.com/investors": 1
+   }
+  },
+  "hints_mined": "2026-10-05T16:02:33Z",
+  "id": "us-723254",
+  "industry": "Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",
+  "listed": true,
+  "name": "Cintas Corp",
+  "sector": "Consumer Discretionary",
+  "sic": "2320",
+  "tickers": [
+   "CTAS"
+  ]
+ },
+ "us-726728": {
+  "cik": 726728,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "realtyincome.com": 18
+   },
+   "ir_urls": {
+    "https://www.realtyincome.com/investors": 2,
+    "https://www.realtyincome.com/investors/quarterly-and-annual-results": 4
+   }
+  },
+  "hints_mined": "2026-10-05T16:02:35Z",
+  "id": "us-726728",
+  "industry": "Real Estate Investment Trusts",
+  "listed": true,
+  "name": "Realty Income Corp",
+  "sector": "Real Estate",
+  "sic": "6798",
+  "tickers": [
+   "O"
+  ]
+ },
+ "us-72903": {
+  "cik": 72903,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints_mined": "2026-10-05T16:02:36Z",
+  "id": "us-72903",
+  "industry": "Electric & Other Services Combined",
+  "listed": true,
+  "name": "Xcel Energy Inc",
+  "sector": "Utilities",
+  "sic": "4931",
+  "tickers": [
+   "XEL",
+   "XELLL"
+  ]
+ },
+ "us-72971": {
+  "cik": 72971,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:02:36Z",
+  "id": "us-72971",
+  "industry": "National Commercial Banks",
+  "listed": true,
+  "name": "Wells Fargo & Company",
+  "sector": "Financials",
+  "sic": "6021",
+  "tickers": [
+   "WFC",
+   "WFC-PY",
+   "WFC-PL",
+   "WFC-PC",
+   "WFC-PA",
+   "WFC-PD",
+   "WFC-PZ"
+  ]
+ },
+ "us-731766": {
+  "cik": 731766,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "uhg.com": 8,
+    "unitedhealthgroup.com": 10
+   },
+   "ir_urls": {
+    "https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2026/unh-reports-first-quarter-2026-results.pdf": 1,
+    "https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2026/unh-reports-second-quarter-2026-results.pdf": 1
+   }
+  },
+  "hints_mined": "2026-10-05T16:02:38Z",
+  "id": "us-731766",
+  "industry": "Hospital & Medical Service Plans",
+  "listed": true,
+  "name": "Unitedhealth Group Inc",
+  "sector": "Financials",
+  "sic": "6324",
+  "tickers": [
+   "UNH"
+  ]
+ },
+ "us-732712": {
+  "cik": 732712,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:02:39Z",
+  "id": "us-732712",
+  "industry": "Telephone Communications (No Radiotelephone)",
+  "listed": true,
+  "name": "Verizon Communications Inc",
+  "sector": "Communication Services",
+  "sic": "4813",
+  "tickers": [
+   "VZ"
+  ]
+ },
+ "us-732717": {
+  "cik": 732717,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "att.com": 4
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:02:40Z",
+  "id": "us-732717",
+  "industry": "Telephone Communications (No Radiotelephone)",
+  "listed": true,
+  "name": "At&t Inc.",
+  "sector": "Communication Services",
+  "sic": "4813",
+  "tickers": [
+   "T",
+   "TBB",
+   "T-PA",
+   "T-PC"
+  ]
+ },
+ "us-73309": {
+  "cik": 73309,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "nucor.com": 52
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:02:41Z",
+  "id": "us-73309",
+  "industry": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
+  "listed": true,
+  "name": "Nucor Corp",
+  "sector": "Materials",
+  "sic": "3312",
+  "tickers": [
+   "NUE"
+  ]
+ },
+ "us-740260": {
+  "cik": 740260,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "ventasreit.com": 12
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:02:43Z",
+  "id": "us-740260",
+  "industry": "Real Estate Investment Trusts",
+  "listed": true,
+  "name": "Ventas, Inc.",
+  "sector": "Real Estate",
+  "sic": "6798",
+  "tickers": [
+   "VTR"
+  ]
+ },
+ "us-745732": {
+  "cik": 745732,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "ros.com": 4,
+    "rossstores.com": 8
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:02:44Z",
+  "id": "us-745732",
+  "industry": "Retail-Family Clothing Stores",
+  "listed": true,
+  "name": "Ross Stores, Inc.",
+  "sector": "Consumer Discretionary",
+  "sic": "5651",
+  "tickers": [
+   "ROST"
+  ]
+ },
+ "us-753308": {
+  "cik": 753308,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "dominionenergy.com": 6,
+    "fpl.com": 4,
+    "nexteraenergy.co": 1,
+    "nexteraenergy.com": 15,
+    "nexteraenergyresources.com": 4
+   },
+   "ir_urls": {
+    "http://investors.dominionenergy.com": 2,
+    "http://www.investor.nexteraenergy.com": 2
+   }
+  },
+  "hints_mined": "2026-10-05T16:02:46Z",
+  "id": "us-753308",
+  "industry": "Electric Services",
+  "listed": true,
+  "name": "Nextera Energy Inc",
+  "sector": "Utilities",
+  "sic": "4911",
+  "tickers": [
+   "NEE",
+   "NEE-PN",
+   "NEE-PS",
+   "NEE-PT",
+   "NEE-PU",
+   "NEE-PV",
+   "NEE-PW"
+  ]
+ },
+ "us-75362": {
+  "cik": 75362,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "paccar.com": 8
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:02:47Z",
+  "id": "us-75362",
+  "industry": "Motor Vehicles & Passenger Car Bodies",
+  "listed": true,
+  "name": "Paccar Inc",
+  "sector": "Consumer Discretionary",
+  "sic": "3711",
+  "tickers": [
+   "PCAR"
+  ]
+ },
+ "us-756894": {
+  "cik": 756894,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "barrick.com": 46,
+    "brunswickgroup.com": 2,
+    "kingsdaleadvisors.com": 5,
+    "lumiglobal.com": 2,
+    "meeting-vote.com": 1,
+    "meetingdocuments.com": 1,
+    "proxyvote.com": 1,
+    "sedarplus.ca": 30,
+    "tmx.com": 3,
+    "tsxtrust.com": 2
+   },
+   "ir_urls": {
+    "https://www.barrick.com/investors": 1,
+    "https://www.barrick.com/investors/agm": 3
+   }
+  },
+  "hints_mined": "2026-10-05T16:02:50Z",
+  "id": "us-756894",
+  "industry": "Gold and Silver Ores",
+  "listed": true,
+  "name": "Barrick Mining Corp",
+  "sector": "Materials",
+  "sic": "1040",
+  "tickers": [
+   "B"
+  ]
+ },
+ "us-76334": {
+  "cik": 76334,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "parker.com": 12
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:02:51Z",
+  "id": "us-76334",
+  "industry": "Miscellaneous Fabricated Metal Products",
+  "listed": true,
+  "name": "Parker-Hannifin Corp",
+  "sector": "Industrials",
+  "sic": "3490",
+  "tickers": [
+   "PH"
+  ]
+ },
+ "us-764180": {
+  "cik": 764180,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "altria.com": 16
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:02:53Z",
+  "id": "us-764180",
+  "industry": "Cigarettes",
+  "listed": true,
+  "name": "Altria Group, Inc.",
+  "sector": "Consumer Staples",
+  "sic": "2111",
+  "tickers": [
+   "MO"
+  ]
+ },
+ "us-766704": {
+  "cik": 766704,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "welltower.com": 12
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:02:55Z",
+  "id": "us-766704",
+  "industry": "Real Estate Investment Trusts",
+  "listed": true,
+  "name": "Welltower Inc.",
+  "sector": "Real Estate",
+  "sic": "6798",
+  "tickers": [
+   "WELL"
+  ]
+ },
+ "us-769397": {
+  "cik": 769397,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "autodesk.com": 10
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:02:57Z",
+  "id": "us-769397",
+  "industry": "Services-Prepackaged Software",
+  "listed": true,
+  "name": "Autodesk, Inc.",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "tickers": [
+   "ADSK"
+  ]
+ },
+ "us-773840": {
+  "cik": 773840,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "honeywell.com": 21
+   },
+   "ir_urls": {
+    "http://www.honeywell.com/investor": 1,
+    "https://www.honeywell.com/investor": 7
+   }
+  },
+  "hints_mined": "2026-10-05T16:03:01Z",
+  "id": "us-773840",
+  "industry": "Aircraft Engines & Engine Parts",
+  "listed": true,
+  "name": "Honeywell International Inc",
+  "sector": "Industrials",
+  "sic": "3724",
+  "tickers": [
+   "HON"
+  ]
+ },
+ "us-77476": {
+  "cik": 77476,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "pepsico.com": 18
+   },
+   "ir_urls": {
+    "https://www.pepsico.com/investors": 7,
+    "https://www.pepsico.com/investors/earnings": 1,
+    "https://www.pepsico.com/investors/events-presentations": 1
+   }
+  },
+  "hints_mined": "2026-10-05T16:03:05Z",
+  "id": "us-77476",
+  "industry": "Beverages",
+  "listed": true,
+  "name": "Pepsico Inc",
+  "sector": "Consumer Staples",
+  "sic": "2080",
+  "tickers": [
+   "PEP"
+  ]
+ },
+ "us-78003": {
+  "cik": 78003,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "pfizer.com": 7
+   },
+   "ir_urls": {
+    "https://www.pfizer.com/investors": 1
+   }
+  },
+  "hints_mined": "2026-10-05T16:03:09Z",
+  "id": "us-78003",
+  "industry": "Pharmaceutical Preparations",
+  "listed": true,
+  "name": "Pfizer Inc",
+  "sector": "Health Care",
+  "sic": "2834",
+  "tickers": [
+   "PFE"
+  ]
+ },
+ "us-789019": {
+  "cik": 789019,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "microsoft.com": 16,
+    "we-worldwide.com": 4
+   },
+   "ir_urls": {
+    "http://www.microsoft.com/en-us/investor": 12
+   }
+  },
+  "hints_mined": "2026-10-05T16:03:11Z",
+  "id": "us-789019",
+  "industry": "Services-Prepackaged Software",
+  "listed": true,
+  "name": "Microsoft Corp",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "tickers": [
+   "MSFT"
+  ]
+ },
+ "us-796343": {
+  "cik": 796343,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "adobe.com": 20
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:03:12Z",
+  "id": "us-796343",
+  "industry": "Services-Prepackaged Software",
+  "listed": true,
+  "name": "Adobe Inc.",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "tickers": [
+   "ADBE"
+  ]
+ },
+ "us-797468": {
+  "cik": 797468,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:03:13Z",
+  "id": "us-797468",
+  "industry": "Crude Petroleum & Natural Gas",
+  "listed": true,
+  "name": "Occidental Petroleum Corp",
+  "sector": "Energy",
+  "sic": "1311",
+  "tickers": [
+   "OXY",
+   "OXY-WT"
+  ]
+ },
+ "us-80424": {
+  "cik": 80424,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:03:13Z",
+  "id": "us-80424",
+  "industry": "Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",
+  "listed": true,
+  "name": "Procter & Gamble Co",
+  "sector": "Consumer Staples",
+  "sic": "2840",
+  "tickers": [
+   "PG"
+  ]
+ },
+ "us-804328": {
+  "cik": 804328,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints_mined": "2026-10-05T16:03:14Z",
+  "id": "us-804328",
+  "industry": "Radio & Tv Broadcasting & Communications Equipment",
+  "listed": true,
+  "name": "Qualcomm Inc",
+  "sector": "Information Technology",
+  "sic": "3663",
+  "tickers": [
+   "QCOM"
+  ]
+ },
+ "us-80661": {
+  "cik": 80661,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "progressive.com": 16
+   },
+   "ir_urls": {
+    "https://investors.progressive.com/events": 4
+   }
+  },
+  "hints_mined": "2026-10-05T16:03:15Z",
+  "id": "us-80661",
+  "industry": "Fire, Marine & Casualty Insurance",
+  "listed": true,
+  "name": "Progressive Corp",
+  "sector": "Financials",
+  "sic": "6331",
+  "tickers": [
+   "PGR"
+  ]
+ },
+ "us-811809": {
+  "cik": 811809,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:03:15Z",
+  "id": "us-811809",
+  "industry": "Metal Mining",
+  "listed": true,
+  "name": "BHP Group Ltd",
+  "sector": "Materials",
+  "sic": "1000",
+  "tickers": [
+   "BHP"
+  ]
+ },
+ "us-813672": {
+  "cik": 813672,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "cadence.com": 16
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:03:17Z",
+  "id": "us-813672",
+  "industry": "Services-Prepackaged Software",
+  "listed": true,
+  "name": "Cadence Design Systems Inc",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "tickers": [
+   "CDNS"
+  ]
+ },
+ "us-815556": {
+  "cik": 815556,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "fastenal.com": 9
+   },
+   "ir_urls": {
+    "https://investor.fastenal.com/events.cfm": 5
+   }
+  },
+  "hints_mined": "2026-10-05T16:03:19Z",
+  "id": "us-815556",
+  "industry": "Retail-Building Materials, Hardware, Garden Supply",
+  "listed": true,
+  "name": "Fastenal Co",
+  "sector": "Consumer Discretionary",
+  "sic": "5200",
+  "tickers": [
+   "FAST"
+  ]
+ },
+ "us-818686": {
+  "cik": 818686,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "tevapharm.com": 16
+   },
+   "ir_urls": {
+    "http://ir.tevapharm.com": 1,
+    "https://ir.tevapharm.com/Events-and-Presentations": 2
+   }
+  },
+  "hints_mined": "2026-10-05T16:03:21Z",
+  "id": "us-818686",
+  "industry": "Pharmaceutical Preparations",
+  "listed": true,
+  "name": "Teva Pharmaceutical Industries Ltd",
+  "sector": "Health Care",
+  "sic": "2834",
+  "tickers": [
+   "TEVA"
+  ]
+ },
+ "us-820027": {
+  "cik": 820027,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:03:21Z",
+  "id": "us-820027",
+  "industry": "Investment Advice",
+  "listed": true,
+  "name": "Ameriprise Financial Inc",
+  "sector": "Financials",
+  "sic": "6282",
+  "tickers": [
+   "AMP"
+  ]
+ },
+ "us-820313": {
+  "cik": 820313,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "amphenol.com": 12
+   },
+   "ir_urls": {
+    "https://investors.amphenol.com": 4
+   }
+  },
+  "hints_mined": "2026-10-05T16:03:23Z",
+  "id": "us-820313",
+  "industry": "Electronic Connectors",
+  "listed": true,
+  "name": "Amphenol Corp",
+  "sector": "Information Technology",
+  "sic": "3678",
+  "tickers": [
+   "APH"
+  ]
+ },
+ "us-820318": {
+  "cik": 820318,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "coherent.com": 4
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:03:27Z",
+  "id": "us-820318",
+  "industry": "Optical Instruments & Lenses",
+  "listed": true,
+  "name": "Coherent Corp.",
+  "sector": "Information Technology",
+  "sic": "3827",
+  "tickers": [
+   "COHR"
+  ]
+ },
+ "us-821189": {
+  "cik": 821189,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:03:28Z",
+  "id": "us-821189",
+  "industry": "Crude Petroleum & Natural Gas",
+  "listed": true,
+  "name": "Eog Resources Inc",
+  "sector": "Energy",
+  "sic": "1311",
+  "tickers": [
+   "EOG"
+  ]
+ },
+ "us-823768": {
+  "cik": 823768,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "wm.com": 12
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:03:30Z",
+  "id": "us-823768",
+  "industry": "Refuse Systems",
+  "listed": true,
+  "name": "Waste Management Inc",
+  "sector": "Industrials",
+  "sic": "4953",
+  "tickers": [
+   "WM"
+  ]
+ },
+ "us-827054": {
+  "cik": 827054,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "microchip.com": 12
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:03:31Z",
+  "id": "us-827054",
+  "industry": "Semiconductors & Related Devices",
+  "listed": true,
+  "name": "Microchip Technology Inc",
+  "sector": "Information Technology",
+  "sic": "3674",
+  "tickers": [
+   "MCHP",
+   "MCHPP"
+  ]
+ },
+ "us-829224": {
+  "cik": 829224,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "starbucks.com": 17
+   },
+   "ir_urls": {
+    "http://investor.starbucks.com": 5
+   }
+  },
+  "hints_mined": "2026-10-05T16:03:33Z",
+  "id": "us-829224",
+  "industry": "Retail-Eating & Drinking Places",
+  "listed": true,
+  "name": "Starbucks Corp",
+  "sector": "Consumer Discretionary",
+  "sic": "5810",
+  "tickers": [
+   "SBUX"
+  ]
+ },
+ "us-831001": {
+  "cik": 831001,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "citi.com": 4,
+    "citigroup.com": 17,
+    "open-exchange.net": 1
+   },
+   "ir_urls": {
+    "https://www.citigroup.com/global/investors": 4
+   }
+  },
+  "hints_mined": "2026-10-05T16:03:36Z",
+  "id": "us-831001",
+  "industry": "National Commercial Banks",
+  "listed": true,
+  "name": "Citigroup Inc",
+  "sector": "Financials",
+  "sic": "6021",
+  "tickers": [
+   "C",
+   "C-PN",
+   "C-PR"
+  ]
+ },
+ "us-831259": {
+  "cik": 831259,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {},
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:03:38Z",
+  "id": "us-831259",
+  "industry": "Metal Mining",
+  "listed": true,
+  "name": "Freeport-mcmoran Inc",
+  "sector": "Materials",
+  "sic": "1000",
+  "tickers": [
+   "FCX"
+  ]
+ },
+ "us-833444": {
+  "cik": 833444,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "jci.com": 8,
+    "johnsoncontrols.com": 12,
+    "open-exchange.net": 3
+   },
+   "ir_urls": {
+    "http://investors.johnsoncontrols.com": 4,
+    "https://investors.johnsoncontrols.com/news-and-events/events-and-presentations": 4
+   }
+  },
+  "hints_mined": "2026-10-05T16:03:40Z",
+  "id": "us-833444",
+  "industry": "Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip",
+  "listed": true,
+  "name": "Johnson Controls International plc",
+  "sector": "Industrials",
+  "sic": "3585",
+  "tickers": [
+   "JCI"
+  ]
+ },
+ "us-835403": {
+  "cik": 835403,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "blacksun-global.com": 1,
+    "diageo.com": 18,
+    "diageoregistrars.com": 5,
+    "fca.org.uk": 1,
+    "frc.org.uk": 2,
+    "mufg.com": 1,
+    "shareholders-online.com": 1
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:03:42Z",
+  "id": "us-835403",
+  "industry": "Beverages",
+  "listed": true,
+  "name": "Diageo PLC",
+  "sector": "Consumer Staples",
+  "sic": "2080",
+  "tickers": [
+   "DEO"
+  ]
+ },
+ "us-839923": {
+  "cik": 839923,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints_mined": "2026-10-05T16:03:43Z",
+  "id": "us-839923",
+  "industry": "Radiotelephone Communications",
+  "listed": true,
+  "name": "Vodafone Group Public Ltd Co",
+  "sector": "Communication Services",
+  "sic": "4812",
+  "tickers": [
+   "VOD"
+  ]
+ },
+ "us-842180": {
+  "cik": 842180,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:03:43Z",
+  "id": "us-842180",
+  "industry": "Commercial Banks, NEC",
+  "listed": true,
+  "name": "Banco Bilbao Vizcaya Argentaria, S.A.",
+  "sector": "Financials",
+  "sic": "6029",
+  "tickers": [
+   "BBVA"
+  ]
+ },
+ "us-844150": {
+  "cik": 844150,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:03:44Z",
+  "id": "us-844150",
+  "industry": "Commercial Banks, NEC",
+  "listed": true,
+  "name": "NatWest Group plc",
+  "sector": "Financials",
+  "sic": "6029",
+  "tickers": [
+   "NWG"
+  ]
+ },
+ "us-849395": {
+  "cik": 849395,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "arcosa.com": 6,
+    "crh.com": 11
+   },
+   "ir_urls": {
+    "https://www.crh.com/investors": 5
+   }
+  },
+  "hints_mined": "2026-10-05T16:03:45Z",
+  "id": "us-849395",
+  "industry": "Cement, Hydraulic",
+  "listed": true,
+  "name": "CRH Public Ltd Co",
+  "sector": "Materials",
+  "sic": "3241",
+  "tickers": [
+   "CRH"
+  ]
+ },
+ "us-858877": {
+  "cik": 858877,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "cisco.com": 24
+   },
+   "ir_urls": {
+    "https://investor.cisco.com": 8
+   }
+  },
+  "hints_mined": "2026-10-05T16:03:47Z",
+  "id": "us-858877",
+  "industry": "Computer Communications Equipment",
+  "listed": true,
+  "name": "Cisco Systems, Inc.",
+  "sector": "Information Technology",
+  "sic": "3576",
+  "tickers": [
+   "CSCO"
+  ]
+ },
+ "us-860730": {
+  "cik": 860730,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "hcahealthcare.com": 4
+   },
+   "ir_urls": {
+    "https://investor.hcahealthcare.com/events-and-presentations/default.aspx": 4
+   }
+  },
+  "hints_mined": "2026-10-05T16:03:49Z",
+  "id": "us-860730",
+  "industry": "Services-General Medical & Surgical Hospitals, NEC",
+  "listed": true,
+  "name": "HCA Healthcare, Inc.",
+  "sector": "Health Care",
+  "sic": "8062",
+  "tickers": [
+   "HCA"
+  ]
+ },
+ "us-863064": {
+  "cik": 863064,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "computershare.com.au": 1,
+    "intermediaryonline.com": 2,
+    "investorcentre.co.uk": 3,
+    "investorcentre.com": 5,
+    "investorvote.com.au": 4,
+    "proxymity.io": 1,
+    "riotinto.com": 5
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:03:50Z",
+  "id": "us-863064",
+  "industry": "Metal Mining",
+  "listed": true,
+  "name": "Rio Tinto PLC",
+  "sector": "Materials",
+  "sic": "1000",
+  "tickers": [
+   "RIO"
+  ]
+ },
+ "us-86312": {
+  "cik": 86312,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "travelers.com": 4
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:03:52Z",
+  "id": "us-86312",
+  "industry": "Fire, Marine & Casualty Insurance",
+  "listed": true,
+  "name": "Travelers Companies, Inc.",
+  "sector": "Financials",
+  "sic": "6331",
+  "tickers": [
+   "TRV"
+  ]
+ },
+ "us-865752": {
+  "cik": 865752,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints_mined": "2026-10-05T16:03:53Z",
+  "id": "us-865752",
+  "industry": "Bottled & Canned Soft Drinks & Carbonated Waters",
+  "listed": true,
+  "name": "Monster Beverage Corp",
+  "sector": "Consumer Staples",
+  "sic": "2086",
+  "tickers": [
+   "MNST"
+  ]
+ },
+ "us-866374": {
+  "cik": 866374,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "flex.com": 12
+   },
+   "ir_urls": {
+    "http://investors.flex.com": 4
+   }
+  },
+  "hints_mined": "2026-10-05T16:03:54Z",
+  "id": "us-866374",
+  "industry": "Printed Circuit Boards",
+  "listed": true,
+  "name": "Flex Ltd.",
+  "sector": "Information Technology",
+  "sic": "3672",
+  "tickers": [
+   "FLEX"
+  ]
+ },
+ "us-866787": {
+  "cik": 866787,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "alldata.com": 4,
+    "autozone.com": 16,
+    "autozonepro.com": 4,
+    "duralastparts.com": 4
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:03:55Z",
+  "id": "us-866787",
+  "industry": "Retail-Auto & Home Supply Stores",
+  "listed": true,
+  "name": "Autozone Inc",
+  "sector": "Consumer Discretionary",
+  "sic": "5531",
+  "tickers": [
+   "AZO"
+  ]
+ },
+ "us-8670": {
+  "cik": 8670,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "adp.com": 12
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:03:57Z",
+  "id": "us-8670",
+  "industry": "Services-Computer Processing & Data Preparation",
+  "listed": true,
+  "name": "Automatic Data Processing Inc",
+  "sector": "Information Technology",
+  "sic": "7374",
+  "tickers": [
+   "ADP"
+  ]
+ },
+ "us-872589": {
+  "cik": 872589,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "regeneron.com": 20
+   },
+   "ir_urls": {
+    "https://investor.regeneron.com": 4
+   }
+  },
+  "hints_mined": "2026-10-05T16:03:58Z",
+  "id": "us-872589",
+  "industry": "Pharmaceutical Preparations",
+  "listed": true,
+  "name": "Regeneron Pharmaceuticals, Inc.",
+  "sector": "Health Care",
+  "sic": "2834",
+  "tickers": [
+   "REGN"
+  ]
+ },
+ "us-87347": {
+  "cik": 87347,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "slb.com": 10
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:04:00Z",
+  "id": "us-87347",
+  "industry": "Oil & Gas Field Services, NEC",
+  "listed": true,
+  "name": "SLB Limited",
+  "sector": "Energy",
+  "sic": "1389",
+  "tickers": [
+   "SLB"
+  ]
+ },
+ "us-874716": {
+  "cik": 874716,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "idexx.com": 18,
+    "proxyvote.com": 1
+   },
+   "ir_urls": {
+    "https://www.idexx.com/investors": 10
+   }
+  },
+  "hints_mined": "2026-10-05T16:04:04Z",
+  "id": "us-874716",
+  "industry": "In Vitro & In Vivo Diagnostic Substances",
+  "listed": true,
+  "name": "Idexx Laboratories Inc",
+  "sector": "Health Care",
+  "sic": "2835",
+  "tickers": [
+   "IDXX"
+  ]
+ },
+ "us-875320": {
+  "cik": 875320,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "vrtx.com": 20
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:04:06Z",
+  "id": "us-875320",
+  "industry": "Pharmaceutical Preparations",
+  "listed": true,
+  "name": "Vertex Pharmaceuticals Inc / Ma",
+  "sector": "Health Care",
+  "sic": "2834",
+  "tickers": [
+   "VRTX"
+  ]
+ },
+ "us-878927": {
+  "cik": 878927,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints_mined": "2026-10-05T16:04:06Z",
+  "id": "us-878927",
+  "industry": "Trucking (No Local)",
+  "listed": true,
+  "name": "Old Dominion Freight Line, Inc.",
+  "sector": "Industrials",
+  "sic": "4213",
+  "tickers": [
+   "ODFL"
+  ]
+ },
+ "us-879764": {
+  "cik": 879764,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "pefc.org": 1,
+    "proxyvote.com": 5,
+    "socgen.com": 1,
+    "societegenerale.com": 1,
+    "totalenergies.com": 12
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:04:08Z",
+  "id": "us-879764",
+  "industry": "Crude Petroleum & Natural Gas",
+  "listed": true,
+  "name": "TotalEnergies SE",
+  "sector": "Energy",
+  "sic": "1311",
+  "tickers": [
+   "TTE"
+  ]
+ },
+ "us-882095": {
+  "cik": 882095,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "gilead.com": 24
+   },
+   "ir_urls": {
+    "http://investors.gilead.com": 4,
+    "https://investors.gilead.com": 4
+   }
+  },
+  "hints_mined": "2026-10-05T16:04:10Z",
+  "id": "us-882095",
+  "industry": "Biological Products, (No Diagnostic Substances)",
+  "listed": true,
+  "name": "Gilead Sciences, Inc.",
+  "sector": "Health Care",
+  "sic": "2836",
+  "tickers": [
+   "GILD"
+  ]
+ },
+ "us-882184": {
+  "cik": 882184,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "drhorton.com": 4
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:04:13Z",
+  "id": "us-882184",
+  "industry": "Operative Builders",
+  "listed": true,
+  "name": "Horton D R Inc",
+  "sector": "Consumer Discretionary",
+  "sic": "1531",
+  "tickers": [
+   "DHI"
+  ]
+ },
+ "us-883241": {
+  "cik": 883241,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "synopsys.com": 30
+   },
+   "ir_urls": {
+    "https://www.investor.synopsys.com": 2
+   }
+  },
+  "hints_mined": "2026-10-05T16:04:15Z",
+  "id": "us-883241",
+  "industry": "Services-Prepackaged Software",
+  "listed": true,
+  "name": "Synopsys Inc",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "tickers": [
+   "SNPS"
+  ]
+ },
+ "us-884887": {
+  "cik": 884887,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:04:16Z",
+  "id": "us-884887",
+  "industry": "Water Transportation",
+  "listed": true,
+  "name": "Royal Caribbean Cruises Ltd",
+  "sector": "Industrials",
+  "sic": "4400",
+  "tickers": [
+   "RCL"
+  ]
+ },
+ "us-885725": {
+  "cik": 885725,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "bostonscientific.com": 4,
+    "bsci.com": 8
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:04:17Z",
+  "id": "us-885725",
+  "industry": "Surgical & Medical Instruments & Apparatus",
+  "listed": true,
+  "name": "Boston Scientific Corp",
+  "sector": "Health Care",
+  "sic": "3841",
+  "tickers": [
+   "BSX"
+  ]
+ },
+ "us-886982": {
+  "cik": 886982,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "gs.com": 4
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:04:19Z",
+  "id": "us-886982",
+  "industry": "Security Brokers, Dealers & Flotation Companies",
+  "listed": true,
+  "name": "Goldman Sachs Group Inc",
+  "sector": "Financials",
+  "sic": "6211",
+  "tickers": [
+   "GS",
+   "GS-PA",
+   "GS-PC",
+   "GS-PD"
+  ]
+ },
+ "us-891478": {
+  "cik": 891478,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:04:20Z",
+  "id": "us-891478",
+  "industry": "Commercial Banks, NEC",
+  "listed": true,
+  "name": "Banco Santander, S.A.",
+  "sector": "Financials",
+  "sic": "6029",
+  "tickers": [
+   "SAN"
+  ]
+ },
+ "us-895421": {
+  "cik": 895421,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:04:20Z",
+  "id": "us-895421",
+  "industry": "Security Brokers, Dealers & Flotation Companies",
+  "listed": true,
+  "name": "Morgan Stanley",
+  "sector": "Financials",
+  "sic": "6211",
+  "tickers": [
+   "MS",
+   "MS-PK",
+   "MS-PE",
+   "MS-PA",
+   "MS-PF",
+   "MS-PI",
+   "MS-PL",
+   "MS-PO",
+   "MS-PP",
+   "MS-PQ"
+  ]
+ },
+ "us-895728": {
+  "cik": 895728,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "enbridge.com": 8,
+    "lumiglobal.com": 1
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:04:22Z",
+  "id": "us-895728",
+  "industry": "Pipe Lines (No Natural Gas)",
+  "listed": true,
+  "name": "Enbridge Inc",
+  "sector": "Industrials",
+  "sic": "4610",
+  "tickers": [
+   "ENB"
+  ]
+ },
+ "us-896159": {
+  "cik": 896159,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "chubb.com": 16
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:04:24Z",
+  "id": "us-896159",
+  "industry": "Fire, Marine & Casualty Insurance",
+  "listed": true,
+  "name": "Chubb Ltd",
+  "sector": "Financials",
+  "sic": "6331",
+  "tickers": [
+   "CB"
+  ]
+ },
+ "us-896878": {
+  "cik": 896878,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints_mined": "2026-10-05T16:04:25Z",
+  "id": "us-896878",
+  "industry": "Services-Prepackaged Software",
+  "listed": true,
+  "name": "Intuit Inc.",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "tickers": [
+   "INTU"
+  ]
+ },
+ "us-89800": {
+  "cik": 89800,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "sherwin-williams.com": 8,
+    "sherwin.com": 16
+   },
+   "ir_urls": {
+    "https://investors.sherwin-williams.com/events-and-presentations/default.aspx": 2,
+    "https://investors.sherwin-williams.com/financials/quarterly-results": 6
+   }
+  },
+  "hints_mined": "2026-10-05T16:04:26Z",
+  "id": "us-89800",
+  "industry": "Retail-Building Materials, Hardware, Garden Supply",
+  "listed": true,
+  "name": "Sherwin Williams Co",
+  "sector": "Consumer Discretionary",
+  "sic": "5200",
+  "tickers": [
+   "SHW"
+  ]
+ },
+ "us-898173": {
+  "cik": 898173,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "oreillyauto.com": 15
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:04:28Z",
+  "id": "us-898173",
+  "industry": "Retail-Auto & Home Supply Stores",
+  "listed": true,
+  "name": "O Reilly Automotive Inc",
+  "sector": "Consumer Discretionary",
+  "sic": "5531",
+  "tickers": [
+   "ORLY"
+  ]
+ },
+ "us-899051": {
+  "cik": 899051,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "allstate.com": 10,
+    "allstateinvestors.com": 8
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:04:29Z",
+  "id": "us-899051",
+  "industry": "Fire, Marine & Casualty Insurance",
+  "listed": true,
+  "name": "Allstate Corp",
+  "sector": "Financials",
+  "sic": "6331",
+  "tickers": [
+   "ALL",
+   "ALL-PH",
+   "ALL-PB",
+   "ALL-PI",
+   "ALL-PJ"
+  ]
+ },
+ "us-901832": {
+  "cik": 901832,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {},
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:04:34Z",
+  "id": "us-901832",
+  "industry": "Pharmaceutical Preparations",
+  "listed": true,
+  "name": "Astrazeneca PLC",
+  "sector": "Health Care",
+  "sic": "2834",
+  "tickers": [
+   "AZN"
+  ]
+ },
+ "us-906107": {
+  "cik": 906107,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "avalonbay.com": 10,
+    "eqr.com": 4,
+    "equityapartments.com": 9,
+    "fgsglobal.com": 1,
+    "rentingredefined.com": 1,
+    "vivmarkresidential.com": 2
+   },
+   "ir_urls": {
+    "https://www.investors.avalonbay.com": 1,
+    "https://www.investors.equityapartments.com": 1
+   }
+  },
+  "hints_mined": "2026-10-05T16:04:36Z",
+  "id": "us-906107",
+  "industry": "Real Estate Investment Trusts",
+  "listed": true,
+  "name": "Vivmark Residential",
+  "sector": "Real Estate",
+  "sic": "6798",
+  "tickers": [
+   "VMRK"
+  ]
+ },
+ "us-909832": {
+  "cik": 909832,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {},
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:04:37Z",
+  "id": "us-909832",
+  "industry": "Retail-Variety Stores",
+  "listed": true,
+  "name": "Costco Wholesale Corp",
+  "sector": "Consumer Discretionary",
+  "sic": "5331",
+  "tickers": [
+   "COST"
+  ]
+ },
+ "us-917851": {
+  "cik": 917851,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:04:38Z",
+  "id": "us-917851",
+  "industry": "Metal Mining",
+  "listed": true,
+  "name": "Vale S.A.",
+  "sector": "Materials",
+  "sic": "1000",
+  "tickers": [
+   "VALE"
+  ]
+ },
+ "us-92122": {
+  "cik": 92122,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "southernco.com": 4,
+    "southerncompany.com": 4
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:04:39Z",
+  "id": "us-92122",
+  "industry": "Electric Services",
+  "listed": true,
+  "name": "Southern Co",
+  "sector": "Utilities",
+  "sic": "4911",
+  "tickers": [
+   "SO",
+   "SOJC",
+   "SOJD",
+   "SOJE",
+   "SOJF",
+   "SOMN"
+  ]
+ },
+ "us-92230": {
+  "cik": 92230,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "truist.com": 16
+   },
+   "ir_urls": {
+    "https://ir.truist.com/earnings": 8
+   }
+  },
+  "hints_mined": "2026-10-05T16:04:40Z",
+  "id": "us-92230",
+  "industry": "National Commercial Banks",
+  "listed": true,
+  "name": "Truist Financial Corp",
+  "sector": "Financials",
+  "sic": "6021",
+  "tickers": [
+   "TFC",
+   "TFC-PI",
+   "TFC-PO",
+   "TFC-PR"
+  ]
+ },
+ "us-924613": {
+  "cik": 924613,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "nokia.com": 4
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:04:41Z",
+  "id": "us-924613",
+  "industry": "Radio & Tv Broadcasting & Communications Equipment",
+  "listed": true,
+  "name": "Nokia Corp",
+  "sector": "Information Technology",
+  "sic": "3663",
+  "tickers": [
+   "NOK"
+  ]
+ },
+ "us-927628": {
+  "cik": 927628,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "capitalone.com": 17
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:04:42Z",
+  "id": "us-927628",
+  "industry": "National Commercial Banks",
+  "listed": true,
+  "name": "Capital One Financial Corp",
+  "sector": "Financials",
+  "sic": "6021",
+  "tickers": [
+   "COF",
+   "COF-PI",
+   "COF-PJ",
+   "COF-PK",
+   "COF-PL",
+   "COF-PN"
+  ]
+ },
+ "us-927653": {
+  "cik": 927653,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "mckesson.com": 7
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:04:43Z",
+  "id": "us-927653",
+  "industry": "Wholesale-Drugs, Proprietaries & Druggists' Sundries",
+  "listed": true,
+  "name": "Mckesson Corp",
+  "sector": "Health Care",
+  "sic": "5122",
+  "tickers": [
+   "MCK"
+  ]
+ },
+ "us-927971": {
+  "cik": 927971,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "bmo.com": 69,
+    "computershare.com": 6,
+    "sedarplus.ca": 15
+   },
+   "ir_urls": {
+    "https://www.bmo.com/main/about-bmo/investor-relations/regulatory-disclosure": 3
+   }
+  },
+  "hints_mined": "2026-10-05T16:04:46Z",
+  "id": "us-927971",
+  "industry": "Commercial Banks, NEC",
+  "listed": true,
+  "name": "Bank Of Montreal",
+  "sector": "Financials",
+  "sic": "6029",
+  "tickers": [
+   "BMO",
+   "FNGD",
+   "BRZL",
+   "AIQD",
+   "AIQU",
+   "BERZ",
+   "BNKD",
+   "BNKU",
+   "BRZD",
+   "BULZ",
+   "CARD",
+   "CARU",
+   "DULL",
+   "FLYD",
+   "FLYU",
+   "FNGO",
+   "FNGS",
+   "FNGU",
+   "GDXD",
+   "GDXU",
+   "HYGD",
+   "HYGU",
+   "JETD",
+   "JETU",
+   "JPND",
+   "JPNU",
+   "LQDD",
+   "LQDU",
+   "MNGU",
+   "NRGD",
+   "NRGU",
+   "OILD",
+   "OILU",
+   "SHNY",
+   "SMHD",
+   "SMHU",
+   "SPYU",
+   "TAWN",
+   "TPEI",
+   "WTID",
+   "WTIU",
+   "XLCD",
+   "XLCU",
+   "XLPD",
+   "XLPU"
+  ]
+ },
+ "us-929869": {
+  "cik": 929869,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:04:46Z",
+  "id": "us-929869",
+  "industry": "Services-Business Services, NEC",
+  "listed": true,
+  "name": "Relx PLC",
+  "sector": "Industrials",
+  "sic": "7389",
+  "tickers": [
+   "RELX"
+  ]
+ },
+ "us-932787": {
+  "cik": 932787,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:04:47Z",
+  "id": "us-932787",
+  "industry": "Semiconductors & Related Devices",
+  "listed": true,
+  "name": "STMicroelectronics N.V.",
+  "sector": "Information Technology",
+  "sic": "3674",
+  "tickers": [
+   "STM"
+  ]
+ },
+ "us-93410": {
+  "cik": 93410,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "chevron.com": 16
+   },
+   "ir_urls": {
+    "https://www.chevron.com/investors": 4
+   }
+  },
+  "hints_mined": "2026-10-05T16:04:48Z",
+  "id": "us-93410",
+  "industry": "Petroleum Refining",
+  "listed": true,
+  "name": "Chevron Corp",
+  "sector": "Energy",
+  "sic": "2911",
+  "tickers": [
+   "CVX"
+  ]
+ },
+ "us-936395": {
+  "cik": 936395,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints_mined": "2026-10-05T16:04:48Z",
+  "id": "us-936395",
+  "industry": "Telephone & Telegraph Apparatus",
+  "listed": true,
+  "name": "Ciena Corp",
+  "sector": "Information Technology",
+  "sic": "3661",
+  "tickers": [
+   "CIEN"
+  ]
+ },
+ "us-936468": {
+  "cik": 936468,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "lmco.com": 8,
+    "lockheedmartin.com": 20
+   },
+   "ir_urls": {
+    "https://www.lockheedmartin.com/investor": 12
+   }
+  },
+  "hints_mined": "2026-10-05T16:04:49Z",
+  "id": "us-936468",
+  "industry": "Guided Missiles & Space Vehicles & Parts",
+  "listed": true,
+  "name": "Lockheed Martin Corp",
+  "sector": "Industrials",
+  "sic": "3760",
+  "tickers": [
+   "LMT"
+  ]
+ },
+ "us-93751": {
+  "cik": 93751,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "statestreet.com": 24
+   },
+   "ir_urls": {
+    "http://investors.statestreet.com": 16
+   }
+  },
+  "hints_mined": "2026-10-05T16:04:50Z",
+  "id": "us-93751",
+  "industry": "State Commercial Banks",
+  "listed": true,
+  "name": "State Street Corp",
+  "sector": "Financials",
+  "sic": "6022",
+  "tickers": [
+   "STT",
+   "STT-PG"
+  ]
+ },
+ "us-937966": {
+  "cik": 937966,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "abnamro.com": 11,
+    "asml.com": 18
+   },
+   "ir_urls": {
+    "https://www.asml.com/en/investors/shares/shareholder-meetings/agm-2026": 1,
+    "https://www.asml.com/investors": 1
+   }
+  },
+  "hints_mined": "2026-10-05T16:04:51Z",
+  "id": "us-937966",
+  "industry": "Special Industry Machinery, NEC",
+  "listed": true,
+  "name": "Asml Holding NV",
+  "sector": "Industrials",
+  "sic": "3559",
+  "tickers": [
+   "ASML"
+  ]
+ },
+ "us-943452": {
+  "cik": 943452,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "wabtec.com": 8,
+    "wabteccorp.com": 8
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:04:53Z",
+  "id": "us-943452",
+  "industry": "Railroad Equipment",
+  "listed": true,
+  "name": "Westinghouse Air Brake Technologies Corp",
+  "sector": "Industrials",
+  "sic": "3743",
+  "tickers": [
+   "WAB"
+  ]
+ },
+ "us-946581": {
+  "cik": 946581,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "take2games.com": 20
+   },
+   "ir_urls": {
+    "http://ir.take2games.com": 4
+   }
+  },
+  "hints_mined": "2026-10-05T16:04:54Z",
+  "id": "us-946581",
+  "industry": "Services-Prepackaged Software",
+  "listed": true,
+  "name": "Take Two Interactive Software Inc",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "tickers": [
+   "TTWO"
+  ]
+ },
+ "us-947263": {
+  "cik": 947263,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "computershare.com": 12,
+    "sedarplus.ca": 6,
+    "sedarplus.com": 6,
+    "td.com": 57,
+    "tmx.com": 6,
+    "tsxtrust.com": 6
+   },
+   "ir_urls": {
+    "http://www.td.com/investor": 3,
+    "http://www.td.com/investor/credit.jsp": 3,
+    "https://www.computershare.com/investor": 6,
+    "https://www.td.com/investor": 15
+   }
+  },
+  "hints_mined": "2026-10-05T16:04:57Z",
+  "id": "us-947263",
+  "industry": "Commercial Banks, NEC",
+  "listed": true,
+  "name": "Toronto Dominion Bank",
+  "sector": "Financials",
+  "sic": "6029",
+  "tickers": [
+   "TD"
+  ]
+ },
+ "us-96021": {
+  "cik": 96021,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "edelmansmithfield.com": 1,
+    "foxcroftstrategy.com": 1,
+    "sysco.com": 7
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:04:59Z",
+  "id": "us-96021",
+  "industry": "Wholesale-Groceries & Related Products",
+  "listed": true,
+  "name": "Sysco Corp",
+  "sector": "Consumer Staples",
+  "sic": "5140",
+  "tickers": [
+   "SYY"
+  ]
+ },
+ "us-9631": {
+  "cik": 9631,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "computershare.com": 10,
+    "newswire.ca": 1,
+    "scotiabank.com": 39,
+    "sedarplus.ca": 14
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:05:03Z",
+  "id": "us-9631",
+  "industry": "State Commercial Banks",
+  "listed": true,
+  "name": "Bank Of Nova Scotia",
+  "sector": "Financials",
+  "sic": "6022",
+  "tickers": [
+   "BNS"
+  ]
+ },
+ "us-97210": {
+  "cik": 97210,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "teradyne.com": 16
+   },
+   "ir_urls": {
+    "https://www.teradyne.com/investors": 4
+   }
+  },
+  "hints_mined": "2026-10-05T16:05:06Z",
+  "id": "us-97210",
+  "industry": "Instruments For Meas & Testing of  Electricity & Elec Signals",
+  "listed": true,
+  "name": "Teradyne, Inc",
+  "sector": "Information Technology",
+  "sic": "3825",
+  "tickers": [
+   "TER"
+  ]
+ },
+ "us-97476": {
+  "cik": 97476,
+  "country": "US",
+  "exchange": "Nasdaq",
+  "hints": {
+   "domains": {
+    "silabs.com": 1,
+    "ti.com": 2
+   },
+   "ir_urls": {
+    "https://investor.ti.com": 1,
+    "https://investor.ti.com/upcoming-events": 1
+   }
+  },
+  "hints_mined": "2026-10-05T16:05:07Z",
+  "id": "us-97476",
+  "industry": "Semiconductors & Related Devices",
+  "listed": true,
+  "name": "Texas Instruments Inc",
+  "sector": "Information Technology",
+  "sic": "3674",
+  "tickers": [
+   "TXN"
+  ]
+ },
+ "us-97745": {
+  "cik": 97745,
+  "country": "US",
+  "exchange": "NYSE",
+  "hints": {
+   "domains": {
+    "thermofisher.com": 12
+   },
+   "ir_urls": {}
+  },
+  "hints_mined": "2026-10-05T16:05:08Z",
+  "id": "us-97745",
+  "industry": "Measuring & Controlling Devices, NEC",
+  "listed": true,
+  "name": "Thermo Fisher Scientific Inc.",
+  "sector": "Information Technology",
+  "sic": "3829",
+  "tickers": [
+   "TMO"
+  ]
+ }
+}
