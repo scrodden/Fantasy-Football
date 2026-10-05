@@ -2495,7 +2495,8 @@
         "pick": "Over 50.5",
         "line": 50.5,
         "price": -110,
-        "edge": 2.6
+        "edge": 2.6,
+        "result": "win"
       },
       {
         "market": "spread",
@@ -2503,7 +2504,8 @@
         "pick": "CAR +3.5",
         "line": 3.5,
         "price": -110,
-        "edge": 1.9
+        "edge": 1.9,
+        "result": "win"
       },
       {
         "market": "moneyline",
@@ -2511,10 +2513,18 @@
         "pick": "CAR ML +154",
         "line": 154,
         "price": 154,
-        "edge": 4.6
+        "edge": 4.6,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 32,
+    "away_score": 26,
+    "actual_margin": 6,
+    "su_correct": false,
+    "brier": 0.3319,
+    "margin_err": 7.6,
+    "total_err": 4.9
   },
   "401872979": {
     "id": "401872979",

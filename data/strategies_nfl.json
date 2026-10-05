@@ -5583,7 +5583,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "CAR +3.5",
-          "lean": 1.9
+          "lean": 1.9,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -5591,7 +5593,9 @@
           "team": "DET",
           "price": -180,
           "stake": 100.0,
-          "pick": "DET ML -180"
+          "pick": "DET ML -180",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [
           {
@@ -5606,7 +5610,9 @@
             "kelly": 0.0219,
             "confidence": "low",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           },
           {
             "market": "moneyline",
@@ -5620,7 +5626,9 @@
             "kelly": 0.0108,
             "confidence": "medium",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 150.0
           }
         ],
         "bankroll": [
@@ -5637,7 +5645,9 @@
             "confidence": "low",
             "book": null,
             "stake": 246.89,
-            "bankroll_at_bet": 8484.25
+            "bankroll_at_bet": 8484.25,
+            "result": "win",
+            "pnl": 224.45
           },
           {
             "market": "spread",
@@ -5652,7 +5662,9 @@
             "confidence": "low",
             "book": "Draft Kings",
             "stake": 185.81,
-            "bankroll_at_bet": 8484.25
+            "bankroll_at_bet": 8484.25,
+            "result": "win",
+            "pnl": 168.92
           },
           {
             "market": "moneyline",
@@ -5667,11 +5679,15 @@
             "confidence": "medium",
             "book": "Draft Kings",
             "stake": 91.63,
-            "bankroll_at_bet": 8484.25
+            "bankroll_at_bet": 8484.25,
+            "result": "win",
+            "pnl": 137.44
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 32,
+      "away_score": 26
     },
     "401872979": {
       "game_id": "401872979",

@@ -129,11 +129,11 @@
       "last_date": "2026-09-27T20:25Z"
     },
     "29": {
-      "rating": 1469.0542173151584,
+      "rating": 1488.8713362696876,
       "name": "Panthers",
       "abbr": "CAR",
-      "gp": 5,
-      "last_date": "2026-09-27T17:00Z"
+      "gp": 6,
+      "last_date": "2026-10-05T00:20Z"
     },
     "19": {
       "rating": 1481.9162654458344,
@@ -206,11 +206,11 @@
       "last_date": "2026-10-04T13:30Z"
     },
     "8": {
-      "rating": 1555.968584268105,
+      "rating": 1536.1514653135757,
       "name": "Lions",
       "abbr": "DET",
-      "gp": 4,
-      "last_date": "2026-09-27T17:00Z"
+      "gp": 5,
+      "last_date": "2026-10-05T00:20Z"
     },
     "14": {
       "rating": 1610.735519804423,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-10-04T20:25Z",
+    "last_game_date": "2026-10-05T00:20Z",
     "season": 2026,
-    "n_games": 657,
+    "n_games": 658,
     "signals": {
       "weather": true,
       "travel": true,
