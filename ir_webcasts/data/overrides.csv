@@ -1,0 +1,6 @@
+# Manual corrections, applied on every `universe` run. Leave a column blank to keep the automatic value.
+# sector must be one of the 11 names in irwebcasts/sectors.py (or "Other").
+ticker,ir_url,website,sector
+GOOGL,https://abc.xyz/investor/,abc.xyz,Communication Services
+META,https://investor.atmeta.com,meta.com,Communication Services
+AMZN,https://ir.aboutamazon.com,aboutamazon.com,Consumer Discretionary

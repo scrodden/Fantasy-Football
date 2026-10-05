@@ -1,0 +1,5 @@
+{
+  "_comment": "Map a normalized conference name (see conferences.normalize) to the display name it should be grouped under.",
+  "jpmorgan healthcare conference": "J.P. Morgan Healthcare Conference",
+  "goldman sachs communacopia conference": "Goldman Sachs Communacopia + Technology Conference"
+}
