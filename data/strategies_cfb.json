@@ -27323,6 +27323,86 @@
       "settled": true,
       "home_score": 16,
       "away_score": 20
+    },
+    "401871090": {
+      "game_id": "401871090",
+      "league": "cfb",
+      "season": 2026,
+      "week": 6,
+      "kickoff": "2026-10-07T00:00Z",
+      "locked_at": "2026-10-05T22:28:58+00:00",
+      "home": "TROY",
+      "away": "USM",
+      "home_full": "Troy Trojans",
+      "away_full": "Southern Miss Golden Eagles",
+      "line": {
+        "home_spread": -10.5,
+        "total": 50.5,
+        "home_ml": -410,
+        "away_ml": 320,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 8.9,
+        "proj_total": 49.6,
+        "proj_home_score": 29.3,
+        "proj_away_score": 20.3,
+        "home_win_prob": 0.7651
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "USM",
+          "line": 10.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "USM +10.5",
+          "lean": -1.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "TROY",
+          "price": -410,
+          "stake": 100.0,
+          "pick": "TROY ML -410"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "USM",
+            "pick": "USM +10.5",
+            "line": 10.5,
+            "price": -110,
+            "ev": 0.036,
+            "edge": 1.6,
+            "kelly": 0.0098,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "USM",
+            "pick": "USM +10.5",
+            "line": 10.5,
+            "price": -110,
+            "ev": 0.036,
+            "edge": 1.6,
+            "kelly": 0.0098,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 17.19,
+            "bankroll_at_bet": 1754.11
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
