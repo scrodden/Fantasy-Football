@@ -2319,10 +2319,18 @@
         "pick": "Under 38.5",
         "line": 38.5,
         "price": -110,
-        "edge": 4.4
+        "edge": 4.4,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 15,
+    "away_score": 10,
+    "actual_margin": 5,
+    "su_correct": true,
+    "brier": 0.0321,
+    "margin_err": 5.2,
+    "total_err": 9.1
   },
   "401872976": {
     "id": "401872976",
@@ -2346,7 +2354,8 @@
         "pick": "Under 47.5",
         "line": 47.5,
         "price": -110,
-        "edge": 4.4
+        "edge": 4.4,
+        "result": "loss"
       },
       {
         "market": "moneyline",
@@ -2354,7 +2363,8 @@
         "pick": "LV ML +190",
         "line": 190,
         "price": 190,
-        "edge": 7.5
+        "edge": 7.5,
+        "result": "loss"
       },
       {
         "market": "spread",
@@ -2362,10 +2372,18 @@
         "pick": "LV +4.5",
         "line": 4.5,
         "price": -110,
-        "edge": 2.8
+        "edge": 2.8,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 27,
+    "away_score": 30,
+    "actual_margin": -3,
+    "su_correct": true,
+    "brier": 0.1647,
+    "margin_err": 1.3,
+    "total_err": 13.9
   },
   "401872975": {
     "id": "401872975",
@@ -2389,7 +2407,8 @@
         "pick": "SF -3",
         "line": -3.0,
         "price": -110,
-        "edge": 1.8
+        "edge": 1.8,
+        "result": "win"
       },
       {
         "market": "moneyline",
@@ -2397,10 +2416,18 @@
         "pick": "SF ML -155",
         "line": -155,
         "price": -155,
-        "edge": 5.3
+        "edge": 5.3,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 24,
+    "away_score": 14,
+    "actual_margin": 10,
+    "su_correct": true,
+    "brier": 0.1326,
+    "margin_err": 5.2,
+    "total_err": 10.1
   },
   "401872977": {
     "id": "401872977",
@@ -2424,7 +2451,8 @@
         "pick": "Under 43.5",
         "line": 43.5,
         "price": -110,
-        "edge": 4.3
+        "edge": 4.3,
+        "result": "loss"
       },
       {
         "market": "spread",
@@ -2432,10 +2460,18 @@
         "pick": "SEA -7",
         "line": -7.0,
         "price": -110,
-        "edge": 1.6
+        "edge": 1.6,
+        "result": "push"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 30,
+    "away_score": 23,
+    "actual_margin": 7,
+    "su_correct": true,
+    "brier": 0.055,
+    "margin_err": 1.6,
+    "total_err": 13.8
   },
   "401872978": {
     "id": "401872978",
