@@ -27403,6 +27403,104 @@
         ]
       },
       "settled": false
+    },
+    "401871051": {
+      "game_id": "401871051",
+      "league": "cfb",
+      "season": 2026,
+      "week": 6,
+      "kickoff": "2026-10-07T23:00Z",
+      "locked_at": "2026-10-06T21:34:03+00:00",
+      "home": "KENN",
+      "away": "JXST",
+      "home_full": "Kennesaw State Owls",
+      "away_full": "Jacksonville State Gamecocks",
+      "line": {
+        "home_spread": 3.0,
+        "total": 49.5,
+        "home_ml": 124,
+        "away_ml": -148,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -4.1,
+        "proj_total": 47.6,
+        "proj_home_score": 21.8,
+        "proj_away_score": 25.9,
+        "home_win_prob": 0.4063
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "JXST",
+          "line": -3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "JXST -3",
+          "lean": -1.1
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "JXST",
+          "price": -148,
+          "stake": 100.0,
+          "pick": "JXST ML -148"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401871066": {
+      "game_id": "401871066",
+      "league": "cfb",
+      "season": 2026,
+      "week": 6,
+      "kickoff": "2026-10-07T23:30Z",
+      "locked_at": "2026-10-06T21:34:03+00:00",
+      "home": "FIU",
+      "away": "NMSU",
+      "home_full": "Florida International Panthers",
+      "away_full": "New Mexico State Aggies",
+      "line": {
+        "home_spread": -6.5,
+        "total": 47.5,
+        "home_ml": -238,
+        "away_ml": 195,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 5.9,
+        "proj_total": 46.0,
+        "proj_home_score": 26.0,
+        "proj_away_score": 20.0,
+        "home_win_prob": 0.6789
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "NMSU",
+          "line": 6.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "NMSU +6.5",
+          "lean": -0.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "FIU",
+          "price": -238,
+          "stake": 100.0,
+          "pick": "FIU ML -238"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
