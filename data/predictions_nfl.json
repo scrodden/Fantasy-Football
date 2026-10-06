@@ -2548,7 +2548,8 @@
         "pick": "Under 48.5",
         "line": 48.5,
         "price": -110,
-        "edge": 3.6
+        "edge": 3.6,
+        "result": "loss"
       },
       {
         "market": "spread",
@@ -2556,7 +2557,8 @@
         "pick": "ATL +3",
         "line": 3.0,
         "price": -110,
-        "edge": 2.5
+        "edge": 2.5,
+        "result": "win"
       },
       {
         "market": "moneyline",
@@ -2564,10 +2566,18 @@
         "pick": "ATL ML +130",
         "line": 130,
         "price": 130,
-        "edge": 4.5
+        "edge": 4.5,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 24,
+    "away_score": 45,
+    "actual_margin": -21,
+    "su_correct": false,
+    "brier": 0.2898,
+    "margin_err": 21.5,
+    "total_err": 24.1
   },
   "401872980": {
     "id": "401872980",

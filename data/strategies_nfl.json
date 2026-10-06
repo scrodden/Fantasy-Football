@@ -5723,7 +5723,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "ATL +1.5",
-          "lean": -1.5
+          "lean": -1.5,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": null,
         "value": [
@@ -5739,7 +5741,9 @@
             "kelly": 0.0147,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           }
         ],
         "bankroll": [
@@ -5756,7 +5760,9 @@
             "confidence": "low",
             "book": null,
             "stake": 233.67,
-            "bankroll_at_bet": 7279.49
+            "bankroll_at_bet": 7279.49,
+            "result": "loss",
+            "pnl": -233.67
           },
           {
             "market": "spread",
@@ -5771,11 +5777,15 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 107.01,
-            "bankroll_at_bet": 7279.49
+            "bankroll_at_bet": 7279.49,
+            "result": "win",
+            "pnl": 97.28
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 24,
+      "away_score": 45
     }
   }
 }
