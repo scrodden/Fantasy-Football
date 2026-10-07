@@ -1,4 +1,26 @@
 {
+ "006ad5ed6045": {
+  "company_id": "us-1409970",
+  "date": "2026-07-27",
+  "first_seen": "2026-10-07T14:44:19Z",
+  "id": "006ad5ed6045",
+  "last_seen": "2026-10-07T14:44:19Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1409970/000140997026000159/q226exhibit991er.htm",
+  "title": "Second Quarter 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/n9sxvwro"
+ },
+ "00a3c05da019": {
+  "company_id": "us-1013857",
+  "date": "2023-03-09",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "00a3c05da019",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Morgan Stanley Technology, Media & Telecom Conference",
+  "url": "https://event.webcasts.com/starthere.jsp?ei=1598887&tp_key=37b93c690c&tp_special=8"
+ },
  "00b8ff1fb831": {
   "company_id": "us-1095565",
   "date": "2026-08-04",
@@ -15,10 +37,10 @@
   "date": "2025-10-22",
   "first_seen": "2026-10-06T14:31:54Z",
   "id": "00c683ee3288",
-  "last_seen": "2026-10-06T14:31:54Z",
+  "last_seen": "2026-10-07T15:32:15Z",
   "source": "sec-8k",
   "source_url": "https://www.sec.gov/Archives/edgar/data/1013857/000101385725000217/q32025_ex-991.htm",
-  "title": "Q3 2025 Earnings Call",
+  "title": "Pegasystems Inc., 3rd Quarter Earnings 2025",
   "url": "https://events.q4inc.com/attendee/290880287"
  },
  "00d06ba95763": {
@@ -48,11 +70,22 @@
   "date": null,
   "first_seen": "2026-10-06T15:32:54Z",
   "id": "014c1d1fe1fa",
-  "last_seen": "2026-10-06T15:32:54Z",
+  "last_seen": "2026-10-07T15:36:05Z",
   "source": "ir-page",
   "source_url": "https://www.nationalgrid.com/investors/events/events-and-materials-centre",
   "title": "Factsheet",
   "url": "https://brrmedia.news/NG_RBR2023"
+ },
+ "01823c8c6d94": {
+  "company_id": "us-1285819",
+  "date": null,
+  "first_seen": "2026-10-07T14:37:31Z",
+  "id": "01823c8c6d94",
+  "last_seen": "2026-10-07T14:37:31Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1285819/000143774926027313/ex_966798.htm",
+  "title": "Second Quarter 2026 Earnings Call",
+  "url": "https://events.q4inc.com/attendee/777037727"
  },
  "01c3d55ea970": {
   "company_id": "us-1373715",
@@ -98,6 +131,17 @@
   "title": "Presentation at Plug Symposium",
   "url": "https://event.webcasts.com/starthere.jsp?ei=1739626&tp_key=c156bc1626"
  },
+ "0390232ec230": {
+  "company_id": "us-1293135",
+  "date": "2026-07-29",
+  "first_seen": "2026-10-07T14:38:09Z",
+  "id": "0390232ec230",
+  "last_seen": "2026-10-07T14:38:09Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1293135/000127956926000647/ex991.htm",
+  "title": "Second Quarter Earnings Call",
+  "url": "https://app.webinar.net/9WzAoZGngqa"
+ },
  "03c9177eb506": {
   "company_id": "us-1104485",
   "date": "2026-08-07",
@@ -114,7 +158,7 @@
   "date": "2018-03-28",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "040ce0237398",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "National Bank Financial Markets, Financial Services Conference",
@@ -142,6 +186,28 @@
   "title": "Q1 2024 Earnings Call",
   "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=hcsZJDgP"
  },
+ "065c5853267c": {
+  "company_id": "us-1406234",
+  "date": "2026-02-27",
+  "first_seen": "2026-10-07T14:44:09Z",
+  "id": "065c5853267c",
+  "last_seen": "2026-10-07T14:44:09Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1406234/000117184326000510/exh_991.htm",
+  "title": "Fourth Quarter 2025 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/26osgyhy/"
+ },
+ "078a64e0c233": {
+  "company_id": "us-1320854",
+  "date": "2026-03-10",
+  "first_seen": "2026-10-07T14:39:22Z",
+  "id": "078a64e0c233",
+  "last_seen": "2026-10-07T14:39:22Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1320854/000119312526098650/rail-ex99_1.htm",
+  "title": "Fourth Quarter Earnings Call",
+  "url": "https://viavid.webcasts.com/starthere.jsp?ei=1750668&tp_key=019ec51a78"
+ },
  "07ba8cf0e0d6": {
   "company_id": "us-101199",
   "date": "2026-05-06",
@@ -163,6 +229,17 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/1393818/000119312525248907/d51239dex991.htm",
   "title": "Third Quarter 2025 Earnings Call",
   "url": "https://event.webcasts.com/starthere.jsp?ei=1735590&tp_key=f891a18007"
+ },
+ "0896cbc0b08a": {
+  "company_id": "us-1013857",
+  "date": null,
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "0896cbc0b08a",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Pegasystems Inc., 4th Quarter Earnings 2022",
+  "url": "https://viavid.webcasts.com/starthere.jsp?ei=1593309&tp_key=815b2c6ffa"
  },
  "08ccae254d08": {
   "company_id": "us-310764",
@@ -186,6 +263,28 @@
   "title": "First Quarter 2026 Earnings Call",
   "url": "https://www.veracast.com/webcasts/citigroup/webinars/CITI1Q26.cfm"
  },
+ "09b2e41f3bac": {
+  "company_id": "us-1424182",
+  "date": null,
+  "first_seen": "2026-10-07T14:45:12Z",
+  "id": "09b2e41f3bac",
+  "last_seen": "2026-10-07T14:45:12Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1424182/000142418226000034/bnl-20260331xexx991.htm",
+  "title": "First Quarter 2026 Earnings Call",
+  "url": "https://www.netroadshow.com/conferencing/global-numbers?confId=97882"
+ },
+ "09e74ec4ff67": {
+  "company_id": "us-1307748",
+  "date": "2025-10-29",
+  "first_seen": "2026-10-07T14:38:40Z",
+  "id": "09e74ec4ff67",
+  "last_seen": "2026-10-07T14:38:40Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1307748/000130774825000178/q32025earningsrelease.htm",
+  "title": "Third Quarter Earnings Call",
+  "url": "https://events.q4inc.com/attendee/457983707"
+ },
  "0a7b36ce529b": {
   "company_id": "us-1006655",
   "date": "2026-02-11",
@@ -208,6 +307,17 @@
   "title": "Second Quarter 2026 Earnings Call",
   "url": "https://edge.media-server.com/mmc/p/6vz6bf9d"
  },
+ "0c0225a9ccd5": {
+  "company_id": "us-1385613",
+  "date": "2026-03-10",
+  "first_seen": "2026-10-07T14:43:00Z",
+  "id": "0c0225a9ccd5",
+  "last_seen": "2026-10-07T14:43:00Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1385613/000138561326000009/pressreleaseearnings2025q4.htm",
+  "title": "Fourth Quarter Earnings Call",
+  "url": "https://event.webcasts.com/starthere.jsp?ei=1727630&tp_key=a76f5f514d"
+ },
  "0c4d23754a72": {
   "company_id": "us-1001085",
   "date": null,
@@ -224,7 +334,7 @@
   "date": "2025-09-03",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "0c750d407cae",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "2025 Scotiabank Financials Summit",
@@ -252,16 +362,38 @@
   "title": "Fourth Quarter Earnings Call",
   "url": "https://edge.media-server.com/mmc/p/si6puiij"
  },
+ "0de6a12bd77c": {
+  "company_id": "us-1273441",
+  "date": null,
+  "first_seen": "2026-10-07T14:36:31Z",
+  "id": "0de6a12bd77c",
+  "last_seen": "2026-10-07T14:36:31Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1273441/000127344126000029/a20260630-pressrelease.htm",
+  "title": "Second Quarter 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/okmrqhav"
+ },
  "0dea733f1dd0": {
   "company_id": "us-1000275",
   "date": "2022-09-07",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "0dea733f1dd0",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "2022 Scotiabank Financials Summit",
   "url": "https://onlinexperiences.com/Launch/Event/ShowKey=206936"
+ },
+ "0e4ce7e0f2f1": {
+  "company_id": "us-1401521",
+  "date": "2026-08-05",
+  "first_seen": "2026-10-07T14:43:52Z",
+  "id": "0e4ce7e0f2f1",
+  "last_seen": "2026-10-07T14:43:52Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1401521/000140152126000035/acic-ex99_1.htm",
+  "title": "Second Quarter Earnings Call",
+  "url": "https://events.q4inc.com/attendee/181721111"
  },
  "0e97eec87bcd": {
   "company_id": "us-1050441",
@@ -279,7 +411,7 @@
   "date": null,
   "first_seen": "2026-10-06T15:32:54Z",
   "id": "0ec658ae0a5d",
-  "last_seen": "2026-10-06T15:32:54Z",
+  "last_seen": "2026-10-07T15:36:05Z",
   "source": "ir-page",
   "source_url": "https://www.nationalgrid.com/investors/events/results-centre",
   "title": "Statement",
@@ -295,6 +427,17 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/1173489/000143774926004232/ex_920986.htm",
   "title": "Full Year 2024 Earnings Call",
   "url": "https://app.webinar.net/9YBAnq6d4Rj"
+ },
+ "0ff46cb8924e": {
+  "company_id": "us-1279495",
+  "date": "2026-05-08",
+  "first_seen": "2026-10-07T14:36:58Z",
+  "id": "0ff46cb8924e",
+  "last_seen": "2026-10-07T14:36:58Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1279495/000127949526000016/a995-q12026pressrelease.htm",
+  "title": "First Quarter 2026 Earnings Call",
+  "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=UzvM4PYX"
  },
  "103dab4902ae": {
   "company_id": "us-1035201",
@@ -312,11 +455,44 @@
   "date": "2025-09-04",
   "first_seen": "2026-10-06T15:32:32Z",
   "id": "109c842c760b",
-  "last_seen": "2026-10-06T15:32:32Z",
+  "last_seen": "2026-10-07T15:34:59Z",
   "source": "ir-page",
   "source_url": "https://www.nice.com/company/investors/ir-events",
   "title": "Citi’s 2025 Global TMT Conference",
   "url": "https://kvgo.com/citi/nice-ltd-september-2025"
+ },
+ "10d295d3e082": {
+  "company_id": "us-1013857",
+  "date": null,
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "10d295d3e082",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Pegasystems Inc., 1st Quarter Earnings 2025",
+  "url": "https://events.q4inc.com/attendee/866591284"
+ },
+ "10d4a45f9770": {
+  "company_id": "us-1224608",
+  "date": "2026-05-01",
+  "first_seen": "2026-10-07T14:35:17Z",
+  "id": "10d4a45f9770",
+  "last_seen": "2026-10-07T14:35:17Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1224608/000122460826000038/exhibit991-03312026earnings.htm",
+  "title": "First Quarter 2026 Earnings Call",
+  "url": "https://events.q4inc.com/attendee/401757742"
+ },
+ "10ef08a59b11": {
+  "company_id": "us-1357615",
+  "date": "2026-07-30",
+  "first_seen": "2026-10-07T14:41:09Z",
+  "id": "10ef08a59b11",
+  "last_seen": "2026-10-07T14:41:09Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1357615/000135761526000170/q226kbr-exhibit991x07032026.htm",
+  "title": "Second Quarter Fiscal 2026 Earnings Call",
+  "url": "https://events.q4inc.com/attendee/815377675"
  },
  "110396901050": {
   "company_id": "us-1127248",
@@ -329,6 +505,17 @@
   "title": "Webcast",
   "url": "https://meetings.lumiconnect.com/400-528-394-021"
  },
+ "11274032c284": {
+  "company_id": "us-1218683",
+  "date": "2026-04-02",
+  "first_seen": "2026-10-07T14:34:59Z",
+  "id": "11274032c284",
+  "last_seen": "2026-10-07T14:34:59Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1218683/000121390026027887/ea028176001ex99-1.htm",
+  "title": "Presentation at Emerging Growth Conference",
+  "url": "https://goto.webcasts.com/starthere.jsp?ei=1748971&tp_key=add80b0ab6&sti=migi"
+ },
  "1321b4e9e7fc": {
   "company_id": "us-1174169",
   "date": "2026-08-07",
@@ -340,6 +527,50 @@
   "title": "Second Quarter 2026 Earnings Call",
   "url": "https://edge.media-server.com/mmc/p/h2pdepd9"
  },
+ "13c30271aeec": {
+  "company_id": "us-1331284",
+  "date": "2026-08-06",
+  "first_seen": "2026-10-07T14:39:51Z",
+  "id": "13c30271aeec",
+  "last_seen": "2026-10-07T14:39:51Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1331284/000095015726000847/ex99-1.htm",
+  "title": "Second Quarter 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/kxa28zzr"
+ },
+ "14cf035fa860": {
+  "company_id": "us-1331520",
+  "date": "2026-04-16",
+  "first_seen": "2026-10-07T14:39:52Z",
+  "id": "14cf035fa860",
+  "last_seen": "2026-10-07T14:39:52Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1331520/000133152026000088/homb033126earningsrelease.htm",
+  "title": "First Quarter Earnings Call",
+  "url": "https://www.netroadshow.com/events/login/LE9zwo3kRY977wuorjaoPFDRQh4g9LFnhMn"
+ },
+ "155afaca8a8d": {
+  "company_id": "us-1362004",
+  "date": "2026-03-05",
+  "first_seen": "2026-10-07T14:41:26Z",
+  "id": "155afaca8a8d",
+  "last_seen": "2026-10-07T14:41:26Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1362004/000143774926007070/ex_929188.htm",
+  "title": "Presentation at Canaccord Genuity Second Annual Virtual Sustainability Summit",
+  "url": "https://wsw.com/webcast/canaccord114/icfi/2473500"
+ },
+ "15733824378f": {
+  "company_id": "us-1232384",
+  "date": "2026-10-30",
+  "first_seen": "2026-10-07T14:35:42Z",
+  "id": "15733824378f",
+  "last_seen": "2026-10-07T14:35:42Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1232384/000123238426000045/trp-06302026xexx991parta.htm",
+  "title": "Second Quarter 2026 Earnings Call",
+  "url": "https://www.gowebcasting.com/14394"
+ },
  "15c893421d0e": {
   "company_id": "us-1703399",
   "date": "2026-03-03",
@@ -350,6 +581,17 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/1703399/000119312526088151/d106475dex991.htm",
   "title": "Fourth Quarter Earnings Call",
   "url": "https://events.q4inc.com/attendee/139022136"
+ },
+ "166e0b72f97c": {
+  "company_id": "us-1013857",
+  "date": "2022-09-08",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "166e0b72f97c",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Citi 2022 Global Technology Conference",
+  "url": "https://www.veracast.com/webcasts/citigroup/technology2022/30La7G.cfm"
  },
  "17060a25070a": {
   "company_id": "us-1180262",
@@ -384,6 +626,28 @@
   "title": "Fourth-Quarter Earnings Call",
   "url": "https://callme.viavid.com/viavid/?callme=true&passcode=13748140&h=true&info=company&r=true&B=6"
  },
+ "18c70070e1a5": {
+  "company_id": "us-1385280",
+  "date": "2026-02-17",
+  "first_seen": "2026-10-07T14:42:59Z",
+  "id": "18c70070e1a5",
+  "last_seen": "2026-10-07T14:42:59Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1385280/000119312526056010/cnk-ex99_1.htm",
+  "title": "Fourth Quarter Earnings Call",
+  "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=I1tlGUVd"
+ },
+ "18d309254763": {
+  "company_id": "us-1384101",
+  "date": "2025-11-04",
+  "first_seen": "2026-10-07T14:42:56Z",
+  "id": "18d309254763",
+  "last_seen": "2026-10-07T14:42:56Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1384101/000138410125000128/vcyt-11x04x20258xkearnings.htm",
+  "title": "Third Quarter 2025 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/kcexjtb4"
+ },
  "1a75e5ecb2ee": {
   "company_id": "us-1393311",
   "date": "2026-03-16",
@@ -394,6 +658,17 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/1393311/000119312526107159/d121595dex991.htm",
   "title": "Third Quarter Earnings Call",
   "url": "https://events.q4inc.com/attendee/541649582"
+ },
+ "1b852a4bf027": {
+  "company_id": "us-1385613",
+  "date": "2026-08-05",
+  "first_seen": "2026-10-07T14:43:00Z",
+  "id": "1b852a4bf027",
+  "last_seen": "2026-10-07T14:43:00Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1385613/000138561326000097/pressreleaseearnings2026q2.htm",
+  "title": "Second Quarter 2026 Earnings Call",
+  "url": "https://event.webcasts.com/starthere.jsp?ei=1731033&tp_key=3e1d0e751f"
  },
  "1be315b3e6cf": {
   "company_id": "us-1041934",
@@ -411,11 +686,22 @@
   "date": "2024-06-06",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "1c8a649d3ae0",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "TD Cowen Financial Services & Fintech Summit",
   "url": "https://wsw.com/webcast/cowen158/register.aspx?conf=cowen158&page=ry.to&url=https://wsw.com/webcast/cowen158/ry.to/2143064"
+ },
+ "1c9ba33b5070": {
+  "company_id": "us-1224608",
+  "date": "2026-07-31",
+  "first_seen": "2026-10-07T14:35:17Z",
+  "id": "1c9ba33b5070",
+  "last_seen": "2026-10-07T14:35:17Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1224608/000122460826000061/exhibit991-06302026earnings.htm",
+  "title": "Second Quarter 2026 Earnings Call",
+  "url": "https://events.q4inc.com/attendee/121613442"
  },
  "1d73f735d933": {
   "company_id": "us-1167419",
@@ -433,18 +719,29 @@
   "date": "2021-02-25",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "1dc057c131cb",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "RBC Capital Markets Global Environmental, Social and Governance Conference",
   "url": "https://event.on24.com/wcc/r/3015109/F273B215CE856410953CB264C6241C9D"
+ },
+ "1ddfd2fa3cdd": {
+  "company_id": "us-1370450",
+  "date": null,
+  "first_seen": "2026-10-07T14:41:50Z",
+  "id": "1ddfd2fa3cdd",
+  "last_seen": "2026-10-07T14:41:50Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1370450/000110465926020502/wldn-20260226xex99d1.htm",
+  "title": "Fourth Quarter 2025 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/2ebn937s/"
  },
  "1ebebf7ccb7c": {
   "company_id": "us-1000275",
   "date": "2022-03-08",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "1ebebf7ccb7c",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "RBC Capital Markets Financial Institutions Conference",
@@ -461,16 +758,38 @@
   "title": "Second-Quarter 2026 Earnings Call",
   "url": "https://events.q4inc.com/attendee/157027565"
  },
+ "1fe7e15aeaa5": {
+  "company_id": "us-1409970",
+  "date": "2026-04-27",
+  "first_seen": "2026-10-07T14:44:19Z",
+  "id": "1fe7e15aeaa5",
+  "last_seen": "2026-10-07T14:44:19Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1409970/000140997026000059/q126exhibit991er.htm",
+  "title": "First Quarter 2026 Earnings Call",
+  "url": "https://events.q4inc.com/attendee/442019885"
+ },
  "2028e15ae649": {
   "company_id": "us-1000275",
   "date": "2021-09-09",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "2028e15ae649",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "2021 Scotiabank Financials Summit",
   "url": "https://wsw.com/webcast/bns22/ry.to/1765764"
+ },
+ "206675fc4142": {
+  "company_id": "us-1291855",
+  "date": "2025-05-14",
+  "first_seen": "2026-10-07T14:38:08Z",
+  "id": "206675fc4142",
+  "last_seen": "2026-10-07T14:38:08Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1291855/000117891325001860/exhibit_99-1.htm",
+  "title": "First Quarter 2025 Earnings Call",
+  "url": "https://www.webcaster4.com/Webcast/Page/2259/52441"
  },
  "20c8413885db": {
   "company_id": "us-106532",
@@ -483,12 +802,34 @@
   "title": "Third Quarter 2025 Earnings Call",
   "url": "https://edge.media-server.com/mmc/p/abobbfd4"
  },
+ "20e4ea7eb387": {
+  "company_id": "us-1288855",
+  "date": "2026-08-13",
+  "first_seen": "2026-10-07T14:37:53Z",
+  "id": "20e4ea7eb387",
+  "last_seen": "2026-10-07T14:37:53Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1288855/000149315226034476/ex99-1.htm",
+  "title": "Second Quarter Earnings Call",
+  "url": "https://events.q4inc.com/attendee/432597526/guest?t=1784670390505"
+ },
+ "210951ad40e9": {
+  "company_id": "us-1829726",
+  "date": "2026-11-04",
+  "first_seen": "2026-10-07T14:34:31Z",
+  "id": "210951ad40e9",
+  "last_seen": "2026-10-07T14:34:31Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1829726/000110465926114183/tm2627154d1_ex99-1.htm",
+  "title": "Fourth Quarter Earnings Call",
+  "url": "https://events.q4inc.com/attendee/949514033"
+ },
  "217e0bf9baad": {
   "company_id": "us-1000275",
   "date": "2024-09-11",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "217e0bf9baad",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "2024 Barclays Global Financial Services Conference",
@@ -516,6 +857,17 @@
   "title": "Fourth Quarter Earnings Call",
   "url": "https://events.q4inc.com/attendee/730547572"
  },
+ "240fc6260196": {
+  "company_id": "us-1401040",
+  "date": "2025-11-12",
+  "first_seen": "2026-10-07T14:43:50Z",
+  "id": "240fc6260196",
+  "last_seen": "2026-10-07T14:43:50Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1401040/000143774925034467/ex_887318.htm",
+  "title": "Third Quarter 2025 Earnings Call",
+  "url": "https://app.webinar.net/MlAxZJky3Q7"
+ },
  "265b58bf92f2": {
   "company_id": "us-1973239",
   "date": "2026-07-29",
@@ -526,6 +878,17 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/1973239/000197323926000113/exhibit991fye27q130-junx26.htm",
   "title": "First Quarter Earnings Call",
   "url": "https://edge.media-server.com/mmc/p/odrefapr/"
+ },
+ "26ac4f6403ce": {
+  "company_id": "us-1377121",
+  "date": "2025-06-02",
+  "first_seen": "2026-10-07T14:42:17Z",
+  "id": "26ac4f6403ce",
+  "last_seen": "2026-10-07T14:42:17Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1377121/000110465925045073/tm2514117d1_ex99-1.htm",
+  "title": "First Quarter 2025 Earnings Call",
+  "url": "https://viavid.webcasts.com/starthere.jsp?ei=1718556&tp_key=360d3b714d"
  },
  "284803109665": {
   "company_id": "us-1393818",
@@ -549,6 +912,50 @@
   "title": "Fourth Quarter Earnings Call",
   "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=0TZ2mrjz"
  },
+ "28b31c9cb1fb": {
+  "company_id": "us-1406234",
+  "date": "2026-10-09",
+  "first_seen": "2026-10-07T14:44:08Z",
+  "id": "28b31c9cb1fb",
+  "last_seen": "2026-10-07T14:44:08Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1406234/000110465926103587/tm2624039d1_ex99-2.htm",
+  "title": "Webcast",
+  "url": "https://meetings.lumiconnect.com/400-690-592-192"
+ },
+ "28d558d4c91b": {
+  "company_id": "us-1410384",
+  "date": "2026-02-11",
+  "first_seen": "2026-10-07T14:44:21Z",
+  "id": "28d558d4c91b",
+  "last_seen": "2026-10-07T14:44:21Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1410384/000141038426000005/a251231ex9918k.htm",
+  "title": "Year-End 2030 Earnings Call",
+  "url": "https://events.q4inc.com/attendee/209957102"
+ },
+ "28e388d2bd91": {
+  "company_id": "us-1013857",
+  "date": "2024-09-10",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "28e388d2bd91",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Goldman Sachs Communacopia & Technology Conference",
+  "url": "https://cc.webcasts.com/gold006/090924a_js/?entity=76_DWSH7RJ"
+ },
+ "292011a0e264": {
+  "company_id": "us-1210677",
+  "date": "2026-05-07",
+  "first_seen": "2026-10-07T14:34:50Z",
+  "id": "292011a0e264",
+  "last_seen": "2026-10-07T14:34:50Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1210677/000119312526210077/fa-ex99_1.htm",
+  "title": "Full Year 2026 Earnings Call",
+  "url": "https://event.on24.com/wcc/r/5299677/C9C3CC4A5F89F22F622AC6FC6E51BB7B"
+ },
  "29417f622fcf": {
   "company_id": "us-2809",
   "date": "2026-05-01",
@@ -559,6 +966,28 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/2809/000110465926054134/tm2612722d3_ex99-1.htm",
   "title": "First Quarter 2026 Earnings Call",
   "url": "https://meetnow.global/M59UWL4"
+ },
+ "29bdaae23ff6": {
+  "company_id": "us-1227500",
+  "date": "2026-07-15",
+  "first_seen": "2026-10-07T14:35:26Z",
+  "id": "29bdaae23ff6",
+  "last_seen": "2026-10-07T14:35:26Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1227500/000119312526303176/eqbk-ex99_1.htm",
+  "title": "Second Quarter Earnings Call",
+  "url": "https://events.q4inc.com/attendee/797391070"
+ },
+ "2ac4c740724c": {
+  "company_id": "us-1392380",
+  "date": null,
+  "first_seen": "2026-10-07T14:43:21Z",
+  "id": "2ac4c740724c",
+  "last_seen": "2026-10-07T14:43:21Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1392380/000162828026054278/gevo_q2x2026-ex991.htm",
+  "title": "Second Quarter Earnings Call",
+  "url": "https://events.q4inc.com/attendee/341485152"
  },
  "2b6fed0798f6": {
   "company_id": "us-1058307",
@@ -582,16 +1011,60 @@
   "title": "First Quarter 2026 Earnings Call",
   "url": "https://edge.media-server.com/mmc/p/ncvykvxv"
  },
+ "2c0ffb2bc525": {
+  "company_id": "us-1367644",
+  "date": "2026-08-05",
+  "first_seen": "2026-10-07T14:41:38Z",
+  "id": "2c0ffb2bc525",
+  "last_seen": "2026-10-07T14:41:38Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1367644/000136764426000080/ebs202606-30ex99er.htm",
+  "title": "First Quarter Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/fjwb9v5g/"
+ },
+ "2cb021e598d6": {
+  "company_id": "us-1392380",
+  "date": null,
+  "first_seen": "2026-10-07T14:43:21Z",
+  "id": "2cb021e598d6",
+  "last_seen": "2026-10-07T14:43:21Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1392380/000139238025000031/gevo-20251110xex99d1.htm",
+  "title": "Third Quarter 2025 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/swydnbb2"
+ },
+ "2cf3115db8de": {
+  "company_id": "us-1013857",
+  "date": null,
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "2cf3115db8de",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Pegasystems Inc., 2nd Quarter Earnings 2024",
+  "url": "https://events.q4inc.com/attendee/610142887"
+ },
  "2d1205ac5af8": {
   "company_id": "us-1004315",
   "date": "2026-05-14",
   "first_seen": "2026-10-06T15:32:54Z",
   "id": "2d1205ac5af8",
-  "last_seen": "2026-10-06T15:32:54Z",
+  "last_seen": "2026-10-07T15:36:05Z",
   "source": "ir-page",
   "source_url": "https://www.nationalgrid.com/investors/events/results-centre",
   "title": "Full year results 2025/26",
   "url": "https://stream.brrmedia.co.uk/broadcast/69e1f0c10c700800124722d3"
+ },
+ "2d7aad83728f": {
+  "company_id": "us-1013857",
+  "date": "2024-08-13",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "2d7aad83728f",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Canaccord Genuity's 44th Annual Growth Conference & Private Company Showcase",
+  "url": "https://wsw.com/webcast/canaccord98/pega/2430131"
  },
  "2dd4be129dbb": {
   "company_id": "us-108516",
@@ -615,6 +1088,17 @@
   "title": "Annual Meeting of Stockholders",
   "url": "https://meetings.lumiconnect.com/100-254-214-445"
  },
+ "2e800c28fec0": {
+  "company_id": "us-1331520",
+  "date": "2026-01-15",
+  "first_seen": "2026-10-07T14:39:52Z",
+  "id": "2e800c28fec0",
+  "last_seen": "2026-10-07T14:39:52Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1331520/000133152026000014/homb123125earningsrelease.htm",
+  "title": "Q4 2025 Earnings Call",
+  "url": "https://events.q4inc.com/attendee/310151620"
+ },
  "2f0a74d9eb27": {
   "company_id": "us-1093691",
   "date": "2025-11-10",
@@ -631,11 +1115,22 @@
   "date": null,
   "first_seen": "2026-10-06T15:32:54Z",
   "id": "2fb21dd52a6a",
-  "last_seen": "2026-10-06T15:32:54Z",
+  "last_seen": "2026-10-07T15:36:05Z",
   "source": "ir-page",
   "source_url": "https://www.nationalgrid.com/investors/events/events-and-materials-centre",
   "title": "Extended and upgraded 5-year Financial Framework and acceptance of RIIO-T3",
   "url": "https://urldefense.com/v3/__https:/stream.brrmedia.co.uk/broadcast/698d7f24f12443001290ffba__;!!B3hxM_NYsQ!3MeP5MgyuPpy1eiest06-QUuBdvwAbLHd443JjQ_O7mXwgd_d5xG9JRGHoCbzMCofYDaHypGyh-6P6b3tyHKJ09JwzqD$"
+ },
+ "302510944397": {
+  "company_id": "us-1385280",
+  "date": null,
+  "first_seen": "2026-10-07T14:42:59Z",
+  "id": "302510944397",
+  "last_seen": "2026-10-07T14:42:59Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1385280/000119312526199020/cnk-ex99_1.htm",
+  "title": "First Quarter 2026 Earnings Call",
+  "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=RZXqr90L"
  },
  "31b9bdeb1311": {
   "company_id": "us-1108134",
@@ -659,6 +1154,39 @@
   "title": "First Quarter Earnings Call",
   "url": "https://events.q4inc.com/attendee/947331842"
  },
+ "32c272a53705": {
+  "company_id": "us-1010086",
+  "date": null,
+  "first_seen": "2026-10-07T15:32:04Z",
+  "id": "32c272a53705",
+  "last_seen": "2026-10-07T15:32:04Z",
+  "source": "ir-page",
+  "source_url": "https://investor.siga.com/overview/default.aspx",
+  "title": "Q2 2026 Financial Information",
+  "url": "https://viavid.webcasts.com/starthere.jsp?ei=1768038&tp_key=26f3262858"
+ },
+ "330cb677b445": {
+  "company_id": "us-1410384",
+  "date": "2026-04-29",
+  "first_seen": "2026-10-07T14:44:21Z",
+  "id": "330cb677b445",
+  "last_seen": "2026-10-07T14:44:21Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1410384/000141038426000035/a260331q1ex9918k.htm",
+  "title": "Full-Year 2026 Earnings Call",
+  "url": "https://events.q4inc.com/attendee/991079750"
+ },
+ "3445e446cf0a": {
+  "company_id": "us-711377",
+  "date": null,
+  "first_seen": "2026-10-07T14:34:33Z",
+  "id": "3445e446cf0a",
+  "last_seen": "2026-10-07T14:34:33Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/711377/000119312526415544/neog-ex99_1.htm",
+  "title": "First-Quarter Earnings Call",
+  "url": "https://events.q4inc.com/attendee/323558822"
+ },
  "34da0cadae49": {
   "company_id": "us-1413329",
   "date": null,
@@ -675,22 +1203,66 @@
   "date": "2025-06-17",
   "first_seen": "2026-10-06T15:32:32Z",
   "id": "359e075c837c",
-  "last_seen": "2026-10-06T15:32:32Z",
+  "last_seen": "2026-10-07T15:34:59Z",
   "source": "ir-page",
   "source_url": "https://www.nice.com/company/investors/ir-events",
   "title": "Investor and Analyst Day 2025",
   "url": "https://app.webinar.net/yDkWmBO7B2Z"
+ },
+ "36507e436899": {
+  "company_id": "us-1210677",
+  "date": "2025-11-06",
+  "first_seen": "2026-10-07T14:34:50Z",
+  "id": "36507e436899",
+  "last_seen": "2026-10-07T14:34:50Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1210677/000119312525267932/fa-ex99_1.htm",
+  "title": "Full Year 2025 Earnings Call",
+  "url": "https://event.on24.com/wcc/r/5075946/AB315DBF336BEFF744ACAA7EF22E2F21"
+ },
+ "367f598f45e4": {
+  "company_id": "us-1366868",
+  "date": "2025-11-06",
+  "first_seen": "2026-10-07T14:41:37Z",
+  "id": "367f598f45e4",
+  "last_seen": "2026-10-07T14:41:37Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1366868/000136686825000111/gsat20250930-ex991.htm",
+  "title": "Third Quarter 2025 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/3ekv2xfw"
+ },
+ "36e7070b3fe8": {
+  "company_id": "us-1331284",
+  "date": "2026-05-06",
+  "first_seen": "2026-10-07T14:39:51Z",
+  "id": "36e7070b3fe8",
+  "last_seen": "2026-10-07T14:39:51Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1331284/000095015726000576/ex99-1.htm",
+  "title": "First Quarter 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/2t2juoz5"
  },
  "37c2b312f9fa": {
   "company_id": "us-1000275",
   "date": "2024-09-04",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "37c2b312f9fa",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "2024 Scotiabank Financials Summit",
   "url": "https://onlinexperiences.com/scripts/Server.nxp?LASCmd=L:0&AI=1&ShowKey=260854&LoginType=0&InitialDisplay=1&ClientBrowser=0&DisplayItem=NULL&LangLocaleID=0&SSO=1&RFR=https://onlinexperiences.com/Launch/Event/ShowKey=260854&EmbedTest=NULL"
+ },
+ "37fba557606c": {
+  "company_id": "us-1288855",
+  "date": "2026-04-28",
+  "first_seen": "2026-10-07T14:37:53Z",
+  "id": "37fba557606c",
+  "last_seen": "2026-10-07T14:37:53Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1288855/000149315226018855/ex99-1.htm",
+  "title": "First Quarter Earnings Call",
+  "url": "https://events.q4inc.com/attendee/178187333/guest"
  },
  "389a8ab3eeeb": {
   "company_id": "us-1035201",
@@ -719,11 +1291,22 @@
   "date": "2021-03-09",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "38c51932032b",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "RBC Capital Markets Financial Institutions Conference",
   "url": "https://event.on24.com/wcc/r/3033104/9CFD6D8FBD712F187735D477D1AA153D"
+ },
+ "393690f9b411": {
+  "company_id": "us-1307748",
+  "date": "2026-04-29",
+  "first_seen": "2026-10-07T14:38:40Z",
+  "id": "393690f9b411",
+  "last_seen": "2026-10-07T14:38:40Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1307748/000130774826000111/q12026earningsrelease.htm",
+  "title": "First Quarter Earnings Call",
+  "url": "https://events.q4inc.com/attendee/537477482"
  },
  "393b394cd8f5": {
   "company_id": "us-1022408",
@@ -735,6 +1318,17 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/1022408/000114036126023148/ef20075008_ex99-1.htm",
   "title": "Presentation at National Retail Federation Innovators Showcase",
   "url": "https://events.q4inc.com/attendee/661235710"
+ },
+ "3ad08cb2124e": {
+  "company_id": "us-1718500",
+  "date": "2026-10-06",
+  "first_seen": "2026-10-07T14:34:34Z",
+  "id": "3ad08cb2124e",
+  "last_seen": "2026-10-07T14:34:34Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1718500/000152013826000411/axil-20261006_8kex99z1.htm",
+  "title": "First Quarter Fiscal 2027 Earnings Call",
+  "url": "https://viavid.webcasts.com/starthere.jsp?ei=1777813&tp_key=7330938b30"
  },
  "3ad51731e259": {
   "company_id": "us-1058307",
@@ -757,6 +1351,28 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/1061630/000106163025000130/a8-kexhibit9913q2025.htm",
   "title": "Third-Quarter 2025 Earnings Call",
   "url": "https://event.webcasts.com/starthere.jsp?ei=1735594&tp_key=ec7b6b8798"
+ },
+ "3be42d859199": {
+  "company_id": "us-1013857",
+  "date": "2022-08-10",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "3be42d859199",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Oppenheimer 25th Annual Technology, Internet & Communications Conference",
+  "url": "https://wsw.com/webcast/oppenheimer23/pega/2739165"
+ },
+ "3c362c2ccb43": {
+  "company_id": "us-1373670",
+  "date": "2025-10-30",
+  "first_seen": "2026-10-07T14:42:01Z",
+  "id": "3c362c2ccb43",
+  "last_seen": "2026-10-07T14:42:01Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1373670/000137367025000086/a2q32025ex99earningsrelease.htm",
+  "title": "Third Quarter Earnings Call",
+  "url": "https://events.q4inc.com/attendee/719083800"
  },
  "3c6b3d869bb4": {
   "company_id": "us-1058307",
@@ -785,7 +1401,7 @@
   "date": "2025-03-25",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "3d40452a3476",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "National Bank Financial Markets, Financial Services Conference",
@@ -807,7 +1423,7 @@
   "date": "2020-09-07",
   "first_seen": "2026-10-06T15:32:54Z",
   "id": "3e22c0053372",
-  "last_seen": "2026-10-06T15:32:54Z",
+  "last_seen": "2026-10-07T15:36:05Z",
   "source": "ir-page",
   "source_url": "https://www.nationalgrid.com/investors/events/events-and-materials-centre",
   "title": "RIIO-2 Draft Determination Consultation Response Webinar",
@@ -829,7 +1445,7 @@
   "date": "2026-08-05",
   "first_seen": "2026-10-06T15:32:32Z",
   "id": "3f33328c9cb1",
-  "last_seen": "2026-10-06T15:32:32Z",
+  "last_seen": "2026-10-07T15:34:59Z",
   "source": "ir-page",
   "source_url": "https://www.nice.com/company/investors/ir-events",
   "title": "Q2 2026 Earnings Release Conference Call",
@@ -840,11 +1456,22 @@
   "date": "2025-11-17",
   "first_seen": "2026-10-06T15:32:32Z",
   "id": "3f914646dab1",
-  "last_seen": "2026-10-06T15:32:32Z",
+  "last_seen": "2026-10-07T15:34:59Z",
   "source": "ir-page",
   "source_url": "https://www.nice.com/company/investors/ir-events",
   "title": "Capital Markets Day 2025",
   "url": "https://nicecmd2025.com/"
+ },
+ "3fcca378f1cd": {
+  "company_id": "us-1401521",
+  "date": "2026-02-19",
+  "first_seen": "2026-10-07T14:43:52Z",
+  "id": "3fcca378f1cd",
+  "last_seen": "2026-10-07T14:43:52Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1401521/000140152126000008/acic-ex99_1.htm",
+  "title": "Fourth Quarter Earnings Call",
+  "url": "https://event.webcasts.com/starthere.jsp?ei=1751270&tp_key=849b2696a5"
  },
  "3fda9ee490de": {
   "company_id": "us-1035201",
@@ -857,6 +1484,17 @@
   "title": "Third Quarter 2025 Earnings Call",
   "url": "https://edge.media-server.com/mmc/p/cvkp7i34/"
  },
+ "4056e0e9358c": {
+  "company_id": "us-1401521",
+  "date": "2026-05-05",
+  "first_seen": "2026-10-07T14:43:52Z",
+  "id": "4056e0e9358c",
+  "last_seen": "2026-10-07T14:43:52Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1401521/000140152126000027/acic-ex99_1.htm",
+  "title": "First Quarter Earnings Call",
+  "url": "https://event.webcasts.com/starthere.jsp?ei=1757732&tp_key=768fef8242"
+ },
  "41ece301da75": {
   "company_id": "us-87347",
   "date": "2026-05-01",
@@ -868,16 +1506,38 @@
   "title": "First-Quarter 2026 Earnings Call",
   "url": "https://events.q4inc.com/attendee/972985185"
  },
+ "420b1b81e8d0": {
+  "company_id": "us-1320854",
+  "date": "2026-05-05",
+  "first_seen": "2026-10-07T14:39:22Z",
+  "id": "420b1b81e8d0",
+  "last_seen": "2026-10-07T14:39:22Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1320854/000132085426000009/rail-ex99_1.htm",
+  "title": "First Quarter 2026 Earnings Call",
+  "url": "https://viavid.webcasts.com/starthere.jsp?ei=1759680&tp_key=d43c008515"
+ },
  "439f5e1b337a": {
   "company_id": "us-1003935",
   "date": "2026-03-03",
   "first_seen": "2026-10-06T15:32:32Z",
   "id": "439f5e1b337a",
-  "last_seen": "2026-10-06T15:32:32Z",
+  "last_seen": "2026-10-07T15:34:59Z",
   "source": "ir-page",
   "source_url": "https://www.nice.com/company/investors/ir-events",
   "title": "Morgan Stanley 2026 Technology, Media & Telecom Conference",
   "url": "https://event.webcasts.com/starthere.jsp?ei=1754149&tp_key=f028111dc3&tp_special=8"
+ },
+ "43b24e1511b4": {
+  "company_id": "us-1013857",
+  "date": "2025-06-02",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "43b24e1511b4",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Pegasystems 2025 Investor Session",
+  "url": "https://app.webinar.net/kevXV6RV0DJ"
  },
  "43d6f9b005a2": {
   "company_id": "us-1703399",
@@ -890,6 +1550,39 @@
   "title": "First Quarter Earnings Call",
   "url": "https://events.q4inc.com/attendee/902549222"
  },
+ "45c988fb1fff": {
+  "company_id": "us-1319947",
+  "date": null,
+  "first_seen": "2026-10-07T14:39:18Z",
+  "id": "45c988fb1fff",
+  "last_seen": "2026-10-07T14:39:18Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1319947/000131994726000048/q220268-kex991pressrelease.htm",
+  "title": "Second Quarter Earnings Call",
+  "url": "https://app.webinar.net/916wJ9QJZvG"
+ },
+ "45d1363c8719": {
+  "company_id": "us-1013857",
+  "date": "2021-08-12",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "45d1363c8719",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Canaccord Genuity 41st Annual Growth Conference﻿",
+  "url": "https://wsw.com/webcast/canaccord60/pega/2416084"
+ },
+ "460216a526a0": {
+  "company_id": "us-1401040",
+  "date": "2026-03-30",
+  "first_seen": "2026-10-07T14:43:50Z",
+  "id": "460216a526a0",
+  "last_seen": "2026-10-07T14:43:50Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1401040/000143774926010409/ex_939162.htm",
+  "title": "Full Year 2025 Earnings Call",
+  "url": "https://app.webinar.net/bxPLk6nkE0q"
+ },
  "46464993f013": {
   "company_id": "us-108516",
   "date": "2026-09-23",
@@ -901,16 +1594,38 @@
   "title": "First Quarter Earnings Call",
   "url": "https://events.q4inc.com/attendee/812708534"
  },
+ "46af174ec263": {
+  "company_id": "us-1377757",
+  "date": "2026-05-14",
+  "first_seen": "2026-10-07T14:42:18Z",
+  "id": "46af174ec263",
+  "last_seen": "2026-10-07T14:42:18Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1377757/000106299326002589/exhibit99-5.htm",
+  "title": "Presentation at 1-800-715-9871 Conference ID 9798035 Conference",
+  "url": "https://www.gowebcasting.com/14680"
+ },
  "47024fc14b3b": {
   "company_id": "us-1003935",
   "date": "2025-12-02",
   "first_seen": "2026-10-06T15:32:32Z",
   "id": "47024fc14b3b",
-  "last_seen": "2026-10-06T15:32:32Z",
+  "last_seen": "2026-10-07T15:34:59Z",
   "source": "ir-page",
   "source_url": "https://www.nice.com/company/investors/ir-events",
   "title": "UBS 2025 Global Technology and AI Conference",
   "url": "https://event.webcasts.com/starthere.jsp?ei=1744808&tp_key=8eae30b603&tp_special=8"
+ },
+ "471e4eec32c7": {
+  "company_id": "us-1286973",
+  "date": "2026-08-14",
+  "first_seen": "2026-10-07T14:37:38Z",
+  "id": "471e4eec32c7",
+  "last_seen": "2026-10-07T14:37:39Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1286973/000106299326004357/exhibit99-1.htm",
+  "title": "Second Quarter 2026 Earnings Call",
+  "url": "https://www.gowebcasting.com/14777"
  },
  "47ab99b43ad5": {
   "company_id": "us-1174169",
@@ -922,6 +1637,17 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/1174169/000117416926000020/a2026q1-ex995xearningspres.htm",
   "title": "First Quarter 2026 Earnings Call",
   "url": "https://edge.media-server.com/mmc/p/8kzernoq"
+ },
+ "486a9b02a598": {
+  "company_id": "us-1331284",
+  "date": "2026-02-05",
+  "first_seen": "2026-10-07T14:39:51Z",
+  "id": "486a9b02a598",
+  "last_seen": "2026-10-07T14:39:51Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1331284/000095015726000086/ex99-1.htm",
+  "title": "Fourth Quarter 2025 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/jozu2442"
  },
  "48d978202126": {
   "company_id": "us-1973239",
@@ -939,7 +1665,7 @@
   "date": "2026-03-24",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "49118ee07080",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "National Bank Financial Markets, Financial Services Conference",
@@ -967,6 +1693,17 @@
   "title": "Annual Meeting of Stockholders",
   "url": "https://meetings.lumiconnect.com/400-707-444-004"
  },
+ "4ae55198573d": {
+  "company_id": "us-1372807",
+  "date": "2026-03-06",
+  "first_seen": "2026-10-07T14:41:59Z",
+  "id": "4ae55198573d",
+  "last_seen": "2026-10-07T14:41:59Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1372807/000119312526098787/d75337dex991.htm",
+  "title": "Fourth Quarter Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/4t76qqoc"
+ },
  "4aede4173426": {
   "company_id": "us-1097149",
   "date": null,
@@ -983,7 +1720,7 @@
   "date": "2026-05-06",
   "first_seen": "2026-10-06T15:32:32Z",
   "id": "4b7ea0e9f381",
-  "last_seen": "2026-10-06T15:32:32Z",
+  "last_seen": "2026-10-07T15:34:59Z",
   "source": "ir-page",
   "source_url": "https://www.nice.com/company/investors/ir-events",
   "title": "Q1 2026 Earnings Conference Call",
@@ -994,7 +1731,7 @@
   "date": "2024-03-05",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "4bb901f83b3b",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "RBC Capital Markets Financial Institutions Conference",
@@ -1011,23 +1748,89 @@
   "title": "First Quarter 2026 Earnings Call",
   "url": "https://www.virtualshareholdermeeting.com/IDXX2026"
  },
+ "4c1e4443dbe4": {
+  "company_id": "us-1383395",
+  "date": "2026-02-10",
+  "first_seen": "2026-10-07T14:42:51Z",
+  "id": "4c1e4443dbe4",
+  "last_seen": "2026-10-07T14:42:52Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1383395/000138339526000013/q42025earningspressrelease.htm",
+  "title": "Third Quarter 2025 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/rfdt2cm6/"
+ },
+ "4d38e04ce485": {
+  "company_id": "us-1013857",
+  "date": "2025-09-08",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "4d38e04ce485",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Goldman Sachs Communacopia & Technology Conference",
+  "url": "https://event.webcasts.com/starthere.jsp?ei=1731410&tp_key=79c8867c49&tp_special=8"
+ },
+ "4d6afec7bab9": {
+  "company_id": "us-1273685",
+  "date": "2026-02-19",
+  "first_seen": "2026-10-07T14:36:32Z",
+  "id": "4d6afec7bab9",
+  "last_seen": "2026-10-07T14:36:32Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1273685/000127368526000027/exhibit991q42025.htm",
+  "title": "Fourth Quarter Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/6cosoj87/"
+ },
+ "4e37857c6ebf": {
+  "company_id": "us-1410384",
+  "date": "2025-11-05",
+  "first_seen": "2026-10-07T14:44:22Z",
+  "id": "4e37857c6ebf",
+  "last_seen": "2026-10-07T14:44:22Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1410384/000141038425000156/a250930q3ex9918k.htm",
+  "title": "Third Quarter 2025 Earnings Call",
+  "url": "https://events.q4inc.com/attendee/814830436"
+ },
  "4ec514fc0718": {
   "company_id": "us-1000209",
   "date": "2026-07-30",
   "first_seen": "2026-10-06T15:29:52Z",
   "id": "4ec514fc0718",
-  "last_seen": "2026-10-06T15:29:52Z",
+  "last_seen": "2026-10-07T15:32:17Z",
   "source": "ir-page",
   "source_url": "https://www.medallion.com/investors.html",
   "title": "2Q 2026 Medallion Financial Earnings Conference Call",
   "url": "https://viavid.webcasts.com/starthere.jsp?ei=1768787&tp_key=510e7d9920"
+ },
+ "4fb8aec0b212": {
+  "company_id": "us-1013857",
+  "date": "2021-12-07",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "4fb8aec0b212",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Barclays Global Technology, Media and Technology Conference",
+  "url": "https://kvgo.com/barclays/pegasystems-dec-2021"
+ },
+ "4fcfb8b987e0": {
+  "company_id": "us-1227500",
+  "date": "2026-01-22",
+  "first_seen": "2026-10-07T14:35:27Z",
+  "id": "4fcfb8b987e0",
+  "last_seen": "2026-10-07T14:35:27Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1227500/000119312526018038/eqbk-ex99_1.htm",
+  "title": "Third Quarter Earnings Call",
+  "url": "https://events.q4inc.com/attendee/528508490"
  },
  "4fe1bd75c94e": {
   "company_id": "us-1000275",
   "date": "2024-01-09",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "4fe1bd75c94e",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "RBC Capital Markets Canadian Bank CEO Conference",
@@ -1071,11 +1874,55 @@
   "date": "2015-03-25",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "51fd99fccb35",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "National Bank Financialâs Canadian Financial Services Conference",
   "url": "http://www.snwebcastcenter.com/custom_events/nbf-2015-cfsc-en/site/"
+ },
+ "5239a419aacb": {
+  "company_id": "us-1273685",
+  "date": "2025-10-30",
+  "first_seen": "2026-10-07T14:36:32Z",
+  "id": "5239a419aacb",
+  "last_seen": "2026-10-07T14:36:32Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1273685/000127368525000086/exhibit991q32025.htm",
+  "title": "Third Quarter 2025 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/yy2ueety/"
+ },
+ "5278ae126470": {
+  "company_id": "us-1281895",
+  "date": "2025-05-15",
+  "first_seen": "2026-10-07T14:37:17Z",
+  "id": "5278ae126470",
+  "last_seen": "2026-10-07T14:37:17Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1281895/000114036125019326/ef20049151_ex99-2.htm",
+  "title": "Webcast",
+  "url": "https://www.webcaster4.com/Webcast/Page/3046/52359"
+ },
+ "52a315d69355": {
+  "company_id": "us-1013857",
+  "date": "2025-03-05",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "52a315d69355",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "KeyBanc Capital Markets 2025 Emerging Technology Summit",
+  "url": "https://wsw.com/webcast/key33/pega/1653715"
+ },
+ "530ac4f11ec3": {
+  "company_id": "us-1307748",
+  "date": "2026-02-11",
+  "first_seen": "2026-10-07T14:38:40Z",
+  "id": "530ac4f11ec3",
+  "last_seen": "2026-10-07T14:38:40Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1307748/000130774826000037/q42025earningsrelease.htm",
+  "title": "Fourth Quarter Earnings Call",
+  "url": "https://events.q4inc.com/attendee/470227160"
  },
  "5389612cca2e": {
   "company_id": "us-108516",
@@ -1098,6 +1945,28 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/1061630/000106163026000011/a8-kexhibit9914q2025.htm",
   "title": "Fourth-Quarter Earnings Call",
   "url": "https://event.webcasts.com/starthere.jsp?ei=1748260&tp_key=79e9e61c2d"
+ },
+ "5597eed24f7f": {
+  "company_id": "us-12659",
+  "date": "2026-05-06",
+  "first_seen": "2026-10-07T14:36:11Z",
+  "id": "5597eed24f7f",
+  "last_seen": "2026-10-07T14:36:11Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/12659/000001265926000015/q3fy26earningrelease.htm",
+  "title": "Third Quarter 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/ygejpbdc/lan/en"
+ },
+ "55eaf76c0cb0": {
+  "company_id": "us-1370416",
+  "date": null,
+  "first_seen": "2026-10-07T14:41:49Z",
+  "id": "55eaf76c0cb0",
+  "last_seen": "2026-10-07T14:41:49Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1370416/000117184326003727/exh_991.htm",
+  "title": "Webcast",
+  "url": "https://meetnow.global/MPUGFX4"
  },
  "565130c5208f": {
   "company_id": "us-1050441",
@@ -1137,7 +2006,7 @@
   "date": "2023-01-09",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "56e44b0cbadd",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "RBC Capital Markets Canadian Bank CEO Conference",
@@ -1148,11 +2017,22 @@
   "date": null,
   "first_seen": "2026-10-06T15:32:54Z",
   "id": "56ef360ce422",
-  "last_seen": "2026-10-06T15:32:54Z",
+  "last_seen": "2026-10-07T15:36:05Z",
   "source": "ir-page",
   "source_url": "https://www.nationalgrid.com/investors/events/events-and-materials-centre",
   "title": "",
   "url": "https://streamstudio.world-television.com/786-1014-25281/en"
+ },
+ "570b8a61e5ee": {
+  "company_id": "us-1295401",
+  "date": "2026-07-31",
+  "first_seen": "2026-10-07T14:38:13Z",
+  "id": "570b8a61e5ee",
+  "last_seen": "2026-10-07T14:38:13Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1295401/000162828026051050/tbbk-20260730xexx991.htm",
+  "title": "Second Quarter Earnings Call",
+  "url": "https://events.q4inc.com/attendee/274712196"
  },
  "5731cd246912": {
   "company_id": "us-1013605",
@@ -1176,6 +2056,17 @@
   "title": "First Quarter Earnings Call",
   "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=G65zV13n"
  },
+ "577a1d97c39e": {
+  "company_id": "us-1227500",
+  "date": "2026-09-03",
+  "first_seen": "2026-10-07T14:35:26Z",
+  "id": "577a1d97c39e",
+  "last_seen": "2026-10-07T14:35:26Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1227500/000119312526381051/d152469dex991.htm",
+  "title": "Fourth Quarter Earnings Call",
+  "url": "https://events.q4inc.com/attendee/176797600"
+ },
  "57ee4446ccbe": {
   "company_id": "us-1050441",
   "date": "2026-07-23",
@@ -1187,16 +2078,49 @@
   "title": "Second Quarter Earnings Call",
   "url": "https://edge.media-server.com/mmc/p/jdnqw6c5/"
  },
+ "57f855935eaa": {
+  "company_id": "us-1534708",
+  "date": "2026-11-12",
+  "first_seen": "2026-10-07T14:34:34Z",
+  "id": "57f855935eaa",
+  "last_seen": "2026-10-07T14:34:34Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1534708/000149315226046086/ex99-1.htm",
+  "title": "Third Quarter Earnings Call",
+  "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=mxJpJirm"
+ },
  "5821c73c2552": {
   "company_id": "us-1000275",
   "date": "2023-03-29",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "5821c73c2552",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "National Bank Financial Markets, Financial Services Conference",
   "url": "https://q4.wavecast.io/21st-annual-financial-services-conference/player-embed/2353"
+ },
+ "5908fd51c3fb": {
+  "company_id": "us-1286973",
+  "date": "2026-05-15",
+  "first_seen": "2026-10-07T14:37:39Z",
+  "id": "5908fd51c3fb",
+  "last_seen": "2026-10-07T14:37:39Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1286973/000106299326002644/exhibit99-1.htm",
+  "title": "First Quarter 2026 Earnings Call",
+  "url": "https://www.gowebcasting.com/14708"
+ },
+ "5943d48cfa22": {
+  "company_id": "us-1227500",
+  "date": "2026-04-15",
+  "first_seen": "2026-10-07T14:35:27Z",
+  "id": "5943d48cfa22",
+  "last_seen": "2026-10-07T14:35:27Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1227500/000119312526154989/eqbk-ex99_1.htm",
+  "title": "First Quarter Earnings Call",
+  "url": "https://events.q4inc.com/attendee/419906025"
  },
  "59b020f95792": {
   "company_id": "us-1006655",
@@ -1209,6 +2133,50 @@
   "title": "Fourth Quarter 2026 Earnings Call",
   "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=ai980iXu"
  },
+ "59e6f6d0658d": {
+  "company_id": "us-1211583",
+  "date": "2026-03-24",
+  "first_seen": "2026-10-07T14:34:52Z",
+  "id": "59e6f6d0658d",
+  "last_seen": "2026-10-07T14:34:52Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1211583/000110465926033885/fencf-20260324xex99d1.htm",
+  "title": "Fourth Quarter Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/3crq898e"
+ },
+ "5a14e312be5d": {
+  "company_id": "us-1013857",
+  "date": "2024-12-12",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "5a14e312be5d",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Barclays 22nd Annual Global Technology Conference",
+  "url": "https://event.webcasts.com/starthere.jsp?ei=1696938&tp_key=03def71f44&tp_special=8"
+ },
+ "5a19a7906a7b": {
+  "company_id": "us-1307954",
+  "date": "2026-07-31",
+  "first_seen": "2026-10-07T14:38:41Z",
+  "id": "5a19a7906a7b",
+  "last_seen": "2026-10-07T14:38:41Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1307954/000110465926088729/tm2621698d1_ex99-1.htm",
+  "title": "Second Quarter Earnings Call",
+  "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=r4UuXqgQ"
+ },
+ "5aa637cef1a5": {
+  "company_id": "us-1314102",
+  "date": null,
+  "first_seen": "2026-10-07T14:38:55Z",
+  "id": "5aa637cef1a5",
+  "last_seen": "2026-10-07T14:38:55Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1314102/000119312526207537/eypt-ex99_1.htm",
+  "title": "Fourth Quarter Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/hjmg6gw2"
+ },
  "5ad88253e97e": {
   "company_id": "us-1043000",
   "date": "2025-11-10",
@@ -1220,12 +2188,23 @@
   "title": "Third Quarter 2025 Earnings Call",
   "url": "https://events.q4inc.com/attendee/913982830"
  },
+ "5b0948107747": {
+  "company_id": "us-1325670",
+  "date": "2026-01-30",
+  "first_seen": "2026-10-07T14:39:32Z",
+  "id": "5b0948107747",
+  "last_seen": "2026-10-07T14:39:32Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1325670/000110465926008048/tm264405d1_ex99-1.htm",
+  "title": "Fourth Quarter Earnings Call",
+  "url": "https://events.q4inc.com/attendee/704458155"
+ },
  "5b6312c320e5": {
   "company_id": "us-1825570",
   "date": "2026-10-26",
   "first_seen": "2026-10-06T14:30:19Z",
   "id": "5b6312c320e5",
-  "last_seen": "2026-10-06T14:30:19Z",
+  "last_seen": "2026-10-07T14:34:36Z",
   "source": "sec-8k",
   "source_url": "https://www.sec.gov/Archives/edgar/data/1825570/000095010326015232/dp254589_ex9901.htm",
   "title": "Webcast",
@@ -1242,6 +2221,72 @@
   "title": "First Quarter Earnings Call",
   "url": "https://edge.media-server.com/mmc/p/kxpx4oyr"
  },
+ "5c5e0061083f": {
+  "company_id": "us-1213809",
+  "date": "2025-11-12",
+  "first_seen": "2026-10-07T14:34:56Z",
+  "id": "5c5e0061083f",
+  "last_seen": "2026-10-07T14:34:56Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1213809/000149315225021914/ex99-1.htm",
+  "title": "Third Quarter 2025 Earnings Call",
+  "url": "https://viavid.webcasts.com/starthere.jsp?ei=1706029&tp_key=b177e95e36"
+ },
+ "5cc54d00f19e": {
+  "company_id": "us-12659",
+  "date": "2026-08-11",
+  "first_seen": "2026-10-07T14:36:11Z",
+  "id": "5cc54d00f19e",
+  "last_seen": "2026-10-07T14:36:11Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/12659/000001265926000019/q4fy26earningsrelease.htm",
+  "title": "Fourth Quarter 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/yc868747/lan/en"
+ },
+ "5cf89e93030e": {
+  "company_id": "us-1420529",
+  "date": "2026-06-05",
+  "first_seen": "2026-10-07T14:44:50Z",
+  "id": "5cf89e93030e",
+  "last_seen": "2026-10-07T14:44:50Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1420529/000110465926056258/tm2612720d1_ex99-2.htm",
+  "title": "Webcast",
+  "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=CJjch3Jn"
+ },
+ "5d1b5bac35be": {
+  "company_id": "us-1370450",
+  "date": null,
+  "first_seen": "2026-10-07T14:41:50Z",
+  "id": "5d1b5bac35be",
+  "last_seen": "2026-10-07T14:41:50Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1370450/000110465925107776/wldn-20251106xex99d1.htm",
+  "title": "Third Quarter 2025 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/xwzghpu5/"
+ },
+ "5d2ee932df44": {
+  "company_id": "us-1262823",
+  "date": "2026-05-05",
+  "first_seen": "2026-10-07T14:36:03Z",
+  "id": "5d2ee932df44",
+  "last_seen": "2026-10-07T14:36:03Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1262823/000126282326000019/ex991_20260331earningsrele.htm",
+  "title": "First Quarter 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/p33g6sjv/"
+ },
+ "5dc0a9376eeb": {
+  "company_id": "us-1013857",
+  "date": null,
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "5dc0a9376eeb",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/events",
+  "title": "Watch replays",
+  "url": "https://www.pega.com/events/pegaworld/replays"
+ },
  "5dd5a73125d2": {
   "company_id": "us-1095565",
   "date": "2026-02-24",
@@ -1253,6 +2298,17 @@
   "title": "Fourth Quarter Earnings Call",
   "url": "https://edge.media-server.com/mmc/p/tvqyyx3r"
  },
+ "5ef2cf5ebc5d": {
+  "company_id": "us-1203464",
+  "date": "2026-08-07",
+  "first_seen": "2026-10-07T14:34:41Z",
+  "id": "5ef2cf5ebc5d",
+  "last_seen": "2026-10-07T14:34:41Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1203464/000106299326004088/exhibit99-1.htm",
+  "title": "Second Quarter 2026 Earnings Call",
+  "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=qnpPqCfg"
+ },
  "5f2218b0a109": {
   "company_id": "us-1058307",
   "date": "2026-03-31",
@@ -1263,6 +2319,28 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/1058307/000143774926010674/ex_892260.htm",
   "title": "Presentation at 1-646-357-8785 Conference",
   "url": "https://app.webinar.net/wbRv9ab8NLa"
+ },
+ "5f68826fe2bc": {
+  "company_id": "us-1384101",
+  "date": "2026-05-05",
+  "first_seen": "2026-10-07T14:42:56Z",
+  "id": "5f68826fe2bc",
+  "last_seen": "2026-10-07T14:42:56Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1384101/000138410126000029/vcyt-05x05x20268xkearnings.htm",
+  "title": "First Quarter 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/293q6w6a"
+ },
+ "5fbf8ec1dcab": {
+  "company_id": "us-1409375",
+  "date": null,
+  "first_seen": "2026-10-07T14:44:17Z",
+  "id": "5fbf8ec1dcab",
+  "last_seen": "2026-10-07T14:44:17Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1409375/000119312526038471/oesx-ex99_1.htm",
+  "title": "Q3 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/aufdmr86"
  },
  "5fc8a180920d": {
   "company_id": "us-16875",
@@ -1297,6 +2375,17 @@
   "title": "Webcast",
   "url": "https://events.q4inc.com/attendee/775313375"
  },
+ "619ec48f72db": {
+  "company_id": "us-1392380",
+  "date": null,
+  "first_seen": "2026-10-07T14:43:21Z",
+  "id": "619ec48f72db",
+  "last_seen": "2026-10-07T14:43:21Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1392380/000139238026000012/gevo-20260507xex99d1.htm",
+  "title": "First Quarter Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/mngys3a9"
+ },
  "61b22ad8edd8": {
   "company_id": "us-1022408",
   "date": "2026-03-18",
@@ -1313,7 +2402,7 @@
   "date": null,
   "first_seen": "2026-10-06T15:33:02Z",
   "id": "61e05ad39c4b",
-  "last_seen": "2026-10-06T15:33:02Z",
+  "last_seen": "2026-10-07T15:36:16Z",
   "source": "ir-page",
   "source_url": "https://investors.cmco.com/overview/default.aspx",
   "title": "Latest Financial Results",
@@ -1335,7 +2424,7 @@
   "date": "2025-11-13",
   "first_seen": "2026-10-06T15:32:32Z",
   "id": "63578af4bab5",
-  "last_seen": "2026-10-06T15:32:32Z",
+  "last_seen": "2026-10-07T15:34:59Z",
   "source": "ir-page",
   "source_url": "https://www.nice.com/company/investors/ir-events",
   "title": "Q3 2025 Earnings Conference Call",
@@ -1346,7 +2435,7 @@
   "date": null,
   "first_seen": "2026-10-06T15:32:54Z",
   "id": "635911066856",
-  "last_seen": "2026-10-06T15:32:54Z",
+  "last_seen": "2026-10-07T15:36:05Z",
   "source": "ir-page",
   "source_url": "https://www.nationalgrid.com/investors/events/results-centre",
   "title": "Statement",
@@ -1368,18 +2457,40 @@
   "date": "2023-03-08",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "63a532460d18",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "RBC Capital Markets Financial Institutions Conference",
   "url": "https://www.veracast.com/webcasts/rbc/fi2023/H7Vo02.cfm"
+ },
+ "63fcf7b4e03d": {
+  "company_id": "us-12659",
+  "date": "2026-02-03",
+  "first_seen": "2026-10-07T14:36:11Z",
+  "id": "63fcf7b4e03d",
+  "last_seen": "2026-10-07T14:36:11Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/12659/000001265926000005/q2fy26earningrelease.htm",
+  "title": "Second Quarter 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/c4dfnsou/lan/en/"
+ },
+ "64442778f121": {
+  "company_id": "us-1319947",
+  "date": null,
+  "first_seen": "2026-10-07T14:39:18Z",
+  "id": "64442778f121",
+  "last_seen": "2026-10-07T14:39:18Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1319947/000131994726000038/q120268-kex991pressrelease.htm",
+  "title": "Full Year 2026 Earnings Call",
+  "url": "https://app.webinar.net/704rZBvZkGJ"
  },
  "647132e5064a": {
   "company_id": "us-1546066",
   "date": "2026-11-05",
   "first_seen": "2026-10-06T14:30:16Z",
   "id": "647132e5064a",
-  "last_seen": "2026-10-06T14:30:16Z",
+  "last_seen": "2026-10-07T14:34:31Z",
   "source": "sec-8k",
   "source_url": "https://www.sec.gov/Archives/edgar/data/1546066/000154606626000074/october52026pressrelease.htm",
   "title": "Third Quarter 2026 Earnings Call",
@@ -1390,11 +2501,22 @@
   "date": "2017-03-30",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "6516ffc2aed5",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "National Bank Financialâs Canadian Financial Services Conference",
   "url": "http://www.snwebcastcenter.com/custom_events/nbf-2017-cfsc-en/site/"
+ },
+ "655b13ba1e1a": {
+  "company_id": "us-1411690",
+  "date": "2026-08-10",
+  "first_seen": "2026-10-07T14:44:28Z",
+  "id": "655b13ba1e1a",
+  "last_seen": "2026-10-07T14:44:28Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1411690/000141169026000043/bngo-ex99_1.htm",
+  "title": "Full Year 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/ui7wih6m/"
  },
  "660d599ab1bc": {
   "company_id": "us-1061630",
@@ -1423,11 +2545,22 @@
   "date": null,
   "first_seen": "2026-10-06T15:32:54Z",
   "id": "6863132f8eb7",
-  "last_seen": "2026-10-06T15:32:54Z",
+  "last_seen": "2026-10-07T15:36:05Z",
   "source": "ir-page",
   "source_url": "https://www.nationalgrid.com/investors/events/results-centre",
   "title": "Statement",
   "url": "https://stream.brrmedia.co.uk/broadcast/66faa5eb93baf50dfe9f106a"
+ },
+ "6890c28766b0": {
+  "company_id": "us-1325670",
+  "date": "2026-04-24",
+  "first_seen": "2026-10-07T14:39:32Z",
+  "id": "6890c28766b0",
+  "last_seen": "2026-10-07T14:39:32Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1325670/000110465926047808/tm2612535d1_ex99-1.htm",
+  "title": "First Quarter Earnings Call",
+  "url": "https://events.q4inc.com/attendee/286254303"
  },
  "69a3288b9828": {
   "company_id": "us-1937926",
@@ -1456,7 +2589,7 @@
   "date": "2024-06-11",
   "first_seen": "2026-10-06T15:32:32Z",
   "id": "6a3d3260e088",
-  "last_seen": "2026-10-06T15:32:32Z",
+  "last_seen": "2026-10-07T15:34:59Z",
   "source": "ir-page",
   "source_url": "https://www.nice.com/company/investors/ir-events",
   "title": "Investor and Analyst Day 2024",
@@ -1473,6 +2606,61 @@
   "title": "Annual Meeting of Stockholders",
   "url": "https://www.virtualshareholdermeeting.com/SHOP2026"
  },
+ "6b07cbc8cf6e": {
+  "company_id": "us-1013857",
+  "date": "2024-06-13",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "6b07cbc8cf6e",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Rosenblatt 4th Annual Technology Summit",
+  "url": "https://wsw.com/webcast/rblt/pega/1660100"
+ },
+ "6b59d7d5fab2": {
+  "company_id": "us-1406234",
+  "date": "2026-05-29",
+  "first_seen": "2026-10-07T14:44:09Z",
+  "id": "6b59d7d5fab2",
+  "last_seen": "2026-10-07T14:44:09Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1406234/000117184326002798/exh_991.htm",
+  "title": "First Quarter 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/vvuf582m"
+ },
+ "6b60aa9fc89e": {
+  "company_id": "us-1422183",
+  "date": "2026-08-06",
+  "first_seen": "2026-10-07T14:44:57Z",
+  "id": "6b60aa9fc89e",
+  "last_seen": "2026-10-07T14:44:57Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1422183/000110465926091572/tm2622260d1_ex99-1.htm",
+  "title": "Second Quarter 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/p9kmcy8i"
+ },
+ "6bc7651a55fa": {
+  "company_id": "us-1212545",
+  "date": "2026-04-22",
+  "first_seen": "2026-10-07T14:34:54Z",
+  "id": "6bc7651a55fa",
+  "last_seen": "2026-10-07T14:34:54Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1212545/000162828026026302/pressrelease-3312026.htm",
+  "title": "First Quarter 2026 Earnings Call",
+  "url": "https://events.q4inc.com/attendee/403697580"
+ },
+ "6c058098318d": {
+  "company_id": "us-1393584",
+  "date": null,
+  "first_seen": "2026-10-07T14:43:25Z",
+  "id": "6c058098318d",
+  "last_seen": "2026-10-07T14:43:25Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1393584/000139358426000016/amwl-ex99_1.htm",
+  "title": "Q2 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/b826q95x/"
+ },
  "6c665ddfc4f8": {
   "company_id": "us-1389170",
   "date": "2025-11-05",
@@ -1484,27 +2672,71 @@
   "title": "Full Year 2026 Earnings Call",
   "url": "https://edge.media-server.com/mmc/p/ib9g4uey"
  },
+ "6c66cea31dd6": {
+  "company_id": "us-1285819",
+  "date": null,
+  "first_seen": "2026-10-07T14:37:31Z",
+  "id": "6c66cea31dd6",
+  "last_seen": "2026-10-07T14:37:31Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1285819/000143774926016718/ex_941648.htm",
+  "title": "First Quarter 2026 Earnings Call",
+  "url": "https://events.q4inc.com/attendee/275761840"
+ },
  "6c823dde55e5": {
   "company_id": "us-1001385",
   "date": "2025-05-01",
   "first_seen": "2026-10-06T15:31:36Z",
   "id": "6c823dde55e5",
-  "last_seen": "2026-10-06T15:31:36Z",
+  "last_seen": "2026-10-07T15:34:02Z",
   "source": "ir-page",
   "source_url": "https://investor.nwpx.com/",
   "title": "Thursday",
   "url": "https://viavid.webcasts.com/starthere.jsp?ei=1714668&tp_key=8d7621d6bc"
+ },
+ "6d00919ad205": {
+  "company_id": "us-1424182",
+  "date": "2026-07-29",
+  "first_seen": "2026-10-07T14:45:11Z",
+  "id": "6d00919ad205",
+  "last_seen": "2026-10-07T14:45:11Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1424182/000142418226000061/bnl-20260630xexx991.htm",
+  "title": "Second Quarter 2026 Earnings Call",
+  "url": "https://events.q4inc.com/attendee/863656141"
  },
  "6d224b89ed34": {
   "company_id": "us-1004315",
   "date": null,
   "first_seen": "2026-10-06T15:32:54Z",
   "id": "6d224b89ed34",
-  "last_seen": "2026-10-06T15:32:54Z",
+  "last_seen": "2026-10-07T15:36:05Z",
   "source": "ir-page",
   "source_url": "https://www.nationalgrid.com/investors/events/events-and-materials-centre",
   "title": "Watch webinar",
   "url": "https://stream.brrmedia.co.uk/broadcast/65942dccb012a6d30b474436"
+ },
+ "6d45e8d87066": {
+  "company_id": "us-1000753",
+  "date": "2026-10-29",
+  "first_seen": "2026-10-07T15:32:26Z",
+  "id": "6d45e8d87066",
+  "last_seen": "2026-10-07T15:32:26Z",
+  "source": "ir-page",
+  "source_url": "https://ir.insperity.com/",
+  "title": "Insperity 3rd Quarter Earnings Call",
+  "url": "https://ir.insperity.com/\\\"https:/www.webcaster5.com/Webcast/Page/2894/54622\\\""
+ },
+ "6d616c690231": {
+  "company_id": "us-1212545",
+  "date": "2026-03-03",
+  "first_seen": "2026-10-07T14:34:54Z",
+  "id": "6d616c690231",
+  "last_seen": "2026-10-07T14:34:54Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1212545/000162828026015454/wal_pressrelease.htm",
+  "title": "Year-End 2025 Earnings Call",
+  "url": "https://events.q4inc.com/attendee/444014100"
  },
  "6d88dd1627f4": {
   "company_id": "us-1123799",
@@ -1539,6 +2771,28 @@
   "title": "Second Quarter 2026 Earnings Call",
   "url": "https://edge.media-server.com/mmc/p/tbyrninc/"
  },
+ "6fcbe16838c7": {
+  "company_id": "us-1013857",
+  "date": "2023-05-22",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "6fcbe16838c7",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "51st Annual J.P. Morgan Global Technology, Media and Communications Conference",
+  "url": "https://jpmorgan.metameetings.net/events/tmc23/sessions/46223-pegasystems-inc/webcast"
+ },
+ "708f32754f94": {
+  "company_id": "us-1362004",
+  "date": "2026-11-05",
+  "first_seen": "2026-10-07T14:41:26Z",
+  "id": "708f32754f94",
+  "last_seen": "2026-10-07T14:41:26Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1362004/000143774926031146/ex_1019497.htm",
+  "title": "Third Quarter 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/273vq66x"
+ },
  "709b67419ec5": {
   "company_id": "us-1050743",
   "date": "2026-07-28",
@@ -1555,11 +2809,33 @@
   "date": "2026-07-22",
   "first_seen": "2026-10-06T14:31:54Z",
   "id": "71530679b640",
-  "last_seen": "2026-10-06T14:31:54Z",
+  "last_seen": "2026-10-07T15:32:15Z",
   "source": "sec-8k",
   "source_url": "https://www.sec.gov/Archives/edgar/data/1013857/000101385726000049/q22026_ex-991.htm",
-  "title": "Q2 2026 Earnings Call",
+  "title": "Q2 / FY'26 Earnings call﻿",
   "url": "https://events.q4inc.com/attendee/421269211"
+ },
+ "7275545990e6": {
+  "company_id": "us-1013857",
+  "date": "2023-03-06",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "7275545990e6",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "JMP Securities Technology Conference",
+  "url": "https://wsw.com/webcast/jmp58/pega/1660100"
+ },
+ "72933c4335a9": {
+  "company_id": "us-1325670",
+  "date": "2026-07-24",
+  "first_seen": "2026-10-07T14:39:32Z",
+  "id": "72933c4335a9",
+  "last_seen": "2026-10-07T14:39:32Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1325670/000110465926086283/tm2621139d1_ex99-1.htm",
+  "title": "Second Quarter Earnings Call",
+  "url": "https://events.q4inc.com/attendee/499443631"
  },
  "731ebcd882e0": {
   "company_id": "us-1025996",
@@ -1594,16 +2870,38 @@
   "title": "Fourth Quarter Earnings Call",
   "url": "https://events.q4inc.com/attendee/339194298"
  },
+ "74158855ecb4": {
+  "company_id": "us-1411690",
+  "date": "2026-03-23",
+  "first_seen": "2026-10-07T14:44:29Z",
+  "id": "74158855ecb4",
+  "last_seen": "2026-10-07T14:44:29Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1411690/000141169026000006/bngo-ex99_1.htm",
+  "title": "Presentation at Bionano Symposium 2026",
+  "url": "https://edge.media-server.com/mmc/p/3x63k9ac/"
+ },
  "772d9ceda6d6": {
   "company_id": "us-1000275",
   "date": "2022-02-23",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "772d9ceda6d6",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "RBC Capital Markets Global Environmental, Social and Governance Conference",
   "url": "https://event.on24.com/wcc/r/3652814/B2115E958C2F91F685521367B28D7D03"
+ },
+ "775ff29a58ed": {
+  "company_id": "us-1213809",
+  "date": "2026-08-12",
+  "first_seen": "2026-10-07T14:34:55Z",
+  "id": "775ff29a58ed",
+  "last_seen": "2026-10-07T14:34:55Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1213809/000149315226037257/ex99-1.htm",
+  "title": "Second Quarter 2026 Earnings Call",
+  "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=b9s8dhjS"
  },
  "78333d15d2e7": {
   "company_id": "us-1124796",
@@ -1615,6 +2913,17 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/1124796/000112479626000010/exhibit991-q42025.htm",
   "title": "Fourth Quarter Earnings Call",
   "url": "https://events.q4inc.com/attendee/292266527"
+ },
+ "7854fc64d42c": {
+  "company_id": "us-1013857",
+  "date": "2025-09-04",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "7854fc64d42c",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Citi’s 2025 Global TMT Conference",
+  "url": "https://kvgo.com/citi/pegasystems-september-2025"
  },
  "79b6201aed93": {
   "company_id": "us-1175151",
@@ -1632,11 +2941,33 @@
   "date": "2020-09-09",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "79fcd37592df",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "2020 Scotiabank Financials Summit",
   "url": "https://wsw.com/webcast/bns/ry.to/1628564"
+ },
+ "7aae68a10270": {
+  "company_id": "us-1366868",
+  "date": "2025-05-08",
+  "first_seen": "2026-10-07T14:41:37Z",
+  "id": "7aae68a10270",
+  "last_seen": "2026-10-07T14:41:37Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1366868/000136686825000074/gsat20250331-ex991.htm",
+  "title": "First Quarter 2025 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/gcqrbxci"
+ },
+ "7ad5445d758a": {
+  "company_id": "us-1013857",
+  "date": null,
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "7ad5445d758a",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Pegasystems Inc., 4th Quarter Earnings 2019",
+  "url": "http://public.viavid.com/index.php?id=137551"
  },
  "7ad790d4c458": {
   "company_id": "us-106532",
@@ -1660,23 +2991,67 @@
   "title": "Presentation at 646-307-1865 Conference",
   "url": "https://viavid.webcasts.com/starthere.jsp?ei=1761172&tp_key=90a797c36e"
  },
+ "7c491f98b2d0": {
+  "company_id": "us-1370450",
+  "date": null,
+  "first_seen": "2026-10-07T14:41:49Z",
+  "id": "7c491f98b2d0",
+  "last_seen": "2026-10-07T14:41:49Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1370450/000110465926092028/wldn-20260806xex99d1.htm",
+  "title": "First Quarter Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/qyujt8ei/"
+ },
+ "7c648774a811": {
+  "company_id": "us-1013857",
+  "date": "2025-12-11",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "7c648774a811",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Barclays 23rd Annual Global Technology Conference",
+  "url": "https://event.webcasts.com/starthere.jsp?ei=1744649&tp_key=1efb6e1043&tp_special=8"
+ },
  "7c95aff92553": {
   "company_id": "us-1203464",
   "date": "2026-11-05",
   "first_seen": "2026-10-06T14:30:15Z",
   "id": "7c95aff92553",
-  "last_seen": "2026-10-06T14:30:15Z",
+  "last_seen": "2026-10-07T14:34:41Z",
   "source": "sec-8k",
   "source_url": "https://www.sec.gov/Archives/edgar/data/1203464/000106299326005183/exhibit99-1.htm",
   "title": "Third Quarter 2026 Earnings Call",
   "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=JIn0jWrC"
+ },
+ "7d11187e6c1a": {
+  "company_id": "us-1013857",
+  "date": "2021-09-13",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "7d11187e6c1a",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Citi 2021 Virtual Global Technology Conference﻿",
+  "url": "https://kvgo.com/citi-global-technology-conference/pegasystems-inc-sept-2021"
+ },
+ "7d9fa1ba4e8b": {
+  "company_id": "us-1319947",
+  "date": null,
+  "first_seen": "2026-10-07T14:39:18Z",
+  "id": "7d9fa1ba4e8b",
+  "last_seen": "2026-10-07T14:39:18Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1319947/000131994725000062/q320258-kex991pressrelease.htm",
+  "title": "Third Quarter 2025 Earnings Call",
+  "url": "https://app.webinar.net/GvlLzdE2OoM"
  },
  "7de50efcc954": {
   "company_id": "us-1000275",
   "date": "2026-03-10",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "7de50efcc954",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "RBC Capital Markets Financial Institutions Conference",
@@ -1692,6 +3067,28 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/1099590/000109959025000048/meli-20251029xex991.htm",
   "title": "Third Quarter Earnings Call",
   "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=ISOKwq7s"
+ },
+ "7f439fe4850c": {
+  "company_id": "us-1013857",
+  "date": null,
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "7f439fe4850c",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Pegasystems Inc., 2nd Quarter Earnings 2025",
+  "url": "https://events.q4inc.com/attendee/586505740"
+ },
+ "7f5421ed7a8f": {
+  "company_id": "us-1384101",
+  "date": "2026-02-25",
+  "first_seen": "2026-10-07T14:42:56Z",
+  "id": "7f5421ed7a8f",
+  "last_seen": "2026-10-07T14:42:56Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1384101/000138410126000008/vcyt-02x25x20268xkearnings.htm",
+  "title": "Fourth Quarter Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/motsphxv/"
  },
  "7f8b2deb869d": {
   "company_id": "us-1095565",
@@ -1731,18 +3128,29 @@
   "date": "2026-01-06",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "804c90bed16b",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "RBC Capital Markets Canadian Bank CEO Conference",
   "url": "https://kvgo.com/rbc/opening-remarks-royal-bank-of-canada-jan-2026"
+ },
+ "808b66e87552": {
+  "company_id": "us-1424182",
+  "date": null,
+  "first_seen": "2026-10-07T14:45:12Z",
+  "id": "808b66e87552",
+  "last_seen": "2026-10-07T14:45:12Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1424182/000142418226000034/bnl-20260331xexx991.htm",
+  "title": "First Quarter 2026 Earnings Call",
+  "url": "https://events.q4inc.com/attendee/613304153"
  },
  "80a0cb211a3d": {
   "company_id": "us-1000275",
   "date": "2016-03-31",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "80a0cb211a3d",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "National Bank Financialâs Canadian Financial Services Conference",
@@ -1753,11 +3161,22 @@
   "date": "2025-09-09",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "812c88b91e64",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "2025 Barclays Global Financial Services Conference",
   "url": "https://cc.webcasts.com/barc002/090825a_js/?entity=48_6QOG4J0"
+ },
+ "822538d79920": {
+  "company_id": "us-1422183",
+  "date": "2026-05-11",
+  "first_seen": "2026-10-07T14:44:57Z",
+  "id": "822538d79920",
+  "last_seen": "2026-10-07T14:44:57Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1422183/000110465926058250/tm2614112d1_ex99-1.htm",
+  "title": "First Quarter 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/ysenbwyi"
  },
  "825a51736ab7": {
   "company_id": "us-107263",
@@ -1770,6 +3189,17 @@
   "title": "Investor Day",
   "url": "https://edge.media-server.com/mmc/p/6nt6ss65/"
  },
+ "826957987a7d": {
+  "company_id": "us-1394832",
+  "date": "2026-08-06",
+  "first_seen": "2026-10-07T14:43:29Z",
+  "id": "826957987a7d",
+  "last_seen": "2026-10-07T14:43:29Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1394832/000139483226000023/ats-pressreleasexfy27q1.htm",
+  "title": "First Quarter Earnings Call",
+  "url": "https://events.q4inc.com/attendee/766230709"
+ },
  "8438549f9d20": {
   "company_id": "us-1164727",
   "date": "2026-02-19",
@@ -1780,6 +3210,17 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/1164727/000116472726000009/newmontq42025earningsand20.htm",
   "title": "Third Quarter 2025 Earnings Call",
   "url": "https://www.netroadshow.com/events/global-numbers?confId=49005"
+ },
+ "84e7508791da": {
+  "company_id": "us-1411690",
+  "date": "2025-11-13",
+  "first_seen": "2026-10-07T14:44:29Z",
+  "id": "84e7508791da",
+  "last_seen": "2026-10-07T14:44:29Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1411690/000141169025000092/a2025-09x30bngox3qearnings.htm",
+  "title": "Third Quarter Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/4jh5a49o/"
  },
  "8696b565edc9": {
   "company_id": "us-10329",
@@ -1808,11 +3249,22 @@
   "date": null,
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "880207f1a825",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://investors.novavax.com/",
   "title": "Kumar Singh Saikatendu, Head of Translational Medicine team shares what excites him about our pipeline and our approach to R&D.",
   "url": "https://investors.novavax.com/perspectives-insights/behind-pipeline-our-rd-strategy"
+ },
+ "88185d3d1b8a": {
+  "company_id": "us-1210677",
+  "date": "2026-02-26",
+  "first_seen": "2026-10-07T14:34:50Z",
+  "id": "88185d3d1b8a",
+  "last_seen": "2026-10-07T14:34:50Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1210677/000119312526073071/fa-ex99_1.htm",
+  "title": "Full Year 2026 Earnings Call",
+  "url": "https://event.on24.com/wcc/r/5179695/3B5073CD5631AA2BE2C785CFEC3D8000"
  },
  "88c1e19c0bc8": {
   "company_id": "us-1093691",
@@ -1836,6 +3288,17 @@
   "title": "First Quarter 2026 Earnings Call",
   "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=6DUNvqLB"
  },
+ "8952e01daf4d": {
+  "company_id": "us-1013857",
+  "date": "2023-03-08",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "8952e01daf4d",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "KeyBanc Capital Markets 2023 Emerging Technology Summit",
+  "url": "https://wsw.com/webcast/key24/pega/1653715"
+ },
  "895de13e628a": {
   "company_id": "us-1097149",
   "date": null,
@@ -1846,6 +3309,28 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714925000075/algn-q325earningspressrele.htm",
   "title": "Third Quarter 2025 Earnings Call",
   "url": "https://edge.media-server.com/mmc/p/vfzici8x"
+ },
+ "898c5f3a94ba": {
+  "company_id": "us-1372612",
+  "date": null,
+  "first_seen": "2026-10-07T14:41:57Z",
+  "id": "898c5f3a94ba",
+  "last_seen": "2026-10-07T14:41:58Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1372612/000119312526088171/box-ex99_1.htm",
+  "title": "Third Quarter Fiscal 2026 Earnings Call",
+  "url": "https://events.q4inc.com/attendee/948629782"
+ },
+ "89e19b54635f": {
+  "company_id": "us-1013857",
+  "date": null,
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "89e19b54635f",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "UBS Global Technology Conference",
+  "url": "https://event.webcasts.com/starthere.jsp?ei=1642919&tp_key=c8607e5050&tp_special=8"
  },
  "8a271ec65bb1": {
   "company_id": "us-1042893",
@@ -1885,11 +3370,22 @@
   "date": null,
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "8c3a3f1fcef3",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://investors.novavax.com/",
   "title": "Our scientists from Novavax Sweden – Karin Lövgren Bengtsson, PhD, scientific officer and inventor of Matrix-M, and Jenny Reimer, PhD, senior director CMC strategy and PMO – discuss Matrix-M and vacci",
   "url": "https://www.novavax.com/perspectives-insights/behind-pipeline-benefits-matrix-m"
+ },
+ "8c530ecd3b1d": {
+  "company_id": "us-1325670",
+  "date": "2025-10-24",
+  "first_seen": "2026-10-07T14:39:33Z",
+  "id": "8c530ecd3b1d",
+  "last_seen": "2026-10-07T14:39:33Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1325670/000110465925101871/tm2529315d1_ex99-1.htm",
+  "title": "Third Quarter Earnings Call",
+  "url": "https://events.q4inc.com/attendee/859535228"
  },
  "8c566125e7e6": {
   "company_id": "us-1061630",
@@ -1912,6 +3408,17 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/107140/000010714025000194/ex991.htm",
   "title": "Second Quarter 2026 Earnings Call",
   "url": "https://events.q4inc.com/attendee/792761606"
+ },
+ "8c636e110387": {
+  "company_id": "us-1377757",
+  "date": "2026-08-07",
+  "first_seen": "2026-10-07T14:42:18Z",
+  "id": "8c636e110387",
+  "last_seen": "2026-10-07T14:42:18Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1377757/000106299326004090/exhibit99-5.htm",
+  "title": "Second Quarter 2026 Earnings Call",
+  "url": "https://www.gowebcasting.com/14753"
  },
  "8d0f692626ba": {
   "company_id": "us-1094324",
@@ -1946,6 +3453,17 @@
   "title": "Second-Quarter 2026 Earnings Call",
   "url": "https://edge.media-server.com/mmc/p/d62hd2t2/lan/en"
  },
+ "8e2cfe6fc2a5": {
+  "company_id": "us-1370946",
+  "date": "2026-08-05",
+  "first_seen": "2026-10-07T14:41:53Z",
+  "id": "8e2cfe6fc2a5",
+  "last_seen": "2026-10-07T14:41:53Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1370946/000137094626000175/q22026exh-991pressrelease.htm",
+  "title": "Second-Quarter 2026 Earnings Call",
+  "url": "https://events.q4inc.com/attendee/845257538"
+ },
  "8e3fd728e13a": {
   "company_id": "us-1035267",
   "date": null,
@@ -1956,6 +3474,28 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/1035267/000103526726000029/q126ex-991earningsrelease.htm",
   "title": "First Quarter 2026 Earnings Call",
   "url": "https://edge.media-server.com/mmc/p/rwnbqatp/"
+ },
+ "8f9a8e829d68": {
+  "company_id": "us-1227636",
+  "date": null,
+  "first_seen": "2026-10-07T14:35:28Z",
+  "id": "8f9a8e829d68",
+  "last_seen": "2026-10-07T14:35:28Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1227636/000119312526343474/d78613dex991.htm",
+  "title": "Second Quarter 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/7ri4xna9"
+ },
+ "8fabeace792a": {
+  "company_id": "us-1373670",
+  "date": "2026-02-26",
+  "first_seen": "2026-10-07T14:42:01Z",
+  "id": "8fabeace792a",
+  "last_seen": "2026-10-07T14:42:01Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1373670/000162828026011706/a2q42025ex99earningsrelease.htm",
+  "title": "Fourth Quarter Earnings Call",
+  "url": "https://events.q4inc.com/attendee/693128994"
  },
  "90a9aac2816d": {
   "company_id": "us-1243429",
@@ -1968,12 +3508,56 @@
   "title": "Fourth Quarter 2025 Earnings Call",
   "url": "https://edge.media-server.com/mmc/p/wmbcpqs6"
  },
+ "91ccd114f2d0": {
+  "company_id": "us-1367644",
+  "date": "2025-10-29",
+  "first_seen": "2026-10-07T14:41:38Z",
+  "id": "91ccd114f2d0",
+  "last_seen": "2026-10-07T14:41:38Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1367644/000136764425000198/ebs2025-09x30ex99er.htm",
+  "title": "Third Quarter Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/azeu358t/"
+ },
+ "92250c61f847": {
+  "company_id": "us-1384101",
+  "date": "2026-07-30",
+  "first_seen": "2026-10-07T14:42:55Z",
+  "id": "92250c61f847",
+  "last_seen": "2026-10-07T14:42:55Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1384101/000138410126000042/vcyt-07x30x20268xkearnings.htm",
+  "title": "Second Quarter 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/wwu2pyd7"
+ },
+ "925008d11875": {
+  "company_id": "us-1368519",
+  "date": "2026-05-14",
+  "first_seen": "2026-10-07T14:41:43Z",
+  "id": "925008d11875",
+  "last_seen": "2026-10-07T14:41:43Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1368519/000136851926000009/exhibit991-earningsreleasea.htm",
+  "title": "Presentation at 1-888-660-6264 Conference",
+  "url": "https://onlinexperiences.com/scripts/Server.nxp?LASCmd=AI:4;F:QS!10100&ShowUUID=F5010CB7-DF4F-46FD-9027-D06461C97614"
+ },
+ "9250c837b909": {
+  "company_id": "us-1331520",
+  "date": "2026-01-15",
+  "first_seen": "2026-10-07T14:39:52Z",
+  "id": "9250c837b909",
+  "last_seen": "2026-10-07T14:39:52Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1331520/000133152026000014/homb123125earningsrelease.htm",
+  "title": "Q4 2025 Earnings Call",
+  "url": "https://www.netroadshow.com/events/login/LE9zwo3kK6J6SjV2b5r4rf2GdIxxCyTzC0Q"
+ },
  "9259f13a1228": {
   "company_id": "us-1004315",
   "date": null,
   "first_seen": "2026-10-06T15:32:54Z",
   "id": "9259f13a1228",
-  "last_seen": "2026-10-06T15:32:54Z",
+  "last_seen": "2026-10-07T15:36:05Z",
   "source": "ir-page",
   "source_url": "https://www.nationalgrid.com/investors/events/results-centre",
   "title": "Statement",
@@ -1984,7 +3568,7 @@
   "date": null,
   "first_seen": "2026-10-06T15:32:54Z",
   "id": "9270c55a33f1",
-  "last_seen": "2026-10-06T15:32:54Z",
+  "last_seen": "2026-10-07T15:36:05Z",
   "source": "ir-page",
   "source_url": "https://www.nationalgrid.com/investors/events/results-centre",
   "title": "Statement",
@@ -2001,6 +3585,17 @@
   "title": "Second Quarter 2026 Earnings Call",
   "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=sEg6VEdp"
  },
+ "933bb27f522c": {
+  "company_id": "us-1372920",
+  "date": null,
+  "first_seen": "2026-10-07T14:42:00Z",
+  "id": "933bb27f522c",
+  "last_seen": "2026-10-07T14:42:00Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1372920/000119312526168990/d90814dex991.htm",
+  "title": "Webcast",
+  "url": "https://edge.media-server.com/mmc/p/7x5ve8hp"
+ },
  "93632ebe402d": {
   "company_id": "us-108516",
   "date": "2026-06-24",
@@ -2012,27 +3607,60 @@
   "title": "Fourth Quarter Earnings Call",
   "url": "https://events.q4inc.com/attendee/686020142"
  },
+ "938b47c2456d": {
+  "company_id": "us-1281895",
+  "date": "2025-05-27",
+  "first_seen": "2026-10-07T14:37:17Z",
+  "id": "938b47c2456d",
+  "last_seen": "2026-10-07T14:37:17Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1281895/000114036125020409/ef20049685_ex99-1.htm",
+  "title": "Webcast",
+  "url": "https://www.webcaster4.com/Webcast/Page/3046/52564"
+ },
  "94555f01aba2": {
   "company_id": "us-1000275",
   "date": "2021-03-24",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "94555f01aba2",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "National Bank Financial Markets, Financial Services Conference",
   "url": "https://onlinexperiences.com/Launch/Event/ShowKey=143482/"
+ },
+ "94a0e80c1248": {
+  "company_id": "us-1372807",
+  "date": "2026-08-07",
+  "first_seen": "2026-10-07T14:41:58Z",
+  "id": "94a0e80c1248",
+  "last_seen": "2026-10-07T14:41:58Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1372807/000119312526340277/d123152dex991.htm",
+  "title": "Second Quarter 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/m74j7r5t"
  },
  "955cbebe6030": {
   "company_id": "us-1000275",
   "date": "2021-01-11",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "955cbebe6030",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "RBC Capital Markets Canadian Bank CEO Conference",
   "url": "https://event.on24.com/wcc/r/2879650/90E149831E5EF9453D0EBC38816A6575"
+ },
+ "957e852a88dc": {
+  "company_id": "us-1401040",
+  "date": "2026-05-06",
+  "first_seen": "2026-10-07T14:43:50Z",
+  "id": "957e852a88dc",
+  "last_seen": "2026-10-07T14:43:50Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1401040/000143774926015218/ex_957479.htm",
+  "title": "First Quarter 2026 Earnings Call",
+  "url": "https://app.webinar.net/nG3yPzRP7wk"
  },
  "9632e4934503": {
   "company_id": "us-863064",
@@ -2044,6 +3672,39 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/863064/000086306426000017/ex3rtlagm.htm",
   "title": "Webcast",
   "url": "https://meetings.lumiconnect.com/300-327-757-083"
+ },
+ "974b2731a3ff": {
+  "company_id": "us-1616533",
+  "date": "2026-10-06",
+  "first_seen": "2026-10-07T14:34:32Z",
+  "id": "974b2731a3ff",
+  "last_seen": "2026-10-07T14:34:32Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1616533/000161653326000046/pengq4-26form8xkxex991.htm",
+  "title": "Fourth Quarter Earnings Call",
+  "url": "https://events.q4inc.com/attendee/198397741"
+ },
+ "9783a9d538f9": {
+  "company_id": "us-1410636",
+  "date": null,
+  "first_seen": "2026-10-07T14:44:23Z",
+  "id": "9783a9d538f9",
+  "last_seen": "2026-10-07T14:44:23Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1410636/000119312525250643/d866666dex991.htm",
+  "title": "Webcast",
+  "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=1LoK8iWf"
+ },
+ "980076e5d31a": {
+  "company_id": "us-1273685",
+  "date": "2026-04-30",
+  "first_seen": "2026-10-07T14:36:32Z",
+  "id": "980076e5d31a",
+  "last_seen": "2026-10-07T14:36:32Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1273685/000127368526000043/exhibit991q12026.htm",
+  "title": "First Quarter 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/nupeysz3/"
  },
  "98369e139a55": {
   "company_id": "us-1456346",
@@ -2067,6 +3728,17 @@
   "title": "Q3 2026 Earnings Call",
   "url": "https://events.q4inc.com/attendee/463112721"
  },
+ "99c0855c8eaa": {
+  "company_id": "us-1013857",
+  "date": "2024-03-06",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "99c0855c8eaa",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "KeyBanc Capital Markets 2024 Emerging Technology Summit",
+  "url": "https://wsw.com/webcast/key28/pega/1658823"
+ },
  "9a6c20684306": {
   "company_id": "us-1083301",
   "date": "2026-02-26",
@@ -2077,6 +3749,28 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/1083301/000108330126000026/a_wulfearningsrelease2026-.htm",
   "title": "Fourth-Quarter Earnings Call",
   "url": "https://viavid.webcasts.com/starthere.jsp?ei=1752148&tp_key=7485d53f46"
+ },
+ "9a909241b87f": {
+  "company_id": "us-1013857",
+  "date": "2025-03-06",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "9a909241b87f",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Morgan Stanley Technology, Media & Telecom Conference",
+  "url": "https://event.webcasts.com/starthere.jsp?ei=1708055&tp_key=eb197e406b&tp_special=8"
+ },
+ "9b2155859762": {
+  "company_id": "us-1009759",
+  "date": "2026-06-30",
+  "first_seen": "2026-10-07T15:32:04Z",
+  "id": "9b2155859762",
+  "last_seen": "2026-10-07T15:32:04Z",
+  "source": "ir-page",
+  "source_url": "https://ir.capstoneenergyplus.com/",
+  "title": "Financials Page",
+  "url": "https://events.q4inc.com/attendee/809321732"
  },
  "9c2fa11f08c4": {
   "company_id": "us-107140",
@@ -2089,6 +3783,17 @@
   "title": "First Quarter 2027 Earnings Call",
   "url": "http://events.q4inc.com/attendee/638218988"
  },
+ "9c5a79ca8c7a": {
+  "company_id": "us-1009759",
+  "date": "2026-09-14",
+  "first_seen": "2026-10-07T15:32:04Z",
+  "id": "9c5a79ca8c7a",
+  "last_seen": "2026-10-07T15:32:04Z",
+  "source": "ir-page",
+  "source_url": "https://ir.capstoneenergyplus.com/",
+  "title": "Data Centre World Asia",
+  "url": "https://journey.ct.events/view/b61cf58e-55d8-4eb3-ac7f-daf0a516b35a"
+ },
  "9c62aba93079": {
   "company_id": "us-1167419",
   "date": "2026-01-16",
@@ -2100,16 +3805,60 @@
   "title": "Webcast",
   "url": "https://edge.media-server.com/mmc/p/hs62kpg2"
  },
+ "9c71453f7524": {
+  "company_id": "us-1368519",
+  "date": "2026-08-13",
+  "first_seen": "2026-10-07T14:41:43Z",
+  "id": "9c71453f7524",
+  "last_seen": "2026-10-07T14:41:43Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1368519/000136851926000013/exhibit991-earningsrelease.htm",
+  "title": "Second Quarter Earnings Call",
+  "url": "https://onlinexperiences.com/scripts/Server.nxp?LASCmd=AI:4;F:QS!10100&ShowUUID=74511C07-BB07-4170-A51A-A1FE7E23F554"
+ },
  "9d15030b0b49": {
   "company_id": "us-1004980",
   "date": null,
   "first_seen": "2026-10-06T15:33:00Z",
   "id": "9d15030b0b49",
-  "last_seen": "2026-10-06T15:33:00Z",
+  "last_seen": "2026-10-07T15:36:13Z",
   "source": "ir-page",
   "source_url": "https://investor.pgecorp.com/overview/default.aspx",
   "title": "Latest Quarterly Results",
   "url": "https://events.q4inc.com/attendee/447777108"
+ },
+ "9d3066b9cace": {
+  "company_id": "us-1372920",
+  "date": null,
+  "first_seen": "2026-10-07T14:42:00Z",
+  "id": "9d3066b9cace",
+  "last_seen": "2026-10-07T14:42:00Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1372920/000119312526322173/d148153dex991.htm",
+  "title": "Webcast",
+  "url": "https://edge.media-server.com/mmc/p/pdsxxtdn"
+ },
+ "9d3b6d30be12": {
+  "company_id": "us-1273685",
+  "date": "2026-07-30",
+  "first_seen": "2026-10-07T14:36:32Z",
+  "id": "9d3b6d30be12",
+  "last_seen": "2026-10-07T14:36:32Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1273685/000127368526000067/exhibit991q22026.htm",
+  "title": "Second Quarter 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/f3eewa2i/"
+ },
+ "9da74a5f7956": {
+  "company_id": "us-1307748",
+  "date": "2026-08-04",
+  "first_seen": "2026-10-07T14:38:40Z",
+  "id": "9da74a5f7956",
+  "last_seen": "2026-10-07T14:38:40Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1307748/000130774826000191/q22026earningsrelease.htm",
+  "title": "Second Quarter Earnings Call",
+  "url": "https://events.q4inc.com/attendee/638136477"
  },
  "9da983d1a47f": {
   "company_id": "us-1043000",
@@ -2138,18 +3887,29 @@
   "date": null,
   "first_seen": "2026-10-06T15:31:36Z",
   "id": "9fc308f87942",
-  "last_seen": "2026-10-06T15:31:36Z",
+  "last_seen": "2026-10-07T15:34:02Z",
   "source": "ir-page",
   "source_url": "https://investor.nwpx.com/",
   "title": "Latest Quarter Results | Q2 2026",
   "url": "https://viavid.webcasts.com/starthere.jsp?ei=1768036&tp_key=24c376436d"
+ },
+ "a015d1f05ff2": {
+  "company_id": "us-1411685",
+  "date": "2026-02-12",
+  "first_seen": "2026-10-07T14:44:28Z",
+  "id": "a015d1f05ff2",
+  "last_seen": "2026-10-07T14:44:28Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1411685/000162828026007715/vtgn-20260212xex991.htm",
+  "title": "Third Quarter Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/mggzveh9/"
  },
  "a0da015e025d": {
   "company_id": "us-1004702",
   "date": "2026-07-31",
   "first_seen": "2026-10-06T14:30:54Z",
   "id": "a0da015e025d",
-  "last_seen": "2026-10-06T15:32:56Z",
+  "last_seen": "2026-10-07T15:36:08Z",
   "source": "sec-8k",
   "source_url": "https://www.sec.gov/Archives/edgar/data/1004702/000100470226000116/ex991-earningsreleasejune2.htm",
   "title": "Latest Quarterly Reports",
@@ -2166,16 +3926,49 @@
   "title": "First Quarter 2026 Earnings Call",
   "url": "https://events.q4inc.com/attendee/461093557"
  },
+ "a120e0534dcf": {
+  "company_id": "us-1627272",
+  "date": "2026-09-30",
+  "first_seen": "2026-10-07T14:34:34Z",
+  "id": "a120e0534dcf",
+  "last_seen": "2026-10-07T14:34:34Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1627272/000117184326006482/exh_991.htm",
+  "title": "Third Quarter Earnings Call",
+  "url": "https://viavid.webcasts.com/starthere.jsp?ei=1777759&tp_key=f1a0b01c30"
+ },
  "a15272a0abf0": {
   "company_id": "us-1000275",
   "date": "2025-03-04",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "a15272a0abf0",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "RBC Capital Markets Financial Institutions Conference",
   "url": "https://kvgo.com/rbc/royal-bank-of-canada-march-2025"
+ },
+ "a17ed48124e8": {
+  "company_id": "us-1262823",
+  "date": "2026-02-24",
+  "first_seen": "2026-10-07T14:36:03Z",
+  "id": "a17ed48124e8",
+  "last_seen": "2026-10-07T14:36:03Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1262823/000126282326000008/ex991_20251231earningsrele.htm",
+  "title": "Fourth Quarter Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/fbrmocfm"
+ },
+ "a1aa1bfbced5": {
+  "company_id": "us-1285819",
+  "date": null,
+  "first_seen": "2026-10-07T14:37:31Z",
+  "id": "a1aa1bfbced5",
+  "last_seen": "2026-10-07T14:37:31Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1285819/000143774926010634/ex_889301.htm",
+  "title": "Fourth Quarter Earnings Call",
+  "url": "https://events.q4inc.com/attendee/106692151"
  },
  "a20f80222306": {
   "company_id": "us-1046568",
@@ -2188,12 +3981,34 @@
   "title": "Fourth Quarter Earnings Call",
   "url": "https://events.q4inc.com/attendee/379013972"
  },
+ "a369734580b9": {
+  "company_id": "us-1013857",
+  "date": null,
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "a369734580b9",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Investor Session call",
+  "url": "https://app.webinar.net/w7kxZ4g89Jz"
+ },
+ "a3b0a07effdd": {
+  "company_id": "us-1307954",
+  "date": "2026-02-18",
+  "first_seen": "2026-10-07T14:38:42Z",
+  "id": "a3b0a07effdd",
+  "last_seen": "2026-10-07T14:38:42Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1307954/000110465926016479/tm266575d1_ex99-1.htm",
+  "title": "Fourth Quarter Earnings Call",
+  "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=IMeg0PNW"
+ },
  "a3b342fbe02a": {
   "company_id": "us-1004315",
   "date": null,
   "first_seen": "2026-10-06T15:32:54Z",
   "id": "a3b342fbe02a",
-  "last_seen": "2026-10-06T15:32:54Z",
+  "last_seen": "2026-10-07T15:36:05Z",
   "source": "ir-page",
   "source_url": "https://www.nationalgrid.com/investors/events/results-centre",
   "title": "Statement",
@@ -2210,6 +4025,28 @@
   "title": "Second Quarter 2026 Earnings Call",
   "url": "https://events.q4inc.com/attendee/658575699"
  },
+ "a5b0efcbff4d": {
+  "company_id": "us-1279495",
+  "date": "2026-07-31",
+  "first_seen": "2026-10-07T14:36:57Z",
+  "id": "a5b0efcbff4d",
+  "last_seen": "2026-10-07T14:36:57Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1279495/000127949526000040/a995-q22026pressrelease.htm",
+  "title": "Second Quarter 2026 Earnings Call",
+  "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=JWIiHJzA"
+ },
+ "a6db0dd51b2d": {
+  "company_id": "us-1013857",
+  "date": "2024-03-05",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "a6db0dd51b2d",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "The Citizens JMP Technology Conference",
+  "url": "https://wsw.com/temp/mp4.aspx?conf=jmp62&page=pega&key=CD85D56"
+ },
  "a77bdd554d1e": {
   "company_id": "us-1046568",
   "date": "2025-11-04",
@@ -2221,6 +4058,17 @@
   "title": "Third Quarter Earnings Call",
   "url": "https://events.q4inc.com/attendee/713147017"
  },
+ "a8094bd7c337": {
+  "company_id": "us-1331520",
+  "date": "2026-04-16",
+  "first_seen": "2026-10-07T14:39:52Z",
+  "id": "a8094bd7c337",
+  "last_seen": "2026-10-07T14:39:52Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1331520/000133152026000088/homb033126earningsrelease.htm",
+  "title": "First Quarter Earnings Call",
+  "url": "https://events.q4inc.com/attendee/401378152"
+ },
  "a8302a4a9037": {
   "company_id": "us-105770",
   "date": null,
@@ -2231,6 +4079,17 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/105770/000010577026000097/exh991q22026earningsrelease.htm",
   "title": "Third Quarter Earnings Call",
   "url": "https://edge.media-server.com/mmc/p/g76vb8x6/"
+ },
+ "a868083a7b26": {
+  "company_id": "us-1013857",
+  "date": "2024-06-10",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "a868083a7b26",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Pegasystems 2024 Investor Session",
+  "url": "https://app.webinar.net/94m85OY0lKa"
  },
  "a87fc818b94f": {
   "company_id": "us-1144800",
@@ -2276,6 +4135,17 @@
   "title": "Second Quarter 2026 Earnings Call",
   "url": "https://events.q4inc.com/attendee/794729192"
  },
+ "a8d6258b5ee2": {
+  "company_id": "us-1411690",
+  "date": "2026-05-13",
+  "first_seen": "2026-10-07T14:44:29Z",
+  "id": "a8d6258b5ee2",
+  "last_seen": "2026-10-07T14:44:29Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1411690/000141169026000027/bngo-ex99_1.htm",
+  "title": "Full Year 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/6tmtcpga/"
+ },
  "a9bb79329501": {
   "company_id": "us-1086888",
   "date": "2026-05-14",
@@ -2287,23 +4157,89 @@
   "title": "Annual Meeting of Stockholders",
   "url": "https://meetings.lumiconnect.com/400-072-467-950"
  },
+ "aa6735dc6e24": {
+  "company_id": "us-1370946",
+  "date": "2026-02-25",
+  "first_seen": "2026-10-07T14:41:53Z",
+  "id": "aa6735dc6e24",
+  "last_seen": "2026-10-07T14:41:53Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1370946/000137094626000066/q42025exh-991pressrelease.htm",
+  "title": "Presentation at 2025 Investor Day",
+  "url": "https://events.q4inc.com/attendee/915937468"
+ },
+ "ab46fbdf6a7c": {
+  "company_id": "us-1227636",
+  "date": null,
+  "first_seen": "2026-10-07T14:35:28Z",
+  "id": "ab46fbdf6a7c",
+  "last_seen": "2026-10-07T14:35:28Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1227636/000119312526109403/d44949dex991.htm",
+  "title": "Fourth Quarter Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/t8xxgfnr"
+ },
+ "ab9c6bd5ebdc": {
+  "company_id": "us-1385613",
+  "date": "2026-05-06",
+  "first_seen": "2026-10-07T14:43:00Z",
+  "id": "ab9c6bd5ebdc",
+  "last_seen": "2026-10-07T14:43:00Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1385613/000138561326000064/pressreleaseearnings2026q1.htm",
+  "title": "First Quarter Earnings Call",
+  "url": "https://event.webcasts.com/starthere.jsp?ei=1731021&tp_key=f4c1d589f0"
+ },
+ "abae677fba3c": {
+  "company_id": "us-1013857",
+  "date": null,
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "abae677fba3c",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Pegasystems Inc., 1st Quarter Earnings 2023",
+  "url": "https://viavid.webcasts.com/starthere.jsp?ei=1606804&tp_key=1167d38249"
+ },
  "abe26eb0c653": {
   "company_id": "us-1013857",
   "date": "2026-04-22",
   "first_seen": "2026-10-06T14:31:54Z",
   "id": "abe26eb0c653",
-  "last_seen": "2026-10-06T14:31:54Z",
+  "last_seen": "2026-10-07T15:32:15Z",
   "source": "sec-8k",
   "source_url": "https://www.sec.gov/Archives/edgar/data/1013857/000101385726000025/q12026_ex-991.htm",
-  "title": "Q1 2026 Earnings Call",
+  "title": "Pegasystems Inc., 1st Quarter Earnings 2026",
   "url": "https://events.q4inc.com/attendee/156449953"
+ },
+ "ac8678bff6f3": {
+  "company_id": "us-1385613",
+  "date": "2025-11-04",
+  "first_seen": "2026-10-07T14:43:00Z",
+  "id": "ac8678bff6f3",
+  "last_seen": "2026-10-07T14:43:00Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1385613/000138561325000112/pressreleaseearnings2025q3.htm",
+  "title": "Third Quarter Earnings Call",
+  "url": "https://event.webcasts.com/starthere.jsp?ei=1727624&tp_key=9fa8b9073f"
+ },
+ "ac94f4495eb1": {
+  "company_id": "us-1013857",
+  "date": "2022-12-07",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "ac94f4495eb1",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Barclays Global Technology, Media and Telecommunications Conference",
+  "url": "https://cc.webcasts.com/barc002/120722a_js/?entity=51_MBNTEFY"
  },
  "adadc314c401": {
   "company_id": "us-1424182",
   "date": "2026-10-28",
   "first_seen": "2026-10-06T14:30:16Z",
   "id": "adadc314c401",
-  "last_seen": "2026-10-06T14:30:16Z",
+  "last_seen": "2026-10-07T14:45:11Z",
   "source": "sec-8k",
   "source_url": "https://www.sec.gov/Archives/edgar/data/1424182/000142418226000075/q32026erannouncementpressr.htm",
   "title": "Third Quarter 2026 Earnings Call",
@@ -2319,6 +4255,17 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/1018164/000101816425000055/q12025ex991.htm",
   "title": "First Quarter 2025 Earnings Call",
   "url": "https://event.webcasts.com/starthere.jsp?ei=1716437&tp_key=f56060bee8"
+ },
+ "ae6d1bbcf203": {
+  "company_id": "us-1013857",
+  "date": "2026-05-18",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "ae6d1bbcf203",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "J.P. Morgan 2026 Global Technology, Media and Communications Conference",
+  "url": "https://jpmorgan.metameetings.net/events/tmc26/sessions/318694-pegasystems-inc/webcast/public"
  },
  "aee7363182a3": {
   "company_id": "us-1389170",
@@ -2341,6 +4288,39 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/1639920/000114036126031044/ef20078867_ex99-1.htm",
   "title": "Q2 2026 Earnings Call",
   "url": "https://app.webinar.net/24zaxYZl1G3"
+ },
+ "b074d399be83": {
+  "company_id": "us-1417926",
+  "date": "2026-08-17",
+  "first_seen": "2026-10-07T14:44:39Z",
+  "id": "b074d399be83",
+  "last_seen": "2026-10-07T14:44:39Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1417926/000149315226038648/ex99-1.htm",
+  "title": "Second Quarter Earnings Call",
+  "url": "https://app.webinar.net/yDAl3O9e8k4"
+ },
+ "b226ae9021ad": {
+  "company_id": "us-1273441",
+  "date": null,
+  "first_seen": "2026-10-07T14:36:31Z",
+  "id": "b226ae9021ad",
+  "last_seen": "2026-10-07T14:36:31Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1273441/000127344126000017/a20260331-pressrelease.htm",
+  "title": "First Quarter 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/4afdf5mg"
+ },
+ "b239690124ee": {
+  "company_id": "us-1319947",
+  "date": "2026-03-26",
+  "first_seen": "2026-10-07T14:39:18Z",
+  "id": "b239690124ee",
+  "last_seen": "2026-10-07T14:39:18Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1319947/000131994726000017/q420258xkex991pressrelease.htm",
+  "title": "Full Year 2026 Earnings Call",
+  "url": "https://app.webinar.net/3zpg2dvElJL"
  },
  "b283c550a7de": {
   "company_id": "us-1104485",
@@ -2375,6 +4355,17 @@
   "title": "Presentation at 1-646-357-8785 Conference",
   "url": "https://app.webinar.net/aK21yzvyep9"
  },
+ "b38600ff2148": {
+  "company_id": "us-12659",
+  "date": "2025-11-06",
+  "first_seen": "2026-10-07T14:36:11Z",
+  "id": "b38600ff2148",
+  "last_seen": "2026-10-07T14:36:11Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/12659/000001265925000014/q1fy26earningrelease.htm",
+  "title": "First Quarter 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/rxcxh3vo/lan/en/"
+ },
  "b3c07d344a41": {
   "company_id": "us-1175151",
   "date": "2026-08-06",
@@ -2402,7 +4393,7 @@
   "date": "2022-01-10",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "b46680334b78",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "RBC Capital Markets Canadian Bank CEO Conference",
@@ -2424,11 +4415,22 @@
   "date": null,
   "first_seen": "2026-10-06T15:32:54Z",
   "id": "b4c0ecb80675",
-  "last_seen": "2026-10-06T15:32:54Z",
+  "last_seen": "2026-10-07T15:36:05Z",
   "source": "ir-page",
   "source_url": "https://www.nationalgrid.com/investors/events/results-centre",
   "title": "Statement",
   "url": "https://stream.brrmedia.co.uk/broadcast/6335b1e7fb246c0809c9add1"
+ },
+ "b4e42bb068d1": {
+  "company_id": "us-1213809",
+  "date": "2026-05-13",
+  "first_seen": "2026-10-07T14:34:56Z",
+  "id": "b4e42bb068d1",
+  "last_seen": "2026-10-07T14:34:56Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1213809/000149315226022727/ex99-1.htm",
+  "title": "First Quarter 2026 Earnings Call",
+  "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=qVNgtGJ6"
  },
  "b51f0e9b3bb3": {
   "company_id": "us-1165002",
@@ -2452,6 +4454,39 @@
   "title": "First Quarter 2026 Earnings Call",
   "url": "https://edge.media-server.com/mmc/p/a3gekyiy"
  },
+ "b6138be37ea9": {
+  "company_id": "us-1373670",
+  "date": "2026-08-30",
+  "first_seen": "2026-10-07T14:42:01Z",
+  "id": "b6138be37ea9",
+  "last_seen": "2026-10-07T14:42:01Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1373670/000162828026050626/a2q22026ex99earningsrelease.htm",
+  "title": "Second Quarter Earnings Call",
+  "url": "https://events.q4inc.com/attendee/561994773"
+ },
+ "b70fb66f5d12": {
+  "company_id": "us-1372807",
+  "date": "2025-11-07",
+  "first_seen": "2026-10-07T14:41:59Z",
+  "id": "b70fb66f5d12",
+  "last_seen": "2026-10-07T14:41:59Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1372807/000119312525272589/d95206dex991.htm",
+  "title": "Third Quarter 2025 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/smghw6d2"
+ },
+ "b76194ab262a": {
+  "company_id": "us-1307954",
+  "date": "2026-05-01",
+  "first_seen": "2026-10-07T14:38:41Z",
+  "id": "b76194ab262a",
+  "last_seen": "2026-10-07T14:38:41Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1307954/000110465926053018/tm2613226d1_ex99-1.htm",
+  "title": "First Quarter Earnings Call",
+  "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=CrqpAfyY"
+ },
  "b77a6640a944": {
   "company_id": "us-100493",
   "date": "2026-02-02",
@@ -2462,6 +4497,17 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/100493/000010049326000005/tsn2026q1exh-991.htm",
   "title": "First Quarter 2026 Earnings Call",
   "url": "https://events.q4inc.com/attendee/928734779"
+ },
+ "b7b61b5b67f5": {
+  "company_id": "us-1144800",
+  "date": "2026-11-03",
+  "first_seen": "2026-10-07T14:34:32Z",
+  "id": "b7b61b5b67f5",
+  "last_seen": "2026-10-07T14:34:32Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1144800/000117184326006451/exh_991.htm",
+  "title": "Third Quarter 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/zj3d6q2q"
  },
  "b855bb571387": {
   "company_id": "us-1013605",
@@ -2485,6 +4531,39 @@
   "title": "First Quarter Earnings Call",
   "url": "https://edge.media-server.com/mmc/p/cn74vqnt/"
  },
+ "b957829f8750": {
+  "company_id": "us-1013857",
+  "date": "2025-05-13",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "b957829f8750",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "53rd Annual J.P. Morgan Global Technology, Media and Communications Conference",
+  "url": "https://jpmorgan.metameetings.net/events/tmc25/sessions/313240-pegasystems-inc/webcast?gpu_only=true&kiosk=true"
+ },
+ "b9b3b512ca7d": {
+  "company_id": "us-1409970",
+  "date": "2025-10-22",
+  "first_seen": "2026-10-07T14:44:19Z",
+  "id": "b9b3b512ca7d",
+  "last_seen": "2026-10-07T14:44:19Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1409970/000140997025000069/q325exhibit991er.htm",
+  "title": "Presentation at Announced Investor Day",
+  "url": "https://events.q4inc.com/attendee/133370489"
+ },
+ "bb2d953ffdd4": {
+  "company_id": "us-1331520",
+  "date": "2025-12-08",
+  "first_seen": "2026-10-07T14:39:52Z",
+  "id": "bb2d953ffdd4",
+  "last_seen": "2026-10-07T14:39:52Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1331520/000133152025000155/acquisitionpr.htm",
+  "title": "Webcast",
+  "url": "https://events.q4inc.com/attendee/608055678"
+ },
  "bbdc03f8daeb": {
   "company_id": "us-1046568",
   "date": "2026-05-07",
@@ -2495,6 +4574,17 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/1046568/000119312526211824/prdo-ex99_1.htm",
   "title": "First Quarter Earnings Call",
   "url": "https://events.q4inc.com/attendee/170297468"
+ },
+ "bd037e1fca49": {
+  "company_id": "us-1273441",
+  "date": null,
+  "first_seen": "2026-10-07T14:36:31Z",
+  "id": "bd037e1fca49",
+  "last_seen": "2026-10-07T14:36:31Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1273441/000127344126000007/gte-20251231earningspressr.htm",
+  "title": "Fourth Quarter Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/ruvvrgwq"
  },
  "bdd1b78586bb": {
   "company_id": "us-1083446",
@@ -2562,6 +4652,50 @@
   "title": "Annual Meeting of Stockholders",
   "url": "https://www.virtualshareholdermeeting.com/OCFC2026"
  },
+ "bfcb428e5ed6": {
+  "company_id": "us-1968487",
+  "date": "2026-12-28",
+  "first_seen": "2026-10-07T14:34:35Z",
+  "id": "bfcb428e5ed6",
+  "last_seen": "2026-10-07T14:34:35Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1968487/000196848726000032/ws-ex99_3.htm",
+  "title": "First Quarter Earnings Call",
+  "url": "https://events.q4inc.com/attendee/682402066"
+ },
+ "c05aa575ca83": {
+  "company_id": "us-1013857",
+  "date": "2024-11-19",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "c05aa575ca83",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "RBC Capital Markets Technology, Internet, Media & Telecommunications Conference",
+  "url": "https://kvgo.com/rbc/pegasystems-inc-nov-2024"
+ },
+ "c105eeb6f728": {
+  "company_id": "us-1345099",
+  "date": "2026-08-27",
+  "first_seen": "2026-10-07T14:40:44Z",
+  "id": "c105eeb6f728",
+  "last_seen": "2026-10-07T14:40:44Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1345099/000134509926000083/exhibit991financialresul.htm",
+  "title": "Webcast",
+  "url": "https://webcast.openbriefing.com/msb-fyr-2026/"
+ },
+ "c1f86755bee1": {
+  "company_id": "us-1013857",
+  "date": "2022-03-08",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "c1f86755bee1",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "KeyBanc Capital Markets Emerging Technology Summit",
+  "url": "https://wsw.com/webcast/key22/pega/1651161"
+ },
  "c22f08d01213": {
   "company_id": "us-1175151",
   "date": "2025-11-13",
@@ -2584,6 +4718,17 @@
   "title": "First Quarter 2026 Earnings Call",
   "url": "https://edge.media-server.com/mmc/p/5oqw9zvm"
  },
+ "c33d9fd02f3b": {
+  "company_id": "us-1393584",
+  "date": null,
+  "first_seen": "2026-10-07T14:43:26Z",
+  "id": "c33d9fd02f3b",
+  "last_seen": "2026-10-07T14:43:26Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1393584/000119312526048737/amwl-ex99_1.htm",
+  "title": "Q1 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/7o2zjx2o/"
+ },
  "c40d4497dc5d": {
   "company_id": "us-1042893",
   "date": "2026-02-24",
@@ -2600,7 +4745,7 @@
   "date": "2023-09-06",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "c484d4d2c461",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "2023 Scotiabank Financials Summit",
@@ -2616,6 +4761,17 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/1006655/000110465926059493/epm-20260511xex99d1.htm",
   "title": "Third Quarter 2026 Earnings Call",
   "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=wK31ZL1A"
+ },
+ "c4f6acc7bc04": {
+  "company_id": "us-1366868",
+  "date": "2026-02-27",
+  "first_seen": "2026-10-07T14:41:37Z",
+  "id": "c4f6acc7bc04",
+  "last_seen": "2026-10-07T14:41:37Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1366868/000136686826000009/gsat20251231-ex991.htm",
+  "title": "Fourth Quarter Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/8v6dbgc2"
  },
  "c4f74b177fc7": {
   "company_id": "us-1393818",
@@ -2650,6 +4806,28 @@
   "title": "Second Quarter Earnings Call",
   "url": "https://events.q4inc.com/attendee/385690544"
  },
+ "c654b939b2d4": {
+  "company_id": "us-1210677",
+  "date": "2026-08-06",
+  "first_seen": "2026-10-07T14:34:50Z",
+  "id": "c654b939b2d4",
+  "last_seen": "2026-10-07T14:34:50Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1210677/000119312526336358/fa-ex99_1.htm",
+  "title": "Full Year 2026 Earnings Call",
+  "url": "https://event.on24.com/wcc/r/5409234/68E3AC95DE943B08FC0B97F9AA813C80"
+ },
+ "c7194f04841d": {
+  "company_id": "us-1367644",
+  "date": "2026-04-30",
+  "first_seen": "2026-10-07T14:41:38Z",
+  "id": "c7194f04841d",
+  "last_seen": "2026-10-07T14:41:38Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1367644/000136764426000059/ebs20260331ex99er.htm",
+  "title": "First Quarter Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/qw3ajghx/"
+ },
  "c76780f130bb": {
   "company_id": "us-1094324",
   "date": "2025-10-27",
@@ -2683,27 +4861,60 @@
   "title": "Fourth Quarter Earnings Call",
   "url": "https://events.q4inc.com/attendee/778325053"
  },
+ "c8d0a09c8b80": {
+  "company_id": "us-1307954",
+  "date": "2026-06-16",
+  "first_seen": "2026-10-07T14:38:41Z",
+  "id": "c8d0a09c8b80",
+  "last_seen": "2026-10-07T14:38:41Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1307954/000110465926074266/tm2618028d2_ex99-1.htm",
+  "title": "Webcast",
+  "url": "https://event.on24.com/wcc/r/5394127/E052E3C66157E626B1E63E314E310A1E"
+ },
  "c8dd0b275a31": {
   "company_id": "us-1003935",
   "date": "2025-07-28",
   "first_seen": "2026-10-06T15:32:32Z",
   "id": "c8dd0b275a31",
-  "last_seen": "2026-10-06T15:32:32Z",
+  "last_seen": "2026-10-07T15:34:59Z",
   "source": "ir-page",
   "source_url": "https://www.nice.com/company/investors/ir-events",
   "title": "NiCE to Acquire Cognigy",
   "url": "https://events.q4inc.com/attendee/616823312"
+ },
+ "c9198fecc442": {
+  "company_id": "us-1372612",
+  "date": null,
+  "first_seen": "2026-10-07T14:41:57Z",
+  "id": "c9198fecc442",
+  "last_seen": "2026-10-07T14:41:57Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1372612/000119312526365121/box-ex99_1.htm",
+  "title": "Second Quarter Fiscal 2027 Earnings Call",
+  "url": "https://events.q4inc.com/attendee/428395900"
  },
  "c9727413bc32": {
   "company_id": "us-1000275",
   "date": "2022-09-13",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "c9727413bc32",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "Audio Broadcast (External site for RBC opens in new window)",
   "url": "https://cc.webcasts.com/barc002/091222a_js/?entity=83_O1MJ4VH"
+ },
+ "c990c444e9ee": {
+  "company_id": "us-1370450",
+  "date": null,
+  "first_seen": "2026-10-07T14:41:49Z",
+  "id": "c990c444e9ee",
+  "last_seen": "2026-10-07T14:41:49Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1370450/000110465926057151/wldn-20260507xex99d1.htm",
+  "title": "First Quarter Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/7q4crris/"
  },
  "c9cf0016bd04": {
   "company_id": "us-831001",
@@ -2716,16 +4927,38 @@
   "title": "Third Quarter 2025 Earnings Call",
   "url": "https://www.veracast.com/webcasts/citigroup/webinars/CITI3Q25.cfm"
  },
+ "caa3e72bf215": {
+  "company_id": "us-1293135",
+  "date": "2026-05-06",
+  "first_seen": "2026-10-07T14:38:09Z",
+  "id": "caa3e72bf215",
+  "last_seen": "2026-10-07T14:38:09Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1293135/000127956926000380/ex991.htm",
+  "title": "Webcast",
+  "url": "https://meetings.lumiconnect.com/400-593-993-161"
+ },
  "cb9b58dcbd88": {
   "company_id": "us-1000275",
   "date": "2024-03-26",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "cb9b58dcbd88",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "National Bank Financial Markets, Financial Services Conference",
   "url": "https://q4.wavecast.io/nbf-annual-financial-services-conference-24/player-embed/2686"
+ },
+ "cd773dc49dbb": {
+  "company_id": "us-1212545",
+  "date": "2026-07-22",
+  "first_seen": "2026-10-07T14:34:54Z",
+  "id": "cd773dc49dbb",
+  "last_seen": "2026-10-07T14:34:54Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1212545/000162828026049001/pressrelease-6302026.htm",
+  "title": "Second Quarter 2026 Earnings Call",
+  "url": "https://events.q4inc.com/attendee/808307916"
  },
  "ce445dd50c26": {
   "company_id": "us-1108134",
@@ -2738,16 +4971,49 @@
   "title": "Second Quarter Earnings Call",
   "url": "https://events.q4inc.com/attendee/795588966"
  },
+ "cece8b6db520": {
+  "company_id": "us-1013857",
+  "date": "2024-09-05",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "cece8b6db520",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Citi 2024 Global TMT Conference",
+  "url": "https://kvgo.com/citi-2024-global-tmt-conference/pegasystems-inc-sep-2024"
+ },
+ "cf63067a6df0": {
+  "company_id": "us-1013857",
+  "date": "2022-03-09",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "cf63067a6df0",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Morgan Stanley Technology, Media & Telecom Conference",
+  "url": "https://morganstanley.webcasts.com/starthere.jsp?ei=1529867&tp_key=b5279514e8&tp_special=8"
+ },
  "cfef0f657df3": {
   "company_id": "us-1003935",
   "date": "2025-08-14",
   "first_seen": "2026-10-06T15:32:32Z",
   "id": "cfef0f657df3",
-  "last_seen": "2026-10-06T15:32:32Z",
+  "last_seen": "2026-10-07T15:34:59Z",
   "source": "ir-page",
   "source_url": "https://www.nice.com/company/investors/ir-events",
   "title": "Q2 2025 Earnings Conference Call",
   "url": "https://events.q4inc.com/attendee/780553737"
+ },
+ "d1222f0f6efc": {
+  "company_id": "us-1013857",
+  "date": "2022-11-30",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "d1222f0f6efc",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "2022 Annual Wells Fargo TMT Summit",
+  "url": "https://cc.webcasts.com/well001/112922a_js/?entity=56_U5KJCWU"
  },
  "d18dad71ff55": {
   "company_id": "us-1164727",
@@ -2782,6 +5048,17 @@
   "title": "Fourth Quarter Earnings Call",
   "url": "https://events.q4inc.com/attendee/220621032"
  },
+ "d20c3145cb2b": {
+  "company_id": "us-1013857",
+  "date": "2025-08-18",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "d20c3145cb2b",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Rosenblatt 5th Annual Technology Summit",
+  "url": "https://wsw.com/webcast/rblt5/pega/1727781"
+ },
  "d35450ec33db": {
   "company_id": "us-1000275",
   "date": "2026-04-09",
@@ -2804,6 +5081,17 @@
   "title": "Third Quarter 2025 Earnings Call",
   "url": "https://edge.media-server.com/mmc/p/t56z24cw"
  },
+ "d45920aa4bc4": {
+  "company_id": "us-1383395",
+  "date": "2026-05-05",
+  "first_seen": "2026-10-07T14:42:51Z",
+  "id": "d45920aa4bc4",
+  "last_seen": "2026-10-07T14:42:51Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1383395/000138339526000074/q12026earningspressrelease.htm",
+  "title": "First Quarter 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/tf9babvo/"
+ },
  "d46fba6183c2": {
   "company_id": "us-1012019",
   "date": "2025-10-30",
@@ -2820,11 +5108,55 @@
   "date": "2025-12-10",
   "first_seen": "2026-10-06T15:32:32Z",
   "id": "d48b0d397cb9",
-  "last_seen": "2026-10-06T15:32:32Z",
+  "last_seen": "2026-10-07T15:34:59Z",
   "source": "ir-page",
   "source_url": "https://www.nice.com/company/investors/ir-events",
   "title": "Nasdaq Investor Conference in association with Morgan Stanley",
   "url": "https://edge.media-server.com/mmc/p/rain9sx3/"
+ },
+ "d4cb988e74c1": {
+  "company_id": "us-1013857",
+  "date": null,
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "d4cb988e74c1",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Pegasystems Inc., 4th Quarter Earnings 2024",
+  "url": "https://events.q4inc.com/attendee/343473625"
+ },
+ "d50d45499925": {
+  "company_id": "us-1410384",
+  "date": "2026-07-29",
+  "first_seen": "2026-10-07T14:44:21Z",
+  "id": "d50d45499925",
+  "last_seen": "2026-10-07T14:44:21Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1410384/000141038426000051/a260630q2ex9918k.htm",
+  "title": "Full-Year 2026 Earnings Call",
+  "url": "https://events.q4inc.com/attendee/416606984"
+ },
+ "d520498c296b": {
+  "company_id": "us-1408443",
+  "date": "2026-08-12",
+  "first_seen": "2026-10-07T14:44:13Z",
+  "id": "d520498c296b",
+  "last_seen": "2026-10-07T14:44:13Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1408443/000110465926094466/tm2614433d1_ex99-1.htm",
+  "title": "Second Quarter 2026 Earnings Call",
+  "url": "https://callme.viavid.com/viavid/?callme=true&passcode=13756738&h=true&info=company-email&r=true&B=6"
+ },
+ "d52f09d8eb3f": {
+  "company_id": "us-1417663",
+  "date": "2026-05-13",
+  "first_seen": "2026-10-07T14:44:37Z",
+  "id": "d52f09d8eb3f",
+  "last_seen": "2026-10-07T14:44:37Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1417663/000162828026034149/ex-991snwvpressreleasex512.htm",
+  "title": "Q2 2025 Earnings Call",
+  "url": "https://viavid.webcasts.com/starthere.jsp?ei=1762392&tp_key=537d7338d6"
  },
  "d633d43120c7": {
   "company_id": "us-1108134",
@@ -2837,6 +5169,50 @@
   "title": "Third Quarter Earnings Call",
   "url": "https://events.q4inc.com/attendee/590872928"
  },
+ "d7d39ab6b671": {
+  "company_id": "us-1227636",
+  "date": null,
+  "first_seen": "2026-10-07T14:35:28Z",
+  "id": "d7d39ab6b671",
+  "last_seen": "2026-10-07T14:35:28Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1227636/000119312526205117/d139145dex991.htm",
+  "title": "Second Quarter Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/3pztkve5"
+ },
+ "d827d3d1ec7d": {
+  "company_id": "us-1013857",
+  "date": "2022-03-07",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "d827d3d1ec7d",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "JMP Securities Technology Conference",
+  "url": "https://wsw.com/webcast/jmp53/pega/1653715"
+ },
+ "d8f3a990ce6b": {
+  "company_id": "us-1331284",
+  "date": "2025-10-30",
+  "first_seen": "2026-10-07T14:39:51Z",
+  "id": "d8f3a990ce6b",
+  "last_seen": "2026-10-07T14:39:51Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1331284/000114036125039714/ef20050386_ex99-1.htm",
+  "title": "Webcast",
+  "url": "https://edge.media-server.com/mmc/p/v4u8ssyk"
+ },
+ "d9f6b76e1dc8": {
+  "company_id": "us-1262823",
+  "date": "2026-08-04",
+  "first_seen": "2026-10-07T14:36:03Z",
+  "id": "d9f6b76e1dc8",
+  "last_seen": "2026-10-07T14:36:03Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1262823/000126282326000026/ex991_20260630earningsrele.htm",
+  "title": "Second Quarter 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/t6u6ozaq/"
+ },
  "da4e641f45a6": {
   "company_id": "us-1104038",
   "date": "2025-08-13",
@@ -2848,16 +5224,93 @@
   "title": "Second Quarter 2025 Earnings Call",
   "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=YmPT1jph"
  },
+ "da5e2a6f2e66": {
+  "company_id": "us-1322422",
+  "date": "2026-05-14",
+  "first_seen": "2026-10-07T14:39:25Z",
+  "id": "da5e2a6f2e66",
+  "last_seen": "2026-10-07T14:39:26Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1322422/000106299326001973/exhibit99-1.htm",
+  "title": "Webcast",
+  "url": "https://meetings.lumiconnect.com/400-690-725-785"
+ },
  "daefd615e856": {
   "company_id": "us-1000275",
   "date": "2019-03-27",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "daefd615e856",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "National Bank Financial Markets, Financial Services Conference",
   "url": "http://www.snwebcastcenter.com/webcast/nbf/2019-en/"
+ },
+ "db10fa7be0b2": {
+  "company_id": "us-1013857",
+  "date": "2023-09-05",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "db10fa7be0b2",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Goldman Sachs Communacopia & Technology Conference",
+  "url": "https://event.webcasts.com/starthere.jsp?ei=1629999&tp_key=8f6cdb7674&tp_special=8"
+ },
+ "dc8e6cb31392": {
+  "company_id": "us-1383395",
+  "date": "2026-08-04",
+  "first_seen": "2026-10-07T14:42:51Z",
+  "id": "dc8e6cb31392",
+  "last_seen": "2026-10-07T14:42:51Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1383395/000138339526000103/q22026earningspressrelease.htm",
+  "title": "Second Quarter Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/ttvnxt2o/"
+ },
+ "dca9adb48cb3": {
+  "company_id": "us-1013857",
+  "date": "2026-09-08",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "dca9adb48cb3",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Citi 2026 Global TMT Conference",
+  "url": "https://kvgo.com/2026-global-tmt-conference/pegasystems-sep-2026"
+ },
+ "ddeed2fe0074": {
+  "company_id": "us-1262823",
+  "date": "2025-10-30",
+  "first_seen": "2026-10-07T14:36:03Z",
+  "id": "ddeed2fe0074",
+  "last_seen": "2026-10-07T14:36:03Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1262823/000126282325000061/ex991_20250930earningsrele.htm",
+  "title": "Third Quarter 2025 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/eex75wdd"
+ },
+ "ddf9a600d23f": {
+  "company_id": "us-1401521",
+  "date": "2025-11-05",
+  "first_seen": "2026-10-07T14:43:52Z",
+  "id": "ddf9a600d23f",
+  "last_seen": "2026-10-07T14:43:52Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1401521/000140152125000130/acic-ex99_1.htm",
+  "title": "Third Quarter Earnings Call",
+  "url": "https://event.webcasts.com/starthere.jsp?ei=1737568&tp_key=2ede963598"
+ },
+ "de56962246e9": {
+  "company_id": "us-1409970",
+  "date": "2026-01-28",
+  "first_seen": "2026-10-07T14:44:19Z",
+  "id": "de56962246e9",
+  "last_seen": "2026-10-07T14:44:19Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1409970/000140997026000014/q425exhibit991er.htm",
+  "title": "Fourth Quarter 2025 Earnings Call",
+  "url": "https://events.q4inc.com/attendee/908793751"
  },
  "de7aa6e08058": {
   "company_id": "us-1097149",
@@ -2869,6 +5322,39 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714926000054/algn-q226earningspressrele.htm",
   "title": "Second Quarter 2026 Earnings Call",
   "url": "https://edge.media-server.com/mmc/p/voy55bot"
+ },
+ "ded7324d99cd": {
+  "company_id": "us-1362004",
+  "date": "2026-05-07",
+  "first_seen": "2026-10-07T14:41:26Z",
+  "id": "ded7324d99cd",
+  "last_seen": "2026-10-07T14:41:26Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1362004/000143774926009949/ex_937697.htm",
+  "title": "First Quarter 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/pw36jwo8"
+ },
+ "ded760ccda3e": {
+  "company_id": "us-1282224",
+  "date": "2025-08-13",
+  "first_seen": "2026-10-07T14:37:19Z",
+  "id": "ded760ccda3e",
+  "last_seen": "2026-10-07T14:37:19Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1282224/000107997325001266/ex99x1.htm",
+  "title": "Second Quarter 2025 Earnings Call",
+  "url": "https://www.webcaster4.com/Webcast/Page/2225/52792"
+ },
+ "e00fc563a51d": {
+  "company_id": "us-1409375",
+  "date": "2026-06-04",
+  "first_seen": "2026-10-07T14:44:16Z",
+  "id": "e00fc563a51d",
+  "last_seen": "2026-10-07T14:44:16Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1409375/000119312526256436/oesx-ex99_1.htm",
+  "title": "Fourth Quarter Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/zmyzetzn"
  },
  "e013820e15ed": {
   "company_id": "us-1373715",
@@ -2892,16 +5378,38 @@
   "title": "Third Quarter Earnings Call",
   "url": "https://meetings.lumiconnect.com/400-483-290-929"
  },
+ "e0762af04c16": {
+  "company_id": "us-1314102",
+  "date": null,
+  "first_seen": "2026-10-07T14:38:55Z",
+  "id": "e0762af04c16",
+  "last_seen": "2026-10-07T14:38:55Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1314102/000119312526089856/eypt-ex99_1.htm",
+  "title": "Fourth Quarter Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/i8pzi8wg"
+ },
  "e084d29cb885": {
   "company_id": "us-1326801",
   "date": null,
   "first_seen": "2026-10-06T15:33:09Z",
   "id": "e084d29cb885",
-  "last_seen": "2026-10-06T15:33:09Z",
+  "last_seen": "2026-10-07T15:36:23Z",
   "source": "ir-page",
   "source_url": "https://investor.atmeta.com",
   "title": "Documents",
   "url": "https://events.q4inc.com/attendee/922331606"
+ },
+ "e0c42bcca62b": {
+  "company_id": "us-1392380",
+  "date": null,
+  "first_seen": "2026-10-07T14:43:21Z",
+  "id": "e0c42bcca62b",
+  "last_seen": "2026-10-07T14:43:21Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1392380/000139238026000003/gevo-20260305xex99d1.htm",
+  "title": "Fourth Quarter Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/yw6ggb9k"
  },
  "e0e749eb8a71": {
   "company_id": "us-1447669",
@@ -2914,26 +5422,48 @@
   "title": "First Quarter 2026 Earnings Call",
   "url": "https://edge.media-server.com/mmc/p/sfj2jo9i"
  },
+ "e1184bf91608": {
+  "company_id": "us-1013857",
+  "date": "2025-08-13",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "e1184bf91608",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Oppenheimer 28th Annual Technology, Internet & Communications Conference",
+  "url": "https://wsw.com/webcast/oppenheimer43/pega/2741719"
+ },
  "e13909fcc528": {
   "company_id": "us-1003935",
   "date": "2026-06-09",
   "first_seen": "2026-10-06T15:32:32Z",
   "id": "e13909fcc528",
-  "last_seen": "2026-10-06T15:32:32Z",
+  "last_seen": "2026-10-07T15:34:59Z",
   "source": "ir-page",
   "source_url": "https://www.nice.com/company/investors/ir-events",
   "title": "NiCE World 2026 Investor and Analyst Day",
   "url": "https://app.webinar.net/9b1pwgN6mKx"
+ },
+ "e24bbc476ac1": {
+  "company_id": "us-1372807",
+  "date": "2026-05-08",
+  "first_seen": "2026-10-07T14:41:58Z",
+  "id": "e24bbc476ac1",
+  "last_seen": "2026-10-07T14:41:58Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1372807/000119312526215068/d150865dex991.htm",
+  "title": "First Quarter 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/dqoafvww"
  },
  "e25f90494821": {
   "company_id": "us-1013857",
   "date": "2026-02-11",
   "first_seen": "2026-10-06T14:31:54Z",
   "id": "e25f90494821",
-  "last_seen": "2026-10-06T14:31:54Z",
+  "last_seen": "2026-10-07T15:32:15Z",
   "source": "sec-8k",
   "source_url": "https://www.sec.gov/Archives/edgar/data/1013857/000101385726000015/q42025_ex-991.htm",
-  "title": "Q4 2025 Earnings Call",
+  "title": "Pegasystems Inc., 4th Quarter Earnings 2025",
   "url": "https://events.q4inc.com/attendee/958808765"
  },
  "e3ae941a7b85": {
@@ -2947,6 +5477,50 @@
   "title": "Presentation at Jefferies Global Healthcare Conference",
   "url": "https://viavid.webcasts.com/starthere.jsp?ei=1751611&tp_key=27ba007fb5"
  },
+ "e4bd3c362d9f": {
+  "company_id": "us-1293135",
+  "date": "2026-05-06",
+  "first_seen": "2026-10-07T14:38:09Z",
+  "id": "e4bd3c362d9f",
+  "last_seen": "2026-10-07T14:38:09Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1293135/000127956926000380/ex991.htm",
+  "title": "First Quarter Earnings Call",
+  "url": "https://app.webinar.net/Z02K9Bq8g4m"
+ },
+ "e4fdd178db8e": {
+  "company_id": "us-1013857",
+  "date": "2026-03-04",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "e4fdd178db8e",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Morgan Stanley Technology, Media & Telecom Conference",
+  "url": "https://event.webcasts.com/starthere.jsp?ei=1752484&tp_key=357696ed60&tp_special=8"
+ },
+ "e5326b34add9": {
+  "company_id": "us-1487326",
+  "date": "2026-11-04",
+  "first_seen": "2026-10-07T14:34:32Z",
+  "id": "e5326b34add9",
+  "last_seen": "2026-10-07T14:34:32Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1487326/000127956926000952/ex991.htm",
+  "title": "Third Quarter 2026 Earnings Call",
+  "url": "https://app.webinar.net/YJvAQpM752D"
+ },
+ "e5a217674b74": {
+  "company_id": "us-1366868",
+  "date": "2025-08-07",
+  "first_seen": "2026-10-07T14:41:37Z",
+  "id": "e5a217674b74",
+  "last_seen": "2026-10-07T14:41:37Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1366868/000136686825000101/gsat20250630-ex991.htm",
+  "title": "Second Quarter 2025 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/edgptfvv"
+ },
  "e5c3f8778a62": {
   "company_id": "us-1042893",
   "date": "2026-05-05",
@@ -2957,6 +5531,17 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/1042893/000119312526204105/invx-ex99_1.htm",
   "title": "Q2 2026 Earnings Call",
   "url": "https://events.q4inc.com/attendee/364412720"
+ },
+ "e5c78e9318e1": {
+  "company_id": "us-1385280",
+  "date": null,
+  "first_seen": "2026-10-07T14:42:59Z",
+  "id": "e5c78e9318e1",
+  "last_seen": "2026-10-07T14:42:59Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1385280/000119312526324842/cnk-ex99_1.htm",
+  "title": "Second Quarter 2026 Earnings Call",
+  "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=PQdrLCpN"
  },
  "e65c4fc38a94": {
   "company_id": "us-1164727",
@@ -2969,6 +5554,17 @@
   "title": "Fourth Quarter Earnings Call",
   "url": "https://events.q4inc.com/attendee/445541741"
  },
+ "e65f82f3a97e": {
+  "company_id": "us-1367644",
+  "date": "2026-02-26",
+  "first_seen": "2026-10-07T14:41:38Z",
+  "id": "e65f82f3a97e",
+  "last_seen": "2026-10-07T14:41:38Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1367644/000136764426000012/ebs2025-12x31exhibit99er.htm",
+  "title": "Third Quarter Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/3zrcjovs"
+ },
  "e6b0c252e7ba": {
   "company_id": "us-1173204",
   "date": "2026-08-13",
@@ -2980,12 +5576,67 @@
   "title": "Second Quarter Earnings Call",
   "url": "https://events.q4inc.com/attendee/516480513"
  },
+ "e6fefee633a9": {
+  "company_id": "us-1331520",
+  "date": "2026-07-16",
+  "first_seen": "2026-10-07T14:39:52Z",
+  "id": "e6fefee633a9",
+  "last_seen": "2026-10-07T14:39:52Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1331520/000133152026000106/homb063026earningsrelease.htm",
+  "title": "First Quarter Earnings Call",
+  "url": "https://events.q4inc.com/attendee/346859709"
+ },
+ "e711fad103ba": {
+  "company_id": "us-1013857",
+  "date": "2023-08-23",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "e711fad103ba",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Rosenblatt 3rd Annual Technology Summit",
+  "url": "https://kvgo.com/rosenblatt-3rd-annual-tech-summit/pegasystems-august-2023"
+ },
+ "e71eefd907c3": {
+  "company_id": "us-1232384",
+  "date": null,
+  "first_seen": "2026-10-07T14:35:42Z",
+  "id": "e71eefd907c3",
+  "last_seen": "2026-10-07T14:35:42Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1232384/000123238426000029/trp-03312026xexx991parta.htm",
+  "title": "First Quarter 2026 Earnings Call",
+  "url": "https://www.gowebcasting.com/14393"
+ },
+ "e8847a2724e8": {
+  "company_id": "us-1372612",
+  "date": null,
+  "first_seen": "2026-10-07T14:41:57Z",
+  "id": "e8847a2724e8",
+  "last_seen": "2026-10-07T14:41:57Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1372612/000119312526239239/box-ex99_1.htm",
+  "title": "First Quarter Fiscal 2027 Earnings Call",
+  "url": "https://events.q4inc.com/attendee/791043542"
+ },
+ "e8b1e297b1d6": {
+  "company_id": "us-1385818",
+  "date": "2026-02-03",
+  "first_seen": "2026-10-07T14:43:05Z",
+  "id": "e8b1e297b1d6",
+  "last_seen": "2026-10-07T14:43:05Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1385818/000143774926002799/ex_892737.htm",
+  "title": "Presentation at 909116.htm Exhibit 99.1 Aytu BioPharma Recaps Investor Day",
+  "url": "https://app.webinar.net/Qo7DrDvVzq8"
+ },
  "e8d0a89eea97": {
   "company_id": "us-1000275",
   "date": "2014-03-26",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "e8d0a89eea97",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "National Bank Financialâs Canadian Financial Services Conference",
@@ -3007,7 +5658,7 @@
   "date": "2026-09-16",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "e90f655b8761",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "2026 Barclays Global Financial Services Conference",
@@ -3035,6 +5686,28 @@
   "title": "Second Quarter 2026 Earnings Call",
   "url": "https://events.q4inc.com/attendee/353898444"
  },
+ "ea16cd7e17a2": {
+  "company_id": "us-1013857",
+  "date": "2025-08-13",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "ea16cd7e17a2",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Canaccord Genuity 45th Annual Growth Conference",
+  "url": "https://wsw.com/webcast/canaccord108/pega/2481211"
+ },
+ "eaf30c30cd89": {
+  "company_id": "us-1393584",
+  "date": null,
+  "first_seen": "2026-10-07T14:43:26Z",
+  "id": "eaf30c30cd89",
+  "last_seen": "2026-10-07T14:43:26Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1393584/000119312525264710/amwl-ex99_1.htm",
+  "title": "Q4 2025 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/63sb3bwu"
+ },
  "ec17055199a3": {
   "company_id": "us-1099590",
   "date": "2026-08-05",
@@ -3051,7 +5724,7 @@
   "date": "2023-09-12",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "ecf6731f28d3",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "2023 Barclays Global Financial Services Conference",
@@ -3078,6 +5751,28 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/1389170/000119312526336525/trgp-ex99_1.htm",
   "title": "Second Quarter Earnings Call",
   "url": "https://edge.media-server.com/mmc/p/o7q55fuf/lan/en/"
+ },
+ "ede8833d6ecc": {
+  "company_id": "us-1394056",
+  "date": "2026-05-06",
+  "first_seen": "2026-10-07T14:43:28Z",
+  "id": "ede8833d6ecc",
+  "last_seen": "2026-10-07T14:43:28Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1394056/000119312526212707/oss-ex99_1.htm",
+  "title": "First Quarter Earnings Call",
+  "url": "https://viavid.webcasts.com/starthere.jsp?ei=1756447&tp_key=f17a290f0f"
+ },
+ "edfa4aa291ff": {
+  "company_id": "us-1357874",
+  "date": null,
+  "first_seen": "2026-10-07T14:41:11Z",
+  "id": "edfa4aa291ff",
+  "last_seen": "2026-10-07T14:41:11Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1357874/000162828025051168/a20251108precision_aasldxd.htm",
+  "title": "Webcast",
+  "url": "https://edge.media-server.com/mmc/p/33psx7u6/"
  },
  "ee542d4e6fe3": {
   "company_id": "us-1035267",
@@ -3112,6 +5807,17 @@
   "title": "Fourth Quarter Earnings Call",
   "url": "https://edge.media-server.com/mmc/p/rre7zxb2/"
  },
+ "f0e3e455fa7c": {
+  "company_id": "us-1213809",
+  "date": "2026-03-25",
+  "first_seen": "2026-10-07T14:34:56Z",
+  "id": "f0e3e455fa7c",
+  "last_seen": "2026-10-07T14:34:56Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1213809/000149315226012673/ex99-1.htm",
+  "title": "Webcast",
+  "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=KTBXw5BI"
+ },
  "f1b59dc809a2": {
   "company_id": "us-1070423",
   "date": "2026-02-06",
@@ -3128,29 +5834,62 @@
   "date": "2026-02-19",
   "first_seen": "2026-10-06T15:32:32Z",
   "id": "f1d0ed840144",
-  "last_seen": "2026-10-06T15:32:32Z",
+  "last_seen": "2026-10-07T15:34:59Z",
   "source": "ir-page",
   "source_url": "https://www.nice.com/company/investors/ir-events",
   "title": "Q4 2025 Earnings Conference Call",
   "url": "https://events.q4inc.com/attendee/249953352"
+ },
+ "f1d0fe0ecaf8": {
+  "company_id": "us-1362004",
+  "date": "2026-08-06",
+  "first_seen": "2026-10-07T14:41:26Z",
+  "id": "f1d0fe0ecaf8",
+  "last_seen": "2026-10-07T14:41:26Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1362004/000143774926021568/ex_980889.htm",
+  "title": "Second Quarter 2026 Earnings Call",
+  "url": "https://edge.media-server.com/mmc/p/9yyrfzsf"
+ },
+ "f26f23037532": {
+  "company_id": "us-1331520",
+  "date": "2025-12-08",
+  "first_seen": "2026-10-07T14:39:52Z",
+  "id": "f26f23037532",
+  "last_seen": "2026-10-07T14:39:52Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1331520/000133152025000155/acquisitionpr.htm",
+  "title": "Webcast",
+  "url": "https://www.netroadshow.com/events/login/LE9zwo4ApqgFazguv5uEmrigojVc5nkAbzi"
  },
  "f377c4a77f0f": {
   "company_id": "us-1002047",
   "date": null,
   "first_seen": "2026-10-06T15:31:39Z",
   "id": "f377c4a77f0f",
-  "last_seen": "2026-10-06T15:31:39Z",
+  "last_seen": "2026-10-07T15:34:05Z",
   "source": "ir-page",
   "source_url": "https://investors.netapp.com/overview/default.aspx",
   "title": "LATEST QUARTERLY REPORTS",
   "url": "https://events.q4inc.com/attendee/789041587"
+ },
+ "f37fba4f460c": {
+  "company_id": "us-1013857",
+  "date": "2025-12-02",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "f37fba4f460c",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "UBS Global Technology and AI Conference",
+  "url": "https://event.webcasts.com/starthere.jsp?ei=1742711&tp_key=d4b4c2ad75&tp_special=8"
  },
  "f4b93356e81d": {
   "company_id": "us-1998768",
   "date": "2026-11-12",
   "first_seen": "2026-10-06T14:30:18Z",
   "id": "f4b93356e81d",
-  "last_seen": "2026-10-06T14:30:18Z",
+  "last_seen": "2026-10-07T14:34:34Z",
   "source": "sec-8k",
   "source_url": "https://www.sec.gov/Archives/edgar/data/1998768/000121390026106854/ea030768901ex99-1.htm",
   "title": "Presentation at Stephens Annual Investment Conference",
@@ -3166,6 +5905,17 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/1173382/000117338226000023/caeproxy2026.htm",
   "title": "Webcast",
   "url": "https://meetings.lumiconnect.com/400-470-759-284"
+ },
+ "f6da33806afd": {
+  "company_id": "us-1401040",
+  "date": "2026-08-10",
+  "first_seen": "2026-10-07T14:43:50Z",
+  "id": "f6da33806afd",
+  "last_seen": "2026-10-07T14:43:50Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1401040/000143774926026790/ex_1001907.htm",
+  "title": "Q1 2027 Earnings Call",
+  "url": "https://app.webinar.net/d01wEPk9peA"
  },
  "f6fbe28bdb22": {
   "company_id": "us-1124796",
@@ -3188,6 +5938,17 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/1015383/000149315226036743/ex99-1.htm",
   "title": "First Quarter Fiscal 2027 Earnings Call",
   "url": "https://events.q4inc.com/attendee/378705617"
+ },
+ "f7d8a717178b": {
+  "company_id": "us-1013857",
+  "date": "2024-12-03",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "f7d8a717178b",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "UBS Global Technology and AI Conference",
+  "url": "https://event.webcasts.com/starthere.jsp?ei=1699167&tp_key=97643f59d8&tp_special=8"
  },
  "f8118d5234b3": {
   "company_id": "us-1703399",
@@ -3227,11 +5988,33 @@
   "date": "2026-09-09",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "f8badabcf155",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "2026 Scotiabank Financials Summit",
   "url": "https://onlinexperiences.com/Launch/Event/ShowKey=297694"
+ },
+ "fa7883f0bf92": {
+  "company_id": "us-1406234",
+  "date": "2026-10-09",
+  "first_seen": "2026-10-07T14:44:08Z",
+  "id": "fa7883f0bf92",
+  "last_seen": "2026-10-07T14:44:08Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1406234/000110465926103587/tm2624039d1_ex99-2.htm",
+  "title": "Webcast",
+  "url": "https://meetings.lumiconnect.com/400-793-988-675"
+ },
+ "faf829f555db": {
+  "company_id": "us-1370946",
+  "date": "2025-11-05",
+  "first_seen": "2026-10-07T14:41:53Z",
+  "id": "faf829f555db",
+  "last_seen": "2026-10-07T14:41:53Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1370946/000137094625000239/q32025exh-991pressrelease2.htm",
+  "title": "Third-Quarter 2025 Earnings Call",
+  "url": "https://events.q4inc.com/attendee/643547640"
  },
  "fc24d21a3cf1": {
   "company_id": "us-10329",
@@ -3244,6 +6027,17 @@
   "title": "Second Quarter Earnings Call",
   "url": "https://edge.media-server.com/mmc/p/fpr54xoc"
  },
+ "fc67f02a15c8": {
+  "company_id": "us-1013857",
+  "date": "2025-03-04",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "fc67f02a15c8",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "The Citizens JMP Technology Conference",
+  "url": "https://wsw.com/webcast/jmp64/pega/1656269"
+ },
  "fca45f2d2934": {
   "company_id": "us-1173489",
   "date": "2026-08-10",
@@ -3254,6 +6048,28 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/1173489/000143774926026648/ex_1001319.htm",
   "title": "Second Quarter 2026 Earnings Call",
   "url": "https://app.webinar.net/P3eXEg0zQLb"
+ },
+ "fcdd6230ddcf": {
+  "company_id": "us-1013857",
+  "date": "2021-09-15",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "fcdd6230ddcf",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Jefferies Virtual Software Conference﻿",
+  "url": "https://wsw.com/webcast/jeff195/pega/1831218"
+ },
+ "fd150e5d0a54": {
+  "company_id": "us-1013857",
+  "date": null,
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "fd150e5d0a54",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Pegasystems Inc., 3rd Quarter Earnings 2024",
+  "url": "https://events.q4inc.com/attendee/813806779"
  },
  "fd165b26c9b4": {
   "company_id": "us-1124796",
@@ -3277,12 +6093,23 @@
   "title": "Second Quarter Earnings Call",
   "url": "https://events.q4inc.com/attendee/786717759"
  },
+ "fdd87bfe3254": {
+  "company_id": "us-1370946",
+  "date": "2026-05-06",
+  "first_seen": "2026-10-07T14:41:53Z",
+  "id": "fdd87bfe3254",
+  "last_seen": "2026-10-07T14:41:53Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1370946/000137094626000143/q12026exh-991pressrelease.htm",
+  "title": "First-Quarter 2026 Earnings Call",
+  "url": "https://events.q4inc.com/attendee/708832778"
+ },
  "fde943ce2837": {
   "company_id": "us-1000275",
   "date": "2025-01-07",
   "first_seen": "2026-10-06T15:29:54Z",
   "id": "fde943ce2837",
-  "last_seen": "2026-10-06T15:29:54Z",
+  "last_seen": "2026-10-07T15:32:20Z",
   "source": "ir-page",
   "source_url": "https://www.rbc.com/investor-relations/events-and-presentations.html",
   "title": "RBC Capital Markets Canadian Bank CEO Conference",
@@ -3298,6 +6125,39 @@
   "source_url": "https://www.sec.gov/Archives/edgar/data/1070423/000107042326000017/paa05082026exhibit991.htm",
   "title": "First-Quarter 2026 Earnings Call",
   "url": "https://edge.media-server.com/mmc/p/3u4m5omt/lan/en/"
+ },
+ "ff25f4c16a25": {
+  "company_id": "us-1345099",
+  "date": "2026-04-08",
+  "first_seen": "2026-10-07T14:40:44Z",
+  "id": "ff25f4c16a25",
+  "last_seen": "2026-10-07T14:40:44Z",
+  "source": "sec-8k",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1345099/000134509926000045/exhibit991rddaypresentat.htm",
+  "title": "Webcast",
+  "url": "https://webcast.openbriefing.com/msb-inv-2026/"
+ },
+ "ff56da58bb74": {
+  "company_id": "us-1013857",
+  "date": "2023-09-07",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "ff56da58bb74",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "Citi’s 2023 Global Technology Conference",
+  "url": "https://kvgo.com/2023-global-technology-conference/pegasystems-inc-september"
+ },
+ "ff6bed6db372": {
+  "company_id": "us-1013857",
+  "date": "2021-11-16",
+  "first_seen": "2026-10-07T15:32:15Z",
+  "id": "ff6bed6db372",
+  "last_seen": "2026-10-07T15:32:15Z",
+  "source": "ir-page",
+  "source_url": "https://www.pega.com/about/investors",
+  "title": "RBC Capital Markets’ Global Technology, Internet, Media, and Telecom Conference",
+  "url": "https://kvgo.com/rbc-global-tech/pegasystems-nov-2021"
  },
  "ffa1c3a4dece": {
   "company_id": "us-1083446",
