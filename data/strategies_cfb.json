@@ -27358,7 +27358,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "USM +10.5",
-          "lean": -1.6
+          "lean": -1.6,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -27366,7 +27368,9 @@
           "team": "TROY",
           "price": -410,
           "stake": 100.0,
-          "pick": "TROY ML -410"
+          "pick": "TROY ML -410",
+          "result": "win",
+          "pnl": 24.39
         },
         "value": [
           {
@@ -27381,7 +27385,9 @@
             "kelly": 0.0098,
             "confidence": "low",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           }
         ],
         "bankroll": [
@@ -27398,11 +27404,15 @@
             "confidence": "low",
             "book": "Draft Kings",
             "stake": 17.19,
-            "bankroll_at_bet": 1754.11
+            "bankroll_at_bet": 1754.11,
+            "result": "loss",
+            "pnl": -17.19
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 55,
+      "away_score": 34
     },
     "401871051": {
       "game_id": "401871051",

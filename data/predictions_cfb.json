@@ -11886,10 +11886,18 @@
         "pick": "USM +10.5",
         "line": 10.5,
         "price": -110,
-        "edge": 1.6
+        "edge": 1.6,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 55,
+    "away_score": 34,
+    "actual_margin": 21,
+    "su_correct": true,
+    "brier": 0.0552,
+    "margin_err": 12.1,
+    "total_err": 39.9
   },
   "401871051": {
     "id": "401871051",
