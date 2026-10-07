@@ -27511,6 +27511,322 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401870766": {
+      "game_id": "401870766",
+      "league": "cfb",
+      "season": 2026,
+      "week": 6,
+      "kickoff": "2026-10-08T23:00Z",
+      "locked_at": "2026-10-07T21:54:12+00:00",
+      "home": "LIB",
+      "away": "SHSU",
+      "home_full": "Liberty Flames",
+      "away_full": "Sam Houston Bearkats",
+      "line": {
+        "home_spread": -13.5,
+        "total": 52.5,
+        "home_ml": -550,
+        "away_ml": 410,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 12.8,
+        "proj_total": 52.6,
+        "proj_home_score": 32.7,
+        "proj_away_score": 19.9,
+        "home_win_prob": 0.8261
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "SHSU",
+          "line": 13.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "SHSU +13.5",
+          "lean": -0.7
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "LIB",
+          "price": -550,
+          "stake": 100.0,
+          "pick": "LIB ML -550"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401871052": {
+      "game_id": "401871052",
+      "league": "cfb",
+      "season": 2026,
+      "week": 6,
+      "kickoff": "2026-10-08T23:00Z",
+      "locked_at": "2026-10-07T21:54:12+00:00",
+      "home": "WKU",
+      "away": "MOST",
+      "home_full": "Western Kentucky Hilltoppers",
+      "away_full": "Missouri State Bears",
+      "line": {
+        "home_spread": -3.0,
+        "total": 56.5,
+        "home_ml": -142,
+        "away_ml": 120,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 2.1,
+        "proj_total": 57.4,
+        "proj_home_score": 29.7,
+        "proj_away_score": 27.6,
+        "home_win_prob": 0.5686
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "MOST",
+          "line": 3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "MOST +3",
+          "lean": -0.9
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "WKU",
+          "price": -142,
+          "stake": 100.0,
+          "pick": "WKU ML -142"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401862794": {
+      "game_id": "401862794",
+      "league": "cfb",
+      "season": 2026,
+      "week": 6,
+      "kickoff": "2026-10-08T23:30Z",
+      "locked_at": "2026-10-07T21:54:12+00:00",
+      "home": "UTSA",
+      "away": "USF",
+      "home_full": "UTSA Roadrunners",
+      "away_full": "South Florida Bulls",
+      "line": {
+        "home_spread": -7.0,
+        "total": 49.5,
+        "home_ml": -270,
+        "away_ml": 220,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 5.0,
+        "proj_total": 50.6,
+        "proj_home_score": 27.8,
+        "proj_away_score": 22.8,
+        "home_win_prob": 0.6754
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "USF",
+          "line": 7.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "USF +7",
+          "lean": -2.0
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "UTSA",
+          "price": -270,
+          "stake": 100.0,
+          "pick": "UTSA ML -270"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "USF",
+            "pick": "USF +7",
+            "line": 7.0,
+            "price": -110,
+            "ev": 0.056,
+            "edge": 2.0,
+            "kelly": 0.0153,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "USF",
+            "pick": "USF ML +220",
+            "line": 220,
+            "price": 220,
+            "ev": 0.039,
+            "edge": 2.5,
+            "kelly": 0.0044,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "USF",
+            "pick": "USF +7",
+            "line": 7.0,
+            "price": -110,
+            "ev": 0.056,
+            "edge": 2.0,
+            "kelly": 0.0153,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 26.57,
+            "bankroll_at_bet": 1736.92
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "USF",
+            "pick": "USF ML +220",
+            "line": 220,
+            "price": 220,
+            "ev": 0.039,
+            "edge": 2.5,
+            "kelly": 0.0044,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 7.64,
+            "bankroll_at_bet": 1736.92
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401869933": {
+      "game_id": "401869933",
+      "league": "cfb",
+      "season": 2026,
+      "week": 6,
+      "kickoff": "2026-10-08T23:30Z",
+      "locked_at": "2026-10-07T21:54:12+00:00",
+      "home": "ARST",
+      "away": "USA",
+      "home_full": "Arkansas State Red Wolves",
+      "away_full": "South Alabama Jaguars",
+      "line": {
+        "home_spread": -1.5,
+        "total": 60.5,
+        "home_ml": -120,
+        "away_ml": 100,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 3.3,
+        "proj_total": 60.5,
+        "proj_home_score": 31.9,
+        "proj_away_score": 28.6,
+        "home_win_prob": 0.5723
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "ARST",
+          "line": -1.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "ARST -1.5",
+          "lean": 1.8
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "ARST",
+          "price": -120,
+          "stake": 100.0,
+          "pick": "ARST ML -120"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "ARST",
+            "pick": "ARST ML -120",
+            "line": -120,
+            "price": -120,
+            "ev": 0.049,
+            "edge": 5.1,
+            "kelly": 0.0148,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "ARST",
+            "pick": "ARST -1.5",
+            "line": -1.5,
+            "price": -110,
+            "ev": 0.046,
+            "edge": 1.8,
+            "kelly": 0.0126,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "ARST",
+            "pick": "ARST ML -120",
+            "line": -120,
+            "price": -120,
+            "ev": 0.049,
+            "edge": 5.1,
+            "kelly": 0.0148,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 25.71,
+            "bankroll_at_bet": 1736.92
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "ARST",
+            "pick": "ARST -1.5",
+            "line": -1.5,
+            "price": -110,
+            "ev": 0.046,
+            "edge": 1.8,
+            "kelly": 0.0126,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 21.89,
+            "bankroll_at_bet": 1736.92
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
