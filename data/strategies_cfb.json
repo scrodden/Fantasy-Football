@@ -27448,7 +27448,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "JXST -3",
-          "lean": -1.1
+          "lean": -1.1,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -27456,12 +27458,16 @@
           "team": "JXST",
           "price": -148,
           "stake": 100.0,
-          "pick": "JXST ML -148"
+          "pick": "JXST ML -148",
+          "result": "win",
+          "pnl": 67.57
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 26,
+      "away_score": 27
     },
     "401871066": {
       "game_id": "401871066",
@@ -27497,7 +27503,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "NMSU +6.5",
-          "lean": -0.6
+          "lean": -0.6,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -27505,12 +27513,16 @@
           "team": "FIU",
           "price": -238,
           "stake": 100.0,
-          "pick": "FIU ML -238"
+          "pick": "FIU ML -238",
+          "result": "win",
+          "pnl": 42.02
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 22,
+      "away_score": 3
     },
     "401870766": {
       "game_id": "401870766",
