@@ -2601,7 +2601,8 @@
         "pick": "TB ML +370",
         "line": 370,
         "price": 370,
-        "edge": 5.8
+        "edge": 5.8,
+        "result": "win"
       },
       {
         "market": "spread",
@@ -2609,7 +2610,8 @@
         "pick": "TB +9.5",
         "line": 9.5,
         "price": -110,
-        "edge": 3.0
+        "edge": 3.0,
+        "result": "win"
       },
       {
         "market": "total",
@@ -2617,10 +2619,18 @@
         "pick": "Over 47.5",
         "line": 47.5,
         "price": -110,
-        "edge": 3.0
+        "edge": 3.0,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 16,
+    "away_score": 24,
+    "actual_margin": -8,
+    "su_correct": false,
+    "brier": 0.5439,
+    "margin_err": 14.5,
+    "total_err": 10.5
   },
   "401872981": {
     "id": "401872981",

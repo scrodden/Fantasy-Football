@@ -185,18 +185,18 @@
       "last_date": "2026-10-02T00:15Z"
     },
     "6": {
-      "rating": 1522.7519179895328,
+      "rating": 1492.936793712512,
       "name": "Cowboys",
       "abbr": "DAL",
-      "gp": 6,
-      "last_date": "2026-10-04T17:00Z"
+      "gp": 7,
+      "last_date": "2026-10-09T00:15Z"
     },
     "27": {
-      "rating": 1421.3516025219196,
+      "rating": 1451.1667267989403,
       "name": "Buccaneers",
       "abbr": "TB",
-      "gp": 5,
-      "last_date": "2026-10-04T17:00Z"
+      "gp": 6,
+      "last_date": "2026-10-09T00:15Z"
     },
     "28": {
       "rating": 1416.073108486473,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-10-06T00:15Z",
+    "last_game_date": "2026-10-09T00:15Z",
     "season": 2026,
-    "n_games": 659,
+    "n_games": 660,
     "signals": {
       "weather": true,
       "travel": true,

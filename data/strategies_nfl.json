@@ -5821,7 +5821,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "TB +8.5",
-          "lean": -2.2
+          "lean": -2.2,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -5829,7 +5831,9 @@
           "team": "DAL",
           "price": -470,
           "stake": 100.0,
-          "pick": "DAL ML -470"
+          "pick": "DAL ML -470",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [
           {
@@ -5844,7 +5848,9 @@
             "kelly": 0.0167,
             "confidence": "medium",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 360.0
           },
           {
             "market": "spread",
@@ -5858,7 +5864,9 @@
             "kelly": 0.0273,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           }
         ],
         "bankroll": [
@@ -5875,7 +5883,9 @@
             "confidence": "medium",
             "book": "DraftKings",
             "stake": 128.31,
-            "bankroll_at_bet": 7683.49
+            "bankroll_at_bet": 7683.49,
+            "result": "win",
+            "pnl": 461.92
           },
           {
             "market": "total",
@@ -5890,7 +5900,9 @@
             "confidence": "low",
             "book": null,
             "stake": 258.93,
-            "bankroll_at_bet": 7683.49
+            "bankroll_at_bet": 7683.49,
+            "result": "loss",
+            "pnl": -258.93
           },
           {
             "market": "spread",
@@ -5905,11 +5917,15 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 209.76,
-            "bankroll_at_bet": 7683.49
+            "bankroll_at_bet": 7683.49,
+            "result": "win",
+            "pnl": 190.69
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 16,
+      "away_score": 24
     }
   }
 }

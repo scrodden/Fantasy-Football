@@ -11975,7 +11975,14 @@
       "away_ml": 440
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 35,
+    "away_score": 3,
+    "actual_margin": 32,
+    "su_correct": true,
+    "brier": 0.0285,
+    "margin_err": 19.2,
+    "total_err": 14.6
   },
   "401871052": {
     "id": "401871052",
@@ -11993,7 +12000,14 @@
       "away_ml": 110
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 34,
+    "away_score": 13,
+    "actual_margin": 21,
+    "su_correct": true,
+    "brier": 0.1981,
+    "margin_err": 19.2,
+    "total_err": 9.9
   },
   "401862794": {
     "id": "401862794",
@@ -12017,7 +12031,8 @@
         "pick": "USF +7",
         "line": 7.0,
         "price": -110,
-        "edge": 3.9
+        "edge": 3.9,
+        "result": "push"
       },
       {
         "market": "moneyline",
@@ -12025,10 +12040,18 @@
         "pick": "USF ML +225",
         "line": 225,
         "price": 225,
-        "edge": 5.4
+        "edge": 5.4,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 31,
+    "away_score": 24,
+    "actual_margin": 7,
+    "su_correct": true,
+    "brier": 0.1245,
+    "margin_err": 3.9,
+    "total_err": 3.1
   },
   "401869933": {
     "id": "401869933",
@@ -12052,10 +12075,18 @@
         "pick": "ARST ML -115",
         "line": -115,
         "price": -115,
-        "edge": 3.9
+        "edge": 3.9,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 49,
+    "away_score": 56,
+    "actual_margin": -7,
+    "su_correct": false,
+    "brier": 0.3066,
+    "margin_err": 9.3,
+    "total_err": 45.8
   },
   "401858254": {
     "id": "401858254",
