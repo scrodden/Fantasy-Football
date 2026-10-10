@@ -6971,6 +6971,130 @@
         ]
       },
       "settled": false
+    },
+    "401872993": {
+      "game_id": "401872993",
+      "league": "nfl",
+      "season": 2026,
+      "week": 5,
+      "kickoff": "2026-10-12T00:20Z",
+      "locked_at": "2026-10-10T19:55:02+00:00",
+      "home": "ATL",
+      "away": "BAL",
+      "home_full": "Atlanta Falcons",
+      "away_full": "Baltimore Ravens",
+      "line": {
+        "home_spread": -3.0,
+        "total": 43.5,
+        "home_ml": -180,
+        "away_ml": 150,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -0.1,
+        "proj_total": 45.5,
+        "proj_home_score": 22.7,
+        "proj_away_score": 22.8,
+        "home_win_prob": 0.5286
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "BAL",
+          "line": 3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "BAL +3",
+          "lean": -3.1
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "BAL",
+          "price": 150,
+          "stake": 100.0,
+          "pick": "BAL ML +150"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "BAL",
+            "pick": "BAL ML +150",
+            "line": 150,
+            "price": 150,
+            "ev": 0.178,
+            "edge": 8.8,
+            "kelly": 0.0297,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "BAL",
+            "pick": "BAL +3",
+            "line": 3.0,
+            "price": -110,
+            "ev": 0.157,
+            "edge": 3.1,
+            "kelly": 0.0433,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "BAL",
+            "pick": "BAL ML +150",
+            "line": 150,
+            "price": 150,
+            "ev": 0.178,
+            "edge": 8.8,
+            "kelly": 0.0297,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 239.89,
+            "bankroll_at_bet": 8077.17
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "BAL",
+            "pick": "BAL +3",
+            "line": 3.0,
+            "price": -110,
+            "ev": 0.157,
+            "edge": 3.1,
+            "kelly": 0.0433,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 349.74,
+            "bankroll_at_bet": 8077.17
+          },
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 43.5",
+            "line": 43.5,
+            "price": -110,
+            "ev": 0.067,
+            "edge": 2.0,
+            "kelly": 0.0184,
+            "confidence": "low",
+            "book": null,
+            "stake": 148.62,
+            "bankroll_at_bet": 8077.17
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
