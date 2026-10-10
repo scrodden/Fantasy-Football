@@ -27913,12 +27913,16 @@
           "team": "LOU",
           "price": -180,
           "stake": 100.0,
-          "pick": "LOU ML -180"
+          "pick": "LOU ML -180",
+          "result": "win",
+          "pnl": 55.56
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 44,
+      "away_score": 20
     },
     "401858487": {
       "game_id": "401858487",
@@ -27954,7 +27958,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "IOWA +3",
-          "lean": -2.7
+          "lean": -2.7,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -27962,7 +27968,9 @@
           "team": "WASH",
           "price": -155,
           "stake": 100.0,
-          "pick": "WASH ML -155"
+          "pick": "WASH ML -155",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [
           {
@@ -27977,7 +27985,9 @@
             "kelly": 0.025,
             "confidence": "low",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           },
           {
             "market": "moneyline",
@@ -27991,7 +28001,9 @@
             "kelly": 0.0085,
             "confidence": "medium",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 130.0
           }
         ],
         "bankroll": [
@@ -28008,7 +28020,9 @@
             "confidence": "low",
             "book": "Draft Kings",
             "stake": 43.42,
-            "bankroll_at_bet": 1736.92
+            "bankroll_at_bet": 1736.92,
+            "result": "win",
+            "pnl": 39.47
           },
           {
             "market": "moneyline",
@@ -28023,11 +28037,15 @@
             "confidence": "medium",
             "book": "Draft Kings",
             "stake": 14.76,
-            "bankroll_at_bet": 1736.92
+            "bankroll_at_bet": 1736.92,
+            "result": "win",
+            "pnl": 19.19
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 24,
+      "away_score": 41
     },
     "401860922": {
       "game_id": "401860922",
@@ -28063,7 +28081,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "WSU +5.5",
-          "lean": -2.2
+          "lean": -2.2,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -28071,7 +28091,9 @@
           "team": "USU",
           "price": -205,
           "stake": 100.0,
-          "pick": "USU ML -205"
+          "pick": "USU ML -205",
+          "result": "win",
+          "pnl": 48.78
         },
         "value": [
           {
@@ -28086,7 +28108,9 @@
             "kelly": 0.0181,
             "confidence": "low",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           }
         ],
         "bankroll": [
@@ -28103,11 +28127,15 @@
             "confidence": "low",
             "book": "Draft Kings",
             "stake": 31.44,
-            "bankroll_at_bet": 1736.92
+            "bankroll_at_bet": 1736.92,
+            "result": "win",
+            "pnl": 28.58
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 17,
+      "away_score": 16
     },
     "401864519": {
       "game_id": "401864519",
@@ -28143,7 +28171,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "WYO +4.5",
-          "lean": -0.6
+          "lean": -0.6,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -28151,12 +28181,16 @@
           "team": "SJSU",
           "price": -192,
           "stake": 100.0,
-          "pick": "SJSU ML -192"
+          "pick": "SJSU ML -192",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 13,
+      "away_score": 16
     },
     "401856826": {
       "game_id": "401856826",
@@ -28192,7 +28226,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "BYU -10.5",
-          "lean": 2.4
+          "lean": 2.4,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -28200,7 +28236,9 @@
           "team": "BYU",
           "price": -410,
           "stake": 100.0,
-          "pick": "BYU ML -410"
+          "pick": "BYU ML -410",
+          "result": "win",
+          "pnl": 24.39
         },
         "value": [
           {
@@ -28215,7 +28253,9 @@
             "kelly": 0.0209,
             "confidence": "low",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           }
         ],
         "bankroll": [
@@ -28232,7 +28272,9 @@
             "confidence": "low",
             "book": null,
             "stake": 50.54,
-            "bankroll_at_bet": 1736.92
+            "bankroll_at_bet": 1736.92,
+            "result": "loss",
+            "pnl": -50.54
           },
           {
             "market": "spread",
@@ -28247,11 +28289,15 @@
             "confidence": "low",
             "book": "Draft Kings",
             "stake": 36.3,
-            "bankroll_at_bet": 1736.92
+            "bankroll_at_bet": 1736.92,
+            "result": "win",
+            "pnl": 33.0
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 24,
+      "away_score": 10
     },
     "401858481": {
       "game_id": "401858481",

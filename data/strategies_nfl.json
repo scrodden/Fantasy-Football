@@ -5926,6 +5926,115 @@
       "settled": true,
       "home_score": 16,
       "away_score": 24
+    },
+    "401872981": {
+      "game_id": "401872981",
+      "league": "nfl",
+      "season": 2026,
+      "week": 5,
+      "kickoff": "2026-10-11T13:30Z",
+      "locked_at": "2026-10-10T08:17:28+00:00",
+      "home": "JAX",
+      "away": "PHI",
+      "home_full": "Jacksonville Jaguars",
+      "away_full": "Philadelphia Eagles",
+      "line": {
+        "home_spread": -7.5,
+        "total": 41.5,
+        "home_ml": -410,
+        "away_ml": 320,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 5.1,
+        "proj_total": 40.8,
+        "proj_home_score": 23.0,
+        "proj_away_score": 17.9,
+        "home_win_prob": 0.6936
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "PHI",
+          "line": 7.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "PHI +7.5",
+          "lean": -2.4
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "JAX",
+          "price": -410,
+          "stake": 100.0,
+          "pick": "JAX ML -410"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "PHI",
+            "pick": "PHI ML +320",
+            "line": 320,
+            "price": 320,
+            "ev": 0.287,
+            "edge": 7.8,
+            "kelly": 0.0224,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "PHI",
+            "pick": "PHI +7.5",
+            "line": 7.5,
+            "price": -110,
+            "ev": 0.112,
+            "edge": 2.4,
+            "kelly": 0.0309,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "PHI",
+            "pick": "PHI ML +320",
+            "line": 320,
+            "price": 320,
+            "ev": 0.287,
+            "edge": 7.8,
+            "kelly": 0.0224,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 180.93,
+            "bankroll_at_bet": 8077.17
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "PHI",
+            "pick": "PHI +7.5",
+            "line": 7.5,
+            "price": -110,
+            "ev": 0.112,
+            "edge": 2.4,
+            "kelly": 0.0309,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 249.58,
+            "bankroll_at_bet": 8077.17
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
