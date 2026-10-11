@@ -2654,7 +2654,8 @@
         "pick": "PHI +7",
         "line": 7.0,
         "price": -110,
-        "edge": 2.0
+        "edge": 2.0,
+        "result": "win"
       },
       {
         "market": "moneyline",
@@ -2662,10 +2663,18 @@
         "pick": "PHI ML +230",
         "line": 230,
         "price": 230,
-        "edge": 3.3
+        "edge": 3.3,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 19,
+    "away_score": 17,
+    "actual_margin": 2,
+    "su_correct": true,
+    "brier": 0.1047,
+    "margin_err": 3.0,
+    "total_err": 5.1
   },
   "401872990": {
     "id": "401872990",

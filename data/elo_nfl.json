@@ -24,11 +24,11 @@
       "last_date": "2026-10-04T17:00Z"
     },
     "21": {
-      "rating": 1500.4796834284607,
+      "rating": 1493.1888442019856,
       "name": "Eagles",
       "abbr": "PHI",
-      "gp": 6,
-      "last_date": "2026-10-04T17:00Z"
+      "gp": 7,
+      "last_date": "2026-10-11T13:30Z"
     },
     "9": {
       "rating": 1516.4623318382037,
@@ -115,11 +115,11 @@
       "last_date": "2026-10-04T20:05Z"
     },
     "30": {
-      "rating": 1583.5949055210497,
+      "rating": 1590.8857447475248,
       "name": "Jaguars",
       "abbr": "JAX",
-      "gp": 6,
-      "last_date": "2026-10-04T17:00Z"
+      "gp": 7,
+      "last_date": "2026-10-11T13:30Z"
     },
     "18": {
       "rating": 1396.6123086436774,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-10-09T00:15Z",
+    "last_game_date": "2026-10-11T13:30Z",
     "season": 2026,
-    "n_games": 660,
+    "n_games": 661,
     "signals": {
       "weather": true,
       "travel": true,
