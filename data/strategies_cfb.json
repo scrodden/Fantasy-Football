@@ -32144,7 +32144,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "FRES +7",
-          "lean": 4.3
+          "lean": 4.3,
+          "result": "push",
+          "pnl": 0.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -32152,7 +32154,9 @@
           "team": "BOIS",
           "price": -258,
           "stake": 100.0,
-          "pick": "BOIS ML -258"
+          "pick": "BOIS ML -258",
+          "result": "win",
+          "pnl": 38.76
         },
         "value": [
           {
@@ -32167,7 +32171,9 @@
             "kelly": 0.0204,
             "confidence": "high",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           },
           {
             "market": "spread",
@@ -32181,7 +32187,9 @@
             "kelly": 0.0467,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "push",
+            "pnl": 0.0
           }
         ],
         "bankroll": [
@@ -32198,7 +32206,9 @@
             "confidence": "high",
             "book": "DraftKings",
             "stake": 34.31,
-            "bankroll_at_bet": 1681.68
+            "bankroll_at_bet": 1681.68,
+            "result": "loss",
+            "pnl": -34.31
           },
           {
             "market": "spread",
@@ -32213,11 +32223,15 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 78.53,
-            "bankroll_at_bet": 1681.68
+            "bankroll_at_bet": 1681.68,
+            "result": "push",
+            "pnl": 0.0
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 31,
+      "away_score": 38
     },
     "401856808": {
       "game_id": "401856808",
@@ -32253,7 +32267,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "HAW +21",
-          "lean": -4.7
+          "lean": -4.7,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -32261,7 +32277,9 @@
           "team": "ASU",
           "price": -1600,
           "stake": 100.0,
-          "pick": "ASU ML -1600"
+          "pick": "ASU ML -1600",
+          "result": "win",
+          "pnl": 6.25
         },
         "value": [
           {
@@ -32276,7 +32294,9 @@
             "kelly": 0.0521,
             "confidence": "medium",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           }
         ],
         "bankroll": [
@@ -32293,11 +32313,15 @@
             "confidence": "medium",
             "book": "DraftKings",
             "stake": 87.62,
-            "bankroll_at_bet": 1681.68
+            "bankroll_at_bet": 1681.68,
+            "result": "win",
+            "pnl": 79.65
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 30,
+      "away_score": 12
     }
   }
 }
