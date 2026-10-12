@@ -32322,6 +32322,104 @@
       "settled": true,
       "home_score": 30,
       "away_score": 12
+    },
+    "401871067": {
+      "game_id": "401871067",
+      "league": "cfb",
+      "season": 2026,
+      "week": 7,
+      "kickoff": "2026-10-13T23:00Z",
+      "locked_at": "2026-10-12T18:52:31+00:00",
+      "home": "MTSU",
+      "away": "DEL",
+      "home_full": "Middle Tennessee Blue Raiders",
+      "away_full": "Delaware Blue Hens",
+      "line": {
+        "home_spread": 1.5,
+        "total": 47.5,
+        "home_ml": 102,
+        "away_ml": -122,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -2.2,
+        "proj_total": 49.2,
+        "proj_home_score": 23.5,
+        "proj_away_score": 25.7,
+        "home_win_prob": 0.4568
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "DEL",
+          "line": -1.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "DEL -1.5",
+          "lean": -0.7
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "DEL",
+          "price": -122,
+          "stake": 100.0,
+          "pick": "DEL ML -122"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401871053": {
+      "game_id": "401871053",
+      "league": "cfb",
+      "season": 2026,
+      "week": 7,
+      "kickoff": "2026-10-14T00:00Z",
+      "locked_at": "2026-10-12T18:52:31+00:00",
+      "home": "JXST",
+      "away": "FIU",
+      "home_full": "Jacksonville State Gamecocks",
+      "away_full": "Florida International Panthers",
+      "line": {
+        "home_spread": -3.0,
+        "total": 43.5,
+        "home_ml": -142,
+        "away_ml": 120,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 3.2,
+        "proj_total": 41.7,
+        "proj_home_score": 22.5,
+        "proj_away_score": 19.3,
+        "home_win_prob": 0.5883
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "JXST",
+          "line": -3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "JXST -3",
+          "lean": 0.2
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "JXST",
+          "price": -142,
+          "stake": 100.0,
+          "pick": "JXST ML -142"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
