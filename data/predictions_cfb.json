@@ -13865,5 +13865,1781 @@
     "brier": 0.122,
     "margin_err": 2.2,
     "total_err": 20.5
+  },
+  "401871067": {
+    "id": "401871067",
+    "league": "cfb",
+    "date": "2026-10-13T23:00Z",
+    "home": "MTSU",
+    "away": "DEL",
+    "proj_margin": -2.6,
+    "proj_total": 49.2,
+    "home_win_prob": 0.4385,
+    "market": {
+      "home_spread": 2.5,
+      "total": 47.5,
+      "home_ml": 114,
+      "away_ml": -135
+    },
+    "bets": [],
+    "settled": false
+  },
+  "401871053": {
+    "id": "401871053",
+    "league": "cfb",
+    "date": "2026-10-14T00:00Z",
+    "home": "JXST",
+    "away": "FIU",
+    "proj_margin": 3.2,
+    "proj_total": 41.7,
+    "home_win_prob": 0.5883,
+    "market": {
+      "home_spread": -3.0,
+      "total": 43.5,
+      "home_ml": -142,
+      "away_ml": 120
+    },
+    "bets": [],
+    "settled": false
+  },
+  "401871054": {
+    "id": "401871054",
+    "league": "cfb",
+    "date": "2026-10-14T23:30Z",
+    "home": "MOST",
+    "away": "KENN",
+    "proj_margin": 0.1,
+    "proj_total": 51.1,
+    "home_win_prob": 0.4677,
+    "market": {
+      "home_spread": 3.0,
+      "total": 51.5,
+      "home_ml": 136,
+      "away_ml": -162
+    },
+    "bets": [
+      {
+        "market": "moneyline",
+        "side": "home",
+        "pick": "MOST ML +140",
+        "line": 140,
+        "price": 140,
+        "edge": 6.5
+      },
+      {
+        "market": "spread",
+        "side": "home",
+        "pick": "MOST +3",
+        "line": 3.0,
+        "price": -110,
+        "edge": 3.1
+      }
+    ],
+    "settled": false
+  },
+  "401871068": {
+    "id": "401871068",
+    "league": "cfb",
+    "date": "2026-10-15T00:00Z",
+    "home": "SHSU",
+    "away": "WKU",
+    "proj_margin": -3.5,
+    "proj_total": 52.6,
+    "home_win_prob": 0.4415,
+    "market": {
+      "home_spread": 1.5,
+      "total": 52.5,
+      "home_ml": -105,
+      "away_ml": -115
+    },
+    "bets": [
+      {
+        "market": "spread",
+        "side": "away",
+        "pick": "WKU -1",
+        "line": -1.0,
+        "price": -110,
+        "edge": 2.2
+      },
+      {
+        "market": "moneyline",
+        "side": "away",
+        "pick": "WKU ML -115",
+        "line": -115,
+        "price": -115,
+        "edge": 4.8
+      }
+    ],
+    "settled": false
+  },
+  "401862800": {
+    "id": "401862800",
+    "league": "cfb",
+    "date": "2026-10-15T23:30Z",
+    "home": "UAB",
+    "away": "ECU",
+    "proj_margin": -7.2,
+    "proj_total": 47.7,
+    "home_win_prob": 0.3299,
+    "market": {
+      "home_spread": 4.5,
+      "total": 48.5,
+      "home_ml": 160,
+      "away_ml": -192
+    },
+    "bets": [
+      {
+        "market": "spread",
+        "side": "away",
+        "pick": "ECU -4.5",
+        "line": -4.5,
+        "price": -110,
+        "edge": 2.7
+      }
+    ],
+    "settled": false
+  },
+  "401869950": {
+    "id": "401869950",
+    "league": "cfb",
+    "date": "2026-10-15T23:30Z",
+    "home": "ODU",
+    "away": "GASO",
+    "proj_margin": -0.4,
+    "proj_total": 44.8,
+    "home_win_prob": 0.4519,
+    "market": {
+      "home_spread": 4.0,
+      "total": 46.5,
+      "home_ml": 154,
+      "away_ml": -185
+    },
+    "bets": [
+      {
+        "market": "moneyline",
+        "side": "home",
+        "pick": "ODU ML +154",
+        "line": 154,
+        "price": 154,
+        "edge": 7.0
+      },
+      {
+        "market": "spread",
+        "side": "home",
+        "pick": "ODU +4",
+        "line": 4.0,
+        "price": -110,
+        "edge": 3.4
+      }
+    ],
+    "settled": false
+  },
+  "401860923": {
+    "id": "401860923",
+    "league": "cfb",
+    "date": "2026-10-16T00:00Z",
+    "home": "TXST",
+    "away": "CSU",
+    "proj_margin": 14.0,
+    "proj_total": 72.9,
+    "home_win_prob": 0.8346,
+    "market": {
+      "home_spread": -13.5,
+      "total": 68.5,
+      "home_ml": -500,
+      "away_ml": 380
+    },
+    "bets": [
+      {
+        "market": "total",
+        "side": "over",
+        "pick": "Over 68.5",
+        "line": 68.5,
+        "price": -110,
+        "edge": 4.4
+      }
+    ],
+    "settled": false
+  },
+  "401862801": {
+    "id": "401862801",
+    "league": "cfb",
+    "date": "2026-10-16T23:30Z",
+    "home": "TULN",
+    "away": "MEM",
+    "proj_margin": -5.9,
+    "proj_total": 51.1,
+    "home_win_prob": 0.3267,
+    "market": {
+      "home_spread": 7.0,
+      "total": 53.5,
+      "home_ml": 205,
+      "away_ml": -250
+    },
+    "bets": [
+      {
+        "market": "total",
+        "side": "under",
+        "pick": "Under 53.5",
+        "line": 53.5,
+        "price": -110,
+        "edge": 2.4
+      },
+      {
+        "market": "moneyline",
+        "side": "home",
+        "pick": "TULN ML +220",
+        "line": 220,
+        "price": 220,
+        "edge": 2.2
+      }
+    ],
+    "settled": false
+  },
+  "401858493": {
+    "id": "401858493",
+    "league": "cfb",
+    "date": "2026-10-17T00:00Z",
+    "home": "PUR",
+    "away": "WASH",
+    "proj_margin": 0.1,
+    "proj_total": 55.2,
+    "home_win_prob": 0.5444,
+    "market": {
+      "home_spread": -3.0,
+      "total": 52.5,
+      "home_ml": -162,
+      "away_ml": 136
+    },
+    "bets": [
+      {
+        "market": "spread",
+        "side": "away",
+        "pick": "WASH +3",
+        "line": 3.0,
+        "price": -110,
+        "edge": 2.9
+      },
+      {
+        "market": "total",
+        "side": "over",
+        "pick": "Over 52.5",
+        "line": 52.5,
+        "price": -110,
+        "edge": 2.7
+      },
+      {
+        "market": "moneyline",
+        "side": "away",
+        "pick": "WASH ML +136",
+        "line": 136,
+        "price": 136,
+        "edge": 4.2
+      }
+    ],
+    "settled": false
+  },
+  "401869844": {
+    "id": "401869844",
+    "league": "cfb",
+    "date": "2026-10-17T00:00Z",
+    "home": "CCU",
+    "away": "APP",
+    "proj_margin": 0.1,
+    "proj_total": 49.3,
+    "home_win_prob": 0.4997,
+    "market": {
+      "home_spread": 1.5,
+      "total": 51.5,
+      "home_ml": -102,
+      "away_ml": -118
+    },
+    "bets": [
+      {
+        "market": "total",
+        "side": "under",
+        "pick": "Under 51.75",
+        "line": 51.75,
+        "price": -110,
+        "edge": 2.5
+      }
+    ],
+    "settled": false
+  },
+  "401858488": {
+    "id": "401858488",
+    "league": "cfb",
+    "date": "2026-10-17T16:00Z",
+    "home": "IU",
+    "away": "OSU",
+    "proj_margin": -1.9,
+    "proj_total": 50.1,
+    "home_win_prob": 0.4258,
+    "market": {
+      "home_spread": 3.5,
+      "total": 50.5,
+      "home_ml": 150,
+      "away_ml": -180
+    },
+    "bets": [
+      {
+        "market": "moneyline",
+        "side": "home",
+        "pick": "IU ML +160",
+        "line": 160,
+        "price": 160,
+        "edge": 5.1
+      },
+      {
+        "market": "spread",
+        "side": "home",
+        "pick": "IU +3.5",
+        "line": 3.5,
+        "price": -110,
+        "edge": 1.6
+      }
+    ],
+    "settled": false
+  },
+  "401856724": {
+    "id": "401856724",
+    "league": "cfb",
+    "date": "2026-10-17T16:00Z",
+    "home": "TEX",
+    "away": "FLA",
+    "proj_margin": 12.0,
+    "proj_total": 55.7,
+    "home_win_prob": 0.7957,
+    "market": {
+      "home_spread": -10.0,
+      "total": 52.5,
+      "home_ml": -375,
+      "away_ml": 295
+    },
+    "bets": [
+      {
+        "market": "total",
+        "side": "over",
+        "pick": "Over 52.75",
+        "line": 52.75,
+        "price": -110,
+        "edge": 3.0
+      },
+      {
+        "market": "spread",
+        "side": "home",
+        "pick": "TEX -10",
+        "line": -10.0,
+        "price": -110,
+        "edge": 2.0
+      }
+    ],
+    "settled": false
+  },
+  "401856720": {
+    "id": "401856720",
+    "league": "cfb",
+    "date": "2026-10-17T16:00Z",
+    "home": "LSU",
+    "away": "MSST",
+    "proj_margin": 8.8,
+    "proj_total": 62.6,
+    "home_win_prob": 0.7664,
+    "market": {
+      "home_spread": -11.5,
+      "total": 58.5,
+      "home_ml": -440,
+      "away_ml": 340
+    },
+    "bets": [
+      {
+        "market": "total",
+        "side": "over",
+        "pick": "Over 58.75",
+        "line": 58.75,
+        "price": -110,
+        "edge": 3.9
+      },
+      {
+        "market": "spread",
+        "side": "away",
+        "pick": "MSST +12",
+        "line": 12.0,
+        "price": -110,
+        "edge": 2.9
+      }
+    ],
+    "settled": false
+  },
+  "401858268": {
+    "id": "401858268",
+    "league": "cfb",
+    "date": "2026-10-17T16:00Z",
+    "home": "SMU",
+    "away": "UVA",
+    "proj_margin": 11.4,
+    "proj_total": 52.1,
+    "home_win_prob": 0.7789,
+    "market": {
+      "home_spread": -8.5,
+      "total": 52.5,
+      "home_ml": -325,
+      "away_ml": 260
+    },
+    "bets": [
+      {
+        "market": "spread",
+        "side": "home",
+        "pick": "SMU -8.5",
+        "line": -8.5,
+        "price": -110,
+        "edge": 2.7
+      }
+    ],
+    "settled": false
+  },
+  "401858491": {
+    "id": "401858491",
+    "league": "cfb",
+    "date": "2026-10-17T16:00Z",
+    "home": "MSU",
+    "away": "NU",
+    "proj_margin": -10.2,
+    "proj_total": 49.6,
+    "home_win_prob": 0.2441,
+    "market": {
+      "home_spread": 7.5,
+      "total": 48.5,
+      "home_ml": 260,
+      "away_ml": -325
+    },
+    "bets": [
+      {
+        "market": "spread",
+        "side": "away",
+        "pick": "NU -7.5",
+        "line": -7.5,
+        "price": -110,
+        "edge": 2.7
+      }
+    ],
+    "settled": false
+  },
+  "401856829": {
+    "id": "401856829",
+    "league": "cfb",
+    "date": "2026-10-17T16:00Z",
+    "home": "WVU",
+    "away": "CIN",
+    "proj_margin": -3.5,
+    "proj_total": 65.3,
+    "home_win_prob": 0.4592,
+    "market": {
+      "home_spread": -2.5,
+      "total": 62.5,
+      "home_ml": -125,
+      "away_ml": 105
+    },
+    "bets": [
+      {
+        "market": "spread",
+        "side": "away",
+        "pick": "CIN +2.5",
+        "line": 2.5,
+        "price": -110,
+        "edge": 6.0
+      },
+      {
+        "market": "moneyline",
+        "side": "away",
+        "pick": "CIN ML +105",
+        "line": 105,
+        "price": 105,
+        "edge": 6.9
+      },
+      {
+        "market": "total",
+        "side": "over",
+        "pick": "Over 63",
+        "line": 63.0,
+        "price": -110,
+        "edge": 2.3
+      }
+    ],
+    "settled": false
+  },
+  "401856830": {
+    "id": "401856830",
+    "league": "cfb",
+    "date": "2026-10-17T16:00Z",
+    "home": "KSU",
+    "away": "KU",
+    "proj_margin": 3.3,
+    "proj_total": 55.5,
+    "home_win_prob": 0.6357,
+    "market": {
+      "home_spread": -6.0,
+      "total": 55.5,
+      "home_ml": -230,
+      "away_ml": 190
+    },
+    "bets": [
+      {
+        "market": "moneyline",
+        "side": "away",
+        "pick": "KU ML +205",
+        "line": 205,
+        "price": 205,
+        "edge": 4.4
+      },
+      {
+        "market": "spread",
+        "side": "away",
+        "pick": "KU +6.5",
+        "line": 6.5,
+        "price": -110,
+        "edge": 3.0
+      }
+    ],
+    "settled": false
+  },
+  "401858261": {
+    "id": "401858261",
+    "league": "cfb",
+    "date": "2026-10-17T16:00Z",
+    "home": "CLEM",
+    "away": "CHSO",
+    "proj_margin": 22.4,
+    "proj_total": 44.4,
+    "home_win_prob": 0.9546,
+    "market": {
+      "home_spread": null,
+      "total": null,
+      "home_ml": null,
+      "away_ml": null
+    },
+    "bets": [],
+    "settled": false
+  },
+  "401858267": {
+    "id": "401858267",
+    "league": "cfb",
+    "date": "2026-10-17T16:00Z",
+    "home": "BC",
+    "away": "PITT",
+    "proj_margin": -5.9,
+    "proj_total": 44.7,
+    "home_win_prob": 0.3356,
+    "market": {
+      "home_spread": 6.5,
+      "total": 44.5,
+      "home_ml": 185,
+      "away_ml": -225
+    },
+    "bets": [],
+    "settled": false
+  },
+  "401862802": {
+    "id": "401862802",
+    "league": "cfb",
+    "date": "2026-10-17T16:00Z",
+    "home": "ARMY",
+    "away": "FAU",
+    "proj_margin": -0.5,
+    "proj_total": 56.2,
+    "home_win_prob": 0.5289,
+    "market": {
+      "home_spread": -2.5,
+      "total": 56.5,
+      "home_ml": -148,
+      "away_ml": 124
+    },
+    "bets": [
+      {
+        "market": "spread",
+        "side": "away",
+        "pick": "FAU +3",
+        "line": 3.0,
+        "price": -110,
+        "edge": 3.2
+      },
+      {
+        "market": "moneyline",
+        "side": "away",
+        "pick": "FAU ML +125",
+        "line": 125,
+        "price": 125,
+        "edge": 4.2
+      }
+    ],
+    "settled": false
+  },
+  "401866441": {
+    "id": "401866441",
+    "league": "cfb",
+    "date": "2026-10-17T16:00Z",
+    "home": "BGSU",
+    "away": "BALL",
+    "proj_margin": 10.1,
+    "proj_total": 47.1,
+    "home_win_prob": 0.7568,
+    "market": {
+      "home_spread": -7.5,
+      "total": 44.5,
+      "home_ml": -285,
+      "away_ml": 230
+    },
+    "bets": [
+      {
+        "market": "spread",
+        "side": "home",
+        "pick": "BGSU -7",
+        "line": -7.0,
+        "price": -110,
+        "edge": 2.8
+      },
+      {
+        "market": "total",
+        "side": "over",
+        "pick": "Over 44.75",
+        "line": 44.75,
+        "price": -110,
+        "edge": 2.4
+      },
+      {
+        "market": "moneyline",
+        "side": "home",
+        "pick": "BGSU ML -275",
+        "line": -275,
+        "price": -275,
+        "edge": 4.9
+      }
+    ],
+    "settled": false
+  },
+  "401869957": {
+    "id": "401869957",
+    "league": "cfb",
+    "date": "2026-10-17T16:00Z",
+    "home": "JMU",
+    "away": "GAST",
+    "proj_margin": 11.2,
+    "proj_total": 59.5,
+    "home_win_prob": 0.801,
+    "market": {
+      "home_spread": -11.5,
+      "total": 58.5,
+      "home_ml": -470,
+      "away_ml": 360
+    },
+    "bets": [],
+    "settled": false
+  },
+  "401858489": {
+    "id": "401858489",
+    "league": "cfb",
+    "date": "2026-10-17T16:30Z",
+    "home": "MD",
+    "away": "RUTG",
+    "proj_margin": -1.6,
+    "proj_total": 61.4,
+    "home_win_prob": 0.5339,
+    "market": {
+      "home_spread": -4.5,
+      "total": 58.5,
+      "home_ml": -192,
+      "away_ml": 160
+    },
+    "bets": [
+      {
+        "market": "moneyline",
+        "side": "away",
+        "pick": "RUTG ML +170",
+        "line": 170,
+        "price": 170,
+        "edge": 10.6
+      },
+      {
+        "market": "spread",
+        "side": "away",
+        "pick": "RUTG +4.5",
+        "line": 4.5,
+        "price": -110,
+        "edge": 6.1
+      },
+      {
+        "market": "total",
+        "side": "over",
+        "pick": "Over 58.25",
+        "line": 58.25,
+        "price": -110,
+        "edge": 3.1
+      }
+    ],
+    "settled": false
+  },
+  "401856725": {
+    "id": "401856725",
+    "league": "cfb",
+    "date": "2026-10-17T17:00Z",
+    "home": "TA&M",
+    "away": "CIT",
+    "proj_margin": 9.1,
+    "proj_total": 53.4,
+    "home_win_prob": 0.7635,
+    "market": {
+      "home_spread": null,
+      "total": null,
+      "home_ml": null,
+      "away_ml": null
+    },
+    "bets": [],
+    "settled": false
+  },
+  "401862803": {
+    "id": "401862803",
+    "league": "cfb",
+    "date": "2026-10-17T17:00Z",
+    "home": "TEM",
+    "away": "CLT",
+    "proj_margin": 22.2,
+    "proj_total": 50.0,
+    "home_win_prob": 0.9377,
+    "market": {
+      "home_spread": -21.5,
+      "total": 49.5,
+      "home_ml": -1800,
+      "away_ml": 1000
+    },
+    "bets": [],
+    "settled": false
+  },
+  "401866442": {
+    "id": "401866442",
+    "league": "cfb",
+    "date": "2026-10-17T17:00Z",
+    "home": "BUFF",
+    "away": "MASS",
+    "proj_margin": 3.9,
+    "proj_total": 44.4,
+    "home_win_prob": 0.616,
+    "market": {
+      "home_spread": -3.0,
+      "total": 42.5,
+      "home_ml": -166,
+      "away_ml": 140
+    },
+    "bets": [],
+    "settled": false
+  },
+  "401866443": {
+    "id": "401866443",
+    "league": "cfb",
+    "date": "2026-10-17T17:30Z",
+    "home": "CMU",
+    "away": "WMU",
+    "proj_margin": -7.5,
+    "proj_total": 41.9,
+    "home_win_prob": 0.2886,
+    "market": {
+      "home_spread": 7.0,
+      "total": 42.5,
+      "home_ml": 240,
+      "away_ml": -298
+    },
+    "bets": [],
+    "settled": false
+  },
+  "401856719": {
+    "id": "401856719",
+    "league": "cfb",
+    "date": "2026-10-17T19:30Z",
+    "home": "UGA",
+    "away": "AUB",
+    "proj_margin": 17.9,
+    "proj_total": 49.2,
+    "home_win_prob": 0.9022,
+    "market": {
+      "home_spread": -19.5,
+      "total": 49.5,
+      "home_ml": -1200,
+      "away_ml": 750
+    },
+    "bets": [
+      {
+        "market": "spread",
+        "side": "away",
+        "pick": "AUB +19.5",
+        "line": 19.5,
+        "price": -110,
+        "edge": 1.6
+      }
+    ],
+    "settled": false
+  },
+  "401856723": {
+    "id": "401856723",
+    "league": "cfb",
+    "date": "2026-10-17T19:30Z",
+    "home": "TENN",
+    "away": "ALA",
+    "proj_margin": -6.8,
+    "proj_total": 55.8,
+    "home_win_prob": 0.2977,
+    "market": {
+      "home_spread": 7.5,
+      "total": 53.5,
+      "home_ml": 250,
+      "away_ml": -310
+    },
+    "bets": [
+      {
+        "market": "total",
+        "side": "over",
+        "pick": "Over 53.5",
+        "line": 53.5,
+        "price": -110,
+        "edge": 2.3
+      }
+    ],
+    "settled": false
+  },
+  "401856721": {
+    "id": "401856721",
+    "league": "cfb",
+    "date": "2026-10-17T19:30Z",
+    "home": "MISS",
+    "away": "MIZ",
+    "proj_margin": 4.0,
+    "proj_total": 58.8,
+    "home_win_prob": 0.6447,
+    "market": {
+      "home_spread": -6.0,
+      "total": 59.5,
+      "home_ml": -225,
+      "away_ml": 185
+    },
+    "bets": [
+      {
+        "market": "spread",
+        "side": "away",
+        "pick": "MIZ +6",
+        "line": 6.0,
+        "price": -110,
+        "edge": 2.0
+      }
+    ],
+    "settled": false
+  },
+  "401856828": {
+    "id": "401856828",
+    "league": "cfb",
+    "date": "2026-10-17T19:30Z",
+    "home": "TTU",
+    "away": "ASU",
+    "proj_margin": 18.6,
+    "proj_total": 51.7,
+    "home_win_prob": 0.8828,
+    "market": {
+      "home_spread": -14.0,
+      "total": 48.5,
+      "home_ml": -650,
+      "away_ml": 470
+    },
+    "bets": [
+      {
+        "market": "spread",
+        "side": "home",
+        "pick": "TTU -14",
+        "line": -14.0,
+        "price": -110,
+        "edge": 4.4
+      },
+      {
+        "market": "total",
+        "side": "over",
+        "pick": "Over 48.5",
+        "line": 48.5,
+        "price": -110,
+        "edge": 3.2
+      }
+    ],
+    "settled": false
+  },
+  "401858264": {
+    "id": "401858264",
+    "league": "cfb",
+    "date": "2026-10-17T19:30Z",
+    "home": "VT",
+    "away": "GT",
+    "proj_margin": 5.7,
+    "proj_total": 55.6,
+    "home_win_prob": 0.7089,
+    "market": {
+      "home_spread": -9.5,
+      "total": 55.5,
+      "home_ml": -360,
+      "away_ml": 285
+    },
+    "bets": [
+      {
+        "market": "spread",
+        "side": "away",
+        "pick": "GT +10",
+        "line": 10.0,
+        "price": -110,
+        "edge": 4.0
+      },
+      {
+        "market": "moneyline",
+        "side": "away",
+        "pick": "GT ML +285",
+        "line": 285,
+        "price": 285,
+        "edge": 4.2
+      }
+    ],
+    "settled": false
+  },
+  "401858266": {
+    "id": "401858266",
+    "league": "cfb",
+    "date": "2026-10-17T19:30Z",
+    "home": "DUKE",
+    "away": "UNC",
+    "proj_margin": 6.7,
+    "proj_total": 48.3,
+    "home_win_prob": 0.6613,
+    "market": {
+      "home_spread": -3.5,
+      "total": 47.5,
+      "home_ml": -170,
+      "away_ml": 142
+    },
+    "bets": [
+      {
+        "market": "spread",
+        "side": "home",
+        "pick": "DUKE -3.5",
+        "line": -3.5,
+        "price": -110,
+        "edge": 3.2
+      },
+      {
+        "market": "moneyline",
+        "side": "home",
+        "pick": "DUKE ML -170",
+        "line": -170,
+        "price": -170,
+        "edge": 5.0
+      }
+    ],
+    "settled": false
+  },
+  "401858490": {
+    "id": "401858490",
+    "league": "cfb",
+    "date": "2026-10-17T19:30Z",
+    "home": "MICH",
+    "away": "PSU",
+    "proj_margin": 8.9,
+    "proj_total": 43.8,
+    "home_win_prob": 0.7177,
+    "market": {
+      "home_spread": -6.0,
+      "total": 42.5,
+      "home_ml": -225,
+      "away_ml": 185
+    },
+    "bets": [
+      {
+        "market": "spread",
+        "side": "home",
+        "pick": "MICH -5.5",
+        "line": -5.5,
+        "price": -110,
+        "edge": 3.2
+      },
+      {
+        "market": "moneyline",
+        "side": "home",
+        "pick": "MICH ML -220",
+        "line": -220,
+        "price": -220,
+        "edge": 5.6
+      }
+    ],
+    "settled": false
+  },
+  "401864522": {
+    "id": "401864522",
+    "league": "cfb",
+    "date": "2026-10-17T19:30Z",
+    "home": "WYO",
+    "away": "NIU",
+    "proj_margin": 10.7,
+    "proj_total": 37.9,
+    "home_win_prob": 0.7656,
+    "market": {
+      "home_spread": -7.5,
+      "total": 40.5,
+      "home_ml": -305,
+      "away_ml": 245
+    },
+    "bets": [
+      {
+        "market": "spread",
+        "side": "home",
+        "pick": "WYO -7.5",
+        "line": -7.5,
+        "price": -110,
+        "edge": 2.9
+      },
+      {
+        "market": "total",
+        "side": "under",
+        "pick": "Under 40.75",
+        "line": 40.75,
+        "price": -110,
+        "edge": 2.9
+      },
+      {
+        "market": "moneyline",
+        "side": "home",
+        "pick": "WYO ML -280",
+        "line": -280,
+        "price": -280,
+        "edge": 4.8
+      }
+    ],
+    "settled": false
+  },
+  "401864524": {
+    "id": "401864524",
+    "league": "cfb",
+    "date": "2026-10-17T19:30Z",
+    "home": "AFA",
+    "away": "UNLV",
+    "proj_margin": -0.2,
+    "proj_total": 46.6,
+    "home_win_prob": 0.5023,
+    "market": {
+      "home_spread": -1.5,
+      "total": 47.5,
+      "home_ml": -110,
+      "away_ml": -110
+    },
+    "bets": [],
+    "settled": false
+  },
+  "401866444": {
+    "id": "401866444",
+    "league": "cfb",
+    "date": "2026-10-17T19:30Z",
+    "home": "EMU",
+    "away": "TOL",
+    "proj_margin": -6.5,
+    "proj_total": 52.8,
+    "home_win_prob": 0.3351,
+    "market": {
+      "home_spread": 5.5,
+      "total": 52.5,
+      "home_ml": 164,
+      "away_ml": -198
+    },
+    "bets": [],
+    "settled": false
+  },
+  "401866478": {
+    "id": "401866478",
+    "league": "cfb",
+    "date": "2026-10-17T19:30Z",
+    "home": "M-OH",
+    "away": "AKR",
+    "proj_margin": 12.5,
+    "proj_total": 49.4,
+    "home_win_prob": 0.8082,
+    "market": {
+      "home_spread": -10.0,
+      "total": 46.5,
+      "home_ml": -395,
+      "away_ml": 310
+    },
+    "bets": [
+      {
+        "market": "spread",
+        "side": "home",
+        "pick": "M-OH -9.5",
+        "line": -9.5,
+        "price": -110,
+        "edge": 2.8
+      },
+      {
+        "market": "total",
+        "side": "over",
+        "pick": "Over 46.75",
+        "line": 46.75,
+        "price": -110,
+        "edge": 2.6
+      }
+    ],
+    "settled": false
+  },
+  "401862805": {
+    "id": "401862805",
+    "league": "cfb",
+    "date": "2026-10-17T20:30Z",
+    "home": "RICE",
+    "away": "TLSA",
+    "proj_margin": -5.5,
+    "proj_total": 46.8,
+    "home_win_prob": 0.3602,
+    "market": {
+      "home_spread": 4.5,
+      "total": 45.5,
+      "home_ml": 150,
+      "away_ml": -180
+    },
+    "bets": [],
+    "settled": false
+  },
+  "401869966": {
+    "id": "401869966",
+    "league": "cfb",
+    "date": "2026-10-17T21:00Z",
+    "home": "UL",
+    "away": "TROY",
+    "proj_margin": 3.3,
+    "proj_total": 50.0,
+    "home_win_prob": 0.6148,
+    "market": {
+      "home_spread": -4.5,
+      "total": 49.5,
+      "home_ml": -185,
+      "away_ml": 154
+    },
+    "bets": [
+      {
+        "market": "moneyline",
+        "side": "away",
+        "pick": "TROY ML +170",
+        "line": 170,
+        "price": 170,
+        "edge": 2.2
+      }
+    ],
+    "settled": false
+  },
+  "401860903": {
+    "id": "401860903",
+    "league": "cfb",
+    "date": "2026-10-17T22:00Z",
+    "home": "ORST",
+    "away": "WSU",
+    "proj_margin": 15.7,
+    "proj_total": 52.2,
+    "home_win_prob": 0.8803,
+    "market": {
+      "home_spread": -18.5,
+      "total": 53.5,
+      "home_ml": -1000,
+      "away_ml": 650
+    },
+    "bets": [
+      {
+        "market": "spread",
+        "side": "away",
+        "pick": "WSU +18.5",
+        "line": 18.5,
+        "price": -110,
+        "edge": 2.8
+      }
+    ],
+    "settled": false
+  },
+  "401858263": {
+    "id": "401858263",
+    "league": "cfb",
+    "date": "2026-10-17T23:00Z",
+    "home": "MIA",
+    "away": "FSU",
+    "proj_margin": 22.9,
+    "proj_total": 56.5,
+    "home_win_prob": 0.9364,
+    "market": {
+      "home_spread": -21.0,
+      "total": 56.5,
+      "home_ml": -1650,
+      "away_ml": 950
+    },
+    "bets": [
+      {
+        "market": "spread",
+        "side": "home",
+        "pick": "MIA -21",
+        "line": -21.0,
+        "price": -110,
+        "edge": 1.9
+      }
+    ],
+    "settled": false
+  },
+  "401856726": {
+    "id": "401856726",
+    "league": "cfb",
+    "date": "2026-10-17T23:00Z",
+    "home": "VAN",
+    "away": "ARK",
+    "proj_margin": 7.7,
+    "proj_total": 51.2,
+    "home_win_prob": 0.705,
+    "market": {
+      "home_spread": -6.0,
+      "total": 50.5,
+      "home_ml": -225,
+      "away_ml": 185
+    },
+    "bets": [],
+    "settled": false
+  },
+  "401856832": {
+    "id": "401856832",
+    "league": "cfb",
+    "date": "2026-10-17T23:00Z",
+    "home": "BAY",
+    "away": "TCU",
+    "proj_margin": 6.1,
+    "proj_total": 46.9,
+    "home_win_prob": 0.6696,
+    "market": {
+      "home_spread": -5.5,
+      "total": 48.5,
+      "home_ml": -205,
+      "away_ml": 170
+    },
+    "bets": [],
+    "settled": false
+  },
+  "401862806": {
+    "id": "401862806",
+    "league": "cfb",
+    "date": "2026-10-17T23:00Z",
+    "home": "USF",
+    "away": "KENT",
+    "proj_margin": 18.3,
+    "proj_total": 45.1,
+    "home_win_prob": 0.9062,
+    "market": {
+      "home_spread": -20.5,
+      "total": 46.5,
+      "home_ml": -1200,
+      "away_ml": 750
+    },
+    "bets": [
+      {
+        "market": "spread",
+        "side": "away",
+        "pick": "KENT +20.5",
+        "line": 20.5,
+        "price": -110,
+        "edge": 1.9
+      }
+    ],
+    "settled": false
+  },
+  "401864520": {
+    "id": "401864520",
+    "league": "cfb",
+    "date": "2026-10-17T23:00Z",
+    "home": "NDSU",
+    "away": "NEV",
+    "proj_margin": 16.9,
+    "proj_total": 43.0,
+    "home_win_prob": 0.878,
+    "market": {
+      "home_spread": -15.5,
+      "total": 45.5,
+      "home_ml": -750,
+      "away_ml": 525
+    },
+    "bets": [
+      {
+        "market": "total",
+        "side": "under",
+        "pick": "Under 45.75",
+        "line": 45.75,
+        "price": -110,
+        "edge": 2.8
+      }
+    ],
+    "settled": false
+  },
+  "401869934": {
+    "id": "401869934",
+    "league": "cfb",
+    "date": "2026-10-17T23:00Z",
+    "home": "USM",
+    "away": "ARST",
+    "proj_margin": -5.4,
+    "proj_total": 63.1,
+    "home_win_prob": 0.3261,
+    "market": {
+      "home_spread": 7.0,
+      "total": 61.5,
+      "home_ml": 225,
+      "away_ml": -278
+    },
+    "bets": [
+      {
+        "market": "moneyline",
+        "side": "home",
+        "pick": "USM ML +225",
+        "line": 225,
+        "price": 225,
+        "edge": 3.1
+      },
+      {
+        "market": "total",
+        "side": "over",
+        "pick": "Over 61",
+        "line": 61.0,
+        "price": -110,
+        "edge": 2.1
+      },
+      {
+        "market": "spread",
+        "side": "home",
+        "pick": "USM +7",
+        "line": 7.0,
+        "price": -110,
+        "edge": 1.6
+      }
+    ],
+    "settled": false
+  },
+  "401856809": {
+    "id": "401856809",
+    "league": "cfb",
+    "date": "2026-10-17T23:30Z",
+    "home": "BYU",
+    "away": "ND",
+    "proj_margin": -7.1,
+    "proj_total": 50.4,
+    "home_win_prob": 0.2741,
+    "market": {
+      "home_spread": 10.5,
+      "total": 47.5,
+      "home_ml": 310,
+      "away_ml": -395
+    },
+    "bets": [
+      {
+        "market": "moneyline",
+        "side": "home",
+        "pick": "BYU ML +330",
+        "line": 330,
+        "price": 330,
+        "edge": 4.8
+      },
+      {
+        "market": "spread",
+        "side": "home",
+        "pick": "BYU +10.5",
+        "line": 10.5,
+        "price": -110,
+        "edge": 3.2
+      },
+      {
+        "market": "total",
+        "side": "over",
+        "pick": "Over 47.75",
+        "line": 47.75,
+        "price": -110,
+        "edge": 2.6
+      }
+    ],
+    "settled": false
+  },
+  "401858494": {
+    "id": "401858494",
+    "league": "cfb",
+    "date": "2026-10-17T23:30Z",
+    "home": "UCLA",
+    "away": "WIS",
+    "proj_margin": 2.5,
+    "proj_total": 46.4,
+    "home_win_prob": 0.5889,
+    "market": {
+      "home_spread": -3.0,
+      "total": 46.5,
+      "home_ml": -162,
+      "away_ml": 136
+    },
+    "bets": [],
+    "settled": false
+  },
+  "401856722": {
+    "id": "401856722",
+    "league": "cfb",
+    "date": "2026-10-17T23:30Z",
+    "home": "OU",
+    "away": "UK",
+    "proj_margin": 6.2,
+    "proj_total": 47.3,
+    "home_win_prob": 0.693,
+    "market": {
+      "home_spread": -7.0,
+      "total": 43.5,
+      "home_ml": -265,
+      "away_ml": 215
+    },
+    "bets": [
+      {
+        "market": "total",
+        "side": "over",
+        "pick": "Over 43.5",
+        "line": 43.5,
+        "price": -110,
+        "edge": 3.8
+      }
+    ],
+    "settled": false
+  },
+  "401856831": {
+    "id": "401856831",
+    "league": "cfb",
+    "date": "2026-10-17T23:30Z",
+    "home": "HOU",
+    "away": "OKST",
+    "proj_margin": 7.0,
+    "proj_total": 60.4,
+    "home_win_prob": 0.6728,
+    "market": {
+      "home_spread": -4.5,
+      "total": 61.5,
+      "home_ml": -185,
+      "away_ml": 154
+    },
+    "bets": [
+      {
+        "market": "spread",
+        "side": "home",
+        "pick": "HOU -4",
+        "line": -4.0,
+        "price": -110,
+        "edge": 2.8
+      },
+      {
+        "market": "moneyline",
+        "side": "home",
+        "pick": "HOU ML -185",
+        "line": -185,
+        "price": -185,
+        "edge": 4.0
+      }
+    ],
+    "settled": false
+  },
+  "401858262": {
+    "id": "401858262",
+    "league": "cfb",
+    "date": "2026-10-17T23:30Z",
+    "home": "STAN",
+    "away": "ELON",
+    "proj_margin": -0.5,
+    "proj_total": 57.1,
+    "home_win_prob": 0.4948,
+    "market": {
+      "home_spread": null,
+      "total": null,
+      "home_ml": null,
+      "away_ml": null
+    },
+    "bets": [],
+    "settled": false
+  },
+  "401858265": {
+    "id": "401858265",
+    "league": "cfb",
+    "date": "2026-10-17T23:30Z",
+    "home": "SYR",
+    "away": "LOU",
+    "proj_margin": -12.1,
+    "proj_total": 59.1,
+    "home_win_prob": 0.1885,
+    "market": {
+      "home_spread": 13.5,
+      "total": 56.5,
+      "home_ml": 400,
+      "away_ml": -535
+    },
+    "bets": [
+      {
+        "market": "total",
+        "side": "over",
+        "pick": "Over 56.5",
+        "line": 56.5,
+        "price": -110,
+        "edge": 2.6
+      }
+    ],
+    "settled": false
+  },
+  "401862804": {
+    "id": "401862804",
+    "league": "cfb",
+    "date": "2026-10-18T00:00Z",
+    "home": "UTSA",
+    "away": "NAVY",
+    "proj_margin": 8.5,
+    "proj_total": 54.3,
+    "home_win_prob": 0.7218,
+    "market": {
+      "home_spread": -6.5,
+      "total": 54.5,
+      "home_ml": -250,
+      "away_ml": 205
+    },
+    "bets": [
+      {
+        "market": "spread",
+        "side": "home",
+        "pick": "UTSA -6.5",
+        "line": -6.5,
+        "price": -110,
+        "edge": 2.0
+      }
+    ],
+    "settled": false
+  },
+  "401871091": {
+    "id": "401871091",
+    "league": "cfb",
+    "date": "2026-10-18T00:00Z",
+    "home": "ULM",
+    "away": "LT",
+    "proj_margin": -12.6,
+    "proj_total": 61.0,
+    "home_win_prob": 0.1701,
+    "market": {
+      "home_spread": 14.5,
+      "total": 56.5,
+      "home_ml": 490,
+      "away_ml": -675
+    },
+    "bets": [
+      {
+        "market": "total",
+        "side": "over",
+        "pick": "Over 56.25",
+        "line": 56.25,
+        "price": -110,
+        "edge": 4.8
+      },
+      {
+        "market": "spread",
+        "side": "home",
+        "pick": "ULM +15",
+        "line": 15.0,
+        "price": -110,
+        "edge": 2.2
+      }
+    ],
+    "settled": false
+  },
+  "401864523": {
+    "id": "401864523",
+    "league": "cfb",
+    "date": "2026-10-18T01:00Z",
+    "home": "UTEP",
+    "away": "SJSU",
+    "proj_margin": -8.6,
+    "proj_total": 51.3,
+    "home_win_prob": 0.2621,
+    "market": {
+      "home_spread": 8.5,
+      "total": 48.5,
+      "home_ml": 270,
+      "away_ml": -340
+    },
+    "bets": [
+      {
+        "market": "total",
+        "side": "over",
+        "pick": "Over 48.5",
+        "line": 48.5,
+        "price": -110,
+        "edge": 2.8
+      }
+    ],
+    "settled": false
+  },
+  "401866445": {
+    "id": "401866445",
+    "league": "cfb",
+    "date": "2026-10-18T02:00Z",
+    "home": "SAC",
+    "away": "OHIO",
+    "proj_margin": -13.9,
+    "proj_total": 50.0,
+    "home_win_prob": 0.1595,
+    "market": {
+      "home_spread": 14.5,
+      "total": 49.5,
+      "home_ml": 455,
+      "away_ml": -625
+    },
+    "bets": [],
+    "settled": false
+  },
+  "401856833": {
+    "id": "401856833",
+    "league": "cfb",
+    "date": "2026-10-18T02:15Z",
+    "home": "COLO",
+    "away": "UTAH",
+    "proj_margin": -14.8,
+    "proj_total": 50.8,
+    "home_win_prob": 0.1441,
+    "market": {
+      "home_spread": 15.5,
+      "total": 49.5,
+      "home_ml": 525,
+      "away_ml": -750
+    },
+    "bets": [],
+    "settled": false
+  },
+  "401858269": {
+    "id": "401858269",
+    "league": "cfb",
+    "date": "2026-10-18T02:30Z",
+    "home": "CAL",
+    "away": "WAKE",
+    "proj_margin": -13.1,
+    "proj_total": 53.8,
+    "home_win_prob": 0.1982,
+    "market": {
+      "home_spread": 9.5,
+      "total": 53.5,
+      "home_ml": 285,
+      "away_ml": -360
+    },
+    "bets": [
+      {
+        "market": "spread",
+        "side": "away",
+        "pick": "WAKE -9.5",
+        "line": -9.5,
+        "price": -110,
+        "edge": 3.3
+      },
+      {
+        "market": "moneyline",
+        "side": "away",
+        "pick": "WAKE ML -350",
+        "line": -350,
+        "price": -350,
+        "edge": 5.2
+      }
+    ],
+    "settled": false
+  },
+  "401860904": {
+    "id": "401860904",
+    "league": "cfb",
+    "date": "2026-10-18T02:30Z",
+    "home": "SDSU",
+    "away": "FRES",
+    "proj_margin": -10.7,
+    "proj_total": 48.4,
+    "home_win_prob": 0.2316,
+    "market": {
+      "home_spread": 8.5,
+      "total": 45.5,
+      "home_ml": 270,
+      "away_ml": -340
+    },
+    "bets": [
+      {
+        "market": "total",
+        "side": "over",
+        "pick": "Over 45.25",
+        "line": 45.25,
+        "price": -110,
+        "edge": 3.1
+      },
+      {
+        "market": "spread",
+        "side": "away",
+        "pick": "FRES -8",
+        "line": -8.0,
+        "price": -110,
+        "edge": 2.4
+      }
+    ],
+    "settled": false
+  },
+  "401864521": {
+    "id": "401864521",
+    "league": "cfb",
+    "date": "2026-10-18T02:30Z",
+    "home": "HAW",
+    "away": "UNM",
+    "proj_margin": -17.3,
+    "proj_total": 46.3,
+    "home_win_prob": 0.1295,
+    "market": {
+      "home_spread": 14.5,
+      "total": 45.5,
+      "home_ml": 470,
+      "away_ml": -650
+    },
+    "bets": [
+      {
+        "market": "spread",
+        "side": "away",
+        "pick": "UNM -14",
+        "line": -14.0,
+        "price": -110,
+        "edge": 3.1
+      }
+    ],
+    "settled": false
+  },
+  "401858492": {
+    "id": "401858492",
+    "league": "cfb",
+    "date": "2026-10-18T03:00Z",
+    "home": "ORE",
+    "away": "NEB",
+    "proj_margin": 5.0,
+    "proj_total": 55.6,
+    "home_win_prob": 0.6724,
+    "market": {
+      "home_spread": -7.0,
+      "total": 52.5,
+      "home_ml": -258,
+      "away_ml": 210
+    },
+    "bets": [
+      {
+        "market": "total",
+        "side": "over",
+        "pick": "Over 52.5",
+        "line": 52.5,
+        "price": -110,
+        "edge": 3.1
+      },
+      {
+        "market": "spread",
+        "side": "away",
+        "pick": "NEB +7",
+        "line": 7.0,
+        "price": -110,
+        "edge": 2.0
+      }
+    ],
+    "settled": false
   }
 }

@@ -17,11 +17,11 @@
       "last_date": "2026-10-04T20:25Z"
     },
     "33": {
-      "rating": 1583.3507530721408,
+      "rating": 1600.9476451208386,
       "name": "Ravens",
       "abbr": "BAL",
-      "gp": 6,
-      "last_date": "2026-10-04T17:00Z"
+      "gp": 7,
+      "last_date": "2026-10-12T00:20Z"
     },
     "21": {
       "rating": 1493.1888442019856,
@@ -38,11 +38,11 @@
       "last_date": "2026-10-11T17:00Z"
     },
     "1": {
-      "rating": 1517.263497726862,
+      "rating": 1499.6666056781642,
       "name": "Falcons",
       "abbr": "ATL",
-      "gp": 5,
-      "last_date": "2026-10-06T00:15Z"
+      "gp": 6,
+      "last_date": "2026-10-12T00:20Z"
     },
     "23": {
       "rating": 1485.9061719183571,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-10-11T20:25Z",
+    "last_game_date": "2026-10-12T00:20Z",
     "season": 2026,
-    "n_games": 672,
+    "n_games": 673,
     "signals": {
       "weather": true,
       "travel": true,

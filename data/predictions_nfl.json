@@ -3079,7 +3079,8 @@
         "pick": "ATL +2.5",
         "line": 2.5,
         "price": -110,
-        "edge": 1.9
+        "edge": 1.9,
+        "result": "loss"
       },
       {
         "market": "moneyline",
@@ -3087,10 +3088,18 @@
         "pick": "ATL ML +130",
         "line": 130,
         "price": 130,
-        "edge": 4.3
+        "edge": 4.3,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 23,
+    "away_score": 30,
+    "actual_margin": -7,
+    "su_correct": true,
+    "brier": 0.2113,
+    "margin_err": 6.4,
+    "total_err": 9.4
   },
   "401872994": {
     "id": "401872994",
