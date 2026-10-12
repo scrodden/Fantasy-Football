@@ -721,8 +721,6 @@
     "16": "Sacramento State",
     "2649": "Toledo",
     "2084": "Buffalo",
-    "252": "BYU",
-    "66": "Iowa State",
     "25": "California",
     "259": "Virginia Tech",
     "195": "Ohio",
@@ -737,8 +735,6 @@
     "242": "Rice",
     "57": "Florida",
     "2579": "South Carolina",
-    "97": "Louisville",
-    "52": "Florida State",
     "290": "Georgia Southern",
     "256": "James Madison",
     "2306": "Kansas State",
@@ -747,8 +743,6 @@
     "356": "Illinois",
     "158": "Nebraska",
     "84": "Indiana",
-    "264": "Washington",
-    "2294": "Iowa",
     "254": "Utah",
     "2305": "Kansas",
     "2711": "Western Michigan",
@@ -791,13 +785,9 @@
     "21": "San Diego State",
     "213": "Penn State",
     "30": "USC",
-    "23": "San Jos\u00e9 State",
-    "2751": "Wyoming",
     "258": "Virginia",
     "183": "Syracuse",
     "218": "Temple",
-    "41": "UConn",
-    "328": "Utah State",
-    "265": "Washington State"
+    "41": "UConn"
   }
 }
