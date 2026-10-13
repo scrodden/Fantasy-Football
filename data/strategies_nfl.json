@@ -7278,7 +7278,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "BUF +3",
-          "lean": -0.9
+          "lean": -0.9,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -7286,12 +7288,16 @@
           "team": "LAR",
           "price": -175,
           "stake": 100.0,
-          "pick": "LAR ML -175"
+          "pick": "LAR ML -175",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 34,
+      "away_score": 37
     }
   }
 }

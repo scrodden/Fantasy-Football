@@ -52,11 +52,11 @@
       "last_date": "2026-10-11T17:00Z"
     },
     "2": {
-      "rating": 1640.6047981697395,
+      "rating": 1653.8410265446582,
       "name": "Bills",
       "abbr": "BUF",
-      "gp": 6,
-      "last_date": "2026-10-04T17:00Z"
+      "gp": 7,
+      "last_date": "2026-10-13T00:15Z"
     },
     "22": {
       "rating": 1354.4076122804804,
@@ -213,11 +213,11 @@
       "last_date": "2026-10-11T20:25Z"
     },
     "14": {
-      "rating": 1610.735519804423,
+      "rating": 1597.4992914295042,
       "name": "Rams",
       "abbr": "LAR",
-      "gp": 6,
-      "last_date": "2026-10-04T17:00Z"
+      "gp": 7,
+      "last_date": "2026-10-13T00:15Z"
     },
     "25": {
       "rating": 1656.868753846709,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-10-12T00:20Z",
+    "last_game_date": "2026-10-13T00:15Z",
     "season": 2026,
-    "n_games": 673,
+    "n_games": 674,
     "signals": {
       "weather": true,
       "travel": true,
