@@ -32529,6 +32529,86 @@
         ]
       },
       "settled": false
+    },
+    "401871068": {
+      "game_id": "401871068",
+      "league": "cfb",
+      "season": 2026,
+      "week": 7,
+      "kickoff": "2026-10-15T00:00Z",
+      "locked_at": "2026-10-13T22:31:12+00:00",
+      "home": "SHSU",
+      "away": "WKU",
+      "home_full": "Sam Houston Bearkats",
+      "away_full": "Western Kentucky Hilltoppers",
+      "line": {
+        "home_spread": 1.5,
+        "total": 52.5,
+        "home_ml": 105,
+        "away_ml": -125,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": -3.5,
+        "proj_total": 52.6,
+        "proj_home_score": 24.6,
+        "proj_away_score": 28.0,
+        "home_win_prob": 0.4322
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "WKU",
+          "line": -1.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "WKU -1.5",
+          "lean": -2.0
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "WKU",
+          "price": -125,
+          "stake": 100.0,
+          "pick": "WKU ML -125"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "WKU",
+            "pick": "WKU -1.5",
+            "line": -1.5,
+            "price": -110,
+            "ev": 0.056,
+            "edge": 2.0,
+            "kelly": 0.0153,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "WKU",
+            "pick": "WKU -1.5",
+            "line": -1.5,
+            "price": -110,
+            "ev": 0.056,
+            "edge": 2.0,
+            "kelly": 0.0153,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 15.12,
+            "bankroll_at_bet": 988.1
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
