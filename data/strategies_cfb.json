@@ -32420,6 +32420,115 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401871054": {
+      "game_id": "401871054",
+      "league": "cfb",
+      "season": 2026,
+      "week": 7,
+      "kickoff": "2026-10-14T23:30Z",
+      "locked_at": "2026-10-13T17:30:20+00:00",
+      "home": "MOST",
+      "away": "KENN",
+      "home_full": "Missouri State Bears",
+      "away_full": "Kennesaw State Owls",
+      "line": {
+        "home_spread": 3.0,
+        "total": 52.5,
+        "home_ml": 136,
+        "away_ml": -162,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 0.1,
+        "proj_total": 51.6,
+        "proj_home_score": 25.8,
+        "proj_away_score": 25.7,
+        "home_win_prob": 0.4677
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "MOST",
+          "line": 3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "MOST +3",
+          "lean": 3.1
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "MOST",
+          "price": 136,
+          "stake": 100.0,
+          "pick": "MOST ML +136"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "MOST",
+            "pick": "MOST +3",
+            "line": 3.0,
+            "price": -110,
+            "ev": 0.111,
+            "edge": 3.1,
+            "kelly": 0.0305,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "MOST",
+            "pick": "MOST ML +136",
+            "line": 136,
+            "price": 136,
+            "ev": 0.104,
+            "edge": 6.1,
+            "kelly": 0.0191,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "MOST",
+            "pick": "MOST +3",
+            "line": 3.0,
+            "price": -110,
+            "ev": 0.111,
+            "edge": 3.1,
+            "kelly": 0.0305,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 30.14,
+            "bankroll_at_bet": 988.1
+          },
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "MOST",
+            "pick": "MOST ML +136",
+            "line": 136,
+            "price": 136,
+            "ev": 0.104,
+            "edge": 6.1,
+            "kelly": 0.0191,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 18.87,
+            "bankroll_at_bet": 988.1
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
