@@ -32357,7 +32357,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "DEL -1.5",
-          "lean": -0.7
+          "lean": -0.7,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -32365,12 +32367,16 @@
           "team": "DEL",
           "price": -122,
           "stake": 100.0,
-          "pick": "DEL ML -122"
+          "pick": "DEL ML -122",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 33,
+      "away_score": 30
     },
     "401871053": {
       "game_id": "401871053",
@@ -32406,7 +32412,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "JXST -3",
-          "lean": 0.2
+          "lean": 0.2,
+          "result": "push",
+          "pnl": 0.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -32414,12 +32422,16 @@
           "team": "JXST",
           "price": -142,
           "stake": 100.0,
-          "pick": "JXST ML -142"
+          "pick": "JXST ML -142",
+          "result": "win",
+          "pnl": 70.42
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 27,
+      "away_score": 24
     },
     "401871054": {
       "game_id": "401871054",
