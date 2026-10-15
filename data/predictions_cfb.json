@@ -13938,7 +13938,8 @@
         "pick": "MOST ML +140",
         "line": 140,
         "price": 140,
-        "edge": 6.5
+        "edge": 6.5,
+        "result": "win"
       },
       {
         "market": "spread",
@@ -13946,10 +13947,18 @@
         "pick": "MOST +3",
         "line": 3.0,
         "price": -110,
-        "edge": 3.1
+        "edge": 3.1,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 24,
+    "away_score": 21,
+    "actual_margin": 3,
+    "su_correct": true,
+    "brier": 0.2833,
+    "margin_err": 2.9,
+    "total_err": 6.1
   },
   "401871068": {
     "id": "401871068",
@@ -13973,7 +13982,8 @@
         "pick": "WKU -1",
         "line": -1.0,
         "price": -110,
-        "edge": 2.2
+        "edge": 2.2,
+        "result": "win"
       },
       {
         "market": "moneyline",
@@ -13981,10 +13991,18 @@
         "pick": "WKU ML -115",
         "line": -115,
         "price": -115,
-        "edge": 4.8
+        "edge": 4.8,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 3,
+    "away_score": 16,
+    "actual_margin": -13,
+    "su_correct": true,
+    "brier": 0.1949,
+    "margin_err": 9.5,
+    "total_err": 33.6
   },
   "401862800": {
     "id": "401862800",
