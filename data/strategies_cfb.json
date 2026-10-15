@@ -32883,6 +32883,303 @@
         ]
       },
       "settled": false
+    },
+    "401862801": {
+      "game_id": "401862801",
+      "league": "cfb",
+      "season": 2026,
+      "week": 7,
+      "kickoff": "2026-10-16T23:30Z",
+      "locked_at": "2026-10-15T18:10:48+00:00",
+      "home": "TULN",
+      "away": "MEM",
+      "home_full": "Tulane Green Wave",
+      "away_full": "Memphis Tigers",
+      "line": {
+        "home_spread": 7.0,
+        "total": 55.5,
+        "home_ml": 220,
+        "away_ml": -270,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -5.2,
+        "proj_total": 52.0,
+        "proj_home_score": 23.4,
+        "proj_away_score": 28.6,
+        "home_win_prob": 0.3318
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "TULN",
+          "line": 7.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "TULN +7",
+          "lean": 1.8
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "MEM",
+          "price": -270,
+          "stake": 100.0,
+          "pick": "MEM ML -270"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "TULN",
+            "pick": "TULN ML +220",
+            "line": 220,
+            "price": 220,
+            "ev": 0.062,
+            "edge": 3.2,
+            "kelly": 0.007,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "TULN",
+            "pick": "TULN +7",
+            "line": 7.0,
+            "price": -110,
+            "ev": 0.046,
+            "edge": 1.8,
+            "kelly": 0.0126,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "under",
+            "team": null,
+            "pick": "Under 55.5",
+            "line": 55.5,
+            "price": -110,
+            "ev": 0.115,
+            "edge": 3.5,
+            "kelly": 0.0316,
+            "confidence": "low",
+            "book": null,
+            "stake": 33.34,
+            "bankroll_at_bet": 1054.91
+          },
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "TULN",
+            "pick": "TULN ML +220",
+            "line": 220,
+            "price": 220,
+            "ev": 0.062,
+            "edge": 3.2,
+            "kelly": 0.007,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 7.38,
+            "bankroll_at_bet": 1054.91
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "TULN",
+            "pick": "TULN +7",
+            "line": 7.0,
+            "price": -110,
+            "ev": 0.046,
+            "edge": 1.8,
+            "kelly": 0.0126,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 13.29,
+            "bankroll_at_bet": 1054.91
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401858493": {
+      "game_id": "401858493",
+      "league": "cfb",
+      "season": 2026,
+      "week": 7,
+      "kickoff": "2026-10-17T00:00Z",
+      "locked_at": "2026-10-15T18:10:48+00:00",
+      "home": "PUR",
+      "away": "WASH",
+      "home_full": "Purdue Boilermakers",
+      "away_full": "Washington Huskies",
+      "line": {
+        "home_spread": -3.5,
+        "total": 50.5,
+        "home_ml": -170,
+        "away_ml": 142,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 0.3,
+        "proj_total": 54.4,
+        "proj_home_score": 27.4,
+        "proj_away_score": 27.0,
+        "home_win_prob": 0.5519
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "WASH",
+          "line": 3.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "WASH +3.5",
+          "lean": -3.2
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "PUR",
+          "price": -170,
+          "stake": 100.0,
+          "pick": "PUR ML -170"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "WASH",
+            "pick": "WASH +3.5",
+            "line": 3.5,
+            "price": -110,
+            "ev": 0.116,
+            "edge": 3.2,
+            "kelly": 0.0318,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "WASH",
+            "pick": "WASH ML +142",
+            "line": 142,
+            "price": 142,
+            "ev": 0.084,
+            "edge": 5.2,
+            "kelly": 0.0149,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 50.5",
+            "line": 50.5,
+            "price": -110,
+            "ev": 0.133,
+            "edge": 3.9,
+            "kelly": 0.0365,
+            "confidence": "low",
+            "book": null,
+            "stake": 38.5,
+            "bankroll_at_bet": 1054.91
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "WASH",
+            "pick": "WASH +3.5",
+            "line": 3.5,
+            "price": -110,
+            "ev": 0.116,
+            "edge": 3.2,
+            "kelly": 0.0318,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 33.55,
+            "bankroll_at_bet": 1054.91
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "WASH",
+            "pick": "WASH ML +142",
+            "line": 142,
+            "price": 142,
+            "ev": 0.084,
+            "edge": 5.2,
+            "kelly": 0.0149,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 15.72,
+            "bankroll_at_bet": 1054.91
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401869844": {
+      "game_id": "401869844",
+      "league": "cfb",
+      "season": 2026,
+      "week": 7,
+      "kickoff": "2026-10-17T00:00Z",
+      "locked_at": "2026-10-15T18:10:48+00:00",
+      "home": "CCU",
+      "away": "APP",
+      "home_full": "Coastal Carolina Chanticleers",
+      "away_full": "App State Mountaineers",
+      "line": {
+        "home_spread": 1.5,
+        "total": 49.5,
+        "home_ml": -102,
+        "away_ml": -118,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -0.4,
+        "proj_total": 48.4,
+        "proj_home_score": 24.0,
+        "proj_away_score": 24.4,
+        "home_win_prob": 0.492
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "CCU",
+          "line": 1.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "CCU +1.5",
+          "lean": 1.1
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "APP",
+          "price": -118,
+          "stake": 100.0,
+          "pick": "APP ML -118"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
