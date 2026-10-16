@@ -3148,7 +3148,8 @@
         "pick": "DEN +3",
         "line": 3.0,
         "price": -110,
-        "edge": 3.0
+        "edge": 3.0,
+        "result": "win"
       },
       {
         "market": "moneyline",
@@ -3156,10 +3157,18 @@
         "pick": "DEN ML +124",
         "line": 124,
         "price": 124,
-        "edge": 5.6
+        "edge": 5.6,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 17,
+    "away_score": 14,
+    "actual_margin": 3,
+    "su_correct": false,
+    "brier": 0.2658,
+    "margin_err": 3.0,
+    "total_err": 10.2
   },
   "401872996": {
     "id": "401872996",

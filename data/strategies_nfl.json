@@ -7333,7 +7333,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "DEN +2.5",
-          "lean": 2.7
+          "lean": 2.7,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -7341,7 +7343,9 @@
           "team": "DEN",
           "price": 120,
           "stake": 100.0,
-          "pick": "DEN ML +120"
+          "pick": "DEN ML +120",
+          "result": "win",
+          "pnl": 120.0
         },
         "value": [
           {
@@ -7356,7 +7360,9 @@
             "kelly": 0.0362,
             "confidence": "low",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           },
           {
             "market": "moneyline",
@@ -7370,7 +7376,9 @@
             "kelly": 0.016,
             "confidence": "medium",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 120.0
           }
         ],
         "bankroll": [
@@ -7387,7 +7395,9 @@
             "confidence": "low",
             "book": "Draft Kings",
             "stake": 347.56,
-            "bankroll_at_bet": 9601.04
+            "bankroll_at_bet": 9601.04,
+            "result": "win",
+            "pnl": 315.96
           },
           {
             "market": "moneyline",
@@ -7402,11 +7412,15 @@
             "confidence": "medium",
             "book": "Draft Kings",
             "stake": 153.62,
-            "bankroll_at_bet": 9601.04
+            "bankroll_at_bet": 9601.04,
+            "result": "win",
+            "pnl": 184.34
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 17,
+      "away_score": 14
     }
   }
 }

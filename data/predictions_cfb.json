@@ -14026,10 +14026,18 @@
         "pick": "ECU -4.5",
         "line": -4.5,
         "price": -110,
-        "edge": 2.7
+        "edge": 2.7,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 30,
+    "away_score": 17,
+    "actual_margin": 13,
+    "su_correct": false,
+    "brier": 0.449,
+    "margin_err": 20.2,
+    "total_err": 0.7
   },
   "401869950": {
     "id": "401869950",
@@ -14053,7 +14061,8 @@
         "pick": "ODU ML +154",
         "line": 154,
         "price": 154,
-        "edge": 7.0
+        "edge": 7.0,
+        "result": "loss"
       },
       {
         "market": "spread",
@@ -14061,10 +14070,18 @@
         "pick": "ODU +4",
         "line": 4.0,
         "price": -110,
-        "edge": 3.4
+        "edge": 3.4,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 15,
+    "away_score": 23,
+    "actual_margin": -8,
+    "su_correct": true,
+    "brier": 0.2042,
+    "margin_err": 7.6,
+    "total_err": 6.8
   },
   "401860923": {
     "id": "401860923",
@@ -14088,10 +14105,18 @@
         "pick": "Over 68.5",
         "line": 68.5,
         "price": -110,
-        "edge": 4.4
+        "edge": 4.4,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 66,
+    "away_score": 27,
+    "actual_margin": 39,
+    "su_correct": true,
+    "brier": 0.0274,
+    "margin_err": 25.0,
+    "total_err": 20.1
   },
   "401862801": {
     "id": "401862801",

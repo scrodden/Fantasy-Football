@@ -164,18 +164,18 @@
       "last_date": "2026-10-11T17:00Z"
     },
     "26": {
-      "rating": 1613.2319296438875,
+      "rating": 1600.655797790351,
       "name": "Seahawks",
       "abbr": "SEA",
-      "gp": 7,
-      "last_date": "2026-10-11T20:25Z"
+      "gp": 8,
+      "last_date": "2026-10-16T00:15Z"
     },
     "7": {
-      "rating": 1562.842045630998,
+      "rating": 1575.4181774845345,
       "name": "Broncos",
       "abbr": "DEN",
-      "gp": 6,
-      "last_date": "2026-10-11T20:05Z"
+      "gp": 7,
+      "last_date": "2026-10-16T00:15Z"
     },
     "5": {
       "rating": 1409.1731101778137,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-10-13T00:15Z",
+    "last_game_date": "2026-10-16T00:15Z",
     "season": 2026,
-    "n_games": 674,
+    "n_games": 675,
     "signals": {
       "weather": true,
       "travel": true,
