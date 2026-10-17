@@ -7421,6 +7421,55 @@
       "settled": true,
       "home_score": 17,
       "away_score": 14
+    },
+    "401872996": {
+      "game_id": "401872996",
+      "league": "nfl",
+      "season": 2026,
+      "week": 6,
+      "kickoff": "2026-10-18T13:30Z",
+      "locked_at": "2026-10-17T08:25:54+00:00",
+      "home": "JAX",
+      "away": "HOU",
+      "home_full": "Jacksonville Jaguars",
+      "away_full": "Houston Texans",
+      "line": {
+        "home_spread": -2.5,
+        "total": 42.5,
+        "home_ml": -148,
+        "away_ml": 124,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 2.8,
+        "proj_total": 41.6,
+        "proj_home_score": 22.2,
+        "proj_away_score": 19.4,
+        "home_win_prob": 0.5911
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "JAX",
+          "line": -2.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "JAX -2.5",
+          "lean": 0.3
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "JAX",
+          "price": -148,
+          "stake": 100.0,
+          "pick": "JAX ML -148"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
