@@ -8357,6 +8357,115 @@
         ]
       },
       "settled": false
+    },
+    "401873007": {
+      "game_id": "401873007",
+      "league": "nfl",
+      "season": 2026,
+      "week": 6,
+      "kickoff": "2026-10-19T00:20Z",
+      "locked_at": "2026-10-17T19:08:46+00:00",
+      "home": "GB",
+      "away": "DAL",
+      "home_full": "Green Bay Packers",
+      "away_full": "Dallas Cowboys",
+      "line": {
+        "home_spread": -1.5,
+        "total": 53.5,
+        "home_ml": -118,
+        "away_ml": -102,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 3.1,
+        "proj_total": 51.9,
+        "proj_home_score": 27.5,
+        "proj_away_score": 24.4,
+        "home_win_prob": 0.5854
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "GB",
+          "line": -1.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "GB -1.5",
+          "lean": 1.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "GB",
+          "price": -118,
+          "stake": 100.0,
+          "pick": "GB ML -118"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "GB",
+            "pick": "GB ML -118",
+            "line": -118,
+            "price": -118,
+            "ev": 0.082,
+            "edge": 6.8,
+            "kelly": 0.024,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "GB",
+            "pick": "GB -1.5",
+            "line": -1.5,
+            "price": -110,
+            "ev": 0.06,
+            "edge": 1.6,
+            "kelly": 0.0165,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "GB",
+            "pick": "GB ML -118",
+            "line": -118,
+            "price": -118,
+            "ev": 0.082,
+            "edge": 6.8,
+            "kelly": 0.024,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 242.43,
+            "bankroll_at_bet": 10101.34
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "GB",
+            "pick": "GB -1.5",
+            "line": -1.5,
+            "price": -110,
+            "ev": 0.06,
+            "edge": 1.6,
+            "kelly": 0.0165,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 166.67,
+            "bankroll_at_bet": 10101.34
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
