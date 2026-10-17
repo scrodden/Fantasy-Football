@@ -7470,6 +7470,893 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401872999": {
+      "game_id": "401872999",
+      "league": "nfl",
+      "season": 2026,
+      "week": 6,
+      "kickoff": "2026-10-18T17:00Z",
+      "locked_at": "2026-10-17T16:14:53+00:00",
+      "home": "ATL",
+      "away": "CHI",
+      "home_full": "Atlanta Falcons",
+      "away_full": "Chicago Bears",
+      "line": {
+        "home_spread": 1.5,
+        "total": 52.5,
+        "home_ml": 100,
+        "away_ml": -120,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 0.3,
+        "proj_total": 46.6,
+        "proj_home_score": 23.4,
+        "proj_away_score": 23.2,
+        "home_win_prob": 0.5025
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "ATL",
+          "line": 1.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "ATL +1.5",
+          "lean": 1.8
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "ATL",
+          "price": 100,
+          "stake": 100.0,
+          "pick": "ATL ML +100"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "ATL",
+            "pick": "ATL +1.5",
+            "line": 1.5,
+            "price": -110,
+            "ev": 0.073,
+            "edge": 1.8,
+            "kelly": 0.0201,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "under",
+            "team": null,
+            "pick": "Under 52.5",
+            "line": 52.5,
+            "price": -110,
+            "ev": 0.277,
+            "edge": 5.9,
+            "kelly": 0.0762,
+            "confidence": "medium",
+            "book": null,
+            "stake": 769.72,
+            "bankroll_at_bet": 10101.34
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "ATL",
+            "pick": "ATL +1.5",
+            "line": 1.5,
+            "price": -110,
+            "ev": 0.073,
+            "edge": 1.8,
+            "kelly": 0.0201,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 203.04,
+            "bankroll_at_bet": 10101.34
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401872997": {
+      "game_id": "401872997",
+      "league": "nfl",
+      "season": 2026,
+      "week": 6,
+      "kickoff": "2026-10-18T17:00Z",
+      "locked_at": "2026-10-17T16:14:53+00:00",
+      "home": "CLE",
+      "away": "BAL",
+      "home_full": "Cleveland Browns",
+      "away_full": "Baltimore Ravens",
+      "line": {
+        "home_spread": 3.0,
+        "total": 39.5,
+        "home_ml": 140,
+        "away_ml": -166,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": -4.7,
+        "proj_total": 42.0,
+        "proj_home_score": 18.7,
+        "proj_away_score": 23.3,
+        "home_win_prob": 0.3534
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "BAL",
+          "line": -3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "BAL -3",
+          "lean": -1.7
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "BAL",
+          "price": -166,
+          "stake": 100.0,
+          "pick": "BAL ML -166"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "BAL",
+            "pick": "BAL -3",
+            "line": -3.0,
+            "price": -110,
+            "ev": 0.067,
+            "edge": 1.7,
+            "kelly": 0.0183,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "BAL",
+            "pick": "BAL ML -166",
+            "line": -166,
+            "price": -166,
+            "ev": 0.036,
+            "edge": 4.7,
+            "kelly": 0.015,
+            "confidence": "medium",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 39.5",
+            "line": 39.5,
+            "price": -110,
+            "ev": 0.095,
+            "edge": 2.5,
+            "kelly": 0.0261,
+            "confidence": "low",
+            "book": null,
+            "stake": 263.64,
+            "bankroll_at_bet": 10101.34
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "BAL",
+            "pick": "BAL -3",
+            "line": -3.0,
+            "price": -110,
+            "ev": 0.067,
+            "edge": 1.7,
+            "kelly": 0.0183,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 184.85,
+            "bankroll_at_bet": 10101.34
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "BAL",
+            "pick": "BAL ML -166",
+            "line": -166,
+            "price": -166,
+            "ev": 0.036,
+            "edge": 4.7,
+            "kelly": 0.015,
+            "confidence": "medium",
+            "book": "Draft Kings",
+            "stake": 151.52,
+            "bankroll_at_bet": 10101.34
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401873003": {
+      "game_id": "401873003",
+      "league": "nfl",
+      "season": 2026,
+      "week": 6,
+      "kickoff": "2026-10-18T17:00Z",
+      "locked_at": "2026-10-17T16:14:53+00:00",
+      "home": "IND",
+      "away": "TEN",
+      "home_full": "Indianapolis Colts",
+      "away_full": "Tennessee Titans",
+      "line": {
+        "home_spread": -7.0,
+        "total": 44.5,
+        "home_ml": -340,
+        "away_ml": 270,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 6.2,
+        "proj_total": 45.4,
+        "proj_home_score": 25.8,
+        "proj_away_score": 19.6,
+        "home_win_prob": 0.7141
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "TEN",
+          "line": 7.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "TEN +7",
+          "lean": -0.8
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "IND",
+          "price": -340,
+          "stake": 100.0,
+          "pick": "IND ML -340"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "TEN",
+            "pick": "TEN ML +270",
+            "line": 270,
+            "price": 270,
+            "ev": 0.058,
+            "edge": 2.7,
+            "kelly": 0.0054,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "TEN",
+            "pick": "TEN ML +270",
+            "line": 270,
+            "price": 270,
+            "ev": 0.058,
+            "edge": 2.7,
+            "kelly": 0.0054,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 54.55,
+            "bankroll_at_bet": 10101.34
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401873001": {
+      "game_id": "401873001",
+      "league": "nfl",
+      "season": 2026,
+      "week": 6,
+      "kickoff": "2026-10-18T17:00Z",
+      "locked_at": "2026-10-17T16:14:53+00:00",
+      "home": "NE",
+      "away": "NYJ",
+      "home_full": "New England Patriots",
+      "away_full": "New York Jets",
+      "line": {
+        "home_spread": -7.5,
+        "total": 43.5,
+        "home_ml": -345,
+        "away_ml": 275,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 8.0,
+        "proj_total": 39.6,
+        "proj_home_score": 23.8,
+        "proj_away_score": 15.8,
+        "home_win_prob": 0.7542
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "NE",
+          "line": -7.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "NE -7.5",
+          "lean": 0.5
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "NE",
+          "price": -345,
+          "stake": 100.0,
+          "pick": "NE ML -345"
+        },
+        "value": [],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "under",
+            "team": null,
+            "pick": "Under 43.5",
+            "line": 43.5,
+            "price": -110,
+            "ev": 0.172,
+            "edge": 3.9,
+            "kelly": 0.0472,
+            "confidence": "low",
+            "book": null,
+            "stake": 476.78,
+            "bankroll_at_bet": 10101.34
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401873000": {
+      "game_id": "401873000",
+      "league": "nfl",
+      "season": 2026,
+      "week": 6,
+      "kickoff": "2026-10-18T17:00Z",
+      "locked_at": "2026-10-17T16:14:53+00:00",
+      "home": "NYG",
+      "away": "NO",
+      "home_full": "New York Giants",
+      "away_full": "New Orleans Saints",
+      "line": {
+        "home_spread": 1.5,
+        "total": 46.5,
+        "home_ml": -110,
+        "away_ml": -110,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 4.1,
+        "proj_total": 46.3,
+        "proj_home_score": 25.2,
+        "proj_away_score": 21.1,
+        "home_win_prob": 0.613
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "NYG",
+          "line": 1.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "NYG +1.5",
+          "lean": 5.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "NYG",
+          "price": -110,
+          "stake": 100.0,
+          "pick": "NYG ML -110"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "NYG",
+            "pick": "NYG +1.5",
+            "line": 1.5,
+            "price": -110,
+            "ev": 0.311,
+            "edge": 5.6,
+            "kelly": 0.0856,
+            "confidence": "medium",
+            "book": "Draft Kings",
+            "stake": 100.0
+          },
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "NYG",
+            "pick": "NYG ML -110",
+            "line": -110,
+            "price": -110,
+            "ev": 0.17,
+            "edge": 11.3,
+            "kelly": 0.0468,
+            "confidence": "high",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "NYG",
+            "pick": "NYG +1.5",
+            "line": 1.5,
+            "price": -110,
+            "ev": 0.311,
+            "edge": 5.6,
+            "kelly": 0.0856,
+            "confidence": "medium",
+            "book": "Draft Kings",
+            "stake": 864.67,
+            "bankroll_at_bet": 10101.34
+          },
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "NYG",
+            "pick": "NYG ML -110",
+            "line": -110,
+            "price": -110,
+            "ev": 0.17,
+            "edge": 11.3,
+            "kelly": 0.0468,
+            "confidence": "high",
+            "book": "Draft Kings",
+            "stake": 472.74,
+            "bankroll_at_bet": 10101.34
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401872998": {
+      "game_id": "401872998",
+      "league": "nfl",
+      "season": 2026,
+      "week": 6,
+      "kickoff": "2026-10-18T17:00Z",
+      "locked_at": "2026-10-17T16:14:53+00:00",
+      "home": "PHI",
+      "away": "CAR",
+      "home_full": "Philadelphia Eagles",
+      "away_full": "Carolina Panthers",
+      "line": {
+        "home_spread": 3.0,
+        "total": 39.5,
+        "home_ml": 140,
+        "away_ml": -166,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": -2.0,
+        "proj_total": 43.2,
+        "proj_home_score": 20.6,
+        "proj_away_score": 22.6,
+        "home_win_prob": 0.4233
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "PHI",
+          "line": 3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "PHI +3",
+          "lean": 1.0
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "CAR",
+          "price": -166,
+          "stake": 100.0,
+          "pick": "CAR ML -166"
+        },
+        "value": [],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 39.5",
+            "line": 39.5,
+            "price": -110,
+            "ev": 0.161,
+            "edge": 3.7,
+            "kelly": 0.0442,
+            "confidence": "low",
+            "book": null,
+            "stake": 446.48,
+            "bankroll_at_bet": 10101.34
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401873002": {
+      "game_id": "401873002",
+      "league": "nfl",
+      "season": 2026,
+      "week": 6,
+      "kickoff": "2026-10-18T17:00Z",
+      "locked_at": "2026-10-17T16:14:53+00:00",
+      "home": "TB",
+      "away": "PIT",
+      "home_full": "Tampa Bay Buccaneers",
+      "away_full": "Pittsburgh Steelers",
+      "line": {
+        "home_spread": 2.5,
+        "total": 38.5,
+        "home_ml": 124,
+        "away_ml": -148,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 0.4,
+        "proj_total": 40.3,
+        "proj_home_score": 20.3,
+        "proj_away_score": 19.9,
+        "home_win_prob": 0.4935
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "TB",
+          "line": 2.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "TB +2.5",
+          "lean": 2.9
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "TB",
+          "price": 124,
+          "stake": 100.0,
+          "pick": "TB ML +124"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "TB",
+            "pick": "TB +2.5",
+            "line": 2.5,
+            "price": -110,
+            "ev": 0.145,
+            "edge": 2.9,
+            "kelly": 0.0398,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          },
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "TB",
+            "pick": "TB ML +124",
+            "line": 124,
+            "price": 124,
+            "ev": 0.105,
+            "edge": 6.6,
+            "kelly": 0.0213,
+            "confidence": "high",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "TB",
+            "pick": "TB +2.5",
+            "line": 2.5,
+            "price": -110,
+            "ev": 0.145,
+            "edge": 2.9,
+            "kelly": 0.0398,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 402.03,
+            "bankroll_at_bet": 10101.34
+          },
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "TB",
+            "pick": "TB ML +124",
+            "line": 124,
+            "price": 124,
+            "ev": 0.105,
+            "edge": 6.6,
+            "kelly": 0.0213,
+            "confidence": "high",
+            "book": "Draft Kings",
+            "stake": 215.16,
+            "bankroll_at_bet": 10101.34
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401873004": {
+      "game_id": "401873004",
+      "league": "nfl",
+      "season": 2026,
+      "week": 6,
+      "kickoff": "2026-10-18T20:05Z",
+      "locked_at": "2026-10-17T16:14:53+00:00",
+      "home": "LAR",
+      "away": "ARI",
+      "home_full": "Los Angeles Rams",
+      "away_full": "Arizona Cardinals",
+      "line": {
+        "home_spread": -12.5,
+        "total": 51.5,
+        "home_ml": -800,
+        "away_ml": 550,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 10.9,
+        "proj_total": 53.5,
+        "proj_home_score": 32.2,
+        "proj_away_score": 21.3,
+        "home_win_prob": 0.8342
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "ARI",
+          "line": 12.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "ARI +12.5",
+          "lean": -1.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "LAR",
+          "price": -800,
+          "stake": 100.0,
+          "pick": "LAR ML -800"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "ARI",
+            "pick": "ARI +12.5",
+            "line": 12.5,
+            "price": -110,
+            "ev": 0.06,
+            "edge": 1.6,
+            "kelly": 0.0165,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 51.5",
+            "line": 51.5,
+            "price": -110,
+            "ev": 0.067,
+            "edge": 2.0,
+            "kelly": 0.0184,
+            "confidence": "low",
+            "book": null,
+            "stake": 185.86,
+            "bankroll_at_bet": 10101.34
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "ARI",
+            "pick": "ARI +12.5",
+            "line": 12.5,
+            "price": -110,
+            "ev": 0.06,
+            "edge": 1.6,
+            "kelly": 0.0165,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 166.67,
+            "bankroll_at_bet": 10101.34
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401873006": {
+      "game_id": "401873006",
+      "league": "nfl",
+      "season": 2026,
+      "week": 6,
+      "kickoff": "2026-10-18T20:25Z",
+      "locked_at": "2026-10-17T16:14:53+00:00",
+      "home": "KC",
+      "away": "LAC",
+      "home_full": "Kansas City Chiefs",
+      "away_full": "Los Angeles Chargers",
+      "line": {
+        "home_spread": -7.5,
+        "total": 41.5,
+        "home_ml": -440,
+        "away_ml": 340,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 9.5,
+        "proj_total": 40.8,
+        "proj_home_score": 25.1,
+        "proj_away_score": 15.7,
+        "home_win_prob": 0.7919
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "KC",
+          "line": -7.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "KC -7.5",
+          "lean": 2.0
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "KC",
+          "price": -440,
+          "stake": 100.0,
+          "pick": "KC ML -440"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "KC",
+            "pick": "KC -7.5",
+            "line": -7.5,
+            "price": -110,
+            "ev": 0.086,
+            "edge": 2.0,
+            "kelly": 0.0237,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "KC",
+            "pick": "KC -7.5",
+            "line": -7.5,
+            "price": -110,
+            "ev": 0.086,
+            "edge": 2.0,
+            "kelly": 0.0237,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 239.4,
+            "bankroll_at_bet": 10101.34
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401873005": {
+      "game_id": "401873005",
+      "league": "nfl",
+      "season": 2026,
+      "week": 6,
+      "kickoff": "2026-10-18T20:25Z",
+      "locked_at": "2026-10-17T16:14:53+00:00",
+      "home": "LV",
+      "away": "BUF",
+      "home_full": "Las Vegas Raiders",
+      "away_full": "Buffalo Bills",
+      "line": {
+        "home_spread": 5.5,
+        "total": 53.5,
+        "home_ml": 185,
+        "away_ml": -225,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": -5.0,
+        "proj_total": 57.1,
+        "proj_home_score": 26.1,
+        "proj_away_score": 31.1,
+        "home_win_prob": 0.333
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "LV",
+          "line": 5.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "LV +5.5",
+          "lean": 0.5
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "BUF",
+          "price": -225,
+          "stake": 100.0,
+          "pick": "BUF ML -225"
+        },
+        "value": [],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 53.5",
+            "line": 53.5,
+            "price": -110,
+            "ev": 0.155,
+            "edge": 3.6,
+            "kelly": 0.0427,
+            "confidence": "low",
+            "book": null,
+            "stake": 431.33,
+            "bankroll_at_bet": 10101.34
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
