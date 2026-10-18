@@ -101,11 +101,11 @@
       "last_date": "2026-10-11T17:00Z"
     },
     "34": {
-      "rating": 1520.932229984591,
+      "rating": 1536.3787061929634,
       "name": "Texans",
       "abbr": "HOU",
-      "gp": 6,
-      "last_date": "2026-10-11T17:00Z"
+      "gp": 7,
+      "last_date": "2026-10-18T13:30Z"
     },
     "15": {
       "rating": 1347.9984073800206,
@@ -115,11 +115,11 @@
       "last_date": "2026-10-11T17:00Z"
     },
     "30": {
-      "rating": 1590.8857447475248,
+      "rating": 1575.4392685391524,
       "name": "Jaguars",
       "abbr": "JAX",
-      "gp": 7,
-      "last_date": "2026-10-11T13:30Z"
+      "gp": 8,
+      "last_date": "2026-10-18T13:30Z"
     },
     "18": {
       "rating": 1384.7237427094226,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-10-16T00:15Z",
+    "last_game_date": "2026-10-18T13:30Z",
     "season": 2026,
-    "n_games": 675,
+    "n_games": 676,
     "signals": {
       "weather": true,
       "travel": true,

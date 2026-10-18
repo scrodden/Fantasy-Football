@@ -7456,7 +7456,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "JAX -2.5",
-          "lean": 0.3
+          "lean": 0.3,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -7464,12 +7466,16 @@
           "team": "JAX",
           "price": -148,
           "stake": 100.0,
-          "pick": "JAX ML -148"
+          "pick": "JAX ML -148",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 31,
+      "away_score": 34
     },
     "401872999": {
       "game_id": "401872999",
