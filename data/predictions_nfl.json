@@ -3375,7 +3375,8 @@
         "pick": "NYG ML -110",
         "line": -110,
         "price": -110,
-        "edge": 12.8
+        "edge": 12.8,
+        "result": "loss"
       },
       {
         "market": "spread",
@@ -3383,10 +3384,18 @@
         "pick": "NYG -1.5",
         "line": -1.5,
         "price": -110,
-        "edge": 3.1
+        "edge": 3.1,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 27,
+    "away_score": 34,
+    "actual_margin": -7,
+    "su_correct": false,
+    "brier": 0.3939,
+    "margin_err": 11.6,
+    "total_err": 14.9
   },
   "401872998": {
     "id": "401872998",
@@ -3454,7 +3463,8 @@
         "pick": "TB +3",
         "line": 3.0,
         "price": -110,
-        "edge": 3.3
+        "edge": 3.3,
+        "result": "loss"
       },
       {
         "market": "moneyline",
@@ -3462,10 +3472,18 @@
         "pick": "TB ML +130",
         "line": 130,
         "price": 130,
-        "edge": 7.1
+        "edge": 7.1,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 19,
+    "away_score": 26,
+    "actual_margin": -7,
+    "su_correct": false,
+    "brier": 0.238,
+    "margin_err": 7.3,
+    "total_err": 6.1
   },
   "401873004": {
     "id": "401873004",
