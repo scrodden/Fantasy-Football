@@ -34802,7 +34802,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "AUB +19.5",
-          "lean": -1.6
+          "lean": -1.6,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -34810,7 +34812,9 @@
           "team": "UGA",
           "price": -1350,
           "stake": 100.0,
-          "pick": "UGA ML -1350"
+          "pick": "UGA ML -1350",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [
           {
@@ -34825,7 +34829,9 @@
             "kelly": 0.0098,
             "confidence": "low",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           }
         ],
         "bankroll": [
@@ -34842,11 +34848,15 @@
             "confidence": "low",
             "book": "Draft Kings",
             "stake": 10.54,
-            "bankroll_at_bet": 1075.64
+            "bankroll_at_bet": 1075.64,
+            "result": "win",
+            "pnl": 9.58
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 24,
+      "away_score": 27
     },
     "401856723": {
       "game_id": "401856723",
@@ -34882,7 +34892,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "TENN +7.5",
-          "lean": 2.9
+          "lean": 2.9,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -34890,7 +34902,9 @@
           "team": "ALA",
           "price": -340,
           "stake": 100.0,
-          "pick": "ALA ML -340"
+          "pick": "ALA ML -340",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [
           {
@@ -34905,7 +34919,9 @@
             "kelly": 0.0205,
             "confidence": "medium",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 270.0
           },
           {
             "market": "spread",
@@ -34919,7 +34935,9 @@
             "kelly": 0.0277,
             "confidence": "low",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           }
         ],
         "bankroll": [
@@ -34936,7 +34954,9 @@
             "confidence": "medium",
             "book": "Draft Kings",
             "stake": 22.05,
-            "bankroll_at_bet": 1075.64
+            "bankroll_at_bet": 1075.64,
+            "result": "win",
+            "pnl": 59.54
           },
           {
             "market": "total",
@@ -34951,7 +34971,9 @@
             "confidence": "low",
             "book": null,
             "stake": 41.95,
-            "bankroll_at_bet": 1075.64
+            "bankroll_at_bet": 1075.64,
+            "result": "loss",
+            "pnl": -41.95
           },
           {
             "market": "spread",
@@ -34966,11 +34988,15 @@
             "confidence": "low",
             "book": "Draft Kings",
             "stake": 29.8,
-            "bankroll_at_bet": 1075.64
+            "bankroll_at_bet": 1075.64,
+            "result": "win",
+            "pnl": 27.09
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 26,
+      "away_score": 10
     },
     "401856721": {
       "game_id": "401856721",
@@ -35006,7 +35032,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "MIZ +5.5",
-          "lean": -1.3
+          "lean": -1.3,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -35014,12 +35042,16 @@
           "team": "MISS",
           "price": -225,
           "stake": 100.0,
-          "pick": "MISS ML -225"
+          "pick": "MISS ML -225",
+          "result": "win",
+          "pnl": 44.44
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 31,
+      "away_score": 3
     },
     "401856828": {
       "game_id": "401856828",
@@ -35055,7 +35087,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "TTU -15.5",
-          "lean": 3.7
+          "lean": 3.7,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -35063,7 +35097,9 @@
           "team": "TTU",
           "price": -700,
           "stake": 100.0,
-          "pick": "TTU ML -700"
+          "pick": "TTU ML -700",
+          "result": "win",
+          "pnl": 14.29
         },
         "value": [
           {
@@ -35078,7 +35114,9 @@
             "kelly": 0.0386,
             "confidence": "low",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           }
         ],
         "bankroll": [
@@ -35095,7 +35133,9 @@
             "confidence": "low",
             "book": "Draft Kings",
             "stake": 41.52,
-            "bankroll_at_bet": 1075.64
+            "bankroll_at_bet": 1075.64,
+            "result": "win",
+            "pnl": 37.75
           },
           {
             "market": "total",
@@ -35110,11 +35150,15 @@
             "confidence": "low",
             "book": null,
             "stake": 13.77,
-            "bankroll_at_bet": 1075.64
+            "bankroll_at_bet": 1075.64,
+            "result": "win",
+            "pnl": 12.52
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 53,
+      "away_score": 25
     },
     "401858264": {
       "game_id": "401858264",
@@ -35150,7 +35194,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "GT +9.5",
-          "lean": -3.6
+          "lean": -3.6,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -35158,7 +35204,9 @@
           "team": "VT",
           "price": -360,
           "stake": 100.0,
-          "pick": "VT ML -360"
+          "pick": "VT ML -360",
+          "result": "win",
+          "pnl": 27.78
         },
         "value": [
           {
@@ -35173,7 +35221,9 @@
             "kelly": 0.0373,
             "confidence": "low",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           },
           {
             "market": "moneyline",
@@ -35187,7 +35237,9 @@
             "kelly": 0.0095,
             "confidence": "low",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           }
         ],
         "bankroll": [
@@ -35204,7 +35256,9 @@
             "confidence": "low",
             "book": "Draft Kings",
             "stake": 40.12,
-            "bankroll_at_bet": 1075.64
+            "bankroll_at_bet": 1075.64,
+            "result": "loss",
+            "pnl": -40.12
           },
           {
             "market": "moneyline",
@@ -35219,11 +35273,15 @@
             "confidence": "low",
             "book": "Draft Kings",
             "stake": 10.22,
-            "bankroll_at_bet": 1075.64
+            "bankroll_at_bet": 1075.64,
+            "result": "loss",
+            "pnl": -10.22
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 34,
+      "away_score": 24
     },
     "401858266": {
       "game_id": "401858266",
@@ -35259,7 +35317,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "DUKE -3",
-          "lean": 2.6
+          "lean": 2.6,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -35267,7 +35327,9 @@
           "team": "DUKE",
           "price": -155,
           "stake": 100.0,
-          "pick": "DUKE ML -155"
+          "pick": "DUKE ML -155",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [
           {
@@ -35282,7 +35344,9 @@
             "kelly": 0.0236,
             "confidence": "low",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           },
           {
             "market": "moneyline",
@@ -35296,7 +35360,9 @@
             "kelly": 0.0177,
             "confidence": "medium",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           }
         ],
         "bankroll": [
@@ -35313,7 +35379,9 @@
             "confidence": "low",
             "book": "Draft Kings",
             "stake": 25.39,
-            "bankroll_at_bet": 1075.64
+            "bankroll_at_bet": 1075.64,
+            "result": "loss",
+            "pnl": -25.39
           },
           {
             "market": "moneyline",
@@ -35328,11 +35396,15 @@
             "confidence": "medium",
             "book": "Draft Kings",
             "stake": 19.04,
-            "bankroll_at_bet": 1075.64
+            "bankroll_at_bet": 1075.64,
+            "result": "loss",
+            "pnl": -19.04
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 20,
+      "away_score": 24
     },
     "401858490": {
       "game_id": "401858490",
@@ -35368,7 +35440,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "MICH -6.5",
-          "lean": 2.6
+          "lean": 2.6,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -35376,7 +35450,9 @@
           "team": "MICH",
           "price": -230,
           "stake": 100.0,
-          "pick": "MICH ML -230"
+          "pick": "MICH ML -230",
+          "result": "win",
+          "pnl": 43.48
         },
         "value": [
           {
@@ -35391,7 +35467,9 @@
             "kelly": 0.0236,
             "confidence": "low",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           },
           {
             "market": "moneyline",
@@ -35405,7 +35483,9 @@
             "kelly": 0.0214,
             "confidence": "medium",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 43.48
           }
         ],
         "bankroll": [
@@ -35422,7 +35502,9 @@
             "confidence": "low",
             "book": "Draft Kings",
             "stake": 25.39,
-            "bankroll_at_bet": 1075.64
+            "bankroll_at_bet": 1075.64,
+            "result": "loss",
+            "pnl": -25.39
           },
           {
             "market": "moneyline",
@@ -35437,11 +35519,15 @@
             "confidence": "medium",
             "book": "Draft Kings",
             "stake": 23.02,
-            "bankroll_at_bet": 1075.64
+            "bankroll_at_bet": 1075.64,
+            "result": "win",
+            "pnl": 10.01
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 21,
+      "away_score": 18
     },
     "401864522": {
       "game_id": "401864522",
@@ -35477,7 +35563,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "WYO -8.5",
-          "lean": 2.6
+          "lean": 2.6,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -35485,7 +35573,9 @@
           "team": "WYO",
           "price": -305,
           "stake": 100.0,
-          "pick": "WYO ML -305"
+          "pick": "WYO ML -305",
+          "result": "win",
+          "pnl": 32.79
         },
         "value": [
           {
@@ -35500,7 +35590,9 @@
             "kelly": 0.0236,
             "confidence": "low",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           }
         ],
         "bankroll": [
@@ -35517,7 +35609,9 @@
             "confidence": "low",
             "book": null,
             "stake": 30.01,
-            "bankroll_at_bet": 1075.64
+            "bankroll_at_bet": 1075.64,
+            "result": "loss",
+            "pnl": -30.01
           },
           {
             "market": "spread",
@@ -35532,11 +35626,15 @@
             "confidence": "low",
             "book": "Draft Kings",
             "stake": 25.39,
-            "bankroll_at_bet": 1075.64
+            "bankroll_at_bet": 1075.64,
+            "result": "win",
+            "pnl": 23.08
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 41,
+      "away_score": 23
     },
     "401864524": {
       "game_id": "401864524",
@@ -35572,7 +35670,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "UNLV +1.5",
-          "lean": -1.3
+          "lean": -1.3,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -35580,12 +35680,16 @@
           "team": "AFA",
           "price": -115,
           "stake": 100.0,
-          "pick": "AFA ML -115"
+          "pick": "AFA ML -115",
+          "result": "win",
+          "pnl": 86.96
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 41,
+      "away_score": 31
     },
     "401866444": {
       "game_id": "401866444",
@@ -35621,7 +35725,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "EMU +6.5",
-          "lean": 4.5
+          "lean": 4.5,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -35629,7 +35735,9 @@
           "team": "TOL",
           "price": -245,
           "stake": 100.0,
-          "pick": "TOL ML -245"
+          "pick": "TOL ML -245",
+          "result": "win",
+          "pnl": 40.82
         },
         "value": [
           {
@@ -35644,7 +35752,9 @@
             "kelly": 0.0252,
             "confidence": "high",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           },
           {
             "market": "spread",
@@ -35658,7 +35768,9 @@
             "kelly": 0.0494,
             "confidence": "medium",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           }
         ],
         "bankroll": [
@@ -35675,7 +35787,9 @@
             "confidence": "high",
             "book": "Draft Kings",
             "stake": 27.11,
-            "bankroll_at_bet": 1075.64
+            "bankroll_at_bet": 1075.64,
+            "result": "loss",
+            "pnl": -27.11
           },
           {
             "market": "spread",
@@ -35690,11 +35804,15 @@
             "confidence": "medium",
             "book": "Draft Kings",
             "stake": 53.14,
-            "bankroll_at_bet": 1075.64
+            "bankroll_at_bet": 1075.64,
+            "result": "loss",
+            "pnl": -53.14
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 14,
+      "away_score": 34
     },
     "401866478": {
       "game_id": "401866478",
@@ -35730,7 +35848,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "M-OH -10",
-          "lean": 1.8
+          "lean": 1.8,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -35738,7 +35858,9 @@
           "team": "M-OH",
           "price": -360,
           "stake": 100.0,
-          "pick": "M-OH ML -360"
+          "pick": "M-OH ML -360",
+          "result": "win",
+          "pnl": 27.78
         },
         "value": [
           {
@@ -35753,7 +35875,9 @@
             "kelly": 0.0126,
             "confidence": "low",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           }
         ],
         "bankroll": [
@@ -35770,7 +35894,9 @@
             "confidence": "low",
             "book": null,
             "stake": 25.92,
-            "bankroll_at_bet": 1075.64
+            "bankroll_at_bet": 1075.64,
+            "result": "win",
+            "pnl": 23.56
           },
           {
             "market": "spread",
@@ -35785,11 +35911,15 @@
             "confidence": "low",
             "book": "Draft Kings",
             "stake": 13.55,
-            "bankroll_at_bet": 1075.64
+            "bankroll_at_bet": 1075.64,
+            "result": "win",
+            "pnl": 12.32
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 34,
+      "away_score": 14
     },
     "401862805": {
       "game_id": "401862805",
@@ -35825,7 +35955,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "RICE +4.5",
-          "lean": 1.9
+          "lean": 1.9,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -35833,7 +35965,9 @@
           "team": "TLSA",
           "price": -192,
           "stake": 100.0,
-          "pick": "TLSA ML -192"
+          "pick": "TLSA ML -192",
+          "result": "win",
+          "pnl": 52.08
         },
         "value": [
           {
@@ -35848,7 +35982,9 @@
             "kelly": 0.0095,
             "confidence": "medium",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           },
           {
             "market": "spread",
@@ -35862,7 +35998,9 @@
             "kelly": 0.014,
             "confidence": "low",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           }
         ],
         "bankroll": [
@@ -35879,7 +36017,9 @@
             "confidence": "medium",
             "book": "Draft Kings",
             "stake": 10.22,
-            "bankroll_at_bet": 1075.64
+            "bankroll_at_bet": 1075.64,
+            "result": "loss",
+            "pnl": -10.22
           },
           {
             "market": "spread",
@@ -35894,11 +36034,15 @@
             "confidence": "low",
             "book": "Draft Kings",
             "stake": 15.06,
-            "bankroll_at_bet": 1075.64
+            "bankroll_at_bet": 1075.64,
+            "result": "loss",
+            "pnl": -15.06
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 17,
+      "away_score": 38
     },
     "401869966": {
       "game_id": "401869966",
@@ -35934,7 +36078,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "TROY +3",
-          "lean": -0.3
+          "lean": -0.3,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -35942,12 +36088,16 @@
           "team": "UL",
           "price": -155,
           "stake": 100.0,
-          "pick": "UL ML -155"
+          "pick": "UL ML -155",
+          "result": "win",
+          "pnl": 64.52
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 33,
+      "away_score": 6
     },
     "401860903": {
       "game_id": "401860903",
