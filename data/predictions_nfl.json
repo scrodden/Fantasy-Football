@@ -3227,7 +3227,8 @@
         "pick": "ATL ML +145",
         "line": 145,
         "price": 145,
-        "edge": 8.2
+        "edge": 8.2,
+        "result": "loss"
       },
       {
         "market": "total",
@@ -3235,7 +3236,8 @@
         "pick": "Under 49.5",
         "line": 49.5,
         "price": -110,
-        "edge": 3.6
+        "edge": 3.6,
+        "result": "loss"
       },
       {
         "market": "spread",
@@ -3243,10 +3245,18 @@
         "pick": "ATL +3",
         "line": 3.0,
         "price": -110,
-        "edge": 2.9
+        "edge": 2.9,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 23,
+    "away_score": 31,
+    "actual_margin": -8,
+    "su_correct": true,
+    "brier": 0.2238,
+    "margin_err": 7.9,
+    "total_err": 8.1
   },
   "401872997": {
     "id": "401872997",
@@ -3264,7 +3274,14 @@
       "away_ml": -238
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 13,
+    "away_score": 10,
+    "actual_margin": 3,
+    "su_correct": false,
+    "brier": 0.446,
+    "margin_err": 7.9,
+    "total_err": 18.4
   },
   "401873003": {
     "id": "401873003",
@@ -3288,10 +3305,18 @@
         "pick": "TEN ML +270",
         "line": 270,
         "price": 270,
-        "edge": 2.7
+        "edge": 2.7,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 20,
+    "away_score": 26,
+    "actual_margin": -6,
+    "su_correct": false,
+    "brier": 0.5099,
+    "margin_err": 12.2,
+    "total_err": 0.6
   },
   "401873001": {
     "id": "401873001",
@@ -3315,10 +3340,18 @@
         "pick": "Under 43.5",
         "line": 43.5,
         "price": -110,
-        "edge": 4.3
+        "edge": 4.3,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 26,
+    "away_score": 19,
+    "actual_margin": 7,
+    "su_correct": true,
+    "brier": 0.06,
+    "margin_err": 1.0,
+    "total_err": 5.8
   },
   "401873000": {
     "id": "401873000",
@@ -3377,7 +3410,8 @@
         "pick": "CAR +1.5",
         "line": 1.5,
         "price": -110,
-        "edge": 2.5
+        "edge": 2.5,
+        "result": "win"
       },
       {
         "market": "total",
@@ -3385,10 +3419,18 @@
         "pick": "Over 41.5",
         "line": 41.5,
         "price": -110,
-        "edge": 2.2
+        "edge": 2.2,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 14,
+    "away_score": 25,
+    "actual_margin": -11,
+    "su_correct": true,
+    "brier": 0.2267,
+    "margin_err": 10.0,
+    "total_err": 4.7
   },
   "401873002": {
     "id": "401873002",
