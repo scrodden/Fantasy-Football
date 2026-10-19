@@ -3592,7 +3592,8 @@
         "pick": "Under 52.5",
         "line": 52.5,
         "price": -110,
-        "edge": 2.6
+        "edge": 2.6,
+        "result": "win"
       },
       {
         "market": "moneyline",
@@ -3600,7 +3601,8 @@
         "pick": "GB ML -115",
         "line": -115,
         "price": -115,
-        "edge": 7.3
+        "edge": 7.3,
+        "result": "win"
       },
       {
         "market": "spread",
@@ -3608,10 +3610,18 @@
         "pick": "GB -1.5",
         "line": -1.5,
         "price": -110,
-        "edge": 1.6
+        "edge": 1.6,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 23,
+    "away_score": 13,
+    "actual_margin": 10,
+    "su_correct": true,
+    "brier": 0.1731,
+    "margin_err": 6.9,
+    "total_err": 13.9
   },
   "401873008": {
     "id": "401873008",

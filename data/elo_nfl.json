@@ -31,11 +31,11 @@
       "last_date": "2026-10-18T17:00Z"
     },
     "9": {
-      "rating": 1544.9624812679967,
+      "rating": 1559.8210057892522,
       "name": "Packers",
       "abbr": "GB",
-      "gp": 6,
-      "last_date": "2026-10-11T17:00Z"
+      "gp": 7,
+      "last_date": "2026-10-19T00:20Z"
     },
     "1": {
       "rating": 1478.7912472439193,
@@ -185,11 +185,11 @@
       "last_date": "2026-10-18T17:00Z"
     },
     "6": {
-      "rating": 1492.936793712512,
+      "rating": 1478.0782691912566,
       "name": "Cowboys",
       "abbr": "DAL",
-      "gp": 7,
-      "last_date": "2026-10-09T00:15Z"
+      "gp": 8,
+      "last_date": "2026-10-19T00:20Z"
     },
     "27": {
       "rating": 1431.6199877268666,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-10-18T20:25Z",
+    "last_game_date": "2026-10-19T00:20Z",
     "season": 2026,
-    "n_games": 686,
+    "n_games": 687,
     "signals": {
       "weather": true,
       "travel": true,
