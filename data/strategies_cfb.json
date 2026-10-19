@@ -37856,6 +37856,169 @@
       "settled": true,
       "home_score": 17,
       "away_score": 14
+    },
+    "401871055": {
+      "game_id": "401871055",
+      "league": "cfb",
+      "season": 2026,
+      "week": 8,
+      "kickoff": "2026-10-20T23:00Z",
+      "locked_at": "2026-10-19T20:31:59+00:00",
+      "home": "FIU",
+      "away": "MTSU",
+      "home_full": "Florida International Panthers",
+      "away_full": "Middle Tennessee Blue Raiders",
+      "line": {
+        "home_spread": -10.0,
+        "total": 45.5,
+        "home_ml": -380,
+        "away_ml": 300,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 10.9,
+        "proj_total": 44.7,
+        "proj_home_score": 27.8,
+        "proj_away_score": 16.9,
+        "home_win_prob": 0.7856
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "FIU",
+          "line": -10.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "FIU -10",
+          "lean": 0.9
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "FIU",
+          "price": -380,
+          "stake": 100.0,
+          "pick": "FIU ML -380"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401871069": {
+      "game_id": "401871069",
+      "league": "cfb",
+      "season": 2026,
+      "week": 8,
+      "kickoff": "2026-10-20T23:00Z",
+      "locked_at": "2026-10-19T20:31:59+00:00",
+      "home": "DEL",
+      "away": "MOST",
+      "home_full": "Delaware Blue Hens",
+      "away_full": "Missouri State Bears",
+      "line": {
+        "home_spread": -3.0,
+        "total": 52.5,
+        "home_ml": -155,
+        "away_ml": 130,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 2.4,
+        "proj_total": 53.3,
+        "proj_home_score": 27.9,
+        "proj_away_score": 25.4,
+        "home_win_prob": 0.5832
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "MOST",
+          "line": 3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "MOST +3",
+          "lean": -0.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "DEL",
+          "price": -155,
+          "stake": 100.0,
+          "pick": "DEL ML -155"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401871092": {
+      "game_id": "401871092",
+      "league": "cfb",
+      "season": 2026,
+      "week": 8,
+      "kickoff": "2026-10-20T23:30Z",
+      "locked_at": "2026-10-19T20:31:59+00:00",
+      "home": "MRSH",
+      "away": "USA",
+      "home_full": "Marshall Thundering Herd",
+      "away_full": "South Alabama Jaguars",
+      "line": {
+        "home_spread": 3.0,
+        "total": 64.5,
+        "home_ml": 130,
+        "away_ml": -155,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -2.6,
+        "proj_total": 68.7,
+        "proj_home_score": 33.1,
+        "proj_away_score": 35.6,
+        "home_win_prob": 0.4268
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "MRSH",
+          "line": 3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "MRSH +3",
+          "lean": 0.4
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "USA",
+          "price": -155,
+          "stake": 100.0,
+          "pick": "USA ML -155"
+        },
+        "value": [],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 64.5",
+            "line": 64.5,
+            "price": -110,
+            "ev": 0.146,
+            "edge": 4.2,
+            "kelly": 0.0402,
+            "confidence": "low",
+            "book": null,
+            "stake": 32.84,
+            "bankroll_at_bet": 816.93
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
