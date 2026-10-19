@@ -3501,7 +3501,14 @@
       "away_ml": null
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 16,
+    "away_score": 18,
+    "actual_margin": -2,
+    "su_correct": false,
+    "brier": 0.7978,
+    "margin_err": 16.3,
+    "total_err": 17.8
   },
   "401873006": {
     "id": "401873006",
@@ -3525,10 +3532,18 @@
         "pick": "Under 42.5",
         "line": 42.5,
         "price": -110,
-        "edge": 2.9
+        "edge": 2.9,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 22,
+    "away_score": 6,
+    "actual_margin": 16,
+    "su_correct": true,
+    "brier": 0.0415,
+    "margin_err": 6.3,
+    "total_err": 11.6
   },
   "401873005": {
     "id": "401873005",
@@ -3546,7 +3561,14 @@
       "away_ml": null
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 30,
+    "away_score": 33,
+    "actual_margin": -3,
+    "su_correct": true,
+    "brier": 0.0643,
+    "margin_err": 4.6,
+    "total_err": 7.0
   },
   "401873007": {
     "id": "401873007",
