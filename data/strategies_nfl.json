@@ -8633,7 +8633,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "SF -7.5",
-          "lean": 3.2
+          "lean": 3.2,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -8641,7 +8643,9 @@
           "team": "SF",
           "price": -455,
           "stake": 100.0,
-          "pick": "SF ML -455"
+          "pick": "SF ML -455",
+          "result": "win",
+          "pnl": 21.98
         },
         "value": [
           {
@@ -8656,7 +8660,9 @@
             "kelly": 0.045,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           }
         ],
         "bankroll": [
@@ -8673,11 +8679,15 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 454.56,
-            "bankroll_at_bet": 10101.34
+            "bankroll_at_bet": 10101.34,
+            "result": "loss",
+            "pnl": -454.56
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 23,
+      "away_score": 17
     }
   }
 }

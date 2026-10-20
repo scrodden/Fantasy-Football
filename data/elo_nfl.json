@@ -199,11 +199,11 @@
       "last_date": "2026-10-18T17:00Z"
     },
     "28": {
-      "rating": 1416.3932070929927,
+      "rating": 1411.4485113125404,
       "name": "Commanders",
       "abbr": "WSH",
-      "gp": 6,
-      "last_date": "2026-10-11T17:00Z"
+      "gp": 7,
+      "last_date": "2026-10-20T00:15Z"
     },
     "8": {
       "rating": 1554.887880337598,
@@ -220,11 +220,11 @@
       "last_date": "2026-10-18T20:05Z"
     },
     "25": {
-      "rating": 1656.868753846709,
+      "rating": 1661.8134496271614,
       "name": "49ers",
       "abbr": "SF",
-      "gp": 6,
-      "last_date": "2026-10-11T20:25Z"
+      "gp": 7,
+      "last_date": "2026-10-20T00:15Z"
     },
     "20": {
       "rating": 1408.72419052626,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-10-19T00:20Z",
+    "last_game_date": "2026-10-20T00:15Z",
     "season": 2026,
-    "n_games": 687,
+    "n_games": 688,
     "signals": {
       "weather": true,
       "travel": true,
