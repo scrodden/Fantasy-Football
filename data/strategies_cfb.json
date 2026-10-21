@@ -37891,7 +37891,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "FIU -10",
-          "lean": 0.9
+          "lean": 0.9,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -37899,12 +37901,16 @@
           "team": "FIU",
           "price": -380,
           "stake": 100.0,
-          "pick": "FIU ML -380"
+          "pick": "FIU ML -380",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 23,
+      "away_score": 26
     },
     "401871069": {
       "game_id": "401871069",
@@ -37940,7 +37946,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "MOST +3",
-          "lean": -0.6
+          "lean": -0.6,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -37948,12 +37956,16 @@
           "team": "DEL",
           "price": -155,
           "stake": 100.0,
-          "pick": "DEL ML -155"
+          "pick": "DEL ML -155",
+          "result": "win",
+          "pnl": 64.52
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 61,
+      "away_score": 38
     },
     "401871092": {
       "game_id": "401871092",
@@ -37989,7 +38001,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "MRSH +3",
-          "lean": 0.4
+          "lean": 0.4,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -37997,7 +38011,9 @@
           "team": "USA",
           "price": -155,
           "stake": 100.0,
-          "pick": "USA ML -155"
+          "pick": "USA ML -155",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [],
         "bankroll": [
@@ -38014,11 +38030,15 @@
             "confidence": "low",
             "book": null,
             "stake": 32.84,
-            "bankroll_at_bet": 816.93
+            "bankroll_at_bet": 816.93,
+            "result": "loss",
+            "pnl": -32.84
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 20,
+      "away_score": 13
     },
     "401871070": {
       "game_id": "401871070",
