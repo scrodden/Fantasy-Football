@@ -1081,11 +1081,11 @@
       "last_date": "2026-10-17T20:30Z"
     },
     "2534": {
-      "rating": 1184.9076744942208,
+      "rating": 1163.941573744802,
       "name": "Sam Houston",
       "abbr": "SHSU",
-      "gp": 6,
-      "last_date": "2026-10-15T00:00Z"
+      "gp": 7,
+      "last_date": "2026-10-22T00:00Z"
     },
     "2653": {
       "rating": 1422.1768093441565,
@@ -1326,11 +1326,11 @@
       "last_date": "2026-10-20T23:00Z"
     },
     "166": {
-      "rating": 1329.5503613309834,
+      "rating": 1350.516462080402,
       "name": "New Mexico St",
       "abbr": "NMSU",
-      "gp": 6,
-      "last_date": "2026-10-08T00:04Z"
+      "gp": 7,
+      "last_date": "2026-10-22T00:00Z"
     },
     "2546": {
       "rating": 1415.0428153464006,
@@ -1733,9 +1733,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-10-20T23:30Z",
+    "last_game_date": "2026-10-22T00:00Z",
     "season": 2026,
-    "n_games": 2419,
+    "n_games": 2420,
     "signals": {
       "weather": true,
       "travel": true,

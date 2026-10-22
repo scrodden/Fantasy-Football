@@ -38074,7 +38074,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "NMSU -2.5",
-          "lean": -1.3
+          "lean": -1.3,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -38082,12 +38084,16 @@
           "team": "NMSU",
           "price": -142,
           "stake": 100.0,
-          "pick": "NMSU ML -142"
+          "pick": "NMSU ML -142",
+          "result": "win",
+          "pnl": 70.42
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 24,
+      "away_score": 30
     },
     "401869845": {
       "game_id": "401869845",

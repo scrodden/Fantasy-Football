@@ -16254,7 +16254,14 @@
       "away_ml": -148
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 24,
+    "away_score": 30,
+    "actual_margin": -6,
+    "su_correct": true,
+    "brier": 0.1636,
+    "margin_err": 2.0,
+    "total_err": 9.0
   },
   "401869845": {
     "id": "401869845",
