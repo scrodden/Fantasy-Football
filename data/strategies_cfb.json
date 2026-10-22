@@ -38681,6 +38681,55 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401858272": {
+      "game_id": "401858272",
+      "league": "cfb",
+      "season": 2026,
+      "week": 8,
+      "kickoff": "2026-10-24T02:30Z",
+      "locked_at": "2026-10-22T23:10:10+00:00",
+      "home": "STAN",
+      "away": "NCSU",
+      "home_full": "Stanford Cardinal",
+      "away_full": "NC State Wolfpack",
+      "line": {
+        "home_spread": 6.5,
+        "total": 55.5,
+        "home_ml": 215,
+        "away_ml": -265,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -6.1,
+        "proj_total": 56.6,
+        "proj_home_score": 25.2,
+        "proj_away_score": 31.3,
+        "home_win_prob": 0.3198
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "STAN",
+          "line": 6.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "STAN +6.5",
+          "lean": 0.4
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "NCSU",
+          "price": -265,
+          "stake": 100.0,
+          "pick": "NCSU ML -265"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
