@@ -42112,6 +42112,195 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401864527": {
+      "game_id": "401864527",
+      "league": "cfb",
+      "season": 2026,
+      "week": 8,
+      "kickoff": "2026-10-25T02:00Z",
+      "locked_at": "2026-10-23T22:04:02+00:00",
+      "home": "UNM",
+      "away": "NDSU",
+      "home_full": "New Mexico Lobos",
+      "away_full": "North Dakota State Bison",
+      "line": {
+        "home_spread": -4.5,
+        "total": 40.5,
+        "home_ml": -192,
+        "away_ml": 160,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 1.4,
+        "proj_total": 42.8,
+        "proj_home_score": 22.1,
+        "proj_away_score": 20.7,
+        "home_win_prob": 0.582
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "NDSU",
+          "line": 4.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "NDSU +4.5",
+          "lean": -3.1
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "UNM",
+          "price": -192,
+          "stake": 100.0,
+          "pick": "UNM ML -192"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "NDSU",
+            "pick": "NDSU +4.5",
+            "line": 4.5,
+            "price": -110,
+            "ev": 0.111,
+            "edge": 3.1,
+            "kelly": 0.0305,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "NDSU",
+            "pick": "NDSU ML +160",
+            "line": 160,
+            "price": 160,
+            "ev": 0.087,
+            "edge": 4.9,
+            "kelly": 0.0136,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "NDSU",
+            "pick": "NDSU +4.5",
+            "line": 4.5,
+            "price": -110,
+            "ev": 0.111,
+            "edge": 3.1,
+            "kelly": 0.0305,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 24.9,
+            "bankroll_at_bet": 816.35
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "NDSU",
+            "pick": "NDSU ML +160",
+            "line": 160,
+            "price": 160,
+            "ev": 0.087,
+            "edge": 4.9,
+            "kelly": 0.0136,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 11.1,
+            "bankroll_at_bet": 816.35
+          },
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 40.5",
+            "line": 40.5,
+            "price": -110,
+            "ev": 0.06,
+            "edge": 2.3,
+            "kelly": 0.0166,
+            "confidence": "low",
+            "book": null,
+            "stake": 13.55,
+            "bankroll_at_bet": 816.35
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401856837": {
+      "game_id": "401856837",
+      "league": "cfb",
+      "season": 2026,
+      "week": 8,
+      "kickoff": "2026-10-25T02:15Z",
+      "locked_at": "2026-10-23T22:04:02+00:00",
+      "home": "UTAH",
+      "away": "HOU",
+      "home_full": "Utah Utes",
+      "away_full": "Houston Cougars",
+      "line": {
+        "home_spread": -6.5,
+        "total": 56.5,
+        "home_ml": -250,
+        "away_ml": 205,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 5.5,
+        "proj_total": 59.7,
+        "proj_home_score": 32.6,
+        "proj_away_score": 27.1,
+        "home_win_prob": 0.6774
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "HOU",
+          "line": 6.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "HOU +6.5",
+          "lean": -1.0
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "UTAH",
+          "price": -250,
+          "stake": 100.0,
+          "pick": "UTAH ML -250"
+        },
+        "value": [],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 56.5",
+            "line": 56.5,
+            "price": -110,
+            "ev": 0.101,
+            "edge": 3.2,
+            "kelly": 0.0279,
+            "confidence": "low",
+            "book": null,
+            "stake": 22.78,
+            "bankroll_at_bet": 816.35
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
