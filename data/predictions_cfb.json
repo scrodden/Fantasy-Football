@@ -16285,10 +16285,18 @@
         "pick": "JMU -10.5",
         "line": -10.5,
         "price": -110,
-        "edge": 2.4
+        "edge": 2.4,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 34,
+    "away_score": 31,
+    "actual_margin": 3,
+    "su_correct": false,
+    "brier": 0.6555,
+    "margin_err": 15.9,
+    "total_err": 8.1
   },
   "401871056": {
     "id": "401871056",
@@ -16312,7 +16320,8 @@
         "pick": "Under 50.25",
         "line": 50.25,
         "price": -110,
-        "edge": 3.1
+        "edge": 3.1,
+        "result": "win"
       },
       {
         "market": "spread",
@@ -16320,10 +16329,18 @@
         "pick": "LIB -10.5",
         "line": -10.5,
         "price": -110,
-        "edge": 1.7
+        "edge": 1.7,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 6,
+    "away_score": 34,
+    "actual_margin": -28,
+    "su_correct": true,
+    "brier": 0.0393,
+    "margin_err": 15.8,
+    "total_err": 7.1
   },
   "401862807": {
     "id": "401862807",
@@ -16347,7 +16364,8 @@
         "pick": "ECU +10.5",
         "line": 10.5,
         "price": -110,
-        "edge": 3.4
+        "edge": 3.4,
+        "result": "win"
       },
       {
         "market": "moneyline",
@@ -16355,10 +16373,18 @@
         "pick": "ECU ML +320",
         "line": 320,
         "price": 320,
-        "edge": 3.6
+        "edge": 3.6,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 41,
+    "away_score": 34,
+    "actual_margin": 7,
+    "su_correct": true,
+    "brier": 0.07,
+    "margin_err": 0.1,
+    "total_err": 20.8
   },
   "401858271": {
     "id": "401858271",

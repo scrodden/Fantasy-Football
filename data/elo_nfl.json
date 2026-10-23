@@ -66,11 +66,11 @@
       "last_date": "2026-10-18T20:05Z"
     },
     "3": {
-      "rating": 1551.961309951053,
+      "rating": 1570.312159725952,
       "name": "Bears",
       "abbr": "CHI",
-      "gp": 8,
-      "last_date": "2026-10-18T17:00Z"
+      "gp": 9,
+      "last_date": "2026-10-23T00:15Z"
     },
     "10": {
       "rating": 1342.7391105361235,
@@ -87,11 +87,11 @@
       "last_date": "2026-10-11T17:00Z"
     },
     "17": {
-      "rating": 1614.226608975499,
+      "rating": 1595.8757592006,
       "name": "Patriots",
       "abbr": "NE",
-      "gp": 7,
-      "last_date": "2026-10-18T17:00Z"
+      "gp": 8,
+      "last_date": "2026-10-23T00:15Z"
     },
     "11": {
       "rating": 1402.8809116086418,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-10-20T00:15Z",
+    "last_game_date": "2026-10-23T00:15Z",
     "season": 2026,
-    "n_games": 688,
+    "n_games": 689,
     "signals": {
       "weather": true,
       "travel": true,

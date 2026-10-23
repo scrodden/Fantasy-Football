@@ -3680,7 +3680,8 @@
         "pick": "Under 50.5",
         "line": 50.5,
         "price": -110,
-        "edge": 4.9
+        "edge": 4.9,
+        "result": "loss"
       },
       {
         "market": "spread",
@@ -3688,7 +3689,8 @@
         "pick": "NE +3",
         "line": 3.0,
         "price": -110,
-        "edge": 2.6
+        "edge": 2.6,
+        "result": "loss"
       },
       {
         "market": "moneyline",
@@ -3696,10 +3698,18 @@
         "pick": "NE ML +130",
         "line": 130,
         "price": 130,
-        "edge": 5.6
+        "edge": 5.6,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 30,
+    "away_score": 24,
+    "actual_margin": 6,
+    "su_correct": true,
+    "brier": 0.2238,
+    "margin_err": 5.6,
+    "total_err": 8.4
   },
   "401873011": {
     "id": "401873011",
