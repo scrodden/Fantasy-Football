@@ -9598,6 +9598,153 @@
         ]
       },
       "settled": false
+    },
+    "401873019": {
+      "game_id": "401873019",
+      "league": "nfl",
+      "season": 2026,
+      "week": 7,
+      "kickoff": "2026-10-25T20:05Z",
+      "locked_at": "2026-10-24T16:29:27+00:00",
+      "home": "ARI",
+      "away": "DEN",
+      "home_full": "Arizona Cardinals",
+      "away_full": "Denver Broncos",
+      "line": {
+        "home_spread": 4.5,
+        "total": 43.5,
+        "home_ml": 190,
+        "away_ml": -230,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -5.5,
+        "proj_total": 44.9,
+        "proj_home_score": 19.7,
+        "proj_away_score": 25.2,
+        "home_win_prob": 0.3197
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "DEN",
+          "line": -4.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "DEN -4.5",
+          "lean": -1.0
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "DEN",
+          "price": -230,
+          "stake": 100.0,
+          "pick": "DEN ML -230"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401873020": {
+      "game_id": "401873020",
+      "league": "nfl",
+      "season": 2026,
+      "week": 7,
+      "kickoff": "2026-10-25T20:25Z",
+      "locked_at": "2026-10-24T16:29:27+00:00",
+      "home": "DET",
+      "away": "GB",
+      "home_full": "Detroit Lions",
+      "away_full": "Green Bay Packers",
+      "line": {
+        "home_spread": -3.0,
+        "total": 53.5,
+        "home_ml": -180,
+        "away_ml": 150,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 4.2,
+        "proj_total": 51.6,
+        "proj_home_score": 27.9,
+        "proj_away_score": 23.7,
+        "home_win_prob": 0.6365
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "DET",
+          "line": -3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "DET -3",
+          "lean": 1.2
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "DET",
+          "price": -180,
+          "stake": 100.0,
+          "pick": "DET ML -180"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401873021": {
+      "game_id": "401873021",
+      "league": "nfl",
+      "season": 2026,
+      "week": 7,
+      "kickoff": "2026-10-25T20:25Z",
+      "locked_at": "2026-10-24T16:29:27+00:00",
+      "home": "LV",
+      "away": "LAR",
+      "home_full": "Las Vegas Raiders",
+      "away_full": "Los Angeles Rams",
+      "line": {
+        "home_spread": 3.0,
+        "total": 48.5,
+        "home_ml": 150,
+        "away_ml": -180,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -3.3,
+        "proj_total": 49.9,
+        "proj_home_score": 23.3,
+        "proj_away_score": 26.6,
+        "home_win_prob": 0.3856
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "LAR",
+          "line": -3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "LAR -3",
+          "lean": -0.3
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "LAR",
+          "price": -180,
+          "stake": 100.0,
+          "pick": "LAR ML -180"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
