@@ -16708,7 +16708,8 @@
         "pick": "TCU -8.5",
         "line": -8.5,
         "price": -110,
-        "edge": 3.4
+        "edge": 3.4,
+        "result": "loss"
       },
       {
         "market": "moneyline",
@@ -16716,10 +16717,18 @@
         "pick": "TCU ML -300",
         "line": -300,
         "price": -300,
-        "edge": 6.1
+        "edge": 6.1,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 20,
+    "away_score": 24,
+    "actual_margin": -4,
+    "su_correct": false,
+    "brier": 0.6167,
+    "margin_err": 15.9,
+    "total_err": 12.9
   },
   "401862809": {
     "id": "401862809",

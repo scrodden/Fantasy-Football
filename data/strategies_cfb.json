@@ -39279,7 +39279,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "WVU +11.5",
-          "lean": -0.3
+          "lean": -0.3,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -39287,12 +39289,16 @@
           "team": "TCU",
           "price": -395,
           "stake": 100.0,
-          "pick": "TCU ML -395"
+          "pick": "TCU ML -395",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 20,
+      "away_score": 24
     },
     "401862809": {
       "game_id": "401862809",

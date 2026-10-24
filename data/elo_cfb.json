@@ -451,11 +451,11 @@
       "last_date": "2026-10-24T02:30Z"
     },
     "2628": {
-      "rating": 1673.4674305747353,
+      "rating": 1632.6215964298528,
       "name": "TCU",
       "abbr": "TCU",
-      "gp": 6,
-      "last_date": "2026-10-17T23:00Z"
+      "gp": 7,
+      "last_date": "2026-10-24T16:00Z"
     },
     "61": {
       "rating": 1990.3393924579227,
@@ -472,11 +472,11 @@
       "last_date": "2026-10-17T16:00Z"
     },
     "277": {
-      "rating": 1521.9326049738995,
+      "rating": 1562.778439118782,
       "name": "West Virginia",
       "abbr": "WVU",
-      "gp": 7,
-      "last_date": "2026-10-17T16:00Z"
+      "gp": 8,
+      "last_date": "2026-10-24T16:00Z"
     },
     "213": {
       "rating": 1643.0101618097178,
@@ -1733,9 +1733,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-10-24T02:30Z",
+    "last_game_date": "2026-10-24T16:00Z",
     "season": 2026,
-    "n_games": 2428,
+    "n_games": 2429,
     "signals": {
       "weather": true,
       "travel": true,

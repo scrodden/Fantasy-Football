@@ -9745,6 +9745,101 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401873022": {
+      "game_id": "401873022",
+      "league": "nfl",
+      "season": 2026,
+      "week": 7,
+      "kickoff": "2026-10-26T00:20Z",
+      "locked_at": "2026-10-24T19:20:37+00:00",
+      "home": "SEA",
+      "away": "KC",
+      "home_full": "Seattle Seahawks",
+      "away_full": "Kansas City Chiefs",
+      "line": {
+        "home_spread": -3.0,
+        "total": 42.5,
+        "home_ml": -142,
+        "away_ml": 120,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 3.5,
+        "proj_total": 40.1,
+        "proj_home_score": 21.8,
+        "proj_away_score": 18.3,
+        "home_win_prob": 0.6105
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "SEA",
+          "line": -3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "SEA -3",
+          "lean": 0.5
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "SEA",
+          "price": -142,
+          "stake": 100.0,
+          "pick": "SEA ML -142"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "SEA",
+            "pick": "SEA ML -142",
+            "line": -142,
+            "price": -142,
+            "ev": 0.04,
+            "edge": 4.7,
+            "kelly": 0.0144,
+            "confidence": "medium",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "under",
+            "team": null,
+            "pick": "Under 42.5",
+            "line": 42.5,
+            "price": -110,
+            "ev": 0.089,
+            "edge": 2.4,
+            "kelly": 0.0245,
+            "confidence": "low",
+            "book": null,
+            "stake": 136.34,
+            "bankroll_at_bet": 5564.77
+          },
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "SEA",
+            "pick": "SEA ML -142",
+            "line": -142,
+            "price": -142,
+            "ev": 0.04,
+            "edge": 4.7,
+            "kelly": 0.0144,
+            "confidence": "medium",
+            "book": "Draft Kings",
+            "stake": 80.13,
+            "bankroll_at_bet": 5564.77
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
