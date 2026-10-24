@@ -16408,10 +16408,18 @@
         "pick": "DUKE +1.5",
         "line": 1.5,
         "price": -110,
-        "edge": 2.2
+        "edge": 2.2,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 16,
+    "away_score": 19,
+    "actual_margin": -3,
+    "su_correct": true,
+    "brier": 0.2522,
+    "margin_err": 2.3,
+    "total_err": 13.3
   },
   "401861965": {
     "id": "401861965",
@@ -16435,10 +16443,18 @@
         "pick": "Over 49.5",
         "line": 49.5,
         "price": -110,
-        "edge": 3.9
+        "edge": 3.9,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 35,
+    "away_score": 16,
+    "actual_margin": 19,
+    "su_correct": true,
+    "brier": 0.0201,
+    "margin_err": 4.6,
+    "total_err": 2.4
   },
   "401862808": {
     "id": "401862808",
@@ -16462,10 +16478,18 @@
         "pick": "ARMY +1.5",
         "line": 1.5,
         "price": -110,
-        "edge": 3.4
+        "edge": 3.4,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 35,
+    "away_score": 38,
+    "actual_margin": -3,
+    "su_correct": true,
+    "brier": 0.2201,
+    "margin_err": 0.9,
+    "total_err": 19.7
   },
   "401864525": {
     "id": "401864525",
@@ -16483,7 +16507,14 @@
       "away_ml": -218
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 28,
+    "away_score": 14,
+    "actual_margin": 14,
+    "su_correct": false,
+    "brier": 0.4481,
+    "margin_err": 20.3,
+    "total_err": 2.9
   },
   "401858272": {
     "id": "401858272",
@@ -16507,10 +16538,18 @@
         "pick": "STAN ML +240",
         "line": 240,
         "price": 240,
-        "edge": 2.2
+        "edge": 2.2,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 31,
+    "away_score": 28,
+    "actual_margin": 3,
+    "su_correct": false,
+    "brier": 0.4787,
+    "margin_err": 9.3,
+    "total_err": 2.4
   },
   "401858274": {
     "id": "401858274",
