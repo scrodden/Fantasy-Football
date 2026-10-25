@@ -8863,7 +8863,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "PIT -3",
-          "lean": -0.6
+          "lean": -0.6,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -8871,7 +8873,9 @@
           "team": "PIT",
           "price": -162,
           "stake": 100.0,
-          "pick": "PIT ML -162"
+          "pick": "PIT ML -162",
+          "result": "win",
+          "pnl": 61.73
         },
         "value": [],
         "bankroll": [
@@ -8888,11 +8892,15 @@
             "confidence": "low",
             "book": null,
             "stake": 271.0,
-            "bankroll_at_bet": 5564.77
+            "bankroll_at_bet": 5564.77,
+            "result": "loss",
+            "pnl": -271.0
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 10,
+      "away_score": 16
     },
     "401873017": {
       "game_id": "401873017",
@@ -9835,6 +9843,115 @@
             "confidence": "medium",
             "book": "Draft Kings",
             "stake": 80.13,
+            "bankroll_at_bet": 5564.77
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401873009": {
+      "game_id": "401873009",
+      "league": "nfl",
+      "season": 2026,
+      "week": 7,
+      "kickoff": "2026-10-27T00:15Z",
+      "locked_at": "2026-10-25T18:49:42+00:00",
+      "home": "PHI",
+      "away": "DAL",
+      "home_full": "Philadelphia Eagles",
+      "away_full": "Dallas Cowboys",
+      "line": {
+        "home_spread": 4.5,
+        "total": 43.5,
+        "home_ml": 180,
+        "away_ml": -218,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 0.4,
+        "proj_total": 44.3,
+        "proj_home_score": 22.3,
+        "proj_away_score": 22.0,
+        "home_win_prob": 0.4891
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "PHI",
+          "line": 4.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "PHI +4.5",
+          "lean": 4.9
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "PHI",
+          "price": 180,
+          "stake": 100.0,
+          "pick": "PHI ML +180"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "PHI",
+            "pick": "PHI ML +180",
+            "line": 180,
+            "price": 180,
+            "ev": 0.369,
+            "edge": 14.7,
+            "kelly": 0.0513,
+            "confidence": "high",
+            "book": "Draft Kings",
+            "stake": 100.0
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "PHI",
+            "pick": "PHI +4.5",
+            "line": 4.5,
+            "price": -110,
+            "ev": 0.27,
+            "edge": 4.9,
+            "kelly": 0.0741,
+            "confidence": "medium",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "PHI",
+            "pick": "PHI ML +180",
+            "line": 180,
+            "price": 180,
+            "ev": 0.369,
+            "edge": 14.7,
+            "kelly": 0.0513,
+            "confidence": "high",
+            "book": "Draft Kings",
+            "stake": 285.47,
+            "bankroll_at_bet": 5564.77
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "PHI",
+            "pick": "PHI +4.5",
+            "line": 4.5,
+            "price": -110,
+            "ev": 0.27,
+            "edge": 4.9,
+            "kelly": 0.0741,
+            "confidence": "medium",
+            "book": "Draft Kings",
+            "stake": 412.35,
             "bankroll_at_bet": 5564.77
           }
         ]

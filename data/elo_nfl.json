@@ -45,11 +45,11 @@
       "last_date": "2026-10-18T17:00Z"
     },
     "23": {
-      "rating": 1505.4529109904308,
+      "rating": 1517.872914435964,
       "name": "Steelers",
       "abbr": "PIT",
-      "gp": 7,
-      "last_date": "2026-10-18T17:00Z"
+      "gp": 8,
+      "last_date": "2026-10-25T13:30Z"
     },
     "2": {
       "rating": 1659.8514171746715,
@@ -122,11 +122,11 @@
       "last_date": "2026-10-18T13:30Z"
     },
     "18": {
-      "rating": 1412.659104604555,
+      "rating": 1400.239101159022,
       "name": "Saints",
       "abbr": "NO",
-      "gp": 8,
-      "last_date": "2026-10-18T17:00Z"
+      "gp": 9,
+      "last_date": "2026-10-25T13:30Z"
     },
     "29": {
       "rating": 1515.204120426715,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-10-23T00:15Z",
+    "last_game_date": "2026-10-25T13:30Z",
     "season": 2026,
-    "n_games": 689,
+    "n_games": 690,
     "signals": {
       "weather": true,
       "travel": true,
