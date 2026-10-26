@@ -42898,6 +42898,101 @@
         ]
       },
       "settled": false
+    },
+    "401871072": {
+      "game_id": "401871072",
+      "league": "cfb",
+      "season": 2026,
+      "week": 9,
+      "kickoff": "2026-10-28T00:00Z",
+      "locked_at": "2026-10-26T22:33:34+00:00",
+      "home": "MOST",
+      "away": "SHSU",
+      "home_full": "Missouri State Bears",
+      "away_full": "Sam Houston Bearkats",
+      "line": {
+        "home_spread": -5.5,
+        "total": 50.5,
+        "home_ml": -218,
+        "away_ml": 180,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 7.5,
+        "proj_total": 54.0,
+        "proj_home_score": 30.8,
+        "proj_away_score": 23.2,
+        "home_win_prob": 0.7029
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "MOST",
+          "line": -5.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "MOST -5.5",
+          "lean": 2.0
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "MOST",
+          "price": -218,
+          "stake": 100.0,
+          "pick": "MOST ML -218"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "MOST",
+            "pick": "MOST -5.5",
+            "line": -5.5,
+            "price": -110,
+            "ev": 0.056,
+            "edge": 2.0,
+            "kelly": 0.0153,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 50.5",
+            "line": 50.5,
+            "price": -110,
+            "ev": 0.115,
+            "edge": 3.5,
+            "kelly": 0.0316,
+            "confidence": "low",
+            "book": null,
+            "stake": 18.82,
+            "bankroll_at_bet": 595.58
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "MOST",
+            "pick": "MOST -5.5",
+            "line": -5.5,
+            "price": -110,
+            "ev": 0.056,
+            "edge": 2.0,
+            "kelly": 0.0153,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 9.11,
+            "bankroll_at_bet": 595.58
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
