@@ -4042,7 +4042,14 @@
       "away_ml": -230
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 16,
+    "away_score": 30,
+    "actual_margin": -14,
+    "su_correct": true,
+    "brier": 0.1022,
+    "margin_err": 8.5,
+    "total_err": 1.1
   },
   "401873020": {
     "id": "401873020",
@@ -4060,7 +4067,14 @@
       "away_ml": 140
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 20,
+    "away_score": 17,
+    "actual_margin": 3,
+    "su_correct": true,
+    "brier": 0.135,
+    "margin_err": 1.2,
+    "total_err": 14.6
   },
   "401873021": {
     "id": "401873021",
@@ -4084,7 +4098,8 @@
         "pick": "Over 47.5",
         "line": 47.5,
         "price": -110,
-        "edge": 2.3
+        "edge": 2.3,
+        "result": "win"
       },
       {
         "market": "moneyline",
@@ -4092,10 +4107,18 @@
         "pick": "LV ML +185",
         "line": 185,
         "price": 185,
-        "edge": 3.3
+        "edge": 3.3,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 21,
+    "away_score": 35,
+    "actual_margin": -14,
+    "su_correct": true,
+    "brier": 0.1364,
+    "margin_err": 10.4,
+    "total_err": 6.2
   },
   "401873022": {
     "id": "401873022",

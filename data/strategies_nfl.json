@@ -9731,7 +9731,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "DEN -4.5",
-          "lean": -1.0
+          "lean": -1.0,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -9739,12 +9741,16 @@
           "team": "DEN",
           "price": -230,
           "stake": 100.0,
-          "pick": "DEN ML -230"
+          "pick": "DEN ML -230",
+          "result": "win",
+          "pnl": 43.48
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 16,
+      "away_score": 30
     },
     "401873020": {
       "game_id": "401873020",
@@ -9780,7 +9786,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "DET -3",
-          "lean": 1.2
+          "lean": 1.2,
+          "result": "push",
+          "pnl": 0.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -9788,12 +9796,16 @@
           "team": "DET",
           "price": -180,
           "stake": 100.0,
-          "pick": "DET ML -180"
+          "pick": "DET ML -180",
+          "result": "win",
+          "pnl": 55.56
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 20,
+      "away_score": 17
     },
     "401873021": {
       "game_id": "401873021",
@@ -9829,7 +9841,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "LAR -3",
-          "lean": -0.3
+          "lean": -0.3,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -9837,12 +9851,16 @@
           "team": "LAR",
           "price": -180,
           "stake": 100.0,
-          "pick": "LAR ML -180"
+          "pick": "LAR ML -180",
+          "result": "win",
+          "pnl": 55.56
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 21,
+      "away_score": 35
     },
     "401873022": {
       "game_id": "401873022",
