@@ -4142,7 +4142,8 @@
         "pick": "Under 42.5",
         "line": 42.5,
         "price": -110,
-        "edge": 2.5
+        "edge": 2.5,
+        "result": "win"
       },
       {
         "market": "moneyline",
@@ -4150,10 +4151,18 @@
         "pick": "SEA ML -142",
         "line": -142,
         "price": -142,
-        "edge": 4.5
+        "edge": 4.5,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 20,
+    "away_score": 3,
+    "actual_margin": 17,
+    "su_correct": true,
+    "brier": 0.1537,
+    "margin_err": 13.5,
+    "total_err": 17.0
   },
   "401873009": {
     "id": "401873009",

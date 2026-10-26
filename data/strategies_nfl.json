@@ -9896,7 +9896,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "SEA -3",
-          "lean": 0.5
+          "lean": 0.5,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -9904,7 +9906,9 @@
           "team": "SEA",
           "price": -142,
           "stake": 100.0,
-          "pick": "SEA ML -142"
+          "pick": "SEA ML -142",
+          "result": "win",
+          "pnl": 70.42
         },
         "value": [
           {
@@ -9919,7 +9923,9 @@
             "kelly": 0.0144,
             "confidence": "medium",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 70.42
           }
         ],
         "bankroll": [
@@ -9936,7 +9942,9 @@
             "confidence": "low",
             "book": null,
             "stake": 136.34,
-            "bankroll_at_bet": 5564.77
+            "bankroll_at_bet": 5564.77,
+            "result": "win",
+            "pnl": 123.95
           },
           {
             "market": "moneyline",
@@ -9951,11 +9959,15 @@
             "confidence": "medium",
             "book": "Draft Kings",
             "stake": 80.13,
-            "bankroll_at_bet": 5564.77
+            "bankroll_at_bet": 5564.77,
+            "result": "win",
+            "pnl": 56.43
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 20,
+      "away_score": 3
     },
     "401873009": {
       "game_id": "401873009",

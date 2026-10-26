@@ -10,11 +10,11 @@
   },
   "teams": {
     "12": {
-      "rating": 1543.9579864928596,
+      "rating": 1526.3906780005532,
       "name": "Chiefs",
       "abbr": "KC",
-      "gp": 7,
-      "last_date": "2026-10-18T20:25Z"
+      "gp": 8,
+      "last_date": "2026-10-26T00:20Z"
     },
     "33": {
       "rating": 1544.5969833641095,
@@ -164,11 +164,11 @@
       "last_date": "2026-10-25T20:25Z"
     },
     "26": {
-      "rating": 1600.655797790351,
+      "rating": 1618.2231062826575,
       "name": "Seahawks",
       "abbr": "SEA",
-      "gp": 8,
-      "last_date": "2026-10-16T00:15Z"
+      "gp": 9,
+      "last_date": "2026-10-26T00:20Z"
     },
     "7": {
       "rating": 1588.7241127496548,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-10-25T20:25Z",
+    "last_game_date": "2026-10-26T00:20Z",
     "season": 2026,
-    "n_games": 700,
+    "n_games": 701,
     "signals": {
       "weather": true,
       "travel": true,
