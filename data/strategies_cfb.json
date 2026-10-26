@@ -42789,6 +42789,115 @@
       "settled": true,
       "home_score": 21,
       "away_score": 13
+    },
+    "401871071": {
+      "game_id": "401871071",
+      "league": "cfb",
+      "season": 2026,
+      "week": 9,
+      "kickoff": "2026-10-27T23:00Z",
+      "locked_at": "2026-10-26T17:15:44+00:00",
+      "home": "WKU",
+      "away": "DEL",
+      "home_full": "Western Kentucky Hilltoppers",
+      "away_full": "Delaware Blue Hens",
+      "line": {
+        "home_spread": -1.5,
+        "total": 56.5,
+        "home_ml": -115,
+        "away_ml": -105,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 6.9,
+        "proj_total": 55.7,
+        "proj_home_score": 31.3,
+        "proj_away_score": 24.4,
+        "home_win_prob": 0.6431
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "WKU",
+          "line": -1.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "WKU -1.5",
+          "lean": 5.4
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "WKU",
+          "price": -115,
+          "stake": 100.0,
+          "pick": "WKU ML -115"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "WKU",
+            "pick": "WKU -1.5",
+            "line": -1.5,
+            "price": -110,
+            "ev": 0.223,
+            "edge": 5.4,
+            "kelly": 0.0613,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "WKU",
+            "pick": "WKU ML -115",
+            "line": -115,
+            "price": -115,
+            "ev": 0.202,
+            "edge": 13.2,
+            "kelly": 0.0582,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "WKU",
+            "pick": "WKU -1.5",
+            "line": -1.5,
+            "price": -110,
+            "ev": 0.223,
+            "edge": 5.4,
+            "kelly": 0.0613,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 36.51,
+            "bankroll_at_bet": 595.58
+          },
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "WKU",
+            "pick": "WKU ML -115",
+            "line": -115,
+            "price": -115,
+            "ev": 0.202,
+            "edge": 13.2,
+            "kelly": 0.0582,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 34.66,
+            "bankroll_at_bet": 595.58
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
