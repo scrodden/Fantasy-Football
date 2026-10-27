@@ -24,11 +24,11 @@
       "last_date": "2026-10-25T17:00Z"
     },
     "21": {
-      "rating": 1466.8560600449582,
+      "rating": 1437.610406158751,
       "name": "Eagles",
       "abbr": "PHI",
-      "gp": 8,
-      "last_date": "2026-10-18T17:00Z"
+      "gp": 9,
+      "last_date": "2026-10-27T00:15Z"
     },
     "9": {
       "rating": 1549.0930535463795,
@@ -185,11 +185,11 @@
       "last_date": "2026-10-25T17:00Z"
     },
     "6": {
-      "rating": 1478.0782691912566,
+      "rating": 1507.3239230774639,
       "name": "Cowboys",
       "abbr": "DAL",
-      "gp": 8,
-      "last_date": "2026-10-19T00:20Z"
+      "gp": 9,
+      "last_date": "2026-10-27T00:15Z"
     },
     "27": {
       "rating": 1476.378610575757,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-10-26T00:20Z",
+    "last_game_date": "2026-10-27T00:15Z",
     "season": 2026,
-    "n_games": 701,
+    "n_games": 702,
     "signals": {
       "weather": true,
       "travel": true,

@@ -4186,7 +4186,8 @@
         "pick": "PHI ML +185",
         "line": 185,
         "price": 185,
-        "edge": 15.2
+        "edge": 15.2,
+        "result": "loss"
       },
       {
         "market": "spread",
@@ -4194,10 +4195,18 @@
         "pick": "PHI +4.5",
         "line": 4.5,
         "price": -110,
-        "edge": 4.9
+        "edge": 4.9,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 21,
+    "away_score": 38,
+    "actual_margin": -17,
+    "su_correct": false,
+    "brier": 0.2384,
+    "margin_err": 17.4,
+    "total_err": 14.6
   },
   "401873023": {
     "id": "401873023",
