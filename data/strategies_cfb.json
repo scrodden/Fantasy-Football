@@ -42993,6 +42993,164 @@
         ]
       },
       "settled": false
+    },
+    "401871058": {
+      "game_id": "401871058",
+      "league": "cfb",
+      "season": 2026,
+      "week": 9,
+      "kickoff": "2026-10-28T23:00Z",
+      "locked_at": "2026-10-27T20:00:45+00:00",
+      "home": "MTSU",
+      "away": "KENN",
+      "home_full": "Middle Tennessee Blue Raiders",
+      "away_full": "Kennesaw State Owls",
+      "line": {
+        "home_spread": -2.5,
+        "total": 50.5,
+        "home_ml": -142,
+        "away_ml": 120,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 2.8,
+        "proj_total": 49.7,
+        "proj_home_score": 26.3,
+        "proj_away_score": 23.5,
+        "home_win_prob": 0.5843
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "MTSU",
+          "line": -2.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "MTSU -2.5",
+          "lean": 0.3
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "MTSU",
+          "price": -142,
+          "stake": 100.0,
+          "pick": "MTSU ML -142"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401871057": {
+      "game_id": "401871057",
+      "league": "cfb",
+      "season": 2026,
+      "week": 9,
+      "kickoff": "2026-10-29T00:00Z",
+      "locked_at": "2026-10-27T20:00:45+00:00",
+      "home": "NMSU",
+      "away": "JXST",
+      "home_full": "New Mexico State Aggies",
+      "away_full": "Jacksonville State Gamecocks",
+      "line": {
+        "home_spread": 3.0,
+        "total": 49.5,
+        "home_ml": 136,
+        "away_ml": -162,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -6.8,
+        "proj_total": 50.9,
+        "proj_home_score": 22.1,
+        "proj_away_score": 28.9,
+        "home_win_prob": 0.3428
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "JXST",
+          "line": -3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "JXST -3",
+          "lean": -3.8
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "JXST",
+          "price": -162,
+          "stake": 100.0,
+          "pick": "JXST ML -162"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "JXST",
+            "pick": "JXST -3",
+            "line": -3.0,
+            "price": -110,
+            "ev": 0.145,
+            "edge": 3.8,
+            "kelly": 0.04,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "JXST",
+            "pick": "JXST ML -162",
+            "line": -162,
+            "price": -162,
+            "ev": 0.063,
+            "edge": 6.4,
+            "kelly": 0.0255,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "JXST",
+            "pick": "JXST -3",
+            "line": -3.0,
+            "price": -110,
+            "ev": 0.145,
+            "edge": 3.8,
+            "kelly": 0.04,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 23.82,
+            "bankroll_at_bet": 595.58
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "JXST",
+            "pick": "JXST ML -162",
+            "line": -162,
+            "price": -162,
+            "ev": 0.063,
+            "edge": 6.4,
+            "kelly": 0.0255,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 15.19,
+            "bankroll_at_bet": 595.58
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
