@@ -18147,7 +18147,8 @@
         "pick": "WKU -1.5",
         "line": -1.5,
         "price": -110,
-        "edge": 5.4
+        "edge": 5.4,
+        "result": "loss"
       },
       {
         "market": "moneyline",
@@ -18155,10 +18156,18 @@
         "pick": "WKU ML -115",
         "line": -115,
         "price": -115,
-        "edge": 13.2
+        "edge": 13.2,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 21,
+    "away_score": 35,
+    "actual_margin": -14,
+    "su_correct": false,
+    "brier": 0.4136,
+    "margin_err": 20.9,
+    "total_err": 0.6
   },
   "401871072": {
     "id": "401871072",
@@ -18182,10 +18191,18 @@
         "pick": "Over 49.5",
         "line": 49.5,
         "price": -110,
-        "edge": 4.2
+        "edge": 4.2,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 24,
+    "away_score": 3,
+    "actual_margin": 21,
+    "su_correct": true,
+    "brier": 0.0828,
+    "margin_err": 13.1,
+    "total_err": 26.7
   },
   "401871058": {
     "id": "401871058",
