@@ -10091,6 +10091,55 @@
       "settled": true,
       "home_score": 21,
       "away_score": 38
+    },
+    "401873023": {
+      "game_id": "401873023",
+      "league": "nfl",
+      "season": 2026,
+      "week": 8,
+      "kickoff": "2026-10-30T00:15Z",
+      "locked_at": "2026-10-28T18:43:25+00:00",
+      "home": "GB",
+      "away": "CAR",
+      "home_full": "Green Bay Packers",
+      "away_full": "Carolina Panthers",
+      "line": {
+        "home_spread": -3.5,
+        "total": 47.5,
+        "home_ml": -192,
+        "away_ml": 160,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 4.7,
+        "proj_total": 46.1,
+        "proj_home_score": 25.4,
+        "proj_away_score": 20.7,
+        "home_win_prob": 0.6546
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "GB",
+          "line": -3.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "GB -3.5",
+          "lean": 1.2
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "GB",
+          "price": -192,
+          "stake": 100.0,
+          "pick": "GB ML -192"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
