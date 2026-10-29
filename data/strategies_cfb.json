@@ -43532,6 +43532,115 @@
         ]
       },
       "settled": false
+    },
+    "401866451": {
+      "game_id": "401866451",
+      "league": "cfb",
+      "season": 2026,
+      "week": 9,
+      "kickoff": "2026-10-31T02:30Z",
+      "locked_at": "2026-10-29T23:13:56+00:00",
+      "home": "SAC",
+      "away": "KENT",
+      "home_full": "Sacramento State Hornets",
+      "away_full": "Kent State Golden Flashes",
+      "line": {
+        "home_spread": 7.5,
+        "total": 46.5,
+        "home_ml": 245,
+        "away_ml": -305,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": -5.9,
+        "proj_total": 46.8,
+        "proj_home_score": 20.4,
+        "proj_away_score": 26.3,
+        "home_win_prob": 0.319
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "SAC",
+          "line": 7.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "SAC +7.5",
+          "lean": 1.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "KENT",
+          "price": -305,
+          "stake": 100.0,
+          "pick": "KENT ML -305"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "SAC",
+            "pick": "SAC ML +245",
+            "line": 245,
+            "price": 245,
+            "ev": 0.101,
+            "edge": 4.1,
+            "kelly": 0.0103,
+            "confidence": "medium",
+            "book": "Draft Kings",
+            "stake": 100.0
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "SAC",
+            "pick": "SAC +7.5",
+            "line": 7.5,
+            "price": -110,
+            "ev": 0.036,
+            "edge": 1.6,
+            "kelly": 0.0098,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "SAC",
+            "pick": "SAC ML +245",
+            "line": 245,
+            "price": 245,
+            "ev": 0.101,
+            "edge": 4.1,
+            "kelly": 0.0103,
+            "confidence": "medium",
+            "book": "Draft Kings",
+            "stake": 5.61,
+            "bankroll_at_bet": 544.9
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "SAC",
+            "pick": "SAC +7.5",
+            "line": 7.5,
+            "price": -110,
+            "ev": 0.036,
+            "edge": 1.6,
+            "kelly": 0.0098,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 5.34,
+            "bankroll_at_bet": 544.9
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
