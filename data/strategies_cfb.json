@@ -43357,6 +43357,181 @@
         ]
       },
       "settled": false
+    },
+    "401862813": {
+      "game_id": "401862813",
+      "league": "cfb",
+      "season": 2026,
+      "week": 9,
+      "kickoff": "2026-10-30T23:00Z",
+      "locked_at": "2026-10-29T18:56:04+00:00",
+      "home": "CLT",
+      "away": "TULN",
+      "home_full": "Charlotte 49ers",
+      "away_full": "Tulane Green Wave",
+      "line": {
+        "home_spread": 8.5,
+        "total": 47.5,
+        "home_ml": 275,
+        "away_ml": -345,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": -10.0,
+        "proj_total": 47.6,
+        "proj_home_score": 18.8,
+        "proj_away_score": 28.8,
+        "home_win_prob": 0.2389
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "TULN",
+          "line": -8.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "TULN -8.5",
+          "lean": -1.5
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "TULN",
+          "price": -345,
+          "stake": 100.0,
+          "pick": "TULN ML -345"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "TULN",
+            "pick": "TULN -8.5",
+            "line": -8.5,
+            "price": -110,
+            "ev": 0.031,
+            "edge": 1.5,
+            "kelly": 0.0084,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "TULN",
+            "pick": "TULN -8.5",
+            "line": -8.5,
+            "price": -110,
+            "ev": 0.031,
+            "edge": 1.5,
+            "kelly": 0.0084,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 4.58,
+            "bankroll_at_bet": 544.9
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401856844": {
+      "game_id": "401856844",
+      "league": "cfb",
+      "season": 2026,
+      "week": 9,
+      "kickoff": "2026-10-30T23:30Z",
+      "locked_at": "2026-10-29T18:56:04+00:00",
+      "home": "UCF",
+      "away": "BAY",
+      "home_full": "UCF Knights",
+      "away_full": "Baylor Bears",
+      "line": {
+        "home_spread": 1.5,
+        "total": 48.5,
+        "home_ml": -110,
+        "away_ml": -110,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 0.4,
+        "proj_total": 51.0,
+        "proj_home_score": 25.7,
+        "proj_away_score": 25.3,
+        "home_win_prob": 0.516
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "UCF",
+          "line": 1.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "UCF +1.5",
+          "lean": 1.9
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "UCF",
+          "price": -110,
+          "stake": 100.0,
+          "pick": "UCF ML -110"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "UCF",
+            "pick": "UCF +1.5",
+            "line": 1.5,
+            "price": -110,
+            "ev": 0.051,
+            "edge": 1.9,
+            "kelly": 0.014,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 48.5",
+            "line": 48.5,
+            "price": -110,
+            "ev": 0.07,
+            "edge": 2.5,
+            "kelly": 0.0191,
+            "confidence": "low",
+            "book": null,
+            "stake": 10.41,
+            "bankroll_at_bet": 544.9
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "UCF",
+            "pick": "UCF +1.5",
+            "line": 1.5,
+            "price": -110,
+            "ev": 0.051,
+            "edge": 1.9,
+            "kelly": 0.014,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 7.63,
+            "bankroll_at_bet": 544.9
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
