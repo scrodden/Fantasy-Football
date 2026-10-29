@@ -43054,7 +43054,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "MTSU -2.5",
-          "lean": 0.3
+          "lean": 0.3,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -43062,12 +43064,16 @@
           "team": "MTSU",
           "price": -142,
           "stake": 100.0,
-          "pick": "MTSU ML -142"
+          "pick": "MTSU ML -142",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 28,
+      "away_score": 44
     },
     "401871057": {
       "game_id": "401871057",
@@ -43103,7 +43109,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "JXST -3",
-          "lean": -3.8
+          "lean": -3.8,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -43111,7 +43119,9 @@
           "team": "JXST",
           "price": -162,
           "stake": 100.0,
-          "pick": "JXST ML -162"
+          "pick": "JXST ML -162",
+          "result": "win",
+          "pnl": 61.73
         },
         "value": [
           {
@@ -43126,7 +43136,9 @@
             "kelly": 0.04,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           },
           {
             "market": "moneyline",
@@ -43140,7 +43152,9 @@
             "kelly": 0.0255,
             "confidence": "high",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 61.73
           }
         ],
         "bankroll": [
@@ -43157,7 +43171,9 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 23.82,
-            "bankroll_at_bet": 595.58
+            "bankroll_at_bet": 595.58,
+            "result": "win",
+            "pnl": 21.65
           },
           {
             "market": "moneyline",
@@ -43172,11 +43188,15 @@
             "confidence": "high",
             "book": "DraftKings",
             "stake": 15.19,
-            "bankroll_at_bet": 595.58
+            "bankroll_at_bet": 595.58,
+            "result": "win",
+            "pnl": 9.38
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 0,
+      "away_score": 24
     },
     "401862812": {
       "game_id": "401862812",

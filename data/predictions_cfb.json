@@ -18220,7 +18220,14 @@
       "away_ml": 130
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 28,
+    "away_score": 44,
+    "actual_margin": -16,
+    "su_correct": false,
+    "brier": 0.3528,
+    "margin_err": 19.0,
+    "total_err": 22.3
   },
   "401871057": {
     "id": "401871057",
@@ -18244,7 +18251,8 @@
         "pick": "JXST -3",
         "line": -3.0,
         "price": -110,
-        "edge": 3.8
+        "edge": 3.8,
+        "result": "win"
       },
       {
         "market": "moneyline",
@@ -18252,10 +18260,18 @@
         "pick": "JXST ML -155",
         "line": -155,
         "price": -155,
-        "edge": 7.1
+        "edge": 7.1,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 0,
+    "away_score": 24,
+    "actual_margin": -24,
+    "su_correct": true,
+    "brier": 0.1199,
+    "margin_err": 17.2,
+    "total_err": 26.9
   },
   "401862812": {
     "id": "401862812",
