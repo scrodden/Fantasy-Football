@@ -47061,6 +47061,244 @@
         ]
       },
       "settled": false
+    },
+    "401860908": {
+      "game_id": "401860908",
+      "league": "cfb",
+      "season": 2026,
+      "week": 9,
+      "kickoff": "2026-11-01T02:00Z",
+      "locked_at": "2026-10-30T22:56:13+00:00",
+      "home": "BOIS",
+      "away": "TXST",
+      "home_full": "Boise State Broncos",
+      "away_full": "Texas State Bobcats",
+      "line": {
+        "home_spread": -10.5,
+        "total": 63.5,
+        "home_ml": -440,
+        "away_ml": 340,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 8.9,
+        "proj_total": 63.9,
+        "proj_home_score": 36.4,
+        "proj_away_score": 27.5,
+        "home_win_prob": 0.7655
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "TXST",
+          "line": 10.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "TXST +10.5",
+          "lean": -1.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "BOIS",
+          "price": -440,
+          "stake": 100.0,
+          "pick": "BOIS ML -440"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "TXST",
+            "pick": "TXST +10.5",
+            "line": 10.5,
+            "price": -110,
+            "ev": 0.036,
+            "edge": 1.6,
+            "kelly": 0.0098,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "TXST",
+            "pick": "TXST +10.5",
+            "line": 10.5,
+            "price": -110,
+            "ev": 0.036,
+            "edge": 1.6,
+            "kelly": 0.0098,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 5.69,
+            "bankroll_at_bet": 580.29
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401864530": {
+      "game_id": "401864530",
+      "league": "cfb",
+      "season": 2026,
+      "week": 9,
+      "kickoff": "2026-11-01T02:30Z",
+      "locked_at": "2026-10-30T22:56:13+00:00",
+      "home": "UNLV",
+      "away": "NIU",
+      "home_full": "UNLV Rebels",
+      "away_full": "Northern Illinois Huskies",
+      "line": {
+        "home_spread": -21.5,
+        "total": 54.5,
+        "home_ml": -1800,
+        "away_ml": 1000,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 26.5,
+        "proj_total": 56.3,
+        "proj_home_score": 41.4,
+        "proj_away_score": 14.9,
+        "home_win_prob": 0.9552
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "UNLV",
+          "line": -21.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "UNLV -21.5",
+          "lean": 5.0
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "UNLV",
+          "price": -1800,
+          "stake": 100.0,
+          "pick": "UNLV ML -1800"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401860924": {
+      "game_id": "401860924",
+      "league": "cfb",
+      "season": 2026,
+      "week": 9,
+      "kickoff": "2026-11-01T03:00Z",
+      "locked_at": "2026-10-30T22:56:13+00:00",
+      "home": "FRES",
+      "away": "ORST",
+      "home_full": "Fresno State Bulldogs",
+      "away_full": "Oregon State Beavers",
+      "line": {
+        "home_spread": 6.0,
+        "total": 58.5,
+        "home_ml": 190,
+        "away_ml": -230,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": -4.0,
+        "proj_total": 58.7,
+        "proj_home_score": 27.3,
+        "proj_away_score": 31.4,
+        "home_win_prob": 0.3694
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "FRES",
+          "line": 6.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "FRES +6",
+          "lean": 2.0
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "ORST",
+          "price": -230,
+          "stake": 100.0,
+          "pick": "ORST ML -230"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "FRES",
+            "pick": "FRES ML +190",
+            "line": 190,
+            "price": 190,
+            "ev": 0.071,
+            "edge": 3.8,
+            "kelly": 0.0094,
+            "confidence": "medium",
+            "book": "Draft Kings",
+            "stake": 100.0
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "FRES",
+            "pick": "FRES +6",
+            "line": 6.0,
+            "price": -110,
+            "ev": 0.056,
+            "edge": 2.0,
+            "kelly": 0.0153,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "FRES",
+            "pick": "FRES ML +190",
+            "line": 190,
+            "price": 190,
+            "ev": 0.071,
+            "edge": 3.8,
+            "kelly": 0.0094,
+            "confidence": "medium",
+            "book": "Draft Kings",
+            "stake": 5.45,
+            "bankroll_at_bet": 580.29
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "FRES",
+            "pick": "FRES +6",
+            "line": 6.0,
+            "price": -110,
+            "ev": 0.056,
+            "edge": 2.0,
+            "kelly": 0.0153,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 8.88,
+            "bankroll_at_bet": 580.29
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
