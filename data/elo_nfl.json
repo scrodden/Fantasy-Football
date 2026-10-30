@@ -31,11 +31,11 @@
       "last_date": "2026-10-27T00:15Z"
     },
     "9": {
-      "rating": 1549.0930535463795,
+      "rating": 1561.2622880311153,
       "name": "Packers",
       "abbr": "GB",
-      "gp": 8,
-      "last_date": "2026-10-25T20:25Z"
+      "gp": 9,
+      "last_date": "2026-10-30T00:15Z"
     },
     "1": {
       "rating": 1509.0423583541724,
@@ -129,11 +129,11 @@
       "last_date": "2026-10-25T13:30Z"
     },
     "29": {
-      "rating": 1470.4454975778247,
+      "rating": 1458.2762630930888,
       "name": "Panthers",
       "abbr": "CAR",
-      "gp": 8,
-      "last_date": "2026-10-25T17:00Z"
+      "gp": 9,
+      "last_date": "2026-10-30T00:15Z"
     },
     "19": {
       "rating": 1478.9728108610573,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-10-27T00:15Z",
+    "last_game_date": "2026-10-30T00:15Z",
     "season": 2026,
-    "n_games": 702,
+    "n_games": 703,
     "signals": {
       "weather": true,
       "travel": true,

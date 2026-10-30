@@ -18295,7 +18295,8 @@
         "pick": "Over 75.5",
         "line": 75.5,
         "price": -110,
-        "edge": 8.5
+        "edge": 8.5,
+        "result": "win"
       },
       {
         "market": "spread",
@@ -18303,10 +18304,18 @@
         "pick": "FAU +13.5",
         "line": 13.5,
         "price": -110,
-        "edge": 2.8
+        "edge": 2.8,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 48,
+    "away_score": 41,
+    "actual_margin": 7,
+    "su_correct": true,
+    "brier": 0.0408,
+    "margin_err": 3.7,
+    "total_err": 5.0
   },
   "401869963": {
     "id": "401869963",
@@ -18324,7 +18333,14 @@
       "away_ml": 850
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 21,
+    "away_score": 24,
+    "actual_margin": -3,
+    "su_correct": false,
+    "brier": 0.8578,
+    "margin_err": 23.5,
+    "total_err": 9.0
   },
   "401862813": {
     "id": "401862813",

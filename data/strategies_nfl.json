@@ -10126,7 +10126,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "GB -3.5",
-          "lean": 1.2
+          "lean": 1.2,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -10134,12 +10136,16 @@
           "team": "GB",
           "price": -192,
           "stake": 100.0,
-          "pick": "GB ML -192"
+          "pick": "GB ML -192",
+          "result": "win",
+          "pnl": 52.08
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 27,
+      "away_score": 19
     }
   }
 }
