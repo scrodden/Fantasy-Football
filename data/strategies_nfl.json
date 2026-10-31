@@ -11004,6 +11004,71 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401873035": {
+      "game_id": "401873035",
+      "league": "nfl",
+      "season": 2026,
+      "week": 8,
+      "kickoff": "2026-11-02T01:20Z",
+      "locked_at": "2026-10-31T19:50:03+00:00",
+      "home": "WSH",
+      "away": "PHI",
+      "home_full": "Washington Commanders",
+      "away_full": "Philadelphia Eagles",
+      "line": {
+        "home_spread": -6.0,
+        "total": 40.5,
+        "home_ml": -258,
+        "away_ml": 210,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 5.0,
+        "proj_total": 43.2,
+        "proj_home_score": 24.1,
+        "proj_away_score": 19.1,
+        "home_win_prob": 0.6725
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "PHI",
+          "line": 6.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "PHI +6",
+          "lean": -1.0
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "WSH",
+          "price": -258,
+          "stake": 100.0,
+          "pick": "WSH ML -258"
+        },
+        "value": [],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 40.5",
+            "line": 40.5,
+            "price": -110,
+            "ev": 0.106,
+            "edge": 2.7,
+            "kelly": 0.0291,
+            "confidence": "low",
+            "book": null,
+            "stake": 142.49,
+            "bankroll_at_bet": 4896.71
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
