@@ -47558,7 +47558,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "TXST +10.5",
-          "lean": -1.6
+          "lean": -1.6,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -47566,7 +47568,9 @@
           "team": "BOIS",
           "price": -440,
           "stake": 100.0,
-          "pick": "BOIS ML -440"
+          "pick": "BOIS ML -440",
+          "result": "win",
+          "pnl": 22.73
         },
         "value": [
           {
@@ -47581,7 +47585,9 @@
             "kelly": 0.0098,
             "confidence": "low",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           }
         ],
         "bankroll": [
@@ -47598,11 +47604,15 @@
             "confidence": "low",
             "book": "Draft Kings",
             "stake": 5.69,
-            "bankroll_at_bet": 580.29
+            "bankroll_at_bet": 580.29,
+            "result": "win",
+            "pnl": 5.17
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 46,
+      "away_score": 45
     },
     "401864530": {
       "game_id": "401864530",
@@ -47638,7 +47648,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "UNLV -21.5",
-          "lean": 5.0
+          "lean": 5.0,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -47646,12 +47658,16 @@
           "team": "UNLV",
           "price": -1800,
           "stake": 100.0,
-          "pick": "UNLV ML -1800"
+          "pick": "UNLV ML -1800",
+          "result": "win",
+          "pnl": 5.56
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 31,
+      "away_score": 24
     },
     "401860924": {
       "game_id": "401860924",
@@ -47687,7 +47703,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "FRES +6",
-          "lean": 2.0
+          "lean": 2.0,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -47695,7 +47713,9 @@
           "team": "ORST",
           "price": -230,
           "stake": 100.0,
-          "pick": "ORST ML -230"
+          "pick": "ORST ML -230",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [
           {
@@ -47710,7 +47730,9 @@
             "kelly": 0.0094,
             "confidence": "medium",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 190.0
           },
           {
             "market": "spread",
@@ -47724,7 +47746,9 @@
             "kelly": 0.0153,
             "confidence": "low",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           }
         ],
         "bankroll": [
@@ -47741,7 +47765,9 @@
             "confidence": "medium",
             "book": "Draft Kings",
             "stake": 5.45,
-            "bankroll_at_bet": 580.29
+            "bankroll_at_bet": 580.29,
+            "result": "win",
+            "pnl": 10.36
           },
           {
             "market": "spread",
@@ -47756,11 +47782,15 @@
             "confidence": "low",
             "book": "Draft Kings",
             "stake": 8.88,
-            "bankroll_at_bet": 580.29
+            "bankroll_at_bet": 580.29,
+            "result": "win",
+            "pnl": 8.07
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 38,
+      "away_score": 22
     }
   }
 }
