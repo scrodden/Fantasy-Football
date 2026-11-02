@@ -11147,7 +11147,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "PHI +6",
-          "lean": -1.0
+          "lean": -1.0,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -11155,7 +11157,9 @@
           "team": "WSH",
           "price": -258,
           "stake": 100.0,
-          "pick": "WSH ML -258"
+          "pick": "WSH ML -258",
+          "result": "win",
+          "pnl": 38.76
         },
         "value": [],
         "bankroll": [
@@ -11172,11 +11176,15 @@
             "confidence": "low",
             "book": null,
             "stake": 142.49,
-            "bankroll_at_bet": 4896.71
+            "bankroll_at_bet": 4896.71,
+            "result": "loss",
+            "pnl": -142.49
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 27,
+      "away_score": 10
     },
     "401873036": {
       "game_id": "401873036",

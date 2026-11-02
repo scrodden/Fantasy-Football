@@ -24,11 +24,11 @@
       "last_date": "2026-11-01T18:00Z"
     },
     "21": {
-      "rating": 1437.610406158751,
+      "rating": 1413.4696138627253,
       "name": "Eagles",
       "abbr": "PHI",
-      "gp": 9,
-      "last_date": "2026-10-27T00:15Z"
+      "gp": 10,
+      "last_date": "2026-11-02T01:20Z"
     },
     "9": {
       "rating": 1561.2622880311153,
@@ -199,11 +199,11 @@
       "last_date": "2026-11-01T18:00Z"
     },
     "28": {
-      "rating": 1411.4485113125404,
+      "rating": 1435.589303608566,
       "name": "Commanders",
       "abbr": "WSH",
-      "gp": 7,
-      "last_date": "2026-10-20T00:15Z"
+      "gp": 8,
+      "last_date": "2026-11-02T01:20Z"
     },
     "8": {
       "rating": 1580.1306882820509,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-11-01T21:25Z",
+    "last_game_date": "2026-11-02T01:20Z",
     "season": 2026,
-    "n_games": 714,
+    "n_games": 715,
     "signals": {
       "weather": true,
       "travel": true,
