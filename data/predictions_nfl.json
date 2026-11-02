@@ -4544,7 +4544,14 @@
       "away_ml": 230
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 24,
+    "away_score": 9,
+    "actual_margin": 15,
+    "su_correct": true,
+    "brier": 0.0766,
+    "margin_err": 8.1,
+    "total_err": 9.8
   },
   "401873033": {
     "id": "401873033",
@@ -4568,7 +4575,8 @@
         "pick": "DEN +1.5",
         "line": 1.5,
         "price": -110,
-        "edge": 5.3
+        "edge": 5.3,
+        "result": "win"
       },
       {
         "market": "moneyline",
@@ -4576,7 +4584,8 @@
         "pick": "DEN ML +105",
         "line": 105,
         "price": 105,
-        "edge": 13.8
+        "edge": 13.8,
+        "result": "win"
       },
       {
         "market": "total",
@@ -4584,10 +4593,18 @@
         "pick": "Under 41.5",
         "line": 41.5,
         "price": -110,
-        "edge": 5.0
+        "edge": 5.0,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 28,
+    "away_score": 24,
+    "actual_margin": 4,
+    "su_correct": true,
+    "brier": 0.1555,
+    "margin_err": 0.2,
+    "total_err": 15.5
   },
   "401873034": {
     "id": "401873034",
@@ -4611,10 +4628,18 @@
         "pick": "MIA ML +310",
         "line": 310,
         "price": 310,
-        "edge": 2.2
+        "edge": 2.2,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 19,
+    "away_score": 24,
+    "actual_margin": -5,
+    "su_correct": true,
+    "brier": 0.0656,
+    "margin_err": 2.4,
+    "total_err": 1.6
   },
   "401873035": {
     "id": "401873035",
