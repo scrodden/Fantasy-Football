@@ -11220,7 +11220,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "SEA -3",
-          "lean": 0.1
+          "lean": 0.1,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -11228,7 +11230,9 @@
           "team": "SEA",
           "price": -166,
           "stake": 100.0,
-          "pick": "SEA ML -166"
+          "pick": "SEA ML -166",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [],
         "bankroll": [
@@ -11245,11 +11249,15 @@
             "confidence": "low",
             "book": null,
             "stake": 223.78,
-            "bankroll_at_bet": 4896.71
+            "bankroll_at_bet": 4896.71,
+            "result": "loss",
+            "pnl": -223.78
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 17,
+      "away_score": 34
     }
   }
 }
