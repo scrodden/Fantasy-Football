@@ -47995,6 +47995,104 @@
         ]
       },
       "settled": false
+    },
+    "401866455": {
+      "game_id": "401866455",
+      "league": "cfb",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-05T00:00Z",
+      "locked_at": "2026-11-03T18:21:53+00:00",
+      "home": "MASS",
+      "away": "BALL",
+      "home_full": "Massachusetts Minutemen",
+      "away_full": "Ball State Cardinals",
+      "line": {
+        "home_spread": -3.0,
+        "total": 49.5,
+        "home_ml": -155,
+        "away_ml": 130,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 1.8,
+        "proj_total": 51.2,
+        "proj_home_score": 26.5,
+        "proj_away_score": 24.7,
+        "home_win_prob": 0.5696
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "BALL",
+          "line": 3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "BALL +3",
+          "lean": -1.2
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "MASS",
+          "price": -155,
+          "stake": 100.0,
+          "pick": "MASS ML -155"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401866457": {
+      "game_id": "401866457",
+      "league": "cfb",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-05T00:00Z",
+      "locked_at": "2026-11-03T18:21:53+00:00",
+      "home": "SAC",
+      "away": "TOL",
+      "home_full": "Sacramento State Hornets",
+      "away_full": "Toledo Rockets",
+      "line": {
+        "home_spread": 25.5,
+        "total": 52.5,
+        "home_ml": 1300,
+        "away_ml": -2800,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -17.9,
+        "proj_total": 56.5,
+        "proj_home_score": 19.3,
+        "proj_away_score": 37.2,
+        "home_win_prob": 0.0863
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "SAC",
+          "line": 25.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "SAC +25.5",
+          "lean": 7.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "TOL",
+          "price": -2800,
+          "stake": 100.0,
+          "pick": "TOL ML -2800"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
