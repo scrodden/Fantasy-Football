@@ -20151,10 +20151,18 @@
         "pick": "OHIO -12.5",
         "line": -12.5,
         "price": -110,
-        "edge": 3.1
+        "edge": 3.1,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 20,
+    "away_score": 28,
+    "actual_margin": -8,
+    "su_correct": true,
+    "brier": 0.0213,
+    "margin_err": 7.6,
+    "total_err": 3.9
   },
   "401866454": {
     "id": "401866454",
@@ -20178,7 +20186,8 @@
         "pick": "BUFF ML +205",
         "line": 205,
         "price": 205,
-        "edge": 7.4
+        "edge": 7.4,
+        "result": "win"
       },
       {
         "market": "spread",
@@ -20186,7 +20195,8 @@
         "pick": "BUFF +6.5",
         "line": 6.5,
         "price": -110,
-        "edge": 4.1
+        "edge": 4.1,
+        "result": "win"
       },
       {
         "market": "total",
@@ -20194,10 +20204,18 @@
         "pick": "Over 44.5",
         "line": 44.5,
         "price": -110,
-        "edge": 3.2
+        "edge": 3.2,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 31,
+    "away_score": 34,
+    "actual_margin": -3,
+    "su_correct": false,
+    "brier": 0.3738,
+    "margin_err": 5.4,
+    "total_err": 17.3
   },
   "401866455": {
     "id": "401866455",
