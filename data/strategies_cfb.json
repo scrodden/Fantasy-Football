@@ -48168,6 +48168,196 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401862817": {
+      "game_id": "401862817",
+      "league": "cfb",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-06T00:30Z",
+      "locked_at": "2026-11-04T21:13:51+00:00",
+      "home": "FAU",
+      "away": "UTSA",
+      "home_full": "Florida Atlantic Owls",
+      "away_full": "UTSA Roadrunners",
+      "line": {
+        "home_spread": 7.0,
+        "total": 72.5,
+        "home_ml": 215,
+        "away_ml": -265,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": -9.0,
+        "proj_total": 76.1,
+        "proj_home_score": 33.6,
+        "proj_away_score": 42.6,
+        "home_win_prob": 0.2684
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "UTSA",
+          "line": -7.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "UTSA -7",
+          "lean": -2.0
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "UTSA",
+          "price": -265,
+          "stake": 100.0,
+          "pick": "UTSA ML -265"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "UTSA",
+            "pick": "UTSA -7",
+            "line": -7.0,
+            "price": -110,
+            "ev": 0.056,
+            "edge": 2.0,
+            "kelly": 0.0153,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 72.5",
+            "line": 72.5,
+            "price": -110,
+            "ev": 0.119,
+            "edge": 3.6,
+            "kelly": 0.0328,
+            "confidence": "low",
+            "book": null,
+            "stake": 17.03,
+            "bankroll_at_bet": 519.11
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "UTSA",
+            "pick": "UTSA -7",
+            "line": -7.0,
+            "price": -110,
+            "ev": 0.056,
+            "edge": 2.0,
+            "kelly": 0.0153,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 7.94,
+            "bankroll_at_bet": 519.11
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401869964": {
+      "game_id": "401869964",
+      "league": "cfb",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-06T01:00Z",
+      "locked_at": "2026-11-04T21:13:51+00:00",
+      "home": "USM",
+      "away": "JMU",
+      "home_full": "Southern Miss Golden Eagles",
+      "away_full": "James Madison Dukes",
+      "line": {
+        "home_spread": 14.5,
+        "total": 57.5,
+        "home_ml": 470,
+        "away_ml": -650,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": -11.6,
+        "proj_total": 62.0,
+        "proj_home_score": 25.2,
+        "proj_away_score": 36.8,
+        "home_win_prob": 0.1883
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "USM",
+          "line": 14.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "USM +14.5",
+          "lean": 2.9
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "JMU",
+          "price": -650,
+          "stake": 100.0,
+          "pick": "JMU ML -650"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "USM",
+            "pick": "USM +14.5",
+            "line": 14.5,
+            "price": -110,
+            "ev": 0.101,
+            "edge": 2.9,
+            "kelly": 0.0277,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 57.5",
+            "line": 57.5,
+            "price": -110,
+            "ev": 0.16,
+            "edge": 4.5,
+            "kelly": 0.0439,
+            "confidence": "low",
+            "book": null,
+            "stake": 22.79,
+            "bankroll_at_bet": 519.11
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "USM",
+            "pick": "USM +14.5",
+            "line": 14.5,
+            "price": -110,
+            "ev": 0.101,
+            "edge": 2.9,
+            "kelly": 0.0277,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 14.38,
+            "bankroll_at_bet": 519.11
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }

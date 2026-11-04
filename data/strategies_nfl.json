@@ -11258,6 +11258,130 @@
       "settled": true,
       "home_score": 17,
       "away_score": 34
+    },
+    "401873037": {
+      "game_id": "401873037",
+      "league": "nfl",
+      "season": 2026,
+      "week": 9,
+      "kickoff": "2026-11-06T01:15Z",
+      "locked_at": "2026-11-04T21:10:42+00:00",
+      "home": "BAL",
+      "away": "JAX",
+      "home_full": "Baltimore Ravens",
+      "away_full": "Jacksonville Jaguars",
+      "line": {
+        "home_spread": 10.0,
+        "total": 39.5,
+        "home_ml": 400,
+        "away_ml": -535,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": -2.7,
+        "proj_total": 44.5,
+        "proj_home_score": 20.9,
+        "proj_away_score": 23.6,
+        "home_win_prob": 0.3848
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "BAL",
+          "line": 10.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "BAL +10",
+          "lean": 7.3
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "JAX",
+          "price": -535,
+          "stake": 100.0,
+          "pick": "JAX ML -535"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "BAL",
+            "pick": "BAL ML +400",
+            "line": 400,
+            "price": 400,
+            "ev": 0.924,
+            "edge": 19.3,
+            "kelly": 0.0577,
+            "confidence": "high",
+            "book": "Draft Kings",
+            "stake": 100.0
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "BAL",
+            "pick": "BAL +10",
+            "line": 10.0,
+            "price": -110,
+            "ev": 0.407,
+            "edge": 7.3,
+            "kelly": 0.112,
+            "confidence": "high",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "BAL",
+            "pick": "BAL ML +400",
+            "line": 400,
+            "price": 400,
+            "ev": 0.924,
+            "edge": 19.3,
+            "kelly": 0.0577,
+            "confidence": "high",
+            "book": "Draft Kings",
+            "stake": 330.18,
+            "bankroll_at_bet": 5722.42
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "BAL",
+            "pick": "BAL +10",
+            "line": 10.0,
+            "price": -110,
+            "ev": 0.407,
+            "edge": 7.3,
+            "kelly": 0.112,
+            "confidence": "high",
+            "book": "Draft Kings",
+            "stake": 640.91,
+            "bankroll_at_bet": 5722.42
+          },
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 39.5",
+            "line": 39.5,
+            "price": -110,
+            "ev": 0.23,
+            "edge": 5.0,
+            "kelly": 0.0633,
+            "confidence": "medium",
+            "book": null,
+            "stake": 362.23,
+            "bankroll_at_bet": 5722.42
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
