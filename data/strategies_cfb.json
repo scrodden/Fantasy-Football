@@ -48093,6 +48093,55 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401866456": {
+      "game_id": "401866456",
+      "league": "cfb",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-05T00:30Z",
+      "locked_at": "2026-11-03T23:57:56+00:00",
+      "home": "EMU",
+      "away": "CMU",
+      "home_full": "Eastern Michigan Eagles",
+      "away_full": "Central Michigan Chippewas",
+      "line": {
+        "home_spread": -1.5,
+        "total": 44.5,
+        "home_ml": -118,
+        "away_ml": -102,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 1.2,
+        "proj_total": 44.5,
+        "proj_home_score": 22.9,
+        "proj_away_score": 21.6,
+        "home_win_prob": 0.539
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "CMU",
+          "line": 1.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "CMU +1.5",
+          "lean": -0.3
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "EMU",
+          "price": -118,
+          "stake": 100.0,
+          "pick": "EMU ML -118"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
