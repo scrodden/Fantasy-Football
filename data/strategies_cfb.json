@@ -48056,7 +48056,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "BALL +3",
-          "lean": -1.2
+          "lean": -1.2,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -48064,12 +48066,16 @@
           "team": "MASS",
           "price": -155,
           "stake": 100.0,
-          "pick": "MASS ML -155"
+          "pick": "MASS ML -155",
+          "result": "win",
+          "pnl": 64.52
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 31,
+      "away_score": 30
     },
     "401866457": {
       "game_id": "401866457",
@@ -48105,7 +48111,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "SAC +25.5",
-          "lean": 7.6
+          "lean": 7.6,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -48113,12 +48121,16 @@
           "team": "TOL",
           "price": -2800,
           "stake": 100.0,
-          "pick": "TOL ML -2800"
+          "pick": "TOL ML -2800",
+          "result": "win",
+          "pnl": 3.57
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 17,
+      "away_score": 20
     },
     "401866456": {
       "game_id": "401866456",
@@ -48154,7 +48166,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "CMU +1.5",
-          "lean": -0.3
+          "lean": -0.3,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -48162,12 +48176,16 @@
           "team": "EMU",
           "price": -118,
           "stake": 100.0,
-          "pick": "EMU ML -118"
+          "pick": "EMU ML -118",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 7,
+      "away_score": 35
     },
     "401862817": {
       "game_id": "401862817",
