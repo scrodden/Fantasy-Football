@@ -48376,6 +48376,224 @@
         ]
       },
       "settled": false
+    },
+    "401858288": {
+      "game_id": "401858288",
+      "league": "cfb",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-07T00:00Z",
+      "locked_at": "2026-11-05T18:40:25+00:00",
+      "home": "SMU",
+      "away": "VT",
+      "home_full": "SMU Mustangs",
+      "away_full": "Virginia Tech Hokies",
+      "line": {
+        "home_spread": -6.5,
+        "total": 56.5,
+        "home_ml": -225,
+        "away_ml": 185,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 3.6,
+        "proj_total": 56.7,
+        "proj_home_score": 30.2,
+        "proj_away_score": 26.5,
+        "home_win_prob": 0.6311
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "VT",
+          "line": 6.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "VT +6.5",
+          "lean": -2.9
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "SMU",
+          "price": -225,
+          "stake": 100.0,
+          "pick": "SMU ML -225"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "VT",
+            "pick": "VT +6.5",
+            "line": 6.5,
+            "price": -110,
+            "ev": 0.101,
+            "edge": 2.9,
+            "kelly": 0.0277,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "VT",
+            "pick": "VT ML +185",
+            "line": 185,
+            "price": 185,
+            "ev": 0.051,
+            "edge": 3.3,
+            "kelly": 0.0069,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "VT",
+            "pick": "VT +6.5",
+            "line": 6.5,
+            "price": -110,
+            "ev": 0.101,
+            "edge": 2.9,
+            "kelly": 0.0277,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 14.38,
+            "bankroll_at_bet": 519.11
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "VT",
+            "pick": "VT ML +185",
+            "line": 185,
+            "price": 185,
+            "ev": 0.051,
+            "edge": 3.3,
+            "kelly": 0.0069,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 3.58,
+            "bankroll_at_bet": 519.11
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401862818": {
+      "game_id": "401862818",
+      "league": "cfb",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-07T00:30Z",
+      "locked_at": "2026-11-05T18:40:25+00:00",
+      "home": "ECU",
+      "away": "USF",
+      "home_full": "East Carolina Pirates",
+      "away_full": "South Florida Bulls",
+      "line": {
+        "home_spread": -2.5,
+        "total": 39.5,
+        "home_ml": -135,
+        "away_ml": 114,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": -1.4,
+        "proj_total": 41.4,
+        "proj_home_score": 20.0,
+        "proj_away_score": 21.4,
+        "home_win_prob": 0.4908
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "USF",
+          "line": 2.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "USF +2.5",
+          "lean": -3.9
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "USF",
+          "price": 114,
+          "stake": 100.0,
+          "pick": "USF ML +114"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "USF",
+            "pick": "USF +2.5",
+            "line": 2.5,
+            "price": -110,
+            "ev": 0.15,
+            "edge": 3.9,
+            "kelly": 0.0413,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "USF",
+            "pick": "USF ML +114",
+            "line": 114,
+            "price": 114,
+            "ev": 0.09,
+            "edge": 6.1,
+            "kelly": 0.0197,
+            "confidence": "high",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "USF",
+            "pick": "USF +2.5",
+            "line": 2.5,
+            "price": -110,
+            "ev": 0.15,
+            "edge": 3.9,
+            "kelly": 0.0413,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 21.44,
+            "bankroll_at_bet": 519.11
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "USF",
+            "pick": "USF ML +114",
+            "line": 114,
+            "price": 114,
+            "ev": 0.09,
+            "edge": 6.1,
+            "kelly": 0.0197,
+            "confidence": "high",
+            "book": "Draft Kings",
+            "stake": 10.23,
+            "bankroll_at_bet": 519.11
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
