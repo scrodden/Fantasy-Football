@@ -20324,7 +20324,8 @@
         "pick": "Over 72.5",
         "line": 72.5,
         "price": -110,
-        "edge": 3.6
+        "edge": 3.6,
+        "result": "win"
       },
       {
         "market": "spread",
@@ -20332,10 +20333,18 @@
         "pick": "UTSA -7",
         "line": -7.0,
         "price": -110,
-        "edge": 2.0
+        "edge": 2.0,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 60,
+    "away_score": 29,
+    "actual_margin": 31,
+    "su_correct": false,
+    "brier": 0.5352,
+    "margin_err": 40.0,
+    "total_err": 12.9
   },
   "401869964": {
     "id": "401869964",
@@ -20359,7 +20368,8 @@
         "pick": "Over 57.5",
         "line": 57.5,
         "price": -110,
-        "edge": 4.5
+        "edge": 4.5,
+        "result": "win"
       },
       {
         "market": "spread",
@@ -20367,10 +20377,18 @@
         "pick": "USM +14.5",
         "line": 14.5,
         "price": -110,
-        "edge": 2.9
+        "edge": 2.9,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 23,
+    "away_score": 54,
+    "actual_margin": -31,
+    "su_correct": true,
+    "brier": 0.0349,
+    "margin_err": 19.4,
+    "total_err": 15.0
   },
   "401858288": {
     "id": "401858288",

@@ -4723,7 +4723,8 @@
         "pick": "BAL ML +350",
         "line": 350,
         "price": 350,
-        "edge": 17.8
+        "edge": 17.8,
+        "result": "loss"
       },
       {
         "market": "spread",
@@ -4731,7 +4732,8 @@
         "pick": "BAL +8.5",
         "line": 8.5,
         "price": -110,
-        "edge": 5.9
+        "edge": 5.9,
+        "result": "loss"
       },
       {
         "market": "total",
@@ -4739,10 +4741,18 @@
         "pick": "Over 42.5",
         "line": 42.5,
         "price": -110,
-        "edge": 2.3
+        "edge": 2.3,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 10,
+    "away_score": 33,
+    "actual_margin": -23,
+    "su_correct": true,
+    "brier": 0.1533,
+    "margin_err": 20.4,
+    "total_err": 1.8
   },
   "401873038": {
     "id": "401873038",
