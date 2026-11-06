@@ -48594,6 +48594,290 @@
         ]
       },
       "settled": false
+    },
+    "401858510": {
+      "game_id": "401858510",
+      "league": "cfb",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-07T01:00Z",
+      "locked_at": "2026-11-06T00:03:22+00:00",
+      "home": "ILL",
+      "away": "NEB",
+      "home_full": "Illinois Fighting Illini",
+      "away_full": "Nebraska Cornhuskers",
+      "line": {
+        "home_spread": 4.5,
+        "total": 50.5,
+        "home_ml": 164,
+        "away_ml": -198,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 0.2,
+        "proj_total": 45.8,
+        "proj_home_score": 23.0,
+        "proj_away_score": 22.8,
+        "home_win_prob": 0.4734
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "ILL",
+          "line": 4.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "ILL +4.5",
+          "lean": 4.7
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "ILL",
+          "price": 164,
+          "stake": 100.0,
+          "pick": "ILL ML +164"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "ILL",
+            "pick": "ILL ML +164",
+            "line": 164,
+            "price": 164,
+            "ev": 0.25,
+            "edge": 11.0,
+            "kelly": 0.0381,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "ILL",
+            "pick": "ILL +4.5",
+            "line": 4.5,
+            "price": -110,
+            "ev": 0.189,
+            "edge": 4.7,
+            "kelly": 0.0521,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "ILL",
+            "pick": "ILL ML +164",
+            "line": 164,
+            "price": 164,
+            "ev": 0.25,
+            "edge": 11.0,
+            "kelly": 0.0381,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 19.78,
+            "bankroll_at_bet": 519.11
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "ILL",
+            "pick": "ILL +4.5",
+            "line": 4.5,
+            "price": -110,
+            "ev": 0.189,
+            "edge": 4.7,
+            "kelly": 0.0521,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 27.05,
+            "bankroll_at_bet": 519.11
+          },
+          {
+            "market": "total",
+            "side": "under",
+            "team": null,
+            "pick": "Under 50.5",
+            "line": 50.5,
+            "price": -110,
+            "ev": 0.169,
+            "edge": 4.7,
+            "kelly": 0.0464,
+            "confidence": "low",
+            "book": null,
+            "stake": 24.09,
+            "bankroll_at_bet": 519.11
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401864533": {
+      "game_id": "401864533",
+      "league": "cfb",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-07T02:00Z",
+      "locked_at": "2026-11-06T00:03:22+00:00",
+      "home": "NEV",
+      "away": "UNM",
+      "home_full": "Nevada Wolf Pack",
+      "away_full": "New Mexico Lobos",
+      "line": {
+        "home_spread": 10.0,
+        "total": 38.5,
+        "home_ml": 310,
+        "away_ml": -395,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -10.6,
+        "proj_total": 41.9,
+        "proj_home_score": 15.6,
+        "proj_away_score": 26.2,
+        "home_win_prob": 0.2226
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "UNM",
+          "line": -10.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "UNM -10",
+          "lean": -0.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "UNM",
+          "price": -395,
+          "stake": 100.0,
+          "pick": "UNM ML -395"
+        },
+        "value": [],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 38.5",
+            "line": 38.5,
+            "price": -110,
+            "ev": 0.11,
+            "edge": 3.4,
+            "kelly": 0.0304,
+            "confidence": "low",
+            "book": null,
+            "stake": 15.78,
+            "bankroll_at_bet": 519.11
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401856855": {
+      "game_id": "401856855",
+      "league": "cfb",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-07T03:15Z",
+      "locked_at": "2026-11-06T00:03:22+00:00",
+      "home": "ARIZ",
+      "away": "TCU",
+      "home_full": "Arizona Wildcats",
+      "away_full": "TCU Horned Frogs",
+      "line": {
+        "home_spread": -7.5,
+        "total": 45.5,
+        "home_ml": -310,
+        "away_ml": 250,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 10.1,
+        "proj_total": 41.3,
+        "proj_home_score": 25.7,
+        "proj_away_score": 15.6,
+        "home_win_prob": 0.7686
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "ARIZ",
+          "line": -7.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "ARIZ -7.5",
+          "lean": 2.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "ARIZ",
+          "price": -310,
+          "stake": 100.0,
+          "pick": "ARIZ ML -310"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "ARIZ",
+            "pick": "ARIZ -7.5",
+            "line": -7.5,
+            "price": -110,
+            "ev": 0.086,
+            "edge": 2.6,
+            "kelly": 0.0236,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "under",
+            "team": null,
+            "pick": "Under 45.5",
+            "line": 45.5,
+            "price": -110,
+            "ev": 0.146,
+            "edge": 4.2,
+            "kelly": 0.0402,
+            "confidence": "low",
+            "book": null,
+            "stake": 20.87,
+            "bankroll_at_bet": 519.11
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "ARIZ",
+            "pick": "ARIZ -7.5",
+            "line": -7.5,
+            "price": -110,
+            "ev": 0.086,
+            "edge": 2.6,
+            "kelly": 0.0236,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 12.25,
+            "bankroll_at_bet": 519.11
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
