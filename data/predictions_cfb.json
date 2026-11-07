@@ -20412,7 +20412,8 @@
         "pick": "VT +6",
         "line": 6.0,
         "price": -110,
-        "edge": 2.5
+        "edge": 2.5,
+        "result": "loss"
       },
       {
         "market": "moneyline",
@@ -20420,10 +20421,18 @@
         "pick": "VT ML +185",
         "line": 185,
         "price": 185,
-        "edge": 3.6
+        "edge": 3.6,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 51,
+    "away_score": 28,
+    "actual_margin": 23,
+    "su_correct": true,
+    "brier": 0.1383,
+    "margin_err": 19.5,
+    "total_err": 22.6
   },
   "401862818": {
     "id": "401862818",
@@ -20447,10 +20456,18 @@
         "pick": "USF +1.5",
         "line": 1.5,
         "price": -110,
-        "edge": 2.2
+        "edge": 2.2,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 20,
+    "away_score": 17,
+    "actual_margin": 3,
+    "su_correct": false,
+    "brier": 0.2526,
+    "margin_err": 3.7,
+    "total_err": 4.7
   },
   "401858510": {
     "id": "401858510",
@@ -20474,10 +20491,18 @@
         "pick": "Under 49.5",
         "line": 49.5,
         "price": -110,
-        "edge": 4.0
+        "edge": 4.0,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 24,
+    "away_score": 13,
+    "actual_margin": 11,
+    "su_correct": false,
+    "brier": 0.4234,
+    "margin_err": 16.6,
+    "total_err": 8.5
   },
   "401864533": {
     "id": "401864533",
@@ -20501,7 +20526,8 @@
         "pick": "Over 38.5",
         "line": 38.5,
         "price": -110,
-        "edge": 3.4
+        "edge": 3.4,
+        "result": "loss"
       },
       {
         "market": "spread",
@@ -20509,10 +20535,18 @@
         "pick": "UNM -10",
         "line": -10.0,
         "price": -110,
-        "edge": 2.8
+        "edge": 2.8,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 3,
+    "away_score": 31,
+    "actual_margin": -28,
+    "su_correct": true,
+    "brier": 0.0354,
+    "margin_err": 15.2,
+    "total_err": 7.9
   },
   "401856855": {
     "id": "401856855",
