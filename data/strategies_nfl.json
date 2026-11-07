@@ -11987,6 +11987,309 @@
         ]
       },
       "settled": false
+    },
+    "401873046": {
+      "game_id": "401873046",
+      "league": "nfl",
+      "season": 2026,
+      "week": 9,
+      "kickoff": "2026-11-08T21:05Z",
+      "locked_at": "2026-11-07T18:34:56+00:00",
+      "home": "LAC",
+      "away": "HOU",
+      "home_full": "Los Angeles Chargers",
+      "away_full": "Houston Texans",
+      "line": {
+        "home_spread": 6.0,
+        "total": 40.5,
+        "home_ml": 200,
+        "away_ml": -245,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": -6.2,
+        "proj_total": 40.9,
+        "proj_home_score": 17.4,
+        "proj_away_score": 23.6,
+        "home_win_prob": 0.299
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "HOU",
+          "line": -6.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "HOU -6",
+          "lean": -0.2
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "HOU",
+          "price": -245,
+          "stake": 100.0,
+          "pick": "HOU ML -245"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401873049": {
+      "game_id": "401873049",
+      "league": "nfl",
+      "season": 2026,
+      "week": 9,
+      "kickoff": "2026-11-08T21:25Z",
+      "locked_at": "2026-11-07T18:34:56+00:00",
+      "home": "NE",
+      "away": "GB",
+      "home_full": "New England Patriots",
+      "away_full": "Green Bay Packers",
+      "line": {
+        "home_spread": -3.0,
+        "total": 44.5,
+        "home_ml": -170,
+        "away_ml": 142,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 2.5,
+        "proj_total": 42.4,
+        "proj_home_score": 22.5,
+        "proj_away_score": 19.9,
+        "home_win_prob": 0.5884
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "GB",
+          "line": 3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "GB +3",
+          "lean": -0.5
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "NE",
+          "price": -170,
+          "stake": 100.0,
+          "pick": "NE ML -170"
+        },
+        "value": [],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "under",
+            "team": null,
+            "pick": "Under 44.5",
+            "line": 44.5,
+            "price": -110,
+            "ev": 0.073,
+            "edge": 2.1,
+            "kelly": 0.0199,
+            "confidence": "low",
+            "book": null,
+            "stake": 101.1,
+            "bankroll_at_bet": 5080.63
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401873047": {
+      "game_id": "401873047",
+      "league": "nfl",
+      "season": 2026,
+      "week": 9,
+      "kickoff": "2026-11-08T21:25Z",
+      "locked_at": "2026-11-07T18:34:56+00:00",
+      "home": "SF",
+      "away": "LV",
+      "home_full": "San Francisco 49ers",
+      "away_full": "Las Vegas Raiders",
+      "line": {
+        "home_spread": -10.0,
+        "total": 51.5,
+        "home_ml": -485,
+        "away_ml": 370,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 12.6,
+        "proj_total": 55.9,
+        "proj_home_score": 34.3,
+        "proj_away_score": 21.6,
+        "home_win_prob": 0.8546
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "SF",
+          "line": -10.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "SF -10",
+          "lean": 2.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "SF",
+          "price": -485,
+          "stake": 100.0,
+          "pick": "SF ML -485"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "SF",
+            "pick": "SF -10",
+            "line": -10.0,
+            "price": -110,
+            "ev": 0.125,
+            "edge": 2.6,
+            "kelly": 0.0345,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          },
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "SF",
+            "pick": "SF ML -485",
+            "line": -485,
+            "price": -485,
+            "ev": 0.031,
+            "edge": 5.9,
+            "kelly": 0.0374,
+            "confidence": "medium",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 51.5",
+            "line": 51.5,
+            "price": -110,
+            "ev": 0.198,
+            "edge": 4.4,
+            "kelly": 0.0546,
+            "confidence": "medium",
+            "book": null,
+            "stake": 277.4,
+            "bankroll_at_bet": 5080.63
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "SF",
+            "pick": "SF -10",
+            "line": -10.0,
+            "price": -110,
+            "ev": 0.125,
+            "edge": 2.6,
+            "kelly": 0.0345,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 175.28,
+            "bankroll_at_bet": 5080.63
+          },
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "SF",
+            "pick": "SF ML -485",
+            "line": -485,
+            "price": -485,
+            "ev": 0.031,
+            "edge": 5.9,
+            "kelly": 0.0374,
+            "confidence": "medium",
+            "book": "Draft Kings",
+            "stake": 190.02,
+            "bankroll_at_bet": 5080.63
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401873048": {
+      "game_id": "401873048",
+      "league": "nfl",
+      "season": 2026,
+      "week": 9,
+      "kickoff": "2026-11-08T21:25Z",
+      "locked_at": "2026-11-07T18:34:56+00:00",
+      "home": "SEA",
+      "away": "ARI",
+      "home_full": "Seattle Seahawks",
+      "away_full": "Arizona Cardinals",
+      "line": {
+        "home_spread": -8.5,
+        "total": 39.5,
+        "home_ml": -470,
+        "away_ml": 360,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 8.7,
+        "proj_total": 46.5,
+        "proj_home_score": 27.6,
+        "proj_away_score": 18.9,
+        "home_win_prob": 0.7769
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "SEA",
+          "line": -8.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "SEA -8.5",
+          "lean": 0.2
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "SEA",
+          "price": -470,
+          "stake": 100.0,
+          "pick": "SEA ML -470"
+        },
+        "value": [],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 39.5",
+            "line": 39.5,
+            "price": -110,
+            "ev": 0.332,
+            "edge": 7.0,
+            "kelly": 0.0914,
+            "confidence": "medium",
+            "book": null,
+            "stake": 464.37,
+            "bankroll_at_bet": 5080.63
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
