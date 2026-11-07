@@ -451,11 +451,11 @@
       "last_date": "2026-10-31T19:15Z"
     },
     "2628": {
-      "rating": 1647.496109860339,
+      "rating": 1642.8892349713472,
       "name": "TCU",
       "abbr": "TCU",
-      "gp": 8,
-      "last_date": "2026-10-31T19:30Z"
+      "gp": 9,
+      "last_date": "2026-11-07T03:15Z"
     },
     "61": {
       "rating": 2003.0798023843583,
@@ -1340,11 +1340,11 @@
       "last_date": "2026-09-05T17:00Z"
     },
     "12": {
-      "rating": 1791.2553037864416,
+      "rating": 1795.8621786754334,
       "name": "Arizona",
       "abbr": "ARIZ",
-      "gp": 8,
-      "last_date": "2026-10-31T16:00Z"
+      "gp": 9,
+      "last_date": "2026-11-07T03:15Z"
     },
     "9": {
       "rating": 1607.8686312505265,
@@ -1733,9 +1733,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-11-07T02:00Z",
+    "last_game_date": "2026-11-07T03:15Z",
     "season": 2026,
-    "n_games": 2539,
+    "n_games": 2540,
     "signals": {
       "weather": true,
       "travel": true,

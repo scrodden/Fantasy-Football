@@ -48894,7 +48894,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "ARIZ -7.5",
-          "lean": 2.6
+          "lean": 2.6,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -48902,7 +48904,9 @@
           "team": "ARIZ",
           "price": -310,
           "stake": 100.0,
-          "pick": "ARIZ ML -310"
+          "pick": "ARIZ ML -310",
+          "result": "win",
+          "pnl": 32.26
         },
         "value": [
           {
@@ -48917,7 +48921,9 @@
             "kelly": 0.0236,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           }
         ],
         "bankroll": [
@@ -48934,7 +48940,9 @@
             "confidence": "low",
             "book": null,
             "stake": 20.87,
-            "bankroll_at_bet": 519.11
+            "bankroll_at_bet": 519.11,
+            "result": "loss",
+            "pnl": -20.87
           },
           {
             "market": "spread",
@@ -48949,11 +48957,15 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 12.25,
-            "bankroll_at_bet": 519.11
+            "bankroll_at_bet": 519.11,
+            "result": "loss",
+            "pnl": -12.25
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 29,
+      "away_score": 28
     },
     "401856849": {
       "game_id": "401856849",

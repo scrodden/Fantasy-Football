@@ -20570,7 +20570,8 @@
         "pick": "Under 43.5",
         "line": 43.5,
         "price": -110,
-        "edge": 2.8
+        "edge": 2.8,
+        "result": "loss"
       },
       {
         "market": "spread",
@@ -20578,10 +20579,18 @@
         "pick": "ARIZ -9.5",
         "line": -9.5,
         "price": -110,
-        "edge": 2.4
+        "edge": 2.4,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 29,
+    "away_score": 28,
+    "actual_margin": 1,
+    "su_correct": true,
+    "brier": 0.0391,
+    "margin_err": 10.9,
+    "total_err": 16.3
   },
   "401856849": {
     "id": "401856849",
