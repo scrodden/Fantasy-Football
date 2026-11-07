@@ -12290,6 +12290,101 @@
         ]
       },
       "settled": false
+    },
+    "401873050": {
+      "game_id": "401873050",
+      "league": "nfl",
+      "season": 2026,
+      "week": 9,
+      "kickoff": "2026-11-09T01:20Z",
+      "locked_at": "2026-11-07T22:36:17+00:00",
+      "home": "CHI",
+      "away": "TB",
+      "home_full": "Chicago Bears",
+      "away_full": "Tampa Bay Buccaneers",
+      "line": {
+        "home_spread": -6.0,
+        "total": 47.5,
+        "home_ml": -278,
+        "away_ml": 225,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 4.8,
+        "proj_total": 43.1,
+        "proj_home_score": 24.0,
+        "proj_away_score": 19.2,
+        "home_win_prob": 0.6665
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "TB",
+          "line": 6.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "TB +6",
+          "lean": -1.2
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "CHI",
+          "price": -278,
+          "stake": 100.0,
+          "pick": "CHI ML -278"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "TB",
+            "pick": "TB ML +225",
+            "line": 225,
+            "price": 225,
+            "ev": 0.084,
+            "edge": 3.9,
+            "kelly": 0.0093,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "under",
+            "team": null,
+            "pick": "Under 47.5",
+            "line": 47.5,
+            "price": -110,
+            "ev": 0.198,
+            "edge": 4.4,
+            "kelly": 0.0546,
+            "confidence": "medium",
+            "book": null,
+            "stake": 277.4,
+            "bankroll_at_bet": 5080.63
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "TB",
+            "pick": "TB ML +225",
+            "line": 225,
+            "price": 225,
+            "ev": 0.084,
+            "edge": 3.9,
+            "kelly": 0.0093,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 47.25,
+            "bankroll_at_bet": 5080.63
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
