@@ -53049,6 +53049,225 @@
         ]
       },
       "settled": false
+    },
+    "401860912": {
+      "game_id": "401860912",
+      "league": "cfb",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-08T03:30Z",
+      "locked_at": "2026-11-07T00:49:53+00:00",
+      "home": "ORST",
+      "away": "TXST",
+      "home_full": "Oregon State Beavers",
+      "away_full": "Texas State Bobcats",
+      "line": {
+        "home_spread": -6.5,
+        "total": 71.5,
+        "home_ml": -238,
+        "away_ml": 195,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 3.9,
+        "proj_total": 73.7,
+        "proj_home_score": 38.8,
+        "proj_away_score": 34.9,
+        "home_win_prob": 0.6399
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "TXST",
+          "line": 6.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "TXST +6.5",
+          "lean": -2.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "ORST",
+          "price": -238,
+          "stake": 100.0,
+          "pick": "ORST ML -238"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "TXST",
+            "pick": "TXST +6.5",
+            "line": 6.5,
+            "price": -110,
+            "ev": 0.086,
+            "edge": 2.6,
+            "kelly": 0.0236,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "TXST",
+            "pick": "TXST ML +195",
+            "line": 195,
+            "price": 195,
+            "ev": 0.062,
+            "edge": 3.5,
+            "kelly": 0.008,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "TXST",
+            "pick": "TXST +6.5",
+            "line": 6.5,
+            "price": -110,
+            "ev": 0.086,
+            "edge": 2.6,
+            "kelly": 0.0236,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 12.58,
+            "bankroll_at_bet": 532.99
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "TXST",
+            "pick": "TXST ML +195",
+            "line": 195,
+            "price": 195,
+            "ev": 0.062,
+            "edge": 3.5,
+            "kelly": 0.008,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 4.26,
+            "bankroll_at_bet": 532.99
+          },
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 71.5",
+            "line": 71.5,
+            "price": -110,
+            "ev": 0.056,
+            "edge": 2.2,
+            "kelly": 0.0153,
+            "confidence": "low",
+            "book": null,
+            "stake": 8.15,
+            "bankroll_at_bet": 532.99
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401864535": {
+      "game_id": "401864535",
+      "league": "cfb",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-08T03:30Z",
+      "locked_at": "2026-11-07T00:49:53+00:00",
+      "home": "UNLV",
+      "away": "WYO",
+      "home_full": "UNLV Rebels",
+      "away_full": "Wyoming Cowboys",
+      "line": {
+        "home_spread": -4.0,
+        "total": 48.5,
+        "home_ml": -198,
+        "away_ml": 164,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 2.9,
+        "proj_total": 44.5,
+        "proj_home_score": 23.7,
+        "proj_away_score": 20.8,
+        "home_win_prob": 0.6077
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "WYO",
+          "line": 4.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "WYO +4",
+          "lean": -1.1
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "UNLV",
+          "price": -198,
+          "stake": 100.0,
+          "pick": "UNLV ML -198"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "WYO",
+            "pick": "WYO ML +164",
+            "line": 164,
+            "price": 164,
+            "ev": 0.036,
+            "edge": 2.9,
+            "kelly": 0.0054,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "under",
+            "team": null,
+            "pick": "Under 48.5",
+            "line": 48.5,
+            "price": -110,
+            "ev": 0.137,
+            "edge": 4.0,
+            "kelly": 0.0378,
+            "confidence": "low",
+            "book": null,
+            "stake": 20.15,
+            "bankroll_at_bet": 532.99
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "WYO",
+            "pick": "WYO ML +164",
+            "line": 164,
+            "price": 164,
+            "ev": 0.036,
+            "edge": 2.9,
+            "kelly": 0.0054,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 2.88,
+            "bankroll_at_bet": 532.99
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
