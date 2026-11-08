@@ -11433,7 +11433,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "CIN -3",
-          "lean": -0.6
+          "lean": -0.6,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -11441,12 +11443,16 @@
           "team": "CIN",
           "price": -185,
           "stake": 100.0,
-          "pick": "CIN ML -185"
+          "pick": "CIN ML -185",
+          "result": "win",
+          "pnl": 54.05
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 17,
+      "away_score": 34
     },
     "401873040": {
       "game_id": "401873040",
@@ -11701,7 +11707,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "MIA +6.5",
-          "lean": 0.1
+          "lean": 0.1,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -11709,12 +11717,16 @@
           "team": "DET",
           "price": -310,
           "stake": 100.0,
-          "pick": "DET ML -310"
+          "pick": "DET ML -310",
+          "result": "win",
+          "pnl": 32.26
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 9,
+      "away_score": 19
     },
     "401873039": {
       "game_id": "401873039",
@@ -12380,6 +12392,130 @@
             "confidence": "medium",
             "book": "DraftKings",
             "stake": 47.25,
+            "bankroll_at_bet": 5080.63
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401873051": {
+      "game_id": "401873051",
+      "league": "nfl",
+      "season": 2026,
+      "week": 9,
+      "kickoff": "2026-11-10T01:15Z",
+      "locked_at": "2026-11-08T21:03:42+00:00",
+      "home": "MIN",
+      "away": "BUF",
+      "home_full": "Minnesota Vikings",
+      "away_full": "Buffalo Bills",
+      "line": {
+        "home_spread": 3.0,
+        "total": 43.5,
+        "home_ml": 145,
+        "away_ml": -175,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": -1.4,
+        "proj_total": 40.4,
+        "proj_home_score": 19.5,
+        "proj_away_score": 20.9,
+        "home_win_prob": 0.4462
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "MIN",
+          "line": 3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "MIN +3",
+          "lean": 1.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "BUF",
+          "price": -175,
+          "stake": 100.0,
+          "pick": "BUF ML -175"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "MIN",
+            "pick": "MIN ML +145",
+            "line": 145,
+            "price": 145,
+            "ev": 0.093,
+            "edge": 5.5,
+            "kelly": 0.0161,
+            "confidence": "medium",
+            "book": "Draft Kings",
+            "stake": 100.0
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "MIN",
+            "pick": "MIN +3",
+            "line": 3.0,
+            "price": -110,
+            "ev": 0.06,
+            "edge": 1.6,
+            "kelly": 0.0165,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "under",
+            "team": null,
+            "pick": "Under 43.5",
+            "line": 43.5,
+            "price": -110,
+            "ev": 0.128,
+            "edge": 3.1,
+            "kelly": 0.0352,
+            "confidence": "low",
+            "book": null,
+            "stake": 178.84,
+            "bankroll_at_bet": 5080.63
+          },
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "MIN",
+            "pick": "MIN ML +145",
+            "line": 145,
+            "price": 145,
+            "ev": 0.093,
+            "edge": 5.5,
+            "kelly": 0.0161,
+            "confidence": "medium",
+            "book": "Draft Kings",
+            "stake": 81.8,
+            "bankroll_at_bet": 5080.63
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "MIN",
+            "pick": "MIN +3",
+            "line": 3.0,
+            "price": -110,
+            "ev": 0.06,
+            "edge": 1.6,
+            "kelly": 0.0165,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 83.83,
             "bankroll_at_bet": 5080.63
           }
         ]

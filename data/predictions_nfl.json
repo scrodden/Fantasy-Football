@@ -4770,7 +4770,14 @@
       "away_ml": -162
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 17,
+    "away_score": 34,
+    "actual_margin": -17,
+    "su_correct": true,
+    "brier": 0.1444,
+    "margin_err": 13.4,
+    "total_err": 0.1
   },
   "401873040": {
     "id": "401873040",
@@ -4880,10 +4887,18 @@
         "pick": "MIA ML +285",
         "line": 285,
         "price": 285,
-        "edge": 3.2
+        "edge": 3.2,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 9,
+    "away_score": 19,
+    "actual_margin": -10,
+    "su_correct": true,
+    "brier": 0.0792,
+    "margin_err": 3.5,
+    "total_err": 21.2
   },
   "401873039": {
     "id": "401873039",
