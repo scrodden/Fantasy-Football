@@ -12437,7 +12437,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "TB +6",
-          "lean": -1.2
+          "lean": -1.2,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -12445,7 +12447,9 @@
           "team": "CHI",
           "price": -278,
           "stake": 100.0,
-          "pick": "CHI ML -278"
+          "pick": "CHI ML -278",
+          "result": "win",
+          "pnl": 35.97
         },
         "value": [
           {
@@ -12460,7 +12464,9 @@
             "kelly": 0.0093,
             "confidence": "medium",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           }
         ],
         "bankroll": [
@@ -12477,7 +12483,9 @@
             "confidence": "medium",
             "book": null,
             "stake": 277.4,
-            "bankroll_at_bet": 5080.63
+            "bankroll_at_bet": 5080.63,
+            "result": "loss",
+            "pnl": -277.4
           },
           {
             "market": "moneyline",
@@ -12492,11 +12500,15 @@
             "confidence": "medium",
             "book": "DraftKings",
             "stake": 47.25,
-            "bankroll_at_bet": 5080.63
+            "bankroll_at_bet": 5080.63,
+            "result": "loss",
+            "pnl": -47.25
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 27,
+      "away_score": 24
     },
     "401873051": {
       "game_id": "401873051",
