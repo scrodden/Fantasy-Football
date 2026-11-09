@@ -53882,6 +53882,290 @@
       "settled": true,
       "home_score": 35,
       "away_score": 41
+    },
+    "401866458": {
+      "game_id": "401866458",
+      "league": "cfb",
+      "season": 2026,
+      "week": 11,
+      "kickoff": "2026-11-11T00:00Z",
+      "locked_at": "2026-11-09T20:37:05+00:00",
+      "home": "AKR",
+      "away": "WMU",
+      "home_full": "Akron Zips",
+      "away_full": "Western Michigan Broncos",
+      "line": {
+        "home_spread": 14.0,
+        "total": 47.5,
+        "home_ml": 455,
+        "away_ml": -625,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": -15.5,
+        "proj_total": 48.4,
+        "proj_home_score": 16.5,
+        "proj_away_score": 32.0,
+        "home_win_prob": 0.1363
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "WMU",
+          "line": -14.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "WMU -14",
+          "lean": -1.5
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "WMU",
+          "price": -625,
+          "stake": 100.0,
+          "pick": "WMU ML -625"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "WMU",
+            "pick": "WMU -14",
+            "line": -14.0,
+            "price": -110,
+            "ev": 0.031,
+            "edge": 1.5,
+            "kelly": 0.0084,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "WMU",
+            "pick": "WMU -14",
+            "line": -14.0,
+            "price": -110,
+            "ev": 0.031,
+            "edge": 1.5,
+            "kelly": 0.0084,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 3.73,
+            "bankroll_at_bet": 443.93
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401866459": {
+      "game_id": "401866459",
+      "league": "cfb",
+      "season": 2026,
+      "week": 11,
+      "kickoff": "2026-11-11T00:00Z",
+      "locked_at": "2026-11-09T20:37:05+00:00",
+      "home": "BGSU",
+      "away": "KENT",
+      "home_full": "Bowling Green Falcons",
+      "away_full": "Kent State Golden Flashes",
+      "line": {
+        "home_spread": -6.0,
+        "total": 44.5,
+        "home_ml": -218,
+        "away_ml": 180,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 7.4,
+        "proj_total": 42.9,
+        "proj_home_score": 25.2,
+        "proj_away_score": 17.8,
+        "home_win_prob": 0.7066
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "BGSU",
+          "line": -6.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "BGSU -6",
+          "lean": 1.4
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "BGSU",
+          "price": -218,
+          "stake": 100.0,
+          "pick": "BGSU ML -218"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "BGSU",
+            "pick": "BGSU ML -218",
+            "line": -218,
+            "price": -218,
+            "ev": 0.031,
+            "edge": 4.9,
+            "kelly": 0.0167,
+            "confidence": "medium",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "BGSU",
+            "pick": "BGSU ML -218",
+            "line": -218,
+            "price": -218,
+            "ev": 0.031,
+            "edge": 4.9,
+            "kelly": 0.0167,
+            "confidence": "medium",
+            "book": "Draft Kings",
+            "stake": 7.41,
+            "bankroll_at_bet": 443.93
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401866460": {
+      "game_id": "401866460",
+      "league": "cfb",
+      "season": 2026,
+      "week": 11,
+      "kickoff": "2026-11-11T01:00Z",
+      "locked_at": "2026-11-09T20:37:05+00:00",
+      "home": "M-OH",
+      "away": "OHIO",
+      "home_full": "Miami (OH) RedHawks",
+      "away_full": "Ohio Bobcats",
+      "line": {
+        "home_spread": 1.5,
+        "total": 48.5,
+        "home_ml": -102,
+        "away_ml": -118,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": -4.1,
+        "proj_total": 51.2,
+        "proj_home_score": 23.5,
+        "proj_away_score": 27.6,
+        "home_win_prob": 0.4087
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "OHIO",
+          "line": -1.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "OHIO -1.5",
+          "lean": -2.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "OHIO",
+          "price": -118,
+          "stake": 100.0,
+          "pick": "OHIO ML -118"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "OHIO",
+            "pick": "OHIO ML -118",
+            "line": -118,
+            "price": -118,
+            "ev": 0.092,
+            "edge": 7.4,
+            "kelly": 0.0273,
+            "confidence": "high",
+            "book": "Draft Kings",
+            "stake": 100.0
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "OHIO",
+            "pick": "OHIO -1.5",
+            "line": -1.5,
+            "price": -110,
+            "ev": 0.086,
+            "edge": 2.6,
+            "kelly": 0.0236,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "OHIO",
+            "pick": "OHIO ML -118",
+            "line": -118,
+            "price": -118,
+            "ev": 0.092,
+            "edge": 7.4,
+            "kelly": 0.0273,
+            "confidence": "high",
+            "book": "Draft Kings",
+            "stake": 12.12,
+            "bankroll_at_bet": 443.93
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "OHIO",
+            "pick": "OHIO -1.5",
+            "line": -1.5,
+            "price": -110,
+            "ev": 0.086,
+            "edge": 2.6,
+            "kelly": 0.0236,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 10.48,
+            "bankroll_at_bet": 443.93
+          },
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 48.5",
+            "line": 48.5,
+            "price": -110,
+            "ev": 0.079,
+            "edge": 2.7,
+            "kelly": 0.0216,
+            "confidence": "low",
+            "book": null,
+            "stake": 9.59,
+            "bankroll_at_bet": 443.93
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
