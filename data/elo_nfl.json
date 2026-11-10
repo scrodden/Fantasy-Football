@@ -52,11 +52,11 @@
       "last_date": "2026-11-01T18:00Z"
     },
     "2": {
-      "rating": 1675.3672507319898,
+      "rating": 1699.0177636456947,
       "name": "Bills",
       "abbr": "BUF",
-      "gp": 9,
-      "last_date": "2026-11-01T18:00Z"
+      "gp": 10,
+      "last_date": "2026-11-10T01:15Z"
     },
     "22": {
       "rating": 1372.598302205038,
@@ -143,11 +143,11 @@
       "last_date": "2026-11-08T18:00Z"
     },
     "16": {
-      "rating": 1599.7204703269185,
+      "rating": 1576.0699574132136,
       "name": "Vikings",
       "abbr": "MIN",
-      "gp": 9,
-      "last_date": "2026-11-01T18:00Z"
+      "gp": 10,
+      "last_date": "2026-11-10T01:15Z"
     },
     "24": {
       "rating": 1359.9299605710091,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-11-09T01:20Z",
+    "last_game_date": "2026-11-10T01:15Z",
     "season": 2026,
-    "n_games": 730,
+    "n_games": 731,
     "signals": {
       "weather": true,
       "travel": true,
