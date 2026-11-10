@@ -54166,6 +54166,275 @@
         ]
       },
       "settled": false
+    },
+    "401866461": {
+      "game_id": "401866461",
+      "league": "cfb",
+      "season": 2026,
+      "week": 11,
+      "kickoff": "2026-11-12T00:30Z",
+      "locked_at": "2026-11-10T20:25:36+00:00",
+      "home": "BALL",
+      "away": "BUFF",
+      "home_full": "Ball State Cardinals",
+      "away_full": "Buffalo Bulls",
+      "line": {
+        "home_spread": 2.5,
+        "total": 51.5,
+        "home_ml": 114,
+        "away_ml": -135,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -6.8,
+        "proj_total": 55.6,
+        "proj_home_score": 24.4,
+        "proj_away_score": 31.2,
+        "home_win_prob": 0.3425
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "BUFF",
+          "line": -2.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "BUFF -2.5",
+          "lean": -4.3
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "BUFF",
+          "price": -135,
+          "stake": 100.0,
+          "pick": "BUFF ML -135"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "BUFF",
+            "pick": "BUFF -2.5",
+            "line": -2.5,
+            "price": -110,
+            "ev": 0.17,
+            "edge": 4.3,
+            "kelly": 0.0467,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "BUFF",
+            "pick": "BUFF ML -135",
+            "line": -135,
+            "price": -135,
+            "ev": 0.145,
+            "edge": 10.6,
+            "kelly": 0.0488,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "BUFF",
+            "pick": "BUFF -2.5",
+            "line": -2.5,
+            "price": -110,
+            "ev": 0.17,
+            "edge": 4.3,
+            "kelly": 0.0467,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 20.73,
+            "bankroll_at_bet": 443.93
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "BUFF",
+            "pick": "BUFF ML -135",
+            "line": -135,
+            "price": -135,
+            "ev": 0.145,
+            "edge": 10.6,
+            "kelly": 0.0488,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 21.66,
+            "bankroll_at_bet": 443.93
+          },
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 51.5",
+            "line": 51.5,
+            "price": -110,
+            "ev": 0.142,
+            "edge": 4.1,
+            "kelly": 0.039,
+            "confidence": "low",
+            "book": null,
+            "stake": 17.31,
+            "bankroll_at_bet": 443.93
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401866462": {
+      "game_id": "401866462",
+      "league": "cfb",
+      "season": 2026,
+      "week": 11,
+      "kickoff": "2026-11-12T00:30Z",
+      "locked_at": "2026-11-10T20:25:36+00:00",
+      "home": "CMU",
+      "away": "SAC",
+      "home_full": "Central Michigan Chippewas",
+      "away_full": "Sacramento State Hornets",
+      "line": {
+        "home_spread": -18.5,
+        "total": 43.5,
+        "home_ml": -1050,
+        "away_ml": 675,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 11.8,
+        "proj_total": 43.4,
+        "proj_home_score": 27.6,
+        "proj_away_score": 15.8,
+        "home_win_prob": 0.8336
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "SAC",
+          "line": 18.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "SAC +18.5",
+          "lean": -6.7
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "CMU",
+          "price": -1050,
+          "stake": 100.0,
+          "pick": "CMU ML -1050"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "SAC",
+            "pick": "SAC +18.5",
+            "line": 18.5,
+            "price": -110,
+            "ev": 0.284,
+            "edge": 6.7,
+            "kelly": 0.078,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "SAC",
+            "pick": "SAC +18.5",
+            "line": 18.5,
+            "price": -110,
+            "ev": 0.284,
+            "edge": 6.7,
+            "kelly": 0.078,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 34.63,
+            "bankroll_at_bet": 443.93
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401866463": {
+      "game_id": "401866463",
+      "league": "cfb",
+      "season": 2026,
+      "week": 11,
+      "kickoff": "2026-11-12T00:30Z",
+      "locked_at": "2026-11-10T20:25:36+00:00",
+      "home": "TOL",
+      "away": "MASS",
+      "home_full": "Toledo Rockets",
+      "away_full": "Massachusetts Minutemen",
+      "line": {
+        "home_spread": -14.5,
+        "total": 51.5,
+        "home_ml": -600,
+        "away_ml": 440,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 13.9,
+        "proj_total": 53.5,
+        "proj_home_score": 33.7,
+        "proj_away_score": 19.8,
+        "home_win_prob": 0.8494
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "MASS",
+          "line": 14.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "MASS +14.5",
+          "lean": -0.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "TOL",
+          "price": -600,
+          "stake": 100.0,
+          "pick": "TOL ML -600"
+        },
+        "value": [],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 51.5",
+            "line": 51.5,
+            "price": -110,
+            "ev": 0.047,
+            "edge": 2.0,
+            "kelly": 0.0128,
+            "confidence": "low",
+            "book": null,
+            "stake": 5.68,
+            "bankroll_at_bet": 443.93
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
