@@ -22625,7 +22625,14 @@
       "away_ml": -625
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 14,
+    "away_score": 42,
+    "actual_margin": -28,
+    "su_correct": true,
+    "brier": 0.0182,
+    "margin_err": 12.4,
+    "total_err": 7.6
   },
   "401866459": {
     "id": "401866459",
@@ -22649,7 +22656,8 @@
         "pick": "Under 45.5",
         "line": 45.5,
         "price": -110,
-        "edge": 2.3
+        "edge": 2.3,
+        "result": "loss"
       },
       {
         "market": "moneyline",
@@ -22657,10 +22665,18 @@
         "pick": "BGSU ML -218",
         "line": -218,
         "price": -218,
-        "edge": 4.9
+        "edge": 4.9,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 33,
+    "away_score": 28,
+    "actual_margin": 5,
+    "su_correct": true,
+    "brier": 0.0861,
+    "margin_err": 2.4,
+    "total_err": 17.8
   },
   "401866460": {
     "id": "401866460",
@@ -22684,7 +22700,8 @@
         "pick": "OHIO ML -112",
         "line": -112,
         "price": -112,
-        "edge": 8.4
+        "edge": 8.4,
+        "result": "loss"
       },
       {
         "market": "spread",
@@ -22692,7 +22709,8 @@
         "pick": "OHIO -1.5",
         "line": -1.5,
         "price": -110,
-        "edge": 2.6
+        "edge": 2.6,
+        "result": "loss"
       },
       {
         "market": "total",
@@ -22700,10 +22718,18 @@
         "pick": "Over 48.5",
         "line": 48.5,
         "price": -110,
-        "edge": 2.7
+        "edge": 2.7,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 34,
+    "away_score": 17,
+    "actual_margin": 17,
+    "su_correct": false,
+    "brier": 0.3461,
+    "margin_err": 21.1,
+    "total_err": 0.2
   },
   "401866461": {
     "id": "401866461",
