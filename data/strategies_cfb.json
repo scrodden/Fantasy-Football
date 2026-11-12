@@ -54665,6 +54665,349 @@
         ]
       },
       "settled": false
+    },
+    "401858293": {
+      "game_id": "401858293",
+      "league": "cfb",
+      "season": 2026,
+      "week": 11,
+      "kickoff": "2026-11-14T00:00Z",
+      "locked_at": "2026-11-12T23:27:46+00:00",
+      "home": "PITT",
+      "away": "FSU",
+      "home_full": "Pittsburgh Panthers",
+      "away_full": "Florida State Seminoles",
+      "line": {
+        "home_spread": -3.5,
+        "total": 52.5,
+        "home_ml": -170,
+        "away_ml": 142,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 6.0,
+        "proj_total": 56.7,
+        "proj_home_score": 31.3,
+        "proj_away_score": 25.3,
+        "home_win_prob": 0.6667
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "PITT",
+          "line": -3.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "PITT -3.5",
+          "lean": 2.5
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "PITT",
+          "price": -170,
+          "stake": 100.0,
+          "pick": "PITT ML -170"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "PITT",
+            "pick": "PITT -3.5",
+            "line": -3.5,
+            "price": -110,
+            "ev": 0.081,
+            "edge": 2.5,
+            "kelly": 0.0222,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "PITT",
+            "pick": "PITT ML -170",
+            "line": -170,
+            "price": -170,
+            "ev": 0.059,
+            "edge": 6.3,
+            "kelly": 0.025,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 52.5",
+            "line": 52.5,
+            "price": -110,
+            "ev": 0.146,
+            "edge": 4.2,
+            "kelly": 0.0402,
+            "confidence": "low",
+            "book": null,
+            "stake": 16.65,
+            "bankroll_at_bet": 414.11
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "PITT",
+            "pick": "PITT -3.5",
+            "line": -3.5,
+            "price": -110,
+            "ev": 0.081,
+            "edge": 2.5,
+            "kelly": 0.0222,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 9.19,
+            "bankroll_at_bet": 414.11
+          },
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "PITT",
+            "pick": "PITT ML -170",
+            "line": -170,
+            "price": -170,
+            "ev": 0.059,
+            "edge": 6.3,
+            "kelly": 0.025,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 10.35,
+            "bankroll_at_bet": 414.11
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401858526": {
+      "game_id": "401858526",
+      "league": "cfb",
+      "season": 2026,
+      "week": 11,
+      "kickoff": "2026-11-14T02:00Z",
+      "locked_at": "2026-11-12T23:27:46+00:00",
+      "home": "UCLA",
+      "away": "ILL",
+      "home_full": "UCLA Bruins",
+      "away_full": "Illinois Fighting Illini",
+      "line": {
+        "home_spread": -10.0,
+        "total": 47.5,
+        "home_ml": -395,
+        "away_ml": 310,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 6.8,
+        "proj_total": 44.5,
+        "proj_home_score": 25.7,
+        "proj_away_score": 18.8,
+        "home_win_prob": 0.7207
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "ILL",
+          "line": 10.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "ILL +10",
+          "lean": -3.2
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "UCLA",
+          "price": -395,
+          "stake": 100.0,
+          "pick": "UCLA ML -395"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "ILL",
+            "pick": "ILL ML +310",
+            "line": 310,
+            "price": 310,
+            "ev": 0.145,
+            "edge": 4.5,
+            "kelly": 0.0117,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "ILL",
+            "pick": "ILL +10",
+            "line": 10.0,
+            "price": -110,
+            "ev": 0.116,
+            "edge": 3.2,
+            "kelly": 0.0318,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "ILL",
+            "pick": "ILL ML +310",
+            "line": 310,
+            "price": 310,
+            "ev": 0.145,
+            "edge": 4.5,
+            "kelly": 0.0117,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 4.85,
+            "bankroll_at_bet": 414.11
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "ILL",
+            "pick": "ILL +10",
+            "line": 10.0,
+            "price": -110,
+            "ev": 0.116,
+            "edge": 3.2,
+            "kelly": 0.0318,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 13.17,
+            "bankroll_at_bet": 414.11
+          },
+          {
+            "market": "total",
+            "side": "under",
+            "team": null,
+            "pick": "Under 47.5",
+            "line": 47.5,
+            "price": -110,
+            "ev": 0.092,
+            "edge": 3.0,
+            "kelly": 0.0254,
+            "confidence": "low",
+            "book": null,
+            "stake": 10.52,
+            "bankroll_at_bet": 414.11
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401856860": {
+      "game_id": "401856860",
+      "league": "cfb",
+      "season": 2026,
+      "week": 11,
+      "kickoff": "2026-11-14T03:15Z",
+      "locked_at": "2026-11-12T23:27:46+00:00",
+      "home": "COLO",
+      "away": "HOU",
+      "home_full": "Colorado Buffaloes",
+      "away_full": "Houston Cougars",
+      "line": {
+        "home_spread": 9.5,
+        "total": 51.5,
+        "home_ml": 285,
+        "away_ml": -360,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -12.0,
+        "proj_total": 49.3,
+        "proj_home_score": 18.7,
+        "proj_away_score": 30.6,
+        "home_win_prob": 0.2022
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "HOU",
+          "line": -9.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "HOU -9.5",
+          "lean": -2.5
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "HOU",
+          "price": -360,
+          "stake": 100.0,
+          "pick": "HOU ML -360"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "HOU",
+            "pick": "HOU -9.5",
+            "line": -9.5,
+            "price": -110,
+            "ev": 0.081,
+            "edge": 2.5,
+            "kelly": 0.0222,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "HOU",
+            "pick": "HOU -9.5",
+            "line": -9.5,
+            "price": -110,
+            "ev": 0.081,
+            "edge": 2.5,
+            "kelly": 0.0222,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 9.19,
+            "bankroll_at_bet": 414.11
+          },
+          {
+            "market": "total",
+            "side": "under",
+            "team": null,
+            "pick": "Under 51.5",
+            "line": 51.5,
+            "price": -110,
+            "ev": 0.056,
+            "edge": 2.2,
+            "kelly": 0.0153,
+            "confidence": "low",
+            "book": null,
+            "stake": 6.34,
+            "bankroll_at_bet": 414.11
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
