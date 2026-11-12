@@ -12649,6 +12649,130 @@
       "settled": true,
       "home_score": 6,
       "away_score": 23
+    },
+    "401873052": {
+      "game_id": "401873052",
+      "league": "nfl",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-13T01:15Z",
+      "locked_at": "2026-11-12T00:20:28+00:00",
+      "home": "NYG",
+      "away": "WSH",
+      "home_full": "New York Giants",
+      "away_full": "Washington Commanders",
+      "line": {
+        "home_spread": -2.5,
+        "total": 40.5,
+        "home_ml": -142,
+        "away_ml": 120,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 4.4,
+        "proj_total": 42.7,
+        "proj_home_score": 23.5,
+        "proj_away_score": 19.2,
+        "home_win_prob": 0.6396
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "NYG",
+          "line": -2.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "NYG -2.5",
+          "lean": 1.9
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "NYG",
+          "price": -142,
+          "stake": 100.0,
+          "pick": "NYG ML -142"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "NYG",
+            "pick": "NYG ML -142",
+            "line": -142,
+            "price": -142,
+            "ev": 0.09,
+            "edge": 7.6,
+            "kelly": 0.032,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "NYG",
+            "pick": "NYG -2.5",
+            "line": -2.5,
+            "price": -110,
+            "ev": 0.08,
+            "edge": 1.9,
+            "kelly": 0.0219,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "NYG",
+            "pick": "NYG ML -142",
+            "line": -142,
+            "price": -142,
+            "ev": 0.09,
+            "edge": 7.6,
+            "kelly": 0.032,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 159.76,
+            "bankroll_at_bet": 4992.46
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "NYG",
+            "pick": "NYG -2.5",
+            "line": -2.5,
+            "price": -110,
+            "ev": 0.08,
+            "edge": 1.9,
+            "kelly": 0.0219,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 109.33,
+            "bankroll_at_bet": 4992.46
+          },
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 40.5",
+            "line": 40.5,
+            "price": -110,
+            "ev": 0.078,
+            "edge": 2.2,
+            "kelly": 0.0215,
+            "confidence": "low",
+            "book": null,
+            "stake": 107.34,
+            "bankroll_at_bet": 4992.46
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }

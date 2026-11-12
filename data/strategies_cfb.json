@@ -54471,6 +54471,166 @@
         ]
       },
       "settled": false
+    },
+    "401862824": {
+      "game_id": "401862824",
+      "league": "cfb",
+      "season": 2026,
+      "week": 11,
+      "kickoff": "2026-11-13T01:00Z",
+      "locked_at": "2026-11-12T00:23:39+00:00",
+      "home": "USF",
+      "away": "MEM",
+      "home_full": "South Florida Bulls",
+      "away_full": "Memphis Tigers",
+      "line": {
+        "home_spread": 3.5,
+        "total": 49.5,
+        "home_ml": 145,
+        "away_ml": -175,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -2.4,
+        "proj_total": 52.5,
+        "proj_home_score": 25.0,
+        "proj_away_score": 27.5,
+        "home_win_prob": 0.4257
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "USF",
+          "line": 3.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "USF +3.5",
+          "lean": 1.1
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "MEM",
+          "price": -175,
+          "stake": 100.0,
+          "pick": "MEM ML -175"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "USF",
+            "pick": "USF ML +145",
+            "line": 145,
+            "price": 145,
+            "ev": 0.043,
+            "edge": 3.5,
+            "kelly": 0.0074,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 49.5",
+            "line": 49.5,
+            "price": -110,
+            "ev": 0.092,
+            "edge": 3.0,
+            "kelly": 0.0254,
+            "confidence": "low",
+            "book": null,
+            "stake": 11.1,
+            "bankroll_at_bet": 436.84
+          },
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "USF",
+            "pick": "USF ML +145",
+            "line": 145,
+            "price": 145,
+            "ev": 0.043,
+            "edge": 3.5,
+            "kelly": 0.0074,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 3.23,
+            "bankroll_at_bet": 436.84
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401869969": {
+      "game_id": "401869969",
+      "league": "cfb",
+      "season": 2026,
+      "week": 11,
+      "kickoff": "2026-11-13T02:00Z",
+      "locked_at": "2026-11-12T00:23:39+00:00",
+      "home": "ULM",
+      "away": "UL",
+      "home_full": "UL Monroe Warhawks",
+      "away_full": "Louisiana Ragin' Cajuns",
+      "line": {
+        "home_spread": 10.5,
+        "total": 48.5,
+        "home_ml": 310,
+        "away_ml": -395,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -10.9,
+        "proj_total": 46.4,
+        "proj_home_score": 17.8,
+        "proj_away_score": 28.7,
+        "home_win_prob": 0.2162
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "UL",
+          "line": -10.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "UL -10.5",
+          "lean": -0.4
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "UL",
+          "price": -395,
+          "stake": 100.0,
+          "pick": "UL ML -395"
+        },
+        "value": [],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "under",
+            "team": null,
+            "pick": "Under 48.5",
+            "line": 48.5,
+            "price": -110,
+            "ev": 0.051,
+            "edge": 2.1,
+            "kelly": 0.0141,
+            "confidence": "low",
+            "book": null,
+            "stake": 6.16,
+            "bankroll_at_bet": 436.84
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
