@@ -136,11 +136,11 @@
       "last_date": "2026-11-08T18:00Z"
     },
     "19": {
-      "rating": 1497.604211630448,
+      "rating": 1479.94233791454,
       "name": "Giants",
       "abbr": "NYG",
-      "gp": 10,
-      "last_date": "2026-11-08T18:00Z"
+      "gp": 11,
+      "last_date": "2026-11-13T01:15Z"
     },
     "16": {
       "rating": 1576.0699574132136,
@@ -199,11 +199,11 @@
       "last_date": "2026-11-09T01:20Z"
     },
     "28": {
-      "rating": 1423.6971087788372,
+      "rating": 1441.358982494745,
       "name": "Commanders",
       "abbr": "WSH",
-      "gp": 9,
-      "last_date": "2026-11-08T18:00Z"
+      "gp": 10,
+      "last_date": "2026-11-13T01:15Z"
     },
     "8": {
       "rating": 1590.8386363427044,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-11-10T01:15Z",
+    "last_game_date": "2026-11-13T01:15Z",
     "season": 2026,
-    "n_games": 731,
+    "n_games": 732,
     "signals": {
       "weather": true,
       "travel": true,
