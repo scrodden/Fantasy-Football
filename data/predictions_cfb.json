@@ -22954,7 +22954,8 @@
         "pick": "Over 53.5",
         "line": 53.5,
         "price": -110,
-        "edge": 3.4
+        "edge": 3.4,
+        "result": "loss"
       },
       {
         "market": "spread",
@@ -22962,7 +22963,8 @@
         "pick": "PITT -3.5",
         "line": -3.5,
         "price": -110,
-        "edge": 2.5
+        "edge": 2.5,
+        "result": "loss"
       },
       {
         "market": "moneyline",
@@ -22970,10 +22972,18 @@
         "pick": "PITT ML -170",
         "line": -170,
         "price": -170,
-        "edge": 6.3
+        "edge": 6.3,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 10,
+    "away_score": 16,
+    "actual_margin": -6,
+    "su_correct": false,
+    "brier": 0.4445,
+    "margin_err": 12.0,
+    "total_err": 30.9
   },
   "401858526": {
     "id": "401858526",
@@ -22997,7 +23007,8 @@
         "pick": "ILL ML +300",
         "line": 300,
         "price": 300,
-        "edge": 4.1
+        "edge": 4.1,
+        "result": "loss"
       },
       {
         "market": "spread",
@@ -23005,7 +23016,8 @@
         "pick": "ILL +10",
         "line": 10.0,
         "price": -110,
-        "edge": 3.2
+        "edge": 3.2,
+        "result": "win"
       },
       {
         "market": "total",
@@ -23013,10 +23025,18 @@
         "pick": "Under 46.5",
         "line": 46.5,
         "price": -110,
-        "edge": 2.2
+        "edge": 2.2,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 22,
+    "away_score": 14,
+    "actual_margin": 8,
+    "su_correct": true,
+    "brier": 0.0788,
+    "margin_err": 1.2,
+    "total_err": 8.3
   },
   "401856860": {
     "id": "401856860",
@@ -23034,7 +23054,14 @@
       "away_ml": -410
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 42,
+    "away_score": 32,
+    "actual_margin": 10,
+    "su_correct": false,
+    "brier": 0.6114,
+    "margin_err": 20.7,
+    "total_err": 24.9
   },
   "401858296": {
     "id": "401858296",
