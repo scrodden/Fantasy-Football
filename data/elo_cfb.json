@@ -388,11 +388,11 @@
       "last_date": "2024-08-30T22:00Z"
     },
     "201": {
-      "rating": 1768.2572004847157,
+      "rating": 1802.3015136507631,
       "name": "Oklahoma",
       "abbr": "OU",
-      "gp": 9,
-      "last_date": "2026-11-08T00:45Z"
+      "gp": 10,
+      "last_date": "2026-11-15T18:00Z"
     },
     "218": {
       "rating": 1265.5853444539284,
@@ -976,11 +976,11 @@
       "last_date": "2026-11-14T20:30Z"
     },
     "145": {
-      "rating": 1850.4078111926156,
+      "rating": 1816.363498026568,
       "name": "Ole Miss",
       "abbr": "MISS",
-      "gp": 9,
-      "last_date": "2026-11-08T00:30Z"
+      "gp": 10,
+      "last_date": "2026-11-15T18:00Z"
     },
     "231": {
       "rating": 1428.8387459479077,
@@ -1733,9 +1733,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-11-15T04:00Z",
+    "last_game_date": "2026-11-15T18:00Z",
     "season": 2026,
-    "n_games": 2657,
+    "n_games": 2658,
     "signals": {
       "weather": true,
       "travel": true,

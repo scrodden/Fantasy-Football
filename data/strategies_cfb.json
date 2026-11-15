@@ -58364,7 +58364,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "MISS +1.5",
-          "lean": -2.9
+          "lean": -2.9,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -58372,7 +58374,9 @@
           "team": "MISS",
           "price": -108,
           "stake": 100.0,
-          "pick": "MISS ML -108"
+          "pick": "MISS ML -108",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [
           {
@@ -58387,7 +58391,9 @@
             "kelly": 0.0277,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           }
         ],
         "bankroll": [
@@ -58404,11 +58410,15 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 11.49,
-            "bankroll_at_bet": 414.81
+            "bankroll_at_bet": 414.81,
+            "result": "loss",
+            "pnl": -11.49
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 24,
+      "away_score": 17
     },
     "401858521": {
       "game_id": "401858521",

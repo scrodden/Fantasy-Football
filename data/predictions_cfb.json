@@ -24265,10 +24265,18 @@
         "pick": "OU +1.5",
         "line": 1.5,
         "price": -110,
-        "edge": 1.6
+        "edge": 1.6,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 24,
+    "away_score": 17,
+    "actual_margin": 7,
+    "su_correct": true,
+    "brier": 0.2445,
+    "margin_err": 6.9,
+    "total_err": 7.6
   },
   "401858521": {
     "id": "401858521",
