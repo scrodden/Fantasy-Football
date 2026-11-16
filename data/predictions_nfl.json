@@ -5733,7 +5733,8 @@
         "pick": "PIT ML +150",
         "line": 150,
         "price": 150,
-        "edge": 5.0
+        "edge": 5.0,
+        "result": "loss"
       },
       {
         "market": "spread",
@@ -5741,10 +5742,18 @@
         "pick": "PIT +3.5",
         "line": 3.5,
         "price": -110,
-        "edge": 1.7
+        "edge": 1.7,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 38,
+    "away_score": 18,
+    "actual_margin": 20,
+    "su_correct": true,
+    "brier": 0.1881,
+    "margin_err": 18.2,
+    "total_err": 8.1
   },
   "401873065": {
     "id": "401873065",

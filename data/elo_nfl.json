@@ -45,11 +45,11 @@
       "last_date": "2026-11-15T18:00Z"
     },
     "23": {
-      "rating": 1534.9551637862328,
+      "rating": 1516.551928240601,
       "name": "Steelers",
       "abbr": "PIT",
-      "gp": 9,
-      "last_date": "2026-11-01T18:00Z"
+      "gp": 10,
+      "last_date": "2026-11-16T01:20Z"
     },
     "2": {
       "rating": 1706.5434307459932,
@@ -80,11 +80,11 @@
       "last_date": "2026-11-15T18:00Z"
     },
     "4": {
-      "rating": 1592.9687114414496,
+      "rating": 1611.3719469870814,
       "name": "Bengals",
       "abbr": "CIN",
-      "gp": 9,
-      "last_date": "2026-11-08T14:30Z"
+      "gp": 10,
+      "last_date": "2026-11-16T01:20Z"
     },
     "17": {
       "rating": 1541.7173109775151,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-11-15T21:25Z",
+    "last_game_date": "2026-11-16T01:20Z",
     "season": 2026,
-    "n_games": 743,
+    "n_games": 744,
     "signals": {
       "weather": true,
       "travel": true,
