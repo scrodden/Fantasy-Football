@@ -13695,7 +13695,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "LV +6.5",
-          "lean": 1.3
+          "lean": 1.3,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -13703,7 +13705,9 @@
           "team": "SEA",
           "price": -305,
           "stake": 100.0,
-          "pick": "SEA ML -305"
+          "pick": "SEA ML -305",
+          "result": "win",
+          "pnl": 32.79
         },
         "value": [
           {
@@ -13718,7 +13722,9 @@
             "kelly": 0.011,
             "confidence": "medium",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           }
         ],
         "bankroll": [
@@ -13735,7 +13741,9 @@
             "confidence": "medium",
             "book": null,
             "stake": 380.86,
-            "bankroll_at_bet": 4820.95
+            "bankroll_at_bet": 4820.95,
+            "result": "loss",
+            "pnl": -380.86
           },
           {
             "market": "moneyline",
@@ -13750,11 +13758,15 @@
             "confidence": "medium",
             "book": "Draft Kings",
             "stake": 53.03,
-            "bankroll_at_bet": 4820.95
+            "bankroll_at_bet": 4820.95,
+            "result": "loss",
+            "pnl": -53.03
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 13,
+      "away_score": 21
     },
     "401873061": {
       "game_id": "401873061",
@@ -13790,7 +13802,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "ARI +9.5",
-          "lean": 1.6
+          "lean": 1.6,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -13798,7 +13812,9 @@
           "team": "LAR",
           "price": -500,
           "stake": 100.0,
-          "pick": "LAR ML -500"
+          "pick": "LAR ML -500",
+          "result": "win",
+          "pnl": 20.0
         },
         "value": [
           {
@@ -13813,7 +13829,9 @@
             "kelly": 0.0107,
             "confidence": "low",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           },
           {
             "market": "spread",
@@ -13827,7 +13845,9 @@
             "kelly": 0.0165,
             "confidence": "low",
             "book": "Draft Kings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           }
         ],
         "bankroll": [
@@ -13844,7 +13864,9 @@
             "confidence": "medium",
             "book": null,
             "stake": 298.42,
-            "bankroll_at_bet": 4820.95
+            "bankroll_at_bet": 4820.95,
+            "result": "win",
+            "pnl": 271.29
           },
           {
             "market": "moneyline",
@@ -13859,7 +13881,9 @@
             "confidence": "low",
             "book": "Draft Kings",
             "stake": 51.58,
-            "bankroll_at_bet": 4820.95
+            "bankroll_at_bet": 4820.95,
+            "result": "loss",
+            "pnl": -51.58
           },
           {
             "market": "spread",
@@ -13874,11 +13898,15 @@
             "confidence": "low",
             "book": "Draft Kings",
             "stake": 79.55,
-            "bankroll_at_bet": 4820.95
+            "bankroll_at_bet": 4820.95,
+            "result": "loss",
+            "pnl": -79.55
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 6,
+      "away_score": 34
     },
     "401873063": {
       "game_id": "401873063",
@@ -13914,7 +13942,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "DAL +4.5",
-          "lean": 0.1
+          "lean": 0.1,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -13922,12 +13952,16 @@
           "team": "SF",
           "price": -218,
           "stake": 100.0,
-          "pick": "SF ML -218"
+          "pick": "SF ML -218",
+          "result": "win",
+          "pnl": 45.87
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 40,
+      "away_score": 46
     },
     "401873064": {
       "game_id": "401873064",
