@@ -60625,6 +60625,236 @@
       "settled": true,
       "home_score": 13,
       "away_score": 21
+    },
+    "401866465": {
+      "game_id": "401866465",
+      "league": "cfb",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-17T23:00Z",
+      "locked_at": "2026-11-17T03:38:26+00:00",
+      "home": "WMU",
+      "away": "EMU",
+      "home_full": "Western Michigan Broncos",
+      "away_full": "Eastern Michigan Eagles",
+      "line": {
+        "home_spread": -14.5,
+        "total": 46.5,
+        "home_ml": -675,
+        "away_ml": 490,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 14.5,
+        "proj_total": 45.1,
+        "proj_home_score": 29.8,
+        "proj_away_score": 15.3,
+        "home_win_prob": 0.8625
+      },
+      "bets": {
+        "spread": null,
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "WMU",
+          "price": -675,
+          "stake": 100.0,
+          "pick": "WMU ML -675"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401866464": {
+      "game_id": "401866464",
+      "league": "cfb",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-18T00:00Z",
+      "locked_at": "2026-11-17T03:38:26+00:00",
+      "home": "OHIO",
+      "away": "BALL",
+      "home_full": "Ohio Bobcats",
+      "away_full": "Ball State Cardinals",
+      "line": {
+        "home_spread": -10.5,
+        "total": 49.5,
+        "home_ml": -455,
+        "away_ml": 350,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 13.3,
+        "proj_total": 51.7,
+        "proj_home_score": 32.5,
+        "proj_away_score": 19.2,
+        "home_win_prob": 0.8372
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "OHIO",
+          "line": -10.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "OHIO -10.5",
+          "lean": 2.8
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "OHIO",
+          "price": -455,
+          "stake": 100.0,
+          "pick": "OHIO ML -455"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "OHIO",
+            "pick": "OHIO -10.5",
+            "line": -10.5,
+            "price": -110,
+            "ev": 0.096,
+            "edge": 2.8,
+            "kelly": 0.0264,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "OHIO",
+            "pick": "OHIO -10.5",
+            "line": -10.5,
+            "price": -110,
+            "ev": 0.096,
+            "edge": 2.8,
+            "kelly": 0.0264,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 15.26,
+            "bankroll_at_bet": 578.0
+          },
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 49.5",
+            "line": 49.5,
+            "price": -110,
+            "ev": 0.056,
+            "edge": 2.2,
+            "kelly": 0.0153,
+            "confidence": "low",
+            "book": null,
+            "stake": 8.84,
+            "bankroll_at_bet": 578.0
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401866466": {
+      "game_id": "401866466",
+      "league": "cfb",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-18T00:00Z",
+      "locked_at": "2026-11-17T03:38:26+00:00",
+      "home": "KENT",
+      "away": "M-OH",
+      "home_full": "Kent State Golden Flashes",
+      "away_full": "Miami (OH) RedHawks",
+      "line": {
+        "home_spread": 9.5,
+        "total": 45.5,
+        "home_ml": 280,
+        "away_ml": -355,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -11.0,
+        "proj_total": 49.9,
+        "proj_home_score": 19.4,
+        "proj_away_score": 30.5,
+        "home_win_prob": 0.2158
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "M-OH",
+          "line": -9.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "M-OH -9.5",
+          "lean": -1.5
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "M-OH",
+          "price": -355,
+          "stake": 100.0,
+          "pick": "M-OH ML -355"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "M-OH",
+            "pick": "M-OH -9.5",
+            "line": -9.5,
+            "price": -110,
+            "ev": 0.031,
+            "edge": 1.5,
+            "kelly": 0.0084,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 45.5",
+            "line": 45.5,
+            "price": -110,
+            "ev": 0.155,
+            "edge": 4.4,
+            "kelly": 0.0427,
+            "confidence": "low",
+            "book": null,
+            "stake": 24.68,
+            "bankroll_at_bet": 578.0
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "M-OH",
+            "pick": "M-OH -9.5",
+            "line": -9.5,
+            "price": -110,
+            "ev": 0.031,
+            "edge": 1.5,
+            "kelly": 0.0084,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 4.86,
+            "bankroll_at_bet": 578.0
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
