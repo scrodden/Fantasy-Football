@@ -60855,6 +60855,224 @@
         ]
       },
       "settled": false
+    },
+    "401866467": {
+      "game_id": "401866467",
+      "league": "cfb",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-19T00:00Z",
+      "locked_at": "2026-11-17T21:43:26+00:00",
+      "home": "MASS",
+      "away": "AKR",
+      "home_full": "Massachusetts Minutemen",
+      "away_full": "Akron Zips",
+      "line": {
+        "home_spread": -3.0,
+        "total": 46.5,
+        "home_ml": -162,
+        "away_ml": 136,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 6.5,
+        "proj_total": 47.0,
+        "proj_home_score": 26.7,
+        "proj_away_score": 20.2,
+        "home_win_prob": 0.6798
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "MASS",
+          "line": -3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "MASS -3",
+          "lean": 3.5
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "MASS",
+          "price": -162,
+          "stake": 100.0,
+          "pick": "MASS ML -162"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "MASS",
+            "pick": "MASS -3",
+            "line": -3.0,
+            "price": -110,
+            "ev": 0.131,
+            "edge": 3.5,
+            "kelly": 0.0359,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          },
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "MASS",
+            "pick": "MASS ML -162",
+            "line": -162,
+            "price": -162,
+            "ev": 0.099,
+            "edge": 8.6,
+            "kelly": 0.0403,
+            "confidence": "high",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "MASS",
+            "pick": "MASS -3",
+            "line": -3.0,
+            "price": -110,
+            "ev": 0.131,
+            "edge": 3.5,
+            "kelly": 0.0359,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 20.75,
+            "bankroll_at_bet": 578.0
+          },
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "MASS",
+            "pick": "MASS ML -162",
+            "line": -162,
+            "price": -162,
+            "ev": 0.099,
+            "edge": 8.6,
+            "kelly": 0.0403,
+            "confidence": "high",
+            "book": "Draft Kings",
+            "stake": 23.29,
+            "bankroll_at_bet": 578.0
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401866469": {
+      "game_id": "401866469",
+      "league": "cfb",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-19T00:30Z",
+      "locked_at": "2026-11-17T21:43:26+00:00",
+      "home": "BUFF",
+      "away": "CMU",
+      "home_full": "Buffalo Bulls",
+      "away_full": "Central Michigan Chippewas",
+      "line": {
+        "home_spread": -1.5,
+        "total": 45.5,
+        "home_ml": -118,
+        "away_ml": -102,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 3.8,
+        "proj_total": 43.9,
+        "proj_home_score": 23.8,
+        "proj_away_score": 20.1,
+        "home_win_prob": 0.6037
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "BUFF",
+          "line": -1.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "BUFF -1.5",
+          "lean": 2.3
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "BUFF",
+          "price": -118,
+          "stake": 100.0,
+          "pick": "BUFF ML -118"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "BUFF",
+            "pick": "BUFF ML -118",
+            "line": -118,
+            "price": -118,
+            "ev": 0.115,
+            "edge": 8.6,
+            "kelly": 0.034,
+            "confidence": "high",
+            "book": "Draft Kings",
+            "stake": 100.0
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "BUFF",
+            "pick": "BUFF -1.5",
+            "line": -1.5,
+            "price": -110,
+            "ev": 0.071,
+            "edge": 2.3,
+            "kelly": 0.0195,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "BUFF",
+            "pick": "BUFF ML -118",
+            "line": -118,
+            "price": -118,
+            "ev": 0.115,
+            "edge": 8.6,
+            "kelly": 0.034,
+            "confidence": "high",
+            "book": "Draft Kings",
+            "stake": 19.65,
+            "bankroll_at_bet": 578.0
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "BUFF",
+            "pick": "BUFF -1.5",
+            "line": -1.5,
+            "price": -110,
+            "ev": 0.071,
+            "edge": 2.3,
+            "kelly": 0.0195,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 11.27,
+            "bankroll_at_bet": 578.0
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
