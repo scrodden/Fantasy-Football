@@ -14225,6 +14225,101 @@
       "settled": true,
       "home_score": 20,
       "away_score": 23
+    },
+    "401873066": {
+      "game_id": "401873066",
+      "league": "nfl",
+      "season": 2026,
+      "week": 11,
+      "kickoff": "2026-11-20T01:15Z",
+      "locked_at": "2026-11-18T21:15:12+00:00",
+      "home": "HOU",
+      "away": "IND",
+      "home_full": "Houston Texans",
+      "away_full": "Indianapolis Colts",
+      "line": {
+        "home_spread": -12.5,
+        "total": 44.5,
+        "home_ml": -750,
+        "away_ml": 525,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 8.1,
+        "proj_total": 51.8,
+        "proj_home_score": 30.0,
+        "proj_away_score": 21.8,
+        "home_win_prob": 0.7686
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "IND",
+          "line": 12.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "IND +12.5",
+          "lean": -4.4
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "HOU",
+          "price": -750,
+          "stake": 100.0,
+          "pick": "HOU ML -750"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "IND",
+            "pick": "IND +12.5",
+            "line": 12.5,
+            "price": -110,
+            "ev": 0.239,
+            "edge": 4.4,
+            "kelly": 0.0657,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 44.5",
+            "line": 44.5,
+            "price": -110,
+            "ev": 0.347,
+            "edge": 7.3,
+            "kelly": 0.0955,
+            "confidence": "medium",
+            "book": null,
+            "stake": 412.87,
+            "bankroll_at_bet": 4323.22
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "IND",
+            "pick": "IND +12.5",
+            "line": 12.5,
+            "price": -110,
+            "ev": 0.239,
+            "edge": 4.4,
+            "kelly": 0.0657,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 284.04,
+            "bankroll_at_bet": 4323.22
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }

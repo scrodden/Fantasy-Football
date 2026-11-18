@@ -61101,6 +61101,55 @@
         ]
       },
       "settled": false
+    },
+    "401862830": {
+      "game_id": "401862830",
+      "league": "cfb",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-20T00:30Z",
+      "locked_at": "2026-11-18T21:18:34+00:00",
+      "home": "TEM",
+      "away": "RICE",
+      "home_full": "Temple Owls",
+      "away_full": "Rice Owls",
+      "line": {
+        "home_spread": -3.0,
+        "total": 51.5,
+        "home_ml": -148,
+        "away_ml": 124,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 1.8,
+        "proj_total": 52.6,
+        "proj_home_score": 27.2,
+        "proj_away_score": 25.4,
+        "home_win_prob": 0.5663
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "RICE",
+          "line": 3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "RICE +3",
+          "lean": -1.2
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "TEM",
+          "price": -148,
+          "stake": 100.0,
+          "pick": "TEM ML -148"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }
