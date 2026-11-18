@@ -60659,12 +60659,16 @@
           "team": "WMU",
           "price": -675,
           "stake": 100.0,
-          "pick": "WMU ML -675"
+          "pick": "WMU ML -675",
+          "result": "win",
+          "pnl": 14.81
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 34,
+      "away_score": 27
     },
     "401866464": {
       "game_id": "401866464",
@@ -60700,7 +60704,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "OHIO -10.5",
-          "lean": 2.8
+          "lean": 2.8,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -60708,7 +60714,9 @@
           "team": "OHIO",
           "price": -455,
           "stake": 100.0,
-          "pick": "OHIO ML -455"
+          "pick": "OHIO ML -455",
+          "result": "win",
+          "pnl": 21.98
         },
         "value": [
           {
@@ -60723,7 +60731,9 @@
             "kelly": 0.0264,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           }
         ],
         "bankroll": [
@@ -60740,7 +60750,9 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 15.26,
-            "bankroll_at_bet": 578.0
+            "bankroll_at_bet": 578.0,
+            "result": "loss",
+            "pnl": -15.26
           },
           {
             "market": "total",
@@ -60755,11 +60767,15 @@
             "confidence": "low",
             "book": null,
             "stake": 8.84,
-            "bankroll_at_bet": 578.0
+            "bankroll_at_bet": 578.0,
+            "result": "win",
+            "pnl": 8.04
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 35,
+      "away_score": 28
     },
     "401866466": {
       "game_id": "401866466",
@@ -60795,7 +60811,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "M-OH -9.5",
-          "lean": -1.5
+          "lean": -1.5,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -60803,7 +60821,9 @@
           "team": "M-OH",
           "price": -355,
           "stake": 100.0,
-          "pick": "M-OH ML -355"
+          "pick": "M-OH ML -355",
+          "result": "win",
+          "pnl": 28.17
         },
         "value": [
           {
@@ -60818,7 +60838,9 @@
             "kelly": 0.0084,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           }
         ],
         "bankroll": [
@@ -60835,7 +60857,9 @@
             "confidence": "low",
             "book": null,
             "stake": 24.68,
-            "bankroll_at_bet": 578.0
+            "bankroll_at_bet": 578.0,
+            "result": "loss",
+            "pnl": -24.68
           },
           {
             "market": "spread",
@@ -60850,11 +60874,15 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 4.86,
-            "bankroll_at_bet": 578.0
+            "bankroll_at_bet": 578.0,
+            "result": "win",
+            "pnl": 4.42
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 3,
+      "away_score": 20
     },
     "401866467": {
       "game_id": "401866467",

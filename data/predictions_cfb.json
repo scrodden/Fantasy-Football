@@ -25168,7 +25168,14 @@
       "away_ml": 490
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 34,
+    "away_score": 27,
+    "actual_margin": 7,
+    "su_correct": true,
+    "brier": 0.0189,
+    "margin_err": 7.5,
+    "total_err": 15.9
   },
   "401866464": {
     "id": "401866464",
@@ -25192,7 +25199,8 @@
         "pick": "OHIO -10.5",
         "line": -10.5,
         "price": -110,
-        "edge": 2.6
+        "edge": 2.6,
+        "result": "loss"
       },
       {
         "market": "total",
@@ -25200,7 +25208,8 @@
         "pick": "Over 49.5",
         "line": 49.5,
         "price": -110,
-        "edge": 2.2
+        "edge": 2.2,
+        "result": "win"
       },
       {
         "market": "moneyline",
@@ -25208,10 +25217,18 @@
         "pick": "OHIO ML -425",
         "line": -425,
         "price": -425,
-        "edge": 5.5
+        "edge": 5.5,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 35,
+    "away_score": 28,
+    "actual_margin": 7,
+    "su_correct": true,
+    "brier": 0.0271,
+    "margin_err": 6.3,
+    "total_err": 11.3
   },
   "401866466": {
     "id": "401866466",
@@ -25235,10 +25252,18 @@
         "pick": "Over 46.25",
         "line": 46.25,
         "price": -110,
-        "edge": 3.9
+        "edge": 3.9,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 3,
+    "away_score": 20,
+    "actual_margin": -17,
+    "su_correct": true,
+    "brier": 0.0469,
+    "margin_err": 6.0,
+    "total_err": 27.1
   },
   "401866467": {
     "id": "401866467",
