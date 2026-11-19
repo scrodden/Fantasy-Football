@@ -25287,7 +25287,8 @@
         "pick": "MASS ML -148",
         "line": -148,
         "price": -148,
-        "edge": 8.4
+        "edge": 8.4,
+        "result": "loss"
       },
       {
         "market": "spread",
@@ -25295,10 +25296,18 @@
         "pick": "MASS -3",
         "line": -3.0,
         "price": -110,
-        "edge": 3.5
+        "edge": 3.5,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 33,
+    "away_score": 34,
+    "actual_margin": -1,
+    "su_correct": false,
+    "brier": 0.4568,
+    "margin_err": 7.5,
+    "total_err": 20.0
   },
   "401866469": {
     "id": "401866469",
@@ -25322,7 +25331,8 @@
         "pick": "BUFF ML -130",
         "line": -130,
         "price": -130,
-        "edge": 6.7
+        "edge": 6.7,
+        "result": "win"
       },
       {
         "market": "spread",
@@ -25330,10 +25340,18 @@
         "pick": "BUFF -2",
         "line": -2.0,
         "price": -110,
-        "edge": 1.6
+        "edge": 1.6,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 40,
+    "away_score": 21,
+    "actual_margin": 19,
+    "su_correct": true,
+    "brier": 0.1502,
+    "margin_err": 15.1,
+    "total_err": 17.5
   },
   "401862830": {
     "id": "401862830",
