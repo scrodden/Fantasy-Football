@@ -61178,6 +61178,450 @@
         "bankroll": []
       },
       "settled": false
+    },
+    "401856869": {
+      "game_id": "401856869",
+      "league": "cfb",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-20T23:00Z",
+      "locked_at": "2026-11-19T21:20:09+00:00",
+      "home": "UCF",
+      "away": "ISU",
+      "home_full": "UCF Knights",
+      "away_full": "Iowa State Cyclones",
+      "line": {
+        "home_spread": -1.5,
+        "total": 48.5,
+        "home_ml": -122,
+        "away_ml": 102,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -2.3,
+        "proj_total": 56.4,
+        "proj_home_score": 27.0,
+        "proj_away_score": 29.4,
+        "home_win_prob": 0.4548
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "ISU",
+          "line": 1.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "ISU +1.5",
+          "lean": -3.8
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "ISU",
+          "price": 102,
+          "stake": 100.0,
+          "pick": "ISU ML +102"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "ISU",
+            "pick": "ISU +1.5",
+            "line": 1.5,
+            "price": -110,
+            "ev": 0.145,
+            "edge": 3.8,
+            "kelly": 0.04,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "ISU",
+            "pick": "ISU ML +102",
+            "line": 102,
+            "price": 102,
+            "ev": 0.101,
+            "edge": 7.1,
+            "kelly": 0.0248,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 48.5",
+            "line": 48.5,
+            "price": -110,
+            "ev": 0.306,
+            "edge": 7.9,
+            "kelly": 0.0841,
+            "confidence": "medium",
+            "book": null,
+            "stake": 44.86,
+            "bankroll_at_bet": 533.38
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "ISU",
+            "pick": "ISU +1.5",
+            "line": 1.5,
+            "price": -110,
+            "ev": 0.145,
+            "edge": 3.8,
+            "kelly": 0.04,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 21.34,
+            "bankroll_at_bet": 533.38
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "ISU",
+            "pick": "ISU ML +102",
+            "line": 102,
+            "price": 102,
+            "ev": 0.101,
+            "edge": 7.1,
+            "kelly": 0.0248,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 13.23,
+            "bankroll_at_bet": 533.38
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401858303": {
+      "game_id": "401858303",
+      "league": "cfb",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-21T00:30Z",
+      "locked_at": "2026-11-19T21:20:09+00:00",
+      "home": "DUKE",
+      "away": "CLEM",
+      "home_full": "Duke Blue Devils",
+      "away_full": "Clemson Tigers",
+      "line": {
+        "home_spread": -13.5,
+        "total": 40.5,
+        "home_ml": -535,
+        "away_ml": 400,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 12.8,
+        "proj_total": 39.6,
+        "proj_home_score": 26.2,
+        "proj_away_score": 13.4,
+        "home_win_prob": 0.8334
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "CLEM",
+          "line": 13.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "CLEM +13.5",
+          "lean": -0.7
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "DUKE",
+          "price": -535,
+          "stake": 100.0,
+          "pick": "DUKE ML -535"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401866468": {
+      "game_id": "401866468",
+      "league": "cfb",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-21T00:30Z",
+      "locked_at": "2026-11-19T21:20:09+00:00",
+      "home": "TOL",
+      "away": "BGSU",
+      "home_full": "Toledo Rockets",
+      "away_full": "Bowling Green Falcons",
+      "line": {
+        "home_spread": -16.5,
+        "total": 48.5,
+        "home_ml": -750,
+        "away_ml": 525,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 15.6,
+        "proj_total": 50.3,
+        "proj_home_score": 33.0,
+        "proj_away_score": 17.3,
+        "home_win_prob": 0.8779
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "BGSU",
+          "line": 16.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "BGSU +16.5",
+          "lean": -0.9
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "TOL",
+          "price": -750,
+          "stake": 100.0,
+          "pick": "TOL ML -750"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401858529": {
+      "game_id": "401858529",
+      "league": "cfb",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-21T01:00Z",
+      "locked_at": "2026-11-19T21:20:09+00:00",
+      "home": "MSU",
+      "away": "ORE",
+      "home_full": "Michigan State Spartans",
+      "away_full": "Oregon Ducks",
+      "line": {
+        "home_spread": 17.5,
+        "total": 44.5,
+        "home_ml": 625,
+        "away_ml": -950,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -16.3,
+        "proj_total": 45.8,
+        "proj_home_score": 14.8,
+        "proj_away_score": 31.0,
+        "home_win_prob": 0.1177
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "MSU",
+          "line": 17.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "MSU +17.5",
+          "lean": 1.2
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "ORE",
+          "price": -950,
+          "stake": 100.0,
+          "pick": "ORE ML -950"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401864545": {
+      "game_id": "401864545",
+      "league": "cfb",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-21T01:00Z",
+      "locked_at": "2026-11-19T21:20:09+00:00",
+      "home": "AFA",
+      "away": "UTEP",
+      "home_full": "Air Force Falcons",
+      "away_full": "UTEP Miners",
+      "line": {
+        "home_spread": -21.5,
+        "total": 47.5,
+        "home_ml": -2100,
+        "away_ml": 1100,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 20.3,
+        "proj_total": 46.6,
+        "proj_home_score": 33.4,
+        "proj_away_score": 13.2,
+        "home_win_prob": 0.9347
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "UTEP",
+          "line": 21.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "UTEP +21.5",
+          "lean": -1.2
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "AFA",
+          "price": -2100,
+          "stake": 100.0,
+          "pick": "AFA ML -2100"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401864542": {
+      "game_id": "401864542",
+      "league": "cfb",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-21T02:00Z",
+      "locked_at": "2026-11-19T21:20:09+00:00",
+      "home": "WYO",
+      "away": "UNM",
+      "home_full": "Wyoming Cowboys",
+      "away_full": "New Mexico Lobos",
+      "line": {
+        "home_spread": 7.5,
+        "total": 37.5,
+        "home_ml": 235,
+        "away_ml": -290,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -2.9,
+        "proj_total": 40.0,
+        "proj_home_score": 18.6,
+        "proj_away_score": 21.5,
+        "home_win_prob": 0.3985
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "WYO",
+          "line": 7.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "WYO +7.5",
+          "lean": 4.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "UNM",
+          "price": -290,
+          "stake": 100.0,
+          "pick": "UNM ML -290"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "WYO",
+            "pick": "WYO ML +235",
+            "line": 235,
+            "price": 235,
+            "ev": 0.335,
+            "edge": 11.2,
+            "kelly": 0.0356,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "WYO",
+            "pick": "WYO +7.5",
+            "line": 7.5,
+            "price": -110,
+            "ev": 0.184,
+            "edge": 4.6,
+            "kelly": 0.0507,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "WYO",
+            "pick": "WYO ML +235",
+            "line": 235,
+            "price": 235,
+            "ev": 0.335,
+            "edge": 11.2,
+            "kelly": 0.0356,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 18.99,
+            "bankroll_at_bet": 533.38
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "WYO",
+            "pick": "WYO +7.5",
+            "line": 7.5,
+            "price": -110,
+            "ev": 0.184,
+            "edge": 4.6,
+            "kelly": 0.0507,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 27.04,
+            "bankroll_at_bet": 533.38
+          },
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 37.5",
+            "line": 37.5,
+            "price": -110,
+            "ev": 0.07,
+            "edge": 2.5,
+            "kelly": 0.0191,
+            "confidence": "low",
+            "book": null,
+            "stake": 10.19,
+            "bankroll_at_bet": 533.38
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
