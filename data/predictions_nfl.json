@@ -5830,7 +5830,8 @@
         "pick": "Over 44.5",
         "line": 44.5,
         "price": -110,
-        "edge": 7.3
+        "edge": 7.3,
+        "result": "loss"
       },
       {
         "market": "spread",
@@ -5838,10 +5839,18 @@
         "pick": "IND +11.5",
         "line": 11.5,
         "price": -110,
-        "edge": 3.2
+        "edge": 3.2,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 26,
+    "away_score": 3,
+    "actual_margin": 23,
+    "su_correct": true,
+    "brier": 0.0522,
+    "margin_err": 14.7,
+    "total_err": 22.8
   },
   "401873070": {
     "id": "401873070",

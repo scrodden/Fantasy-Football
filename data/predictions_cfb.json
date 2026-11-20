@@ -25375,10 +25375,18 @@
         "pick": "Over 48.5",
         "line": 48.5,
         "price": -110,
-        "edge": 3.5
+        "edge": 3.5,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 27,
+    "away_score": 31,
+    "actual_margin": -4,
+    "su_correct": false,
+    "brier": 0.4027,
+    "margin_err": 8.4,
+    "total_err": 6.0
   },
   "401856869": {
     "id": "401856869",

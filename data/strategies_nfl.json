@@ -14260,7 +14260,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "IND +12.5",
-          "lean": -4.4
+          "lean": -4.4,
+          "result": "loss",
+          "pnl": -100.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -14268,7 +14270,9 @@
           "team": "HOU",
           "price": -750,
           "stake": 100.0,
-          "pick": "HOU ML -750"
+          "pick": "HOU ML -750",
+          "result": "win",
+          "pnl": 13.33
         },
         "value": [
           {
@@ -14283,7 +14287,9 @@
             "kelly": 0.0657,
             "confidence": "medium",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "loss",
+            "pnl": -100.0
           }
         ],
         "bankroll": [
@@ -14300,7 +14306,9 @@
             "confidence": "medium",
             "book": null,
             "stake": 412.87,
-            "bankroll_at_bet": 4323.22
+            "bankroll_at_bet": 4323.22,
+            "result": "loss",
+            "pnl": -412.87
           },
           {
             "market": "spread",
@@ -14315,11 +14323,15 @@
             "confidence": "medium",
             "book": "DraftKings",
             "stake": 284.04,
-            "bankroll_at_bet": 4323.22
+            "bankroll_at_bet": 4323.22,
+            "result": "loss",
+            "pnl": -284.04
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 26,
+      "away_score": 3
     }
   }
 }
