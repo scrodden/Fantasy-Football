@@ -15112,6 +15112,62 @@
         ]
       },
       "settled": false
+    },
+    "401873077": {
+      "game_id": "401873077",
+      "league": "nfl",
+      "season": 2026,
+      "week": 11,
+      "kickoff": "2026-11-23T01:20Z",
+      "locked_at": "2026-11-21T22:56:52+00:00",
+      "home": "SF",
+      "away": "MIN",
+      "home_full": "San Francisco 49ers",
+      "away_full": "Minnesota Vikings",
+      "line": {
+        "home_spread": -3.0,
+        "total": 46.5,
+        "home_ml": -170,
+        "away_ml": 143,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 3.0,
+        "proj_total": 39.1,
+        "proj_home_score": 21.1,
+        "proj_away_score": 18.0,
+        "home_win_prob": 0.6046
+      },
+      "bets": {
+        "spread": null,
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "SF",
+          "price": -170,
+          "stake": 100.0,
+          "pick": "SF ML -170"
+        },
+        "value": [],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "under",
+            "team": null,
+            "pick": "Under 46.5",
+            "line": 46.5,
+            "price": -110,
+            "ev": 0.352,
+            "edge": 7.4,
+            "kelly": 0.0968,
+            "confidence": "medium",
+            "book": null,
+            "stake": 351.03,
+            "bankroll_at_bet": 3626.31
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }

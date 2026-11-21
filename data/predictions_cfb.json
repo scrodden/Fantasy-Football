@@ -25639,7 +25639,14 @@
       "away_ml": -238
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 29,
+    "away_score": 31,
+    "actual_margin": -2,
+    "su_correct": true,
+    "brier": 0.105,
+    "margin_err": 4.3,
+    "total_err": 12.9
   },
   "401858310": {
     "id": "401858310",
@@ -25663,10 +25670,18 @@
         "pick": "WAKE -21",
         "line": -21.0,
         "price": -110,
-        "edge": 6.6
+        "edge": 6.6,
+        "result": "push"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 29,
+    "away_score": 50,
+    "actual_margin": -21,
+    "su_correct": true,
+    "brier": 0.0012,
+    "margin_err": 6.6,
+    "total_err": 22.4
   },
   "401856749": {
     "id": "401856749",
@@ -25684,7 +25699,14 @@
       "away_ml": null
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 59,
+    "away_score": 17,
+    "actual_margin": 42,
+    "su_correct": true,
+    "brier": 0.002,
+    "margin_err": 19.5,
+    "total_err": 17.1
   },
   "401858531": {
     "id": "401858531",
@@ -25708,7 +25730,8 @@
         "pick": "OSU -2.5",
         "line": -2.5,
         "price": -110,
-        "edge": 3.5
+        "edge": 3.5,
+        "result": "loss"
       },
       {
         "market": "moneyline",
@@ -25716,10 +25739,18 @@
         "pick": "OSU ML -145",
         "line": -145,
         "price": -145,
-        "edge": 7.5
+        "edge": 7.5,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 31,
+    "away_score": 28,
+    "actual_margin": 3,
+    "su_correct": false,
+    "brier": 0.4243,
+    "margin_err": 9.0,
+    "total_err": 16.3
   },
   "401856748": {
     "id": "401856748",
@@ -25743,10 +25774,18 @@
         "pick": "VAN +14",
         "line": 14.0,
         "price": -110,
-        "edge": 4.2
+        "edge": 4.2,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 34,
+    "away_score": 27,
+    "actual_margin": 7,
+    "su_correct": true,
+    "brier": 0.0489,
+    "margin_err": 2.5,
+    "total_err": 14.1
   },
   "401856867": {
     "id": "401856867",
@@ -25770,10 +25809,18 @@
         "pick": "Under 60.25",
         "line": 60.25,
         "price": -110,
-        "edge": 3.0
+        "edge": 3.0,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 35,
+    "away_score": 28,
+    "actual_margin": 7,
+    "su_correct": true,
+    "brier": 0.1503,
+    "margin_err": 3.5,
+    "total_err": 5.8
   },
   "401858309": {
     "id": "401858309",
@@ -25797,10 +25844,18 @@
         "pick": "BC ML +140",
         "line": 140,
         "price": 140,
-        "edge": 4.1
+        "edge": 4.1,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 27,
+    "away_score": 15,
+    "actual_margin": 12,
+    "su_correct": false,
+    "brier": 0.3054,
+    "margin_err": 13.7,
+    "total_err": 9.9
   },
   "401858530": {
     "id": "401858530",
@@ -25824,7 +25879,8 @@
         "pick": "Over 43.25",
         "line": 43.25,
         "price": -110,
-        "edge": 3.6
+        "edge": 3.6,
+        "result": "loss"
       },
       {
         "market": "spread",
@@ -25832,7 +25888,8 @@
         "pick": "NU -3",
         "line": -3.0,
         "price": -110,
-        "edge": 3.1
+        "edge": 3.1,
+        "result": "loss"
       },
       {
         "market": "moneyline",
@@ -25840,10 +25897,18 @@
         "pick": "NU ML -148",
         "line": -148,
         "price": -148,
-        "edge": 6.7
+        "edge": 6.7,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 20,
+    "away_score": 17,
+    "actual_margin": 3,
+    "su_correct": false,
+    "brier": 0.4271,
+    "margin_err": 9.1,
+    "total_err": 9.9
   },
   "401858533": {
     "id": "401858533",
@@ -25867,7 +25932,8 @@
         "pick": "WIS -5.5",
         "line": -5.5,
         "price": -110,
-        "edge": 2.7
+        "edge": 2.7,
+        "result": "win"
       },
       {
         "market": "moneyline",
@@ -25875,10 +25941,18 @@
         "pick": "WIS ML -218",
         "line": -218,
         "price": -218,
-        "edge": 6.1
+        "edge": 6.1,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 10,
+    "away_score": 42,
+    "actual_margin": -32,
+    "su_correct": true,
+    "brier": 0.0795,
+    "margin_err": 23.6,
+    "total_err": 8.3
   },
   "401862831": {
     "id": "401862831",
@@ -25902,10 +25976,18 @@
         "pick": "Over 44.25",
         "line": 44.25,
         "price": -110,
-        "edge": 2.5
+        "edge": 2.5,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 6,
+    "away_score": 10,
+    "actual_margin": -4,
+    "su_correct": false,
+    "brier": 0.4449,
+    "margin_err": 9.7,
+    "total_err": 30.7
   },
   "401862834": {
     "id": "401862834",
@@ -25929,10 +26011,18 @@
         "pick": "Over 67",
         "line": 67.0,
         "price": -110,
-        "edge": 4.0
+        "edge": 4.0,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 38,
+    "away_score": 34,
+    "actual_margin": 4,
+    "su_correct": false,
+    "brier": 0.3657,
+    "margin_err": 7.8,
+    "total_err": 1.0
   },
   "401862835": {
     "id": "401862835",
@@ -25956,7 +26046,8 @@
         "pick": "Over 57.25",
         "line": 57.25,
         "price": -110,
-        "edge": 5.9
+        "edge": 5.9,
+        "result": "loss"
       },
       {
         "market": "spread",
@@ -25964,7 +26055,8 @@
         "pick": "UNT -7",
         "line": -7.0,
         "price": -110,
-        "edge": 3.1
+        "edge": 3.1,
+        "result": "loss"
       },
       {
         "market": "moneyline",
@@ -25972,10 +26064,18 @@
         "pick": "UNT ML -238",
         "line": -238,
         "price": -238,
-        "edge": 6.1
+        "edge": 6.1,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 28,
+    "away_score": 24,
+    "actual_margin": 4,
+    "su_correct": false,
+    "brier": 0.5685,
+    "margin_err": 14.1,
+    "total_err": 11.1
   },
   "401858305": {
     "id": "401858305",
@@ -25999,7 +26099,8 @@
         "pick": "UNC +1",
         "line": 1.0,
         "price": -110,
-        "edge": 2.6
+        "edge": 2.6,
+        "result": "loss"
       },
       {
         "market": "moneyline",
@@ -26007,7 +26108,8 @@
         "pick": "UNC ML -110",
         "line": -110,
         "price": -110,
-        "edge": 5.8
+        "edge": 5.8,
+        "result": "loss"
       },
       {
         "market": "total",
@@ -26015,10 +26117,18 @@
         "pick": "Under 43.5",
         "line": 43.5,
         "price": -110,
-        "edge": 2.4
+        "edge": 2.4,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 41,
+    "away_score": 24,
+    "actual_margin": 17,
+    "su_correct": false,
+    "brier": 0.3178,
+    "margin_err": 19.9,
+    "total_err": 23.9
   },
   "401856868": {
     "id": "401856868",
@@ -26042,7 +26152,8 @@
         "pick": "WVU ML +225",
         "line": 225,
         "price": 225,
-        "edge": 4.3
+        "edge": 4.3,
+        "result": "loss"
       },
       {
         "market": "spread",
@@ -26050,10 +26161,18 @@
         "pick": "WVU +7",
         "line": 7.0,
         "price": -110,
-        "edge": 1.6
+        "edge": 1.6,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 31,
+    "away_score": 34,
+    "actual_margin": -3,
+    "su_correct": true,
+    "brier": 0.1182,
+    "margin_err": 2.4,
+    "total_err": 6.6
   },
   "401856750": {
     "id": "401856750",
@@ -26071,7 +26190,14 @@
       "away_ml": null
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 34,
+    "away_score": 16,
+    "actual_margin": 18,
+    "su_correct": true,
+    "brier": 0.1502,
+    "margin_err": 14.6,
+    "total_err": 5.2
   },
   "401871080": {
     "id": "401871080",
@@ -26095,7 +26221,8 @@
         "pick": "LIB -16.5",
         "line": -16.5,
         "price": -110,
-        "edge": 3.3
+        "edge": 3.3,
+        "result": "win"
       },
       {
         "market": "moneyline",
@@ -26103,10 +26230,18 @@
         "pick": "LIB ML -800",
         "line": -800,
         "price": -800,
-        "edge": 6.2
+        "edge": 6.2,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 45,
+    "away_score": 14,
+    "actual_margin": 31,
+    "su_correct": true,
+    "brier": 0.0065,
+    "margin_err": 11.2,
+    "total_err": 6.9
   },
   "401856746": {
     "id": "401856746",
@@ -26124,7 +26259,14 @@
       "away_ml": null
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 47,
+    "away_score": 0,
+    "actual_margin": 47,
+    "su_correct": true,
+    "brier": 0.0014,
+    "margin_err": 23.4,
+    "total_err": 5.0
   },
   "401862832": {
     "id": "401862832",
@@ -26142,7 +26284,14 @@
       "away_ml": 850
     },
     "bets": [],
-    "settled": false
+    "settled": true,
+    "home_score": 42,
+    "away_score": 14,
+    "actual_margin": 28,
+    "su_correct": true,
+    "brier": 0.0017,
+    "margin_err": 2.6,
+    "total_err": 0.6
   },
   "401871079": {
     "id": "401871079",
@@ -26166,10 +26315,18 @@
         "pick": "JXST -10.5",
         "line": -10.5,
         "price": -110,
-        "edge": 1.6
+        "edge": 1.6,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 25,
+    "away_score": 20,
+    "actual_margin": 5,
+    "su_correct": true,
+    "brier": 0.0342,
+    "margin_err": 7.1,
+    "total_err": 9.1
   },
   "401871081": {
     "id": "401871081",
@@ -26193,7 +26350,8 @@
         "pick": "Over 48.75",
         "line": 48.75,
         "price": -110,
-        "edge": 4.2
+        "edge": 4.2,
+        "result": "win"
       },
       {
         "market": "spread",
@@ -26201,7 +26359,8 @@
         "pick": "MTSU -5.5",
         "line": -5.5,
         "price": -110,
-        "edge": 3.7
+        "edge": 3.7,
+        "result": "loss"
       },
       {
         "market": "moneyline",
@@ -26209,10 +26368,18 @@
         "pick": "MTSU ML -238",
         "line": -238,
         "price": -238,
-        "edge": 6.8
+        "edge": 6.8,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 28,
+    "away_score": 31,
+    "actual_margin": -3,
+    "su_correct": true,
+    "brier": 0.064,
+    "margin_err": 6.7,
+    "total_err": 6.0
   },
   "401858527": {
     "id": "401858527",
@@ -26289,7 +26456,8 @@
         "pick": "Under 50.5",
         "line": 50.5,
         "price": -110,
-        "edge": 3.9
+        "edge": 3.9,
+        "result": "win"
       },
       {
         "market": "spread",
@@ -26297,10 +26465,18 @@
         "pick": "ULM +14",
         "line": 14.0,
         "price": -110,
-        "edge": 2.8
+        "edge": 2.8,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 17,
+    "away_score": 16,
+    "actual_margin": 1,
+    "su_correct": true,
+    "brier": 0.0343,
+    "margin_err": 10.2,
+    "total_err": 13.6
   },
   "401869946": {
     "id": "401869946",
