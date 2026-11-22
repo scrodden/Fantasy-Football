@@ -15168,6 +15168,115 @@
         ]
       },
       "settled": false
+    },
+    "401873078": {
+      "game_id": "401873078",
+      "league": "nfl",
+      "season": 2026,
+      "week": 11,
+      "kickoff": "2026-11-24T01:15Z",
+      "locked_at": "2026-11-22T19:17:07+00:00",
+      "home": "WSH",
+      "away": "CIN",
+      "home_full": "Washington Commanders",
+      "away_full": "Cincinnati Bengals",
+      "line": {
+        "home_spread": 6.0,
+        "total": 54.5,
+        "home_ml": 241,
+        "away_ml": -296,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -4.4,
+        "proj_total": 53.3,
+        "proj_home_score": 24.5,
+        "proj_away_score": 28.8,
+        "home_win_prob": 0.3455
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "WSH",
+          "line": 6.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "WSH +6",
+          "lean": 1.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "CIN",
+          "price": -296,
+          "stake": 100.0,
+          "pick": "CIN ML -296"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "WSH",
+            "pick": "WSH ML +241",
+            "line": 241,
+            "price": 241,
+            "ev": 0.178,
+            "edge": 6.4,
+            "kelly": 0.0185,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "WSH",
+            "pick": "WSH +6",
+            "line": 6.0,
+            "price": -110,
+            "ev": 0.06,
+            "edge": 1.6,
+            "kelly": 0.0165,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "WSH",
+            "pick": "WSH ML +241",
+            "line": 241,
+            "price": 241,
+            "ev": 0.178,
+            "edge": 6.4,
+            "kelly": 0.0185,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 67.09,
+            "bankroll_at_bet": 3626.31
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "WSH",
+            "pick": "WSH +6",
+            "line": 6.0,
+            "price": -110,
+            "ev": 0.06,
+            "edge": 1.6,
+            "kelly": 0.0165,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 59.83,
+            "bankroll_at_bet": 3626.31
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
