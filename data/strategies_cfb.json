@@ -66739,6 +66739,195 @@
       "settled": true,
       "home_score": 16,
       "away_score": 8
+    },
+    "401866470": {
+      "game_id": "401866470",
+      "league": "cfb",
+      "season": 2026,
+      "week": 13,
+      "kickoff": "2026-11-25T00:00Z",
+      "locked_at": "2026-11-23T21:06:36+00:00",
+      "home": "EMU",
+      "away": "KENT",
+      "home_full": "Eastern Michigan Eagles",
+      "away_full": "Kent State Golden Flashes",
+      "line": {
+        "home_spread": -5.5,
+        "total": 46.5,
+        "home_ml": -225,
+        "away_ml": 185,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 5.6,
+        "proj_total": 44.1,
+        "proj_home_score": 24.9,
+        "proj_away_score": 19.3,
+        "home_win_prob": 0.6728
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "EMU",
+          "line": -5.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "EMU -5.5",
+          "lean": 0.1
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "EMU",
+          "price": -225,
+          "stake": 100.0,
+          "pick": "EMU ML -225"
+        },
+        "value": [],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "under",
+            "team": null,
+            "pick": "Under 46.5",
+            "line": 46.5,
+            "price": -110,
+            "ev": 0.065,
+            "edge": 2.4,
+            "kelly": 0.0179,
+            "confidence": "low",
+            "book": null,
+            "stake": 11.6,
+            "bankroll_at_bet": 648.03
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401866471": {
+      "game_id": "401866471",
+      "league": "cfb",
+      "season": 2026,
+      "week": 13,
+      "kickoff": "2026-11-25T00:00Z",
+      "locked_at": "2026-11-23T21:06:36+00:00",
+      "home": "WMU",
+      "away": "M-OH",
+      "home_full": "Western Michigan Broncos",
+      "away_full": "Miami (OH) RedHawks",
+      "line": {
+        "home_spread": -6.5,
+        "total": 45.5,
+        "home_ml": -270,
+        "away_ml": 220,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 4.9,
+        "proj_total": 48.2,
+        "proj_home_score": 26.5,
+        "proj_away_score": 21.7,
+        "home_win_prob": 0.6607
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "M-OH",
+          "line": 6.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "M-OH +6.5",
+          "lean": -1.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "WMU",
+          "price": -270,
+          "stake": 100.0,
+          "pick": "WMU ML -270"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "M-OH",
+            "pick": "M-OH ML +220",
+            "line": 220,
+            "price": 220,
+            "ev": 0.086,
+            "edge": 3.9,
+            "kelly": 0.0097,
+            "confidence": "medium",
+            "book": "Draft Kings",
+            "stake": 100.0
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "M-OH",
+            "pick": "M-OH +6.5",
+            "line": 6.5,
+            "price": -110,
+            "ev": 0.036,
+            "edge": 1.6,
+            "kelly": 0.0098,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "M-OH",
+            "pick": "M-OH ML +220",
+            "line": 220,
+            "price": 220,
+            "ev": 0.086,
+            "edge": 3.9,
+            "kelly": 0.0097,
+            "confidence": "medium",
+            "book": "Draft Kings",
+            "stake": 6.29,
+            "bankroll_at_bet": 648.03
+          },
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 45.5",
+            "line": 45.5,
+            "price": -110,
+            "ev": 0.079,
+            "edge": 2.7,
+            "kelly": 0.0216,
+            "confidence": "low",
+            "book": null,
+            "stake": 14.0,
+            "bankroll_at_bet": 648.03
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "M-OH",
+            "pick": "M-OH +6.5",
+            "line": 6.5,
+            "price": -110,
+            "ev": 0.036,
+            "edge": 1.6,
+            "kelly": 0.0098,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 6.35,
+            "bankroll_at_bet": 648.03
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
