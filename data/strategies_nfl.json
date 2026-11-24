@@ -15307,7 +15307,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "WSH +6",
-          "lean": 1.6
+          "lean": 1.6,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -15315,7 +15317,9 @@
           "team": "CIN",
           "price": -296,
           "stake": 100.0,
-          "pick": "CIN ML -296"
+          "pick": "CIN ML -296",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [
           {
@@ -15330,7 +15334,9 @@
             "kelly": 0.0185,
             "confidence": "high",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 241.0
           },
           {
             "market": "spread",
@@ -15344,7 +15350,9 @@
             "kelly": 0.0165,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           }
         ],
         "bankroll": [
@@ -15361,7 +15369,9 @@
             "confidence": "high",
             "book": "DraftKings",
             "stake": 67.09,
-            "bankroll_at_bet": 3626.31
+            "bankroll_at_bet": 3626.31,
+            "result": "win",
+            "pnl": 161.69
           },
           {
             "market": "spread",
@@ -15376,11 +15386,15 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 59.83,
-            "bankroll_at_bet": 3626.31
+            "bankroll_at_bet": 3626.31,
+            "result": "win",
+            "pnl": 54.39
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 22,
+      "away_score": 20
     }
   }
 }

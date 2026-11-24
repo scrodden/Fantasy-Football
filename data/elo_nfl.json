@@ -80,11 +80,11 @@
       "last_date": "2026-11-22T18:00Z"
     },
     "4": {
-      "rating": 1611.3719469870814,
+      "rating": 1597.3717034605784,
       "name": "Bengals",
       "abbr": "CIN",
-      "gp": 10,
-      "last_date": "2026-11-16T01:20Z"
+      "gp": 11,
+      "last_date": "2026-11-24T01:15Z"
     },
     "17": {
       "rating": 1541.7173109775151,
@@ -199,11 +199,11 @@
       "last_date": "2026-11-22T18:00Z"
     },
     "28": {
-      "rating": 1441.358982494745,
+      "rating": 1455.359226021248,
       "name": "Commanders",
       "abbr": "WSH",
-      "gp": 10,
-      "last_date": "2026-11-13T01:15Z"
+      "gp": 11,
+      "last_date": "2026-11-24T01:15Z"
     },
     "8": {
       "rating": 1628.8716056046037,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-11-23T01:20Z",
+    "last_game_date": "2026-11-24T01:15Z",
     "season": 2026,
-    "n_games": 757,
+    "n_games": 758,
     "signals": {
       "weather": true,
       "travel": true,
