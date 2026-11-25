@@ -15395,6 +15395,115 @@
       "settled": true,
       "home_score": 22,
       "away_score": 20
+    },
+    "401873079": {
+      "game_id": "401873079",
+      "league": "nfl",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-26T01:00Z",
+      "locked_at": "2026-11-25T02:06:36+00:00",
+      "home": "LAR",
+      "away": "GB",
+      "home_full": "Los Angeles Rams",
+      "away_full": "Green Bay Packers",
+      "line": {
+        "home_spread": -2.5,
+        "total": 43.5,
+        "home_ml": -133,
+        "away_ml": 112,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": 5.1,
+        "proj_total": 44.1,
+        "proj_home_score": 24.6,
+        "proj_away_score": 19.5,
+        "home_win_prob": 0.6588
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "LAR",
+          "line": -2.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "LAR -2.5",
+          "lean": 2.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "LAR",
+          "price": -133,
+          "stake": 100.0,
+          "pick": "LAR ML -133"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "LAR",
+            "pick": "LAR ML -133",
+            "line": -133,
+            "price": -133,
+            "ev": 0.154,
+            "edge": 11.1,
+            "kelly": 0.0513,
+            "confidence": "high",
+            "book": "Draft Kings",
+            "stake": 100.0
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "LAR",
+            "pick": "LAR -2.5",
+            "line": -2.5,
+            "price": -110,
+            "ev": 0.125,
+            "edge": 2.6,
+            "kelly": 0.0345,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "LAR",
+            "pick": "LAR ML -133",
+            "line": -133,
+            "price": -133,
+            "ev": 0.154,
+            "edge": 11.1,
+            "kelly": 0.0513,
+            "confidence": "high",
+            "book": "Draft Kings",
+            "stake": 262.88,
+            "bankroll_at_bet": 5124.28
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "LAR",
+            "pick": "LAR -2.5",
+            "line": -2.5,
+            "price": -110,
+            "ev": 0.125,
+            "edge": 2.6,
+            "kelly": 0.0345,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 176.79,
+            "bankroll_at_bet": 5124.28
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
