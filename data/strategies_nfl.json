@@ -15504,6 +15504,130 @@
         ]
       },
       "settled": false
+    },
+    "401873081": {
+      "game_id": "401873081",
+      "league": "nfl",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-26T18:00Z",
+      "locked_at": "2026-11-25T12:25:07+00:00",
+      "home": "DET",
+      "away": "CHI",
+      "home_full": "Detroit Lions",
+      "away_full": "Chicago Bears",
+      "line": {
+        "home_spread": 1.5,
+        "total": 55.5,
+        "home_ml": 105,
+        "away_ml": -124,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 2.3,
+        "proj_total": 49.9,
+        "proj_home_score": 26.1,
+        "proj_away_score": 23.8,
+        "home_win_prob": 0.5694
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "DET",
+          "line": 1.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "DET +1.5",
+          "lean": 3.8
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "DET",
+          "price": 105,
+          "stake": 100.0,
+          "pick": "DET ML +105"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "DET",
+            "pick": "DET +1.5",
+            "line": 1.5,
+            "price": -110,
+            "ev": 0.202,
+            "edge": 3.8,
+            "kelly": 0.0555,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "DET",
+            "pick": "DET ML +105",
+            "line": 105,
+            "price": 105,
+            "ev": 0.167,
+            "edge": 10.1,
+            "kelly": 0.0398,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "total",
+            "side": "under",
+            "team": null,
+            "pick": "Under 55.5",
+            "line": 55.5,
+            "price": -110,
+            "ev": 0.262,
+            "edge": 5.6,
+            "kelly": 0.072,
+            "confidence": "medium",
+            "book": null,
+            "stake": 368.95,
+            "bankroll_at_bet": 5124.28
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "DET",
+            "pick": "DET +1.5",
+            "line": 1.5,
+            "price": -110,
+            "ev": 0.202,
+            "edge": 3.8,
+            "kelly": 0.0555,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 284.4,
+            "bankroll_at_bet": 5124.28
+          },
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "DET",
+            "pick": "DET ML +105",
+            "line": 105,
+            "price": 105,
+            "ev": 0.167,
+            "edge": 10.1,
+            "kelly": 0.0398,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 203.95,
+            "bankroll_at_bet": 5124.28
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
