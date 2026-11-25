@@ -15628,6 +15628,239 @@
         ]
       },
       "settled": false
+    },
+    "401873080": {
+      "game_id": "401873080",
+      "league": "nfl",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-26T21:30Z",
+      "locked_at": "2026-11-25T22:16:16+00:00",
+      "home": "DAL",
+      "away": "PHI",
+      "home_full": "Dallas Cowboys",
+      "away_full": "Philadelphia Eagles",
+      "line": {
+        "home_spread": -8.5,
+        "total": 47.5,
+        "home_ml": -480,
+        "away_ml": 370,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 6.2,
+        "proj_total": 52.0,
+        "proj_home_score": 29.1,
+        "proj_away_score": 22.9,
+        "home_win_prob": 0.7145
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "PHI",
+          "line": 8.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "PHI +8.5",
+          "lean": -2.3
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "DAL",
+          "price": -480,
+          "stake": 100.0,
+          "pick": "DAL ML -480"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "PHI",
+            "pick": "PHI ML +370",
+            "line": 370,
+            "price": 370,
+            "ev": 0.342,
+            "edge": 8.1,
+            "kelly": 0.0231,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "PHI",
+            "pick": "PHI +8.5",
+            "line": 8.5,
+            "price": -110,
+            "ev": 0.106,
+            "edge": 2.3,
+            "kelly": 0.0291,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "PHI",
+            "pick": "PHI ML +370",
+            "line": 370,
+            "price": 370,
+            "ev": 0.342,
+            "edge": 8.1,
+            "kelly": 0.0231,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 118.37,
+            "bankroll_at_bet": 5124.28
+          },
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 47.5",
+            "line": 47.5,
+            "price": -110,
+            "ev": 0.204,
+            "edge": 4.5,
+            "kelly": 0.056,
+            "confidence": "medium",
+            "book": null,
+            "stake": 286.96,
+            "bankroll_at_bet": 5124.28
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "PHI",
+            "pick": "PHI +8.5",
+            "line": 8.5,
+            "price": -110,
+            "ev": 0.106,
+            "edge": 2.3,
+            "kelly": 0.0291,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 149.12,
+            "bankroll_at_bet": 5124.28
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401873082": {
+      "game_id": "401873082",
+      "league": "nfl",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-27T01:20Z",
+      "locked_at": "2026-11-25T22:16:16+00:00",
+      "home": "BUF",
+      "away": "KC",
+      "home_full": "Buffalo Bills",
+      "away_full": "Kansas City Chiefs",
+      "line": {
+        "home_spread": -3.0,
+        "total": 46.5,
+        "home_ml": -148,
+        "away_ml": 125,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 6.2,
+        "proj_total": 46.9,
+        "proj_home_score": 26.5,
+        "proj_away_score": 20.3,
+        "home_win_prob": 0.6919
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "BUF",
+          "line": -3.0,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "BUF -3",
+          "lean": 3.2
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "BUF",
+          "price": -148,
+          "stake": 100.0,
+          "pick": "BUF ML -148"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "BUF",
+            "pick": "BUF -3",
+            "line": -3.0,
+            "price": -110,
+            "ev": 0.164,
+            "edge": 3.2,
+            "kelly": 0.045,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "BUF",
+            "pick": "BUF ML -148",
+            "line": -148,
+            "price": -148,
+            "ev": 0.159,
+            "edge": 11.9,
+            "kelly": 0.059,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "BUF",
+            "pick": "BUF -3",
+            "line": -3.0,
+            "price": -110,
+            "ev": 0.164,
+            "edge": 3.2,
+            "kelly": 0.045,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 230.59,
+            "bankroll_at_bet": 5124.28
+          },
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "BUF",
+            "pick": "BUF ML -148",
+            "line": -148,
+            "price": -148,
+            "ev": 0.159,
+            "edge": 11.9,
+            "kelly": 0.059,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 302.33,
+            "bankroll_at_bet": 5124.28
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
