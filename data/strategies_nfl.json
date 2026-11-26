@@ -15875,6 +15875,130 @@
         ]
       },
       "settled": false
+    },
+    "401873083": {
+      "game_id": "401873083",
+      "league": "nfl",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-27T20:00Z",
+      "locked_at": "2026-11-26T14:53:15+00:00",
+      "home": "PIT",
+      "away": "DEN",
+      "home_full": "Pittsburgh Steelers",
+      "away_full": "Denver Broncos",
+      "line": {
+        "home_spread": 4.5,
+        "total": 36.5,
+        "home_ml": 190,
+        "away_ml": -229,
+        "book": "Draft Kings"
+      },
+      "projection": {
+        "proj_margin": -2.2,
+        "proj_total": 40.6,
+        "proj_home_score": 19.2,
+        "proj_away_score": 21.4,
+        "home_win_prob": 0.4152
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "home",
+          "team": "PIT",
+          "line": 4.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "PIT +4.5",
+          "lean": 2.3
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "DEN",
+          "price": -229,
+          "stake": 100.0,
+          "pick": "DEN ML -229"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "PIT",
+            "pick": "PIT ML +190",
+            "line": 190,
+            "price": 190,
+            "ev": 0.204,
+            "edge": 8.4,
+            "kelly": 0.0269,
+            "confidence": "high",
+            "book": "Draft Kings",
+            "stake": 100.0
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "PIT",
+            "pick": "PIT +4.5",
+            "line": 4.5,
+            "price": -110,
+            "ev": 0.106,
+            "edge": 2.3,
+            "kelly": 0.0291,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "moneyline",
+            "side": "home",
+            "team": "PIT",
+            "pick": "PIT ML +190",
+            "line": 190,
+            "price": 190,
+            "ev": 0.204,
+            "edge": 8.4,
+            "kelly": 0.0269,
+            "confidence": "high",
+            "book": "Draft Kings",
+            "stake": 147.48,
+            "bankroll_at_bet": 5482.65
+          },
+          {
+            "market": "total",
+            "side": "over",
+            "team": null,
+            "pick": "Over 36.5",
+            "line": 36.5,
+            "price": -110,
+            "ev": 0.182,
+            "edge": 4.1,
+            "kelly": 0.0501,
+            "confidence": "medium",
+            "book": null,
+            "stake": 274.68,
+            "bankroll_at_bet": 5482.65
+          },
+          {
+            "market": "spread",
+            "side": "home",
+            "team": "PIT",
+            "pick": "PIT +4.5",
+            "line": 4.5,
+            "price": -110,
+            "ev": 0.106,
+            "edge": 2.3,
+            "kelly": 0.0291,
+            "confidence": "low",
+            "book": "Draft Kings",
+            "stake": 159.55,
+            "bankroll_at_bet": 5482.65
+          }
+        ]
+      },
+      "settled": false
     }
   }
 }
