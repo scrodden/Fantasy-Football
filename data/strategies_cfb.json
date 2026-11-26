@@ -67901,6 +67901,322 @@
         ]
       },
       "settled": false
+    },
+    "401864546": {
+      "game_id": "401864546",
+      "league": "cfb",
+      "season": 2026,
+      "week": 13,
+      "kickoff": "2026-11-27T21:30Z",
+      "locked_at": "2026-11-26T23:40:32+00:00",
+      "home": "UNM",
+      "away": "AFA",
+      "home_full": "New Mexico Lobos",
+      "away_full": "Air Force Falcons",
+      "line": {
+        "home_spread": -6.5,
+        "total": 42.5,
+        "home_ml": -258,
+        "away_ml": 210,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 4.1,
+        "proj_total": 43.5,
+        "proj_home_score": 23.8,
+        "proj_away_score": 19.7,
+        "home_win_prob": 0.6401
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "AFA",
+          "line": 6.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "AFA +6.5",
+          "lean": -2.4
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "UNM",
+          "price": -258,
+          "stake": 100.0,
+          "pick": "UNM ML -258"
+        },
+        "value": [
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "AFA",
+            "pick": "AFA ML +210",
+            "line": 210,
+            "price": 210,
+            "ev": 0.116,
+            "edge": 5.1,
+            "kelly": 0.0138,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "AFA",
+            "pick": "AFA +6.5",
+            "line": 6.5,
+            "price": -110,
+            "ev": 0.076,
+            "edge": 2.4,
+            "kelly": 0.0209,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "AFA",
+            "pick": "AFA ML +210",
+            "line": 210,
+            "price": 210,
+            "ev": 0.116,
+            "edge": 5.1,
+            "kelly": 0.0138,
+            "confidence": "medium",
+            "book": "DraftKings",
+            "stake": 9.53,
+            "bankroll_at_bet": 690.92
+          },
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "AFA",
+            "pick": "AFA +6.5",
+            "line": 6.5,
+            "price": -110,
+            "ev": 0.076,
+            "edge": 2.4,
+            "kelly": 0.0209,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 14.44,
+            "bankroll_at_bet": 690.92
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401856756": {
+      "game_id": "401856756",
+      "league": "cfb",
+      "season": 2026,
+      "week": 13,
+      "kickoff": "2026-11-28T00:30Z",
+      "locked_at": "2026-11-26T23:40:32+00:00",
+      "home": "TA&M",
+      "away": "TEX",
+      "home_full": "Texas A&M Aggies",
+      "away_full": "Texas Longhorns",
+      "line": {
+        "home_spread": 11.5,
+        "total": 40.5,
+        "home_ml": 350,
+        "away_ml": -455,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": -15.1,
+        "proj_total": 39.0,
+        "proj_home_score": 12.0,
+        "proj_away_score": 27.0,
+        "home_win_prob": 0.1447
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "TEX",
+          "line": -11.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "TEX -11.5",
+          "lean": -3.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "away",
+          "team": "TEX",
+          "price": -455,
+          "stake": 100.0,
+          "pick": "TEX ML -455"
+        },
+        "value": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "TEX",
+            "pick": "TEX -11.5",
+            "line": -11.5,
+            "price": -110,
+            "ev": 0.136,
+            "edge": 3.6,
+            "kelly": 0.0373,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 100.0
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "TEX",
+            "pick": "TEX ML -455",
+            "line": -455,
+            "price": -455,
+            "ev": 0.043,
+            "edge": 6.9,
+            "kelly": 0.0492,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 100.0
+          }
+        ],
+        "bankroll": [
+          {
+            "market": "spread",
+            "side": "away",
+            "team": "TEX",
+            "pick": "TEX -11.5",
+            "line": -11.5,
+            "price": -110,
+            "ev": 0.136,
+            "edge": 3.6,
+            "kelly": 0.0373,
+            "confidence": "low",
+            "book": "DraftKings",
+            "stake": 25.77,
+            "bankroll_at_bet": 690.92
+          },
+          {
+            "market": "moneyline",
+            "side": "away",
+            "team": "TEX",
+            "pick": "TEX ML -455",
+            "line": -455,
+            "price": -455,
+            "ev": 0.043,
+            "edge": 6.9,
+            "kelly": 0.0492,
+            "confidence": "high",
+            "book": "DraftKings",
+            "stake": 33.99,
+            "bankroll_at_bet": 690.92
+          }
+        ]
+      },
+      "settled": false
+    },
+    "401858544": {
+      "game_id": "401858544",
+      "league": "cfb",
+      "season": 2026,
+      "week": 13,
+      "kickoff": "2026-11-28T00:30Z",
+      "locked_at": "2026-11-26T23:40:32+00:00",
+      "home": "WIS",
+      "away": "MINN",
+      "home_full": "Wisconsin Badgers",
+      "away_full": "Minnesota Golden Gophers",
+      "line": {
+        "home_spread": -7.5,
+        "total": 37.5,
+        "home_ml": -305,
+        "away_ml": 245,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 6.9,
+        "proj_total": 37.1,
+        "proj_home_score": 22.0,
+        "proj_away_score": 15.1,
+        "home_win_prob": 0.7111
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "MINN",
+          "line": 7.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "MINN +7.5",
+          "lean": -0.6
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "WIS",
+          "price": -305,
+          "stake": 100.0,
+          "pick": "WIS ML -305"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
+    },
+    "401856880": {
+      "game_id": "401856880",
+      "league": "cfb",
+      "season": 2026,
+      "week": 13,
+      "kickoff": "2026-11-28T02:00Z",
+      "locked_at": "2026-11-26T23:40:32+00:00",
+      "home": "UTAH",
+      "away": "WVU",
+      "home_full": "Utah Utes",
+      "away_full": "West Virginia Mountaineers",
+      "line": {
+        "home_spread": -26.5,
+        "total": 66.5,
+        "home_ml": -2800,
+        "away_ml": 1300,
+        "book": "DraftKings"
+      },
+      "projection": {
+        "proj_margin": 24.1,
+        "proj_total": 72.2,
+        "proj_home_score": 48.1,
+        "proj_away_score": 24.1,
+        "home_win_prob": 0.96
+      },
+      "bets": {
+        "spread": {
+          "market": "spread",
+          "side": "away",
+          "team": "WVU",
+          "line": 26.5,
+          "price": -110,
+          "stake": 100.0,
+          "pick": "WVU +26.5",
+          "lean": -2.4
+        },
+        "moneyline": {
+          "market": "moneyline",
+          "side": "home",
+          "team": "UTAH",
+          "price": -2800,
+          "stake": 100.0,
+          "pick": "UTAH ML -2800"
+        },
+        "value": [],
+        "bankroll": []
+      },
+      "settled": false
     }
   }
 }

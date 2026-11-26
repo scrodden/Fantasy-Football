@@ -6351,7 +6351,8 @@
         "pick": "Under 55.5",
         "line": 55.5,
         "price": -110,
-        "edge": 5.6
+        "edge": 5.6,
+        "result": "loss"
       },
       {
         "market": "moneyline",
@@ -6359,7 +6360,8 @@
         "pick": "DET ML +124",
         "line": 124,
         "price": 124,
-        "edge": 13.3
+        "edge": 13.3,
+        "result": "loss"
       },
       {
         "market": "spread",
@@ -6367,10 +6369,18 @@
         "pick": "DET +2.5",
         "line": 2.5,
         "price": -110,
-        "edge": 4.7
+        "edge": 4.7,
+        "result": "loss"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 35,
+    "away_score": 39,
+    "actual_margin": -4,
+    "su_correct": false,
+    "brier": 0.3163,
+    "margin_err": 6.2,
+    "total_err": 24.1
   },
   "401873080": {
     "id": "401873080",
