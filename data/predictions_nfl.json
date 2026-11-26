@@ -6307,7 +6307,8 @@
         "pick": "LAR ML -135",
         "line": -135,
         "price": -135,
-        "edge": 10.8
+        "edge": 10.8,
+        "result": "win"
       },
       {
         "market": "spread",
@@ -6315,10 +6316,18 @@
         "pick": "LAR -2.5",
         "line": -2.5,
         "price": -110,
-        "edge": 2.6
+        "edge": 2.6,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 26,
+    "away_score": 13,
+    "actual_margin": 13,
+    "su_correct": true,
+    "brier": 0.1161,
+    "margin_err": 7.9,
+    "total_err": 5.1
   },
   "401873081": {
     "id": "401873081",
