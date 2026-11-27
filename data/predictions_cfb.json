@@ -27907,7 +27907,8 @@
         "pick": "TTU -12.5",
         "line": -12.5,
         "price": -110,
-        "edge": 2.5
+        "edge": 2.5,
+        "result": "win"
       },
       {
         "market": "moneyline",
@@ -27915,10 +27916,18 @@
         "pick": "TTU ML -500",
         "line": -500,
         "price": -500,
-        "edge": 5.8
+        "edge": 5.8,
+        "result": "win"
       }
     ],
-    "settled": false
+    "settled": true,
+    "home_score": 48,
+    "away_score": 27,
+    "actual_margin": 21,
+    "su_correct": true,
+    "brier": 0.0184,
+    "margin_err": 6.0,
+    "total_err": 30.4
   },
   "401858536": {
     "id": "401858536",

@@ -15693,7 +15693,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "PHI +8.5",
-          "lean": -2.3
+          "lean": -2.3,
+          "result": "win",
+          "pnl": 90.91
         },
         "moneyline": {
           "market": "moneyline",
@@ -15701,7 +15703,9 @@
           "team": "DAL",
           "price": -480,
           "stake": 100.0,
-          "pick": "DAL ML -480"
+          "pick": "DAL ML -480",
+          "result": "loss",
+          "pnl": -100.0
         },
         "value": [
           {
@@ -15716,7 +15720,9 @@
             "kelly": 0.0231,
             "confidence": "medium",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 370.0
           },
           {
             "market": "spread",
@@ -15730,7 +15736,9 @@
             "kelly": 0.0291,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 90.91
           }
         ],
         "bankroll": [
@@ -15747,7 +15755,9 @@
             "confidence": "medium",
             "book": "DraftKings",
             "stake": 118.37,
-            "bankroll_at_bet": 5124.28
+            "bankroll_at_bet": 5124.28,
+            "result": "win",
+            "pnl": 437.97
           },
           {
             "market": "total",
@@ -15762,7 +15772,9 @@
             "confidence": "medium",
             "book": null,
             "stake": 286.96,
-            "bankroll_at_bet": 5124.28
+            "bankroll_at_bet": 5124.28,
+            "result": "win",
+            "pnl": 260.87
           },
           {
             "market": "spread",
@@ -15777,11 +15789,15 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 149.12,
-            "bankroll_at_bet": 5124.28
+            "bankroll_at_bet": 5124.28,
+            "result": "win",
+            "pnl": 135.56
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 38,
+      "away_score": 39
     },
     "401873082": {
       "game_id": "401873082",
@@ -15817,7 +15833,9 @@
           "price": -110,
           "stake": 100.0,
           "pick": "BUF -3",
-          "lean": 3.2
+          "lean": 3.2,
+          "result": "push",
+          "pnl": 0.0
         },
         "moneyline": {
           "market": "moneyline",
@@ -15825,7 +15843,9 @@
           "team": "BUF",
           "price": -148,
           "stake": 100.0,
-          "pick": "BUF ML -148"
+          "pick": "BUF ML -148",
+          "result": "win",
+          "pnl": 67.57
         },
         "value": [
           {
@@ -15840,7 +15860,9 @@
             "kelly": 0.045,
             "confidence": "low",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "push",
+            "pnl": 0.0
           },
           {
             "market": "moneyline",
@@ -15854,7 +15876,9 @@
             "kelly": 0.059,
             "confidence": "high",
             "book": "DraftKings",
-            "stake": 100.0
+            "stake": 100.0,
+            "result": "win",
+            "pnl": 67.57
           }
         ],
         "bankroll": [
@@ -15871,7 +15895,9 @@
             "confidence": "low",
             "book": "DraftKings",
             "stake": 230.59,
-            "bankroll_at_bet": 5124.28
+            "bankroll_at_bet": 5124.28,
+            "result": "push",
+            "pnl": 0.0
           },
           {
             "market": "moneyline",
@@ -15886,11 +15912,15 @@
             "confidence": "high",
             "book": "DraftKings",
             "stake": 302.33,
-            "bankroll_at_bet": 5124.28
+            "bankroll_at_bet": 5124.28,
+            "result": "win",
+            "pnl": 204.28
           }
         ]
       },
-      "settled": false
+      "settled": true,
+      "home_score": 13,
+      "away_score": 10
     },
     "401873083": {
       "game_id": "401873083",

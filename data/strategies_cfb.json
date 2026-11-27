@@ -66986,12 +66986,16 @@
           "team": "TTU",
           "price": -700,
           "stake": 100.0,
-          "pick": "TTU ML -700"
+          "pick": "TTU ML -700",
+          "result": "win",
+          "pnl": 14.29
         },
         "value": [],
         "bankroll": []
       },
-      "settled": false
+      "settled": true,
+      "home_score": 48,
+      "away_score": 27
     },
     "401858536": {
       "game_id": "401858536",
