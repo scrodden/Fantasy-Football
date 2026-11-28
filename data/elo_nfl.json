@@ -45,11 +45,11 @@
       "last_date": "2026-11-15T18:00Z"
     },
     "23": {
-      "rating": 1500.9442306144765,
+      "rating": 1535.7754480272883,
       "name": "Steelers",
       "abbr": "PIT",
-      "gp": 11,
-      "last_date": "2026-11-22T18:00Z"
+      "gp": 12,
+      "last_date": "2026-11-27T20:00Z"
     },
     "2": {
       "rating": 1715.949551916996,
@@ -171,11 +171,11 @@
       "last_date": "2026-11-15T21:05Z"
     },
     "7": {
-      "rating": 1617.8116673326685,
+      "rating": 1582.9804499198567,
       "name": "Broncos",
       "abbr": "DEN",
-      "gp": 11,
-      "last_date": "2026-11-22T21:25Z"
+      "gp": 12,
+      "last_date": "2026-11-27T20:00Z"
     },
     "5": {
       "rating": 1431.3068834945032,
@@ -235,9 +235,9 @@
     }
   },
   "meta": {
-    "last_game_date": "2026-11-27T01:20Z",
+    "last_game_date": "2026-11-27T20:00Z",
     "season": 2026,
-    "n_games": 762,
+    "n_games": 763,
     "signals": {
       "weather": true,
       "travel": true,
